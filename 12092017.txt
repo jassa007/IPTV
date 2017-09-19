@@ -1,346 +1,216 @@
-#EXTINF:-1,Sangeet Bhojpuri
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8
-#EXTINF:-1,AXN HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/AXN_HD/AXN_HD_1200.m3u8
-#EXTINF:-1,HBO HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8
-#EXTINF:-1,HISTORY
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/History_HD/History_HD_1200.m3u8
-#EXTINF:-1,SONIC
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800.m3u8
-#EXTINF:-1,GREEN TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Green_TV/Green_TV_800.m3u8
-#EXTINF:-1,SONY YAYA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
-#EXTINF:-1,CARTOON NETWORK HINDI
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
-#EXTINF:-1,TOONAMI
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Toonami/Toonami_800.m3u8
-#EXTINF:-1,NICK HINDI
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8
-#EXTINF:-1,DISCOERY KIDS 2
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
-#EXTINF:-1,FOOD FOOD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Food_Food/Food_Food_800.m3u8
-#EXTINF:-1,TAAZA TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Taaza_TV/Taaza_TV_800.m3u8
-#EXTINF:-1,ZEE SALAAM
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Salaam/Zee_Salaam_800.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/BBC_World_News/BBC_World_News_800.m3u8
-#EXTINF:-1,AL JAZEERA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_800.m3u8
-#EXTINF:-1,SHUBH TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Shubh_TV/Shubh_TV.m3u8
-#EXTINF:-1,SMBC TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/SMBC_TV/SMBC_TV.m3u8
-#EXTINF:-1,DD KISAN
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_Kisan/DD_Kisan_800.m3u8
-#EXTINF:-1,ZEE BUSINESS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Business/Zee_Business_800.m3u8
-#EXTINF:-1,STAR JALSHA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Jalsha/Star_Jalsha_800.m3u8
-#EXTINF:-1,STAR PRAVAH
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Pravah/Star_Pravah_800.m3u8
-#EXTINF:-1,ZEE NEWS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_News/Zee_News_800.m3u8
-#EXTINF:-1,DD NEWS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_News/DD_News_800.m3u8
-#EXTINF:-1,SAHARA NEWS MUMBAI
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8
-#EXTINF:-1,INDIA NEWS UP
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/India_News_UP/India_News_UP_800.m3u8
-#EXTINF:-1,AAJ TAK
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_800.m3u8
-#EXTINF:-1,ABP NEWS INDIA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/ABP_News_India/ABP_News_India_800.m3u8
-#EXTINF:-1,INDIA TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/India_TV/India_TV_800.m3u8
-#EXTINF:-1,NDTV INDIA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/NDTV_India/NDTV_India_800.m3u8
-#EXTINF:-1,EURO NEWS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Euro_News/Euro_News_800.m3u8
-#EXTINF:-1,TV 5 MONDE
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/TV_5_Monde/TV_5_Monde_800.m3u8
-#EXTINF:-1,CHANNEL NEWS ASIA INT
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
-#EXTINF:-1,9X JHAKAAS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas_800.m3u8
-#EXTINF:-1,ETV URDU
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/ETV_Urdu/ETV_Urdu_800.m3u8
-#EXTINF:-1,MBC
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/MBC/MBC_800.m3u8
-#EXTINF:-1,ZEE 24 TAAS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8
-#EXTINF:-1,TV 5 NEWS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/TV_5_News/TV_5_News_800.m3u8
-#EXTINF:-1,DW
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dw/dw_800.m3u8
-#EXTINF:-1,CNN
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/CNN/CNN_800.m3u8
-#EXTINF:-1,MH1 MUSIC
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/mh1_Music/mh1_Music_800.m3u8
-#EXTINF:-1,ZEE ETC
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/etc/etc_800.m3u8
-#EXTINF:-1,TIMES NOW HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Times_Now_HD/Times_Now_HD_1200.m3u8
-#EXTINF:-1,CNN NEWS 18
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
-#EXTINF:-1,NDTV 24x7
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_800.m3u8
-#EXTINF:-1,INDIA TODAY
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/India_Today/India_Today_800.m3u8
-#EXTINF:-1,IBN 7
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/IBN_7/IBN_7_800.m3u8
-#EXTINF:-1,AAJ TAK DELHI
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
-#EXTINF:-1,NEWS NATION
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/News_Nation/News_Nation_800.m3u8
-#EXTINF:-1,NEWS 24
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/News_24/News_24_800.m3u8
-#EXTINF:-1,And TV HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/And_TV_HD/And_TV_HD_1200.m3u8
-#EXTINF:-1,Sony Rox HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Rox_HD/Sony_Rox_HD_1200.m3u8
-#EXTINF:-1,Sony HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_HD/Sony_HD_1200.m3u8
-#EXTINF:-1,MTV Beats HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_1200.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8
-#EXTINF:-1, Sony Max HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8
-#EXTINF:-1,Zee TV HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_1200.m3u8
-#EXTINF:-1,Sony Sab HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
-#EXTINF:-1,Colors HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8
-#EXTINF:-1,Six HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Six_HD/Six_HD_1200.m3u8
-#EXTINF:-1,Ten HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8
-#EXTINF:-1,Sony ESPN Hd
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
-#EXTINF:-1,And Pictures HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_1200.m3u8
-#EXTINF:-1,Sony Le Plex HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8
-#EXTINF:-1,Movies Now HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_1200.m3u8
-#EXTINF:-1,Sony Pix HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
-#EXTINF:-1,MNPlus HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/MNPLUS/MNPLUS_1200.m3u8
-#EXTINF:-1,Romedy HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
-#EXTINF:-1,Travel XP HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD_1200.m3u8
-#EXTINF:-1,Discovery World HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World_1200.m3u8
-#EXTINF:-1,Animal Planet HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8
-#EXTINF:-1,TLC HD World
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8
-#EXTINF:-1,FY1 TV18 HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/FYI_TV18/FYI_TV18_1200.m3u8
-#EXTINF:-1,MTV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/MTV/MTV_800.m3u8
-#EXTINF:-1,Mastiii
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Mastiii/Mastiii_800.m3u8
-#EXTINF:-1,9XM
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/9XM/9XM_800.m3u8
-#EXTINF:-1,Sony Mix
-Mix http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Mix/Sony_Mix_800.m3u8
-#EXTINF:-1,etc
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/etc/etc_800.m3u8
-#EXTINF:-1,E 24
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/E_24/E_24_800.m3u8
-#EXTINF:-1,9X Jalwa
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/9X_Jalwa/9X_Jalwa_800.m3u8
-#EXTINF:-1,Neo Sports
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Neo_Sports/Neo_Sports_800.m3u8
-#EXTINF:-1,Ten 1
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_1/Ten_1_800.m3u8
-#EXTINF:-1,Ten 2
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_2/Ten_2_800.m3u8
-#EXTINF:-1,Ten 3
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_3/Ten_3_800.m3u8
-#EXTINF:-1,Ten HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8
-#EXTINF:-1,Neo Prime
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Neo_Prime/Neo_Prime_800.m3u8
-#EXTINF:-1,Sony Six
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Six_SD/Sony_Six_SD_800.m3u8
-#EXTINF:-1,Sony ESPN
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
-#EXTINF:-1,Republic Tv
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Republic_TV/Republic_TV_800.m3u8
-#EXTINF:-1,ABP News India
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/ABP_News_India/ABP_News_India_800.m3u8
-#EXTINF:-1,CNN News 18
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
-#EXTINF:-1,Aaj Tak
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_800.m3u8
-#EXTINF:-1,NDTV 24X7
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_800.m3u8
-#EXTINF:-1,CNN
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/CNN/CNN_800.m3u8
-#EXTINF:-1,India Today
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/India_Today/India_Today_800.m3u8
-#EXTINF:-1,Times Now
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Times_NOW/Times_NOW_800.m3u8
-#EXTINF:-1,BBC World News
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/BBC_World_News/BBC_World_News_800.m3u8
-#EXTINF:-1,NDTV India
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/NDTV_India/NDTV_India_800.m3u8
-#EXTINF:-1,IBN7
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/IBN_7/IBN_7_800.m3u8
-#EXTINF:-1,Aaj Tak Delhi
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
-#EXTINF:-1,India TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/India_TV/India_TV_800.m3u8
-#EXTINF:-1,India News
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/India_news/India_news_800.m3u8
-#EXTINF:-1,News Nation
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/News_Nation/News_Nation_800.m3u8
-#EXTINF:-1,News 24
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/News_24/News_24_800.m3u8
-#EXTINF:-1,Colors Marathi HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8
-#EXTINF:-1,Maharashtra 1
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maharashtra1/Maharashtra1_800.m3u8
-#EXTINF:-1,ABP Majha
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8
-#EXTINF:-1,Zee 24 Taas
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8
-#EXTINF:-1,IBN Lokmat
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/IBN_Lokmat/IBN_Lokmat_800.m3u8
-#EXTINF:-1,TV9 Maharashtra
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8
-#EXTINF:-1,Pogo Hindi
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8
-#EXTINF:-1,Sony BBC EARTH HD - Hindi
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
-#EXTINF:-1,Sony BBC EARTH HD - Tamil
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8
-#EXTINF:-1,Sony BBC EARTH HD - ENGLISH
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_1200.m3u8
-#EXTINF:-1,Sony BBC EARTH HD - Telugu
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_1200.m3u8
-#EXTINF:-1,B4U Movies
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/B4U_Movies/B4U_Movies_800.m3u8
-#EXTINF:-1,Rishtey Cineplex
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
-#EXTINF:-1,Sony Ten Golf HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_Golf_HD/Ten_Golf_HD_1200.m3u8
-#EXTINF:-1,Sony Max 2
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_MAX2/Sony_MAX2.m3u8
-#EXTINF:-1,Sony Pal
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_Pal/Sony_Pal.m3u8
+#EXTINF:-1,Zee Telugu
+http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8		
+#EXTINF:-1,MK TV
+http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8		
+#EXTINF:-1,Captain TV
+http://channels.globaliptv.net/unitedmedia/uditcphiqnxgpykxggxp/playlist.m3u8		
+#EXTINF:-1,Gemini TV
+http://my2.videodb.in:8081/TELUGU/GEMINI/playlist.m3u8		
+#EXTINF:-1,Maa TV
+http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_TV/Maa_TV_1200.m3u8		
+#EXTINF:-1,Maa Gold
+http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Gold/Maa_Gold_1200.m3u8		
+#EXTINF:-1,Deepam TV UK
+http://88.202.186.202:1935/cdn/deepamtvuk/chunklist.m3u8		
+#EXTINF:-1,DD Podigai
+http://live-fs.wmncdn.net/ddpodigailive1/live1.stream/playlist.m3u8		
+#EXTINF:-1,Dheeran TV
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8		
+#EXTINF:-1,Eet TV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8		
+#EXTINF:-1,Saras TV
+http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8		
+#EXTINF:-1,Super TV
+http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8		
+#EXTINF:-1,Polimer TV
+http://live-fs.wmncdn.net/vpolimertv/live.stream/index.m3u8		
+#EXTINF:-1,Arra TV
+http://arratvcloud.purplestream.in/arratvorg/smil:arratv.smil/index.m3u8		
+#EXTINF:-1,Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8		
+#EXTINF:-1,Vaanavil TV
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8		
+#EXTINF:-1,Win TV
+http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8		
 #EXTINF:-1,Star Plus HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD_1200.m3u8
-#EXTINF:-1,Star Gold HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_1200.m3u8
-#EXTINF:-1,Zee Action
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Action/Zee_Action_800.m3u8
-#EXTINF:-1,Zee Classic
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Classic/Zee_Classic_800.m3u8
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD_1200.m3u8		
+#EXTINF:-1,Suvarna TV
+http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Suvarna/Suvarna_1200.m3u8		
+#EXTINF:-1,NRS Royal TV
+http://live.wmncdn.net/nrsroyaltv/live.stream/index.m3u8		
+#EXTINF:-1,Channel Win 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8		
+#EXTINF:-1,KTN
+http://103.24.96.74/ktn/ktn/chunklist.m3u8		
+#EXTINF:-1,Zindagi TV
+http://live.urdustreamz.net:1935/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8		
+#EXTINF:-1,Geo Entertainment
+http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8		
 #EXTINF:-1,Star Vijay HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Vijay/Star_Vijay_1200.m3u8
-#EXTINF:-1,Sony TEN 1 FULL HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8
-#EXTINF:-1,Sony TEN 2 FULL HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten2_HD/Ten2_HD_1200.m3u8.
-#EXTINF:-1,Sony TEN 3 FULL HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Ten3_HD/Ten3_HD_1200.m3u8
-#EXTINF:-1,SURYA HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Surya_HD/Surya_HD_1200.m3u8
-#EXTINF:-1,SURYA TV SD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Surya_TV/Surya_TV_800.m3u8
-#EXTINF:-1,MAZHAVIL HD
-http://wj78dp5elq5r-hls-live.5centscdn.com/mazhavilmanorama/mazhavillive.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,MAZHAVIL MANORAMA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
-#EXTINF:-1,ASIANET SD
-http://wj78dp5elq5r-hls-live.5centscdn.com/asianet/asianetlive.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,ASIANET HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet/Asianet_1200.m3u8
-#EXTINF:-1,ASIANET MOVIES
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD_800.m3u8
-#EXTINF:-1,ASIANET PLUS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Plus/Asianet_Plus_800.m3u8
-#EXTINF:-1,KAIRALI
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Kairali_TV/Kairali_TV_800.m3u8
-#EXTINF:-1,MAZHAVIL MANORAMA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
-#EXTINF:-1,N TV HD
-http://live.cloud6.in:1935/live1/ntvuae/chunklist_w1252620133.m3u8
-#EXTINF:-1,ANAND HD
-http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,DD MALAYALAM
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_Malayalam/DD_Malayalam_800.m3u8
-#EXTINF:-1,SURYA MOVIES
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Kiran_TV/Kiran_TV_800.m3u8
-#EXTINF:-1,KAIRALI WE
-http://cdn001.tvzone.co.in:1935/tvzone_edge001_we/8fh4hd4d/chunklist_w1065355805.m3u8
-#EXTINF:-1,FLOWERS
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Flower_TV/Flower_TV_800.m3u8
-#EXTINF:-1,KOCHU TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Kochu_TV/Kochu_TV_800.m3u8
-#EXTINF:-1,KAUMUDI TV
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Kaumudy_TV/Kaumudy_TV_800.m3u8
-#EXTINF:-1,SURYA MUSIC
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Surya_Music/Surya_Music_800.m3u8
-#EXTINF:-1,SAFARI TV
-http://live-fs.wmncdn.net/safaritv2/live2.stream/playlist.m3u8
-#EXTINF:-1,MUGO MAL
-http://cds.j5q2e3c5.hwcdn.net/live/smil:mutv.smil/chunklist_w777967669_b1596000_sleng.m3u8
-#EXTINF:-1,AMRUTHA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Amrita_TV/Amrita_TV_800.m3u8
-#EXTINF:-1,KAPPA
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Kappa_TV/Kappa_TV_800.m3u8
-#EXTINF:-1,Care World
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Care_World/Care_World_800.m3u8
-#EXTINF:-1,Enterr 10
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Enterr_10/Enterr_10_800.m3u8
-#EXTINF:-1,Housefull Action
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Housefull_Action/Housefull_Action_800.m3u8
-#EXTINF:-1,Housefull Movies
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8
-#EXTINF:-1,Rishtey
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Rishtey/Rishtey_800.m3u8
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Vijay/Star_Vijay_1200.m3u8		
+#EXTINF:-1,Canada Tamils TV
+http://live.streamjo.com:1935/cctv/live/playlist.m3u8		
+#EXTINF:-1,Sun
+http://my2.videodb.in:8081/TAMIL/SUN_TV_2/playlist.m3u8		
+#EXTINF:-1,Vasantham Tv
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8		
+#EXTINF:-1,Asianet  ME
+http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8		
+#EXTINF:-1,Asianet Utsav
+http://acvonline.asianetmobiletvplus.com/webstreams/mdmjoyquhlcfssxgduaquwcxcpfvadeu/playlist.m3u8		
+#EXTINF:-1,KCV
+http://cdn.live5.in:1935/live/kcv/playlist.m3u8		
+#EXTINF:-1,TCV Thrissur
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8		
+#EXTINF:-1,Jai Hind
+http://channels.globaliptv.net/unitedmedia/mnukoccvioqxuvzfmbsx/playlist.m3u8		
+#EXTINF:-1,Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8		
+#EXTINF:-1,Kerela Express TV
+http://217.182.72.190/keralaexpress593gaqk1043hls/keralaexpress593gaqk1043.m3u8		
+#EXTINF:-1,Garshom News
+http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8		
+#EXTINF:-1,Garshom TV
+http://livestream.5centscdn.com/garshom/feed.stream/playlist.m3u8		
+#EXTINF:-1,Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8		
+#EXTINF:-1,Jeevan TV
+http://live-fs.wmncdn.net/jeevantv/jeevantvlive.stream/playlist.m3u8		
+#EXTINF:-1,Kaumudi TV
+http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8		
+#EXTINF:-1,ntvuae TV HD
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8		
+#EXTINF:-1,Anand Media Live
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8		
+#EXTINF:-1,Darshana TV
+http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8		
+#EXTINF:-1,Channel V
+http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Channel_V/Channel_V_1200.m3u8		
+#EXTINF:-1,Food Food
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8		
+#EXTINF:-1,Star Bharat HD
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_1200.m3u8		
+#EXTINF:-1,Star Utsav
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Utsav/Star_Utsav_800.m3u8		
+#EXTINF:-1,Star Gold HD
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_1200.m3u8		
+#EXTINF:-1,Movies OK
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Movies_OK/Movies_OK_1200.m3u8		
+#EXTINF:-1,Star Jasha HD
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Jalsha/Star_Jalsha_1200.m3u8		
+#EXTINF:-1,Star Parvah
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Pravah/Star_Pravah_1200.m3u8		
+#EXTINF:-1,Asianet
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet/Asianet_1200.m3u8		
+#EXTINF:-1,Asianet Plus
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Plus/Asianet_Plus_1200.m3u8		
+#EXTINF:-1,Star Vijay
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Vijay/Star_Vijay_1200.m3u8		
+#EXTINF:-1,zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8		
+#EXTINF:-1,Mastiii
+https://sknwz18.skandha.tv/secure/live/smil:ghdejfdejfcbjvbdev.smil/chunklist.m3u8		
+#EXTINF:-1,9xMusic
+http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8		
+#EXTINF:-1,9xjalwa
+http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110.m3u8		
+#EXTINF:-1,DD National
+https://sknwz18.skandha.tv/secure/live/smil:jhgadhljcabkkbcxkj.smil/chunklist.m3u8		
+#EXTINF:-1,Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8		
+#EXTINF:-1,B4U Music
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8		
+#EXTINF:-1,Sahara One
+http://fliue.vyrnnppgampvi.click/live/smil:gfvytdqgjchdfcdfdvs.smil/playlist.m3u8		
+#EXTINF:-1,ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/index_300_av-p.m3u8		
+#EXTINF:-1,DD Sports
+http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8		
 #EXTINF:-1,Zee Anmol
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Anmol/Zee_Anmol_800.m3u8
-#EXTINF:-1,Channel Win
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Channel_Win/Channel_Win_800.m3u8
-#EXTINF:-1,DD Kashir
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_Kashir/DD_Kashir_800.m3u8
-#EXTINF:-1,ETV Urdu
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/ETV_Urdu/ETV_Urdu_800.m3u8
-#EXTINF:-1,Zee Salaam
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Salaam/Zee_Salaam_800.m3u8
-#EXTINF:-1,Colors Bengali HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Colors_Bengali_HD/Colors_Bengali_HD_1200.m3u8
-#EXTINF:-1,DD Bangla
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_Bangla/DD_Bangla_800.m3u8
-#EXTINF:-1,Sony Aath
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sony_aath/Sony_aath_800.m3u8
-#EXTINF:-1,Star Jalsha HD
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Jalsha/Star_Jalsha_1200.m3u8
-#EXTINF:-1,Zee Bangla
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_800.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8
-#EXTINF:-1,DD Punjabi
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_Punjabi/DD_Punjabi_800.m3u8
-#EXTINF:-1,9X Tashan
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/9X_Tashan/9X_Tashan_800.m3u8
-#EXTINF:-1,ABP Asmita
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/ABP_Asmita/ABP_Asmita_800.m3u8
-#EXTINF:-1,DD Girnar
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/DD_Girnar/DD_Girnar_800.m3u8
-#EXTINF:-1,Sandesh News
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Sandesh_News/Sandesh_News_800.m3u8
+https://sknwz18.skandha.tv/secure/live/smil:nmadgjqwdfjqfyqfvfeq.smil/chunklist.m3u8		
+#EXTINF:-1,Music India
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8		
+#EXTINF:-1,E24
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8		
+#EXTINF:-1,Only Music HD
+http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8		
+#EXTINF:-1,Nickelodeon Sonic
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225845/01.m3u8		
+#EXTINF:-1,Sony Yay
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8		
+#EXTINF:-1,Sur Cinema
+http://live.wmncdn.net/jugni/a119e534072584a0ea88cdea4664aecd.sdp/index.m3u8		
+#EXTINF:-1,Animal Planet HD
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8		
+#EXTINF:-1,MBC Bollywood HD
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8		
+#EXTINF:-1,Zee Aflam
+http://streaming.i-sat.tv:1935/live/zee/chunklist.m3u8		
+#EXTINF:-1,T-Series Music
+http://indiao.freeddns.org:8080/Startv_Hindi_Music_Live/index.m3u8		
+#EXTINF:-1,Big Magic HD
+https://sknwz18.skandha.tv/secure/live/smil:gergewhhwfewtg.smil/chunklist.m3u8		
+#EXTINF:-1,Star Utsav
+https://sknwz18.skandha.tv/secure/live/smil:gyhswgcuqcgyuqcgu.smil/chunklist.m3u8		
+#EXTINF:-1,Imagine Movies
+http://arabolivo.gcdn.co/LQ-AR-Imagine-Movies/index.m3u8		
+#EXTINF:-1,Sony Max HD
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8		
+#EXTINF:-1,& Pictures HD
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8		
+#EXTINF:-1,Sony TV HD
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8		
+#EXTINF:-1,Zee TV HD
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8		
+#EXTINF:-1,Big Magic
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225745/01.m3u8		
+#EXTINF:-1,Zee TV
+http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8		
+#EXTINF:-1,Sony SAB
+http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8		
+#EXTINF:-1,& TV
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8		
+#EXTINF:-1,Sony TV
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8		
+#EXTINF:-1,Sony Max 2
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225812/01.m3u8		
+#EXTINF:-1,Discovery World HD
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225757/02.m3u8		
+#EXTINF:-1,Star Plus
+http://play.uktvnow.net:1935/live/rf-stplus/playlist.m3u8		
+#EXTINF:-1,& TV (UK)
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8		
+#EXTINF:-1,Colors (UK)
+http://130.185.144.67:8081/UK/COLORSUK/playlist.m3u8		
+#EXTINF:-1,Colors
+http://my2.videodb.in:8081/HINDI/COLORS_2/playlist.m3u8		
+#EXTINF:-1,Rishtey (UK)
+http://130.185.144.67:8081/UK/RISHTEYUK/playlist.m3u8		
+#EXTINF:-1,Rishte Cineplex (UK)
+http://130.185.144.67:8081/UK/RISHTEYCINEUK/playlist.m3u8		
+#EXTINF:-1,Sony TV (UK)
+http://130.185.144.67:8081/UK/SONYTVUK/playlist.m3u8		
+#EXTINF:-1,Sony Sab (UK)
+http://130.185.144.67:8081/UK/SONYSABUK/playlist.m3u8		
+#EXTINF:-1,Star Bharat (UK)
+http://130.185.144.67:8081/UK/LIFEOKUK/playlist.m3u8		
+#EXTINF:-1,Star Gold (UK)
+http://130.185.144.67:8081/UK/STARGOLDUK/playlist.m3u8		
+#EXTINF:-1,Star Plus UK
+http://130.185.144.67:8081/UK/STARPLUSUK/playlist.m3u8		
+#EXTINF:-1,Zee Cinema (UK)
+http://130.185.144.67:8081/UK/ZEECENIMAUK/playlist.m3u8		
+#EXTINF:-1,Zee TV (UK)
+http://130.185.144.67:8081/UK/ZEETVUK/playlist.m3u8		
+#EXTINF:-1,Zing (UK)
+http://130.185.144.67:8081/UK/ZINGUK/playlist.m3u8		
+#EXTINF:-1,Zoom (UK)
+http://130.185.144.67:8081/UK/ZOOMUK/playlist.m3u8		
+#EXTINF:-1,SonyMax (HD)
+http://130.185.144.67:8081/UK/SONYMAXUK/playlist.m3u8		
+#EXTINF:-1,SonyMix (HD)
+http://130.185.144.67:8081/UK/SONYMIXUK/playlist.m3u8		
+#EXTINF:-1,Star Utsav
+http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Utsav/Star_Utsav.m3u8		
+#EXTINF:-1,NDTV India
+http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8		
