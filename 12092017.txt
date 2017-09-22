@@ -7,9 +7,9 @@ http://channels.globaliptv.net/unitedmedia/uditcphiqnxgpykxggxp/playlist.m3u8
 #EXTINF:-1,Gemini TV
 http://my2.videodb.in:8081/TELUGU/GEMINI/playlist.m3u8		
 #EXTINF:-1,Maa TV
-http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_TV/Maa_TV_1200.m3u8		
+http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_TV/Maa_TV.m3u8		
 #EXTINF:-1,Maa Gold
-http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Gold/Maa_Gold_1200.m3u8		
+http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Gold/Maa_Gold.m3u8		
 #EXTINF:-1,Deepam TV UK
 http://88.202.186.202:1935/cdn/deepamtvuk/chunklist.m3u8		
 #EXTINF:-1,DD Podigai
