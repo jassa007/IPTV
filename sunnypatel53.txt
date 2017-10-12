@@ -1,913 +1,1051 @@
-﻿#EXTM3U						
-		
 #EXTINF:0, group-title="Bangla",Bangla Times
 http://edge-ind.inapcdn.in:1935/berry1/smarts2.stream_aac/.m3u8
-#EXTINF:0, group-title="Bangla",Kolkata News
-rtmp://edge-ap2.cloudfrontcdn.in/terry/ctvn.stream
-#EXTINF:0, group-title="Bangla",Star Jasha HD
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Jalsha/Star_Jalsha.m3u8
-#EXTINF:0, group-title="Bangla",Zee 24 Ghanta
-http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/24_ghanta_iwpl.smil/chunklist_w1628993217_b864000.m3u8?e=1506634227&h=babb8e6a7e496e3b82fcde64c6dd054b
-#EXTINF:0, group-title="Bangla",Zee 24 Taas
-http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/zee_24taas_App.smil/playlist.m3u8?e=1506634085&h=b534a7a030bf9af7790f1cdbdbc6ac20
-#EXTINF:0, group-title="Canada",CHCH
-http://52.86.189.59:1935/live/news/playlist.m3u8
-#EXTINF:0, group-title="Greece",Aigaio
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Greece",Alpha
-http://bit.ly/alphagr1
-#EXTINF:0, group-title="Greece",Alpha (Country Limitation)
-http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
-#EXTINF:0, group-title="Greece",ANT
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-#EXTINF:0, group-title="Greece",Art
-http://bit.ly/artgr1
-#EXTINF:0, group-title="Greece",Astra
-rtmp://www.astratv.gr:1935/astratv/livestream
-#EXTINF:0, group-title="Greece",Axeloos
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0, group-title="Greece",Best TV 
-http://s.bizr.gr:8080/hls/best.m3u8
-#EXTINF:0, group-title="Greece",Blue Sky
-https://www.youtube.com/watch?v=6wTqFInWTUE
-#EXTINF:0, group-title="Greece",Creta TV
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:0, group-title="Greece",E-1
-http://bit.ly/epsilongr1
-#EXTINF:0, group-title="Greece",E-2
-https://s2.streamings.gr/epsilontv/epsilontv.m3u8
-#EXTINF:0, group-title="Greece",Ebs
-http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
-#EXTINF:0, group-title="Greece",Ebs Plus
-http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:0, group-title="Greece",ERT Play WorldWide WebTV
-https://www.youtube.com/watch?v=Ba4voPNmZUU
-#EXTINF:0, group-title="Greece",ERT WORLD WebTV
-https://www.youtube.com/watch?v=qRY56sJJ2to
-#EXTINF:0, group-title="Greece",ERT1 (MxPlayer)
-http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8
-#EXTINF:0, group-title="Greece",ERT1 Worldwide WebTV
-https://www.youtube.com/watch?v=Zx98moCvkpU
-#EXTINF:0, group-title="Greece",ERT2
-http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8
-#EXTINF:0, group-title="Greece",ERT2 WorldWide WebTV
-https://www.youtube.com/watch?v=qBxbnSwOrxE
-#EXTINF:0, group-title="Greece",ERT3
-http://38.99.163.117/nimble_live/et3_low/playlist.m3u8
-#EXTINF:0, group-title="Greece",ERT3 Worldwide WebTV
-https://www.youtube.com/watch?v=ECbJrjrcCUE
-#EXTINF:0, group-title="Greece",Euronews
-https://www.youtube.com/watch?v=-PUMTIfTvVo
-#EXTINF:0, group-title="Greece",GR Ciinema
-http://bit.ly/2rp95bt
-#EXTINF:0, group-title="Greece",High TV
-http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:0, group-title="Greece",Jayzee 
-http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:0, group-title="Greece",Kontra
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, group-title="Greece",Krhth TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:0, group-title="Greece",Lyxnoc
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:0, group-title="Greece",Makedonia/MTV HD
-http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-#EXTINF:0, group-title="Greece",Mega Cosmos
-http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:0, group-title="Greece",Movie Play
-http://bit.ly/2l0o6Os
-#EXTINF:0, group-title="Greece",Mpaxalo TV
-http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Greece",News TV
-http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
-#EXTINF:0, group-title="Greece",Omega
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0, group-title="Greece",Samos
-http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:0, group-title="Greece",Tilesport
-rtmp://78.47.151.114/tilesport/movie1
-#EXTINF:0, group-title="Greece",TV 100
-http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:0, group-title="Greece",TV Filopoli
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:0, group-title="Greece",TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0, group-title="Greece",Vouli
-http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:0, group-title="Indian", 1 India News
-rtmp://live-fs.wmncdn.net/firstindianewstv1/live.stream
-#EXTINF:0, group-title="Indian",& Pictures
-http://173.212.206.199:25461/live/ksa/indep/393.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",& Pictures HD-1
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8
-#EXTINF:0, group-title="Indian",& Pictures HD-2
-http://173.212.206.199:25461/live/ksa/indep/3615.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Ten 1
+http://103.228.155.76:9981/stream/channelid/1007338533?ticket=F3B7BC0B48BA4741C4FC77FBAB959F7BBD97A7C5&profile=pass
+#EXTINF:0, group-title="Punjabi",PTC Chak De
+http://103.228.155.76:9981/stream/channelid/10252611?ticket=217E7150C5058100BA51124B609D3426BB24D2EC&profile=pass
+#EXTINF:0, group-title="Indian",Sahana News
+http://103.228.155.76:9981/stream/channelid/1025753006?ticket=36CD1420C9564AE0953EDEE7E3DB7F79B4F8500C&profile=pass
+#EXTINF:0, group-title="Indian",VTV Gujrati
+http://103.228.155.76:9981/stream/channelid/1082924248?ticket=8A8369CB315FA00E1ED644C2F2A07E3CE4EAACB4&profile=pass
+#EXTINF:0, group-title="Bangla",Rupshi Bangla
+http://103.228.155.76:9981/stream/channelid/110470869?ticket=5068B53D872EB9614EE8F4169090DA2F3DCC51AC&profile=pass
+#EXTINF:0, group-title="Bangla",Naaptol (Bangla)
+http://103.228.155.76:9981/stream/channelid/111668092?ticket=7176CC7C8D4C48DDC273B765CC11AED4DFD183B1&profile=pass
+#EXTINF:0, group-title="Indian",Janta TV
+http://103.228.155.76:9981/stream/channelid/1130292664?ticket=47BC175A1AC91A922AF4CE644853C63A2D12500F&profile=pass
+#EXTINF:0, group-title="Indian",Shagun TV
+http://103.228.155.76:9981/stream/channelid/1174923710?ticket=C9075102B235C373815D2BDB14610263B3523AEF&profile=pass
+#EXTINF:0, group-title="Indian",Oscar Movies Bhojpuri
+http://103.228.155.76:9981/stream/channelid/1221418310?ticket=067DEC8BED4029FEE58E377780066DCE6BB96A78&profile=pass
+#EXTINF:0, group-title="Indian",News 30
+http://103.228.155.76:9981/stream/channelid/1226902089?ticket=0382358ACB1609A2BA612F752D27CFA59464B2B8&profile=pass
+#EXTINF:0, group-title="Indian",Ten Cricket ME
+http://103.228.155.76:9981/stream/channelid/1330154616?ticket=788549EEA6329A388D4F4E20EB66B6726497F147&profile=pass
+#EXTINF:0, group-title="Indian",Shubh Cinema
+http://103.228.155.76:9981/stream/channelid/1363981693?ticket=7566AC744DEB652860526FC2E3D1AC26639D0133&profile=pass
+#EXTINF:0, group-title="Bangla",Sandesh News
+http://103.228.155.76:9981/stream/channelid/1413676145?ticket=FC88CFC407BFCB329675AAE0586E629211AE7376&profile=pass
+#EXTINF:0, group-title="Indian",News State
+http://103.228.155.76:9981/stream/channelid/145826578?ticket=2BB60E2798A77DE22105F23E38B00F1A872F3AAC&profile=pass
+#EXTINF:0, group-title="Punjabi",PTC Punjabi-1
+http://103.228.155.76:9981/stream/channelid/145882975?ticket=84D465115FB16495087A6475670E6EC8B74FC3EE&profile=pass
+#EXTINF:0, group-title="Bangla",Aakaash Bangla
+http://103.228.155.76:9981/stream/channelid/1505754014?ticket=C3E993CF1A5AE99764651EC5A38F9BD84A00A04E&profile=pass
+#EXTINF:0, group-title="Indian",Service 2
+http://103.228.155.76:9981/stream/channelid/1525777225?ticket=9B0246522E06F436796A9B3CA59472FC1EE79957&profile=pass
+#EXTINF:0, group-title="Punjabi",PTC News-1
+http://103.228.155.76:9981/stream/channelid/1546644612?ticket=53F75D2D1ED7C46289213444E654D5F40E32042A&profile=pass
+#EXTINF:0, group-title="Indian",Kashish News
+http://103.228.155.76:9981/stream/channelid/1554901509?ticket=65B29BB0D3611AD60DD4E3DEB80E5F4B7F28AA83&profile=pass
+#EXTINF:0, group-title="Indian",Nation Today
+http://103.228.155.76:9981/stream/channelid/1563200404?ticket=41E6FE9A799243E8D9E3C2127069E108678537D3&profile=pass
+#EXTINF:0, group-title="Indian",Samachar Plus
+http://103.228.155.76:9981/stream/channelid/1569434527?ticket=842C3C1E2DAA213750AF07178A229C215C7C2660&profile=pass
+#EXTINF:0, group-title="Indian",Skystar Movies
+http://103.228.155.76:9981/stream/channelid/1584613124?ticket=051A041709FEBE22A27A9B929C334487E4F95D24&profile=pass
+#EXTINF:0, group-title="Indian",India Sign Test
+http://103.228.155.76:9981/stream/channelid/1591823966?ticket=575E64B33534F04EAE1D759C87BD7D409D9842FB&profile=pass
+#EXTINF:0, group-title="South Indian",MGK Naaptol (Tamil)
+http://103.228.155.76:9981/stream/channelid/1607489822?ticket=DA51A52C46824D2324A9BF0F54CC34224D1E3921&profile=pass
+#EXTINF:0, group-title="Indian",Pratinidhi
+http://103.228.155.76:9981/stream/channelid/1628849891?ticket=6CF62A43F019B2956A34B27AF7A95F6E98BE98DF&profile=pass
+#EXTINF:0, group-title="Indian",STV Haryana News
+http://103.228.155.76:9981/stream/channelid/1648205890?ticket=53747D505BE7591C43C3557F4FDBEC8B75F19DE3&profile=pass
+#EXTINF:0, group-title="Indian",Samachar Plus Rajasthan
+http://103.228.155.76:9981/stream/channelid/1656765010?ticket=713C41EB3D8BC47F854D29579ECD18F2FE416E55&profile=pass
+#EXTINF:0, group-title="Indian",News Xpress
+http://103.228.155.76:9981/stream/channelid/1676384215?ticket=EE625136674F2C93488D904844C8A2E43D228418&profile=pass
+#EXTINF:0, group-title="Indian",Bhojpuri Cinema
+http://103.228.155.76:9981/stream/channelid/1682382037?ticket=7F8FDC1A6E3FE7D696363CA684E8A7B0F5E9C490&profile=pass
+#EXTINF:0, group-title="Indian",Taaza TV
+http://103.228.155.76:9981/stream/channelid/1800746914?ticket=B6EA2D23DF025BD9020842F9BFE30788EB5D9099&profile=pass
+#EXTINF:0, group-title="Bangla",Dhoom
+http://103.228.155.76:9981/stream/channelid/1859367624?ticket=157F31D9AA061B68E7790C90DF16DE3AA59B1752&profile=pass
+#EXTINF:0, group-title="Indian",Satya TV
+http://103.228.155.76:9981/stream/channelid/1910931803?ticket=13AEB4808CDFA1C4C8105D9329D78E37DA8AC8D3&profile=pass
+#EXTINF:0, group-title="Indian",Sangeet Marathi
+http://103.228.155.76:9981/stream/channelid/1937278272?ticket=BF3AAB3562BCBC94D34E5076922D9AB76D3E9198&profile=pass
+#EXTINF:0, group-title="Indian",Zee Anmol
+http://103.228.155.76:9981/stream/channelid/1970170248?ticket=DDC12E808B1C51346C8B379BE88F0BEE13500F11&profile=pass
+#EXTINF:0, group-title="Bangla",Cinema Tv
+http://103.228.155.76:9981/stream/channelid/1983959140?ticket=BBA3C9278807D17397F08AE077B25E6571D21BE1&profile=pass
+#EXTINF:0, group-title="Indian",News World India
+http://103.228.155.76:9981/stream/channelid/1984827888?ticket=B88DAA03C3B233A9C7D935868FC4B01EA298F971&profile=pass
+#EXTINF:0, group-title="Indian",News Nation
+http://103.228.155.76:9981/stream/channelid/2036963711?ticket=C9256229104E19BDB4C7BA14A1BBBA6523DC80AB&profile=pass
+#EXTINF:0, group-title="Indian",Green Tv
+http://103.228.155.76:9981/stream/channelid/2104511226?ticket=BFD992F466A2DA92E476343DFE77B0F1B60E75B1&profile=pass
+#EXTINF:0, group-title="Indian",MTV Beats HD
+http://103.228.155.76:9981/stream/channelid/293925325?ticket=0632E6C1DED71EFA49F32881D6C2ABDCDD679657&profile=pass
+#EXTINF:0, group-title="Indian",Ten 3
+http://103.228.155.76:9981/stream/channelid/381590411?ticket=AA808E98F1F385799ADDA0E37BE98DCAF97B8934&profile=pass
+#EXTINF:0, group-title="Pakistani",4TV News
+http://103.228.155.76:9981/stream/channelid/546052210?ticket=FB8099C42A1D176781BDF1068EBE08B09558EBC7&profile=pass
+#EXTINF:0, group-title="Indian",News Time
+http://103.228.155.76:9981/stream/channelid/559615141?ticket=EEDE8F3D71D9C3CEBE1D29DE6A090D881073BF75&profile=pass
+#EXTINF:0, group-title="South Indian",Naaptol (Malayalam)
+http://103.228.155.76:9981/stream/channelid/570652891?ticket=098920BCAA992965E36EB960A72B562D8CC89CE7&profile=pass
+#EXTINF:0, group-title="Indian",HNN 24X7
+http://103.228.155.76:9981/stream/channelid/642580998?ticket=04A7A0A8F5AD03CBFDEC6982493BD8B7D58FDFBA&profile=pass
+#EXTINF:0, group-title="Indian",Mangal Kalash
+http://103.228.155.76:9981/stream/channelid/644876670?ticket=90A43E22EA773F9DE943C2F16587A73DE710FE66&profile=pass
+#EXTINF:0, group-title="Indian",Maha Cartoon TV
+http://103.228.155.76:9981/stream/channelid/880432390?ticket=ADB6B5BD8E269D568F763C8279114DC2BD431594&profile=pass
+#EXTINF:0, group-title="Bangla",Fatafati
+http://103.228.155.76:9981/stream/channelid/97927617?ticket=4A2BAF96DF6564C79C1AA80A0E03AA24D3EEAE84&profile=pass
+#EXTINF:0, group-title="South Indian",KTN
+http://103.24.96.74/ktn/ktn/chunklist.m3u8
+#EXTINF:0, group-title="International",Discovery World HD
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225757/02.m3u8
+#EXTINF:0, group-title="Indian",Sony TV HD-1
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
+#EXTINF:0, group-title="Indian",Sony Max HD-1
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8
+#EXTINF:0, group-title="Indian",Neo Prime
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:0, group-title="Indian",Neo Sports
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:0, group-title="Kids",Nickelodeon Sonic
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225845/01.m3u8
+#EXTINF:0, group-title="Indian",Music India-1
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8
+#EXTINF:0, group-title="Indian",E24-1
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:0, group-title="Indian",B4U Music-1
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8
+#EXTINF:0, group-title="Kids",Sony Yay
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Telugu
+http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
+#EXTINF:0, group-title="Indian",Big Magic-1
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225745/01.m3u8
+#EXTINF:0, group-title="Indian",Sony TV-1
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Max 2-1
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:0, group-title="Indian",Food Food-1
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:0, group-title="Indian",Zee TV HD-1
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
+#EXTINF:0, group-title="Indian",Zee TV-1
+http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:0, group-title="International",Animal Planet HD
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8
 #EXTINF:0, group-title="Indian",& TV UK-1
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
-#EXTINF:0, group-title="Indian",& TV
-http://173.212.206.199:25461/live/ksa/indep/375.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",& TV UK-1
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="UK",& TV UK-1
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="Indian",& Pictures HD-1
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:0, group-title="Indian",Sony SAB
+http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:0, group-title="Indian",NDTV India-3
+http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
+#EXTINF:0, group-title="Indian",Colors TV UK
+http://173.212.206.199:25461/live/ksa/indep/136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Colors TV UK
+http://173.212.206.199:25461/live/ksa/indep/136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Colors TV ME-2
+http://173.212.206.199:25461/live/ksa/indep/137.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee TV-2
+http://173.212.206.199:25461/live/ksa/indep/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee TV ME
+http://173.212.206.199:25461/live/ksa/indep/139.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee TV UK
+http://173.212.206.199:25461/live/ksa/indep/140.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Zee TV UK
+http://173.212.206.199:25461/live/ksa/indep/140.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Colors TV-2
+http://173.212.206.199:25461/live/ksa/indep/141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",My Cinema  
+http://173.212.206.199:25461/live/ksa/indep/3328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Digi Bangla HD 
+http://173.212.206.199:25461/live/ksa/indep/3329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",24 Channel
+http://173.212.206.199:25461/live/ksa/indep/3330.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Atn Music
+http://173.212.206.199:25461/live/ksa/indep/3331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Atn News
+http://173.212.206.199:25461/live/ksa/indep/3332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Boishakhi 
+http://173.212.206.199:25461/live/ksa/indep/3333.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Desh 
+http://173.212.206.199:25461/live/ksa/indep/3334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Deshe Bideshe 
+http://173.212.206.199:25461/live/ksa/indep/3335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Doom Music
+http://173.212.206.199:25461/live/ksa/indep/3336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Ekattor
+http://173.212.206.199:25461/live/ksa/indep/3337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",G TV
+http://173.212.206.199:25461/live/ksa/indep/3338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Gaan Bangla
+http://173.212.206.199:25461/live/ksa/indep/3339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Independent 
+http://173.212.206.199:25461/live/ksa/indep/3340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Jamuna 
+http://173.212.206.199:25461/live/ksa/indep/3341.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Magic Bangla  
+http://173.212.206.199:25461/live/ksa/indep/3342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Masranga 
+http://173.212.206.199:25461/live/ksa/indep/3343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Mohona 
+http://173.212.206.199:25461/live/ksa/indep/3345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",NRB  
+http://173.212.206.199:25461/live/ksa/indep/3346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",NTV
+http://173.212.206.199:25461/live/ksa/indep/3347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",NTV UK
+http://173.212.206.199:25461/live/ksa/indep/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",NTV UK
+http://173.212.206.199:25461/live/ksa/indep/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",R Plus
+http://173.212.206.199:25461/live/ksa/indep/3349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",RTV
+http://173.212.206.199:25461/live/ksa/indep/3350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Bangla",Ruposhi Bangla-BK
+http://173.212.206.199:25461/live/ksa/indep/3351.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Manorama News
+http://173.212.206.199:25461/live/ksa/indep/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony TV-2
+http://173.212.206.199:25461/live/ksa/indep/357.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony TV UK
+http://173.212.206.199:25461/live/ksa/indep/358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Sony TV UK
+http://173.212.206.199:25461/live/ksa/indep/358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",UtTV Action
+http://173.212.206.199:25461/live/ksa/indep/3584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee TV HD-2
+http://173.212.206.199:25461/live/ksa/indep/3585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee TV HD USA
+http://173.212.206.199:25461/live/ksa/indep/3586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="USA",Zee TV HD USA
+http://173.212.206.199:25461/live/ksa/indep/3586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony TV HD-2
+http://173.212.206.199:25461/live/ksa/indep/3589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Plus ME
+http://173.212.206.199:25461/live/ksa/indep/359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony TV Asia
+http://173.212.206.199:25461/live/ksa/indep/3590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony TV HD USA
+http://173.212.206.199:25461/live/ksa/indep/3591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="USA",Sony TV HD USA
+http://173.212.206.199:25461/live/ksa/indep/3591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Plus HD-2
+http://173.212.206.199:25461/live/ksa/indep/3592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Plus USA
+http://173.212.206.199:25461/live/ksa/indep/3593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="USA",Star Plus USA
+http://173.212.206.199:25461/live/ksa/indep/3593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Colors TV HD
+http://173.212.206.199:25461/live/ksa/indep/3595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Colors TV-1
+http://173.212.206.199:25461/live/ksa/indep/3597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Colors TV ME-1
+http://173.212.206.199:25461/live/ksa/indep/3598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Sab Asia
+http://173.212.206.199:25461/live/ksa/indep/3599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Plus
+http://173.212.206.199:25461/live/ksa/indep/360.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Life Ok HD
+http://173.212.206.199:25461/live/ksa/indep/3600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",& TV HD
 http://173.212.206.199:25461/live/ksa/indep/3601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Maa TV National UK
+http://173.212.206.199:25461/live/ksa/indep/3602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Discovery (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Nat Geo (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Nat Geo Wild (Hindi) 
+http://173.212.206.199:25461/live/ksa/indep/3605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Fy18 
+http://173.212.206.199:25461/live/ksa/indep/3606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",TLC (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Food Food-2
+http://173.212.206.199:25461/live/ksa/indep/3608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Living Foodz
+http://173.212.206.199:25461/live/ksa/indep/3609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Plus UK
+http://173.212.206.199:25461/live/ksa/indep/361.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Star Plus UK
+http://173.212.206.199:25461/live/ksa/indep/361.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Living
+http://173.212.206.199:25461/live/ksa/indep/3610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Cinema HD
+http://173.212.206.199:25461/live/ksa/indep/3611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Gold HD-2
+http://173.212.206.199:25461/live/ksa/indep/3612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Max HD-2
+http://173.212.206.199:25461/live/ksa/indep/3613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Set Max
+http://173.212.206.199:25461/live/ksa/indep/3614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",& Pictures HD-2
+http://173.212.206.199:25461/live/ksa/indep/3615.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Solid Classic Movies 
+http://173.212.206.199:25461/live/ksa/indep/3616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Solid Hindi New 
+http://173.212.206.199:25461/live/ksa/indep/3617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Live
+http://173.212.206.199:25461/live/ksa/indep/3618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Cinema TV
+http://173.212.206.199:25461/live/ksa/indep/3619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Colors TV AUS
+http://173.212.206.199:25461/live/ksa/indep/362.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Manoranjan TV
+http://173.212.206.199:25461/live/ksa/indep/3621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",DD Uttar Pardesh
+http://173.212.206.199:25461/live/ksa/indep/3622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Desi Fusion
+http://173.212.206.199:25461/live/ksa/indep/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zing India
+http://173.212.206.199:25461/live/ksa/indep/3625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Music Express
+http://173.212.206.199:25461/live/ksa/indep/3626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV UP-3
+http://173.212.206.199:25461/live/ksa/indep/3627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV MP-2
+http://173.212.206.199:25461/live/ksa/indep/3628.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay Raj-2
+http://173.212.206.199:25461/live/ksa/indep/3629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Sab TV
+http://173.212.206.199:25461/live/ksa/indep/363.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay UP
+http://173.212.206.199:25461/live/ksa/indep/3631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami-2
+http://173.212.206.199:25461/live/ksa/indep/3632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Business
+http://173.212.206.199:25461/live/ksa/indep/3633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",News Nation
+http://173.212.206.199:25461/live/ksa/indep/3634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",India TV-2
+http://173.212.206.199:25461/live/ksa/indep/3635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",IBN Lokmat
+http://173.212.206.199:25461/live/ksa/indep/3636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",IBN7
+http://173.212.206.199:25461/live/ksa/indep/3637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Aaj Tak Delhi
+http://173.212.206.199:25461/live/ksa/indep/3638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",CNBC Awaz
+http://173.212.206.199:25461/live/ksa/indep/3639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Sab UK
+http://173.212.206.199:25461/live/ksa/indep/364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Sony Sab UK
+http://173.212.206.199:25461/live/ksa/indep/364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ABP News-2
+http://173.212.206.199:25461/live/ksa/indep/3640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ABP News UK
+http://173.212.206.199:25461/live/ksa/indep/3641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",ABP News UK
+http://173.212.206.199:25461/live/ksa/indep/3641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Aaj Tak
+http://173.212.206.199:25461/live/ksa/indep/3642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Aaj Tak UK
+http://173.212.206.199:25461/live/ksa/indep/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Aaj Tak UK
+http://173.212.206.199:25461/live/ksa/indep/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",CNBC TV18
+http://173.212.206.199:25461/live/ksa/indep/3644.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",CNBC Prime TV18
+http://173.212.206.199:25461/live/ksa/indep/3645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",BBC Global
+http://173.212.206.199:25461/live/ksa/indep/3646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",News 9 (Eng)
+http://173.212.206.199:25461/live/ksa/indep/3647.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Times Now-2
+http://173.212.206.199:25461/live/ksa/indep/3648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Life Ok
+http://173.212.206.199:25461/live/ksa/indep/365.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",NDTV Goodtimes
+http://173.212.206.199:25461/live/ksa/indep/3650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",NDTV Prime
+http://173.212.206.199:25461/live/ksa/indep/3651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",NDTV Profit-2
+http://173.212.206.199:25461/live/ksa/indep/3653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",NDTV India-2
+http://173.212.206.199:25461/live/ksa/indep/3654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",NDTV 24X7-2
+http://173.212.206.199:25461/live/ksa/indep/3656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",NDTV 24X7 UK
+http://173.212.206.199:25461/live/ksa/indep/3657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",India Today
+http://173.212.206.199:25461/live/ksa/indep/3658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ET Now-2
+http://173.212.206.199:25461/live/ksa/indep/3659.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Life Ok USA
+http://173.212.206.199:25461/live/ksa/indep/366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="USA",Life Ok USA
+http://173.212.206.199:25461/live/ksa/indep/366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Cnn Ibn News
+http://173.212.206.199:25461/live/ksa/indep/3660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",1st India
+http://173.212.206.199:25461/live/ksa/indep/3661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Khabrain Abhi Tak
+http://173.212.206.199:25461/live/ksa/indep/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Khabar Fast
+http://173.212.206.199:25461/live/ksa/indep/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",News X
+http://173.212.206.199:25461/live/ksa/indep/3664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Janata TV
+http://173.212.206.199:25461/live/ksa/indep/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Headline Today
+http://173.212.206.199:25461/live/ksa/indep/3666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Lakshya TV
+http://173.212.206.199:25461/live/ksa/indep/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sanskar TV
+http://173.212.206.199:25461/live/ksa/indep/3668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Bhakti Sagar
+http://173.212.206.199:25461/live/ksa/indep/3669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Life Ok Star
+http://173.212.206.199:25461/live/ksa/indep/367.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Arihant
+http://173.212.206.199:25461/live/ksa/indep/3670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Aastha TV
+http://173.212.206.199:25461/live/ksa/indep/3671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Aastha Bhajan
+http://173.212.206.199:25461/live/ksa/indep/3672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Peace Of Mind
+http://173.212.206.199:25461/live/ksa/indep/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Animal Planet (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Bhojpuri Cinema
+http://173.212.206.199:25461/live/ksa/indep/3675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",CNBC TV18 Prime HD
+http://173.212.206.199:25461/live/ksa/indep/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Discovery Science (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",History 18 (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Housefull Action
+http://173.212.206.199:25461/live/ksa/indep/3679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Life Ok Mena
+http://173.212.206.199:25461/live/ksa/indep/368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Housefull Movies
+http://173.212.206.199:25461/live/ksa/indep/3680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Investigation Discovery (Hindi)
+http://173.212.206.199:25461/live/ksa/indep/3681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",MTV Beats HD
+http://173.212.206.199:25461/live/ksa/indep/3682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Filmy
+http://173.212.206.199:25461/live/ksa/indep/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Earth Hindi HD
+http://173.212.206.199:25461/live/ksa/indep/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Rox HD
+http://173.212.206.199:25461/live/ksa/indep/3685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Rishtey India
+http://173.212.206.199:25461/live/ksa/indep/369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Rishtay Asia
+http://173.212.206.199:25461/live/ksa/indep/370.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Rishtay EU
+http://173.212.206.199:25461/live/ksa/indep/371.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Rishtay Americas
+http://173.212.206.199:25461/live/ksa/indep/372.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zindagi TV-2
+http://173.212.206.199:25461/live/ksa/indep/373.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Anmol-2
+http://173.212.206.199:25461/live/ksa/indep/374.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",& TV
+http://173.212.206.199:25461/live/ksa/indep/375.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",& TV ME
 http://173.212.206.199:25461/live/ksa/indep/376.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",& TV UK-2
 http://173.212.206.199:25461/live/ksa/indep/377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",1st India
-http://173.212.206.199:25461/live/ksa/indep/3661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",9X Jalwa-2
-http://173.212.206.199:25461/live/ksa/indep/430.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",9X Jalwa-1
-http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110.m3u8
-#EXTINF:0, group-title="Indian",9X M
-http://173.212.206.199:25461/live/ksa/indep/429.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",9X Music
-http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
-#EXTINF:0, group-title="Indian",Aaj Tak
-http://173.212.206.199:25461/live/ksa/indep/3642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Aaj Tak Delhi
-http://173.212.206.199:25461/live/ksa/indep/3638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Aaj Tak UK
-http://173.212.206.199:25461/live/ksa/indep/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",AajTak Link 2
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Aastha Bhajan
-http://173.212.206.199:25461/live/ksa/indep/3672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Aastha TV
-http://173.212.206.199:25461/live/ksa/indep/3671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ABP Majha
-http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
-#EXTINF:0, group-title="Indian",ABP News-2
-http://173.212.206.199:25461/live/ksa/indep/3640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ABP News-1
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:0, group-title="Indian",ABP News UK
-http://173.212.206.199:25461/live/ksa/indep/3641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Animal Planet (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",App Ka Colors
-http://173.212.206.199:25461/live/ksa/indep/417.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Arihant
-http://173.212.206.199:25461/live/ksa/indep/3670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",& TV UK-2
+http://173.212.206.199:25461/live/ksa/indep/377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Pal
+http://173.212.206.199:25461/live/ksa/indep/378.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Venus TV UK
+http://173.212.206.199:25461/live/ksa/indep/379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Anmol Cinema
+http://173.212.206.199:25461/live/ksa/indep/380.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Cinema
+http://173.212.206.199:25461/live/ksa/indep/381.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Cinema ME
+http://173.212.206.199:25461/live/ksa/indep/382.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Cinema UK
+http://173.212.206.199:25461/live/ksa/indep/383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Zee Cinema UK
+http://173.212.206.199:25461/live/ksa/indep/383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Classic
+http://173.212.206.199:25461/live/ksa/indep/384.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Action
+http://173.212.206.199:25461/live/ksa/indep/385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Salaam
+http://173.212.206.199:25461/live/ksa/indep/386.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Gold
+http://173.212.206.199:25461/live/ksa/indep/387.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Gold UK
+http://173.212.206.199:25461/live/ksa/indep/388.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Star Gold UK
+http://173.212.206.199:25461/live/ksa/indep/388.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Max
+http://173.212.206.199:25461/live/ksa/indep/389.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Set Max AUS
+http://173.212.206.199:25461/live/ksa/indep/390.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Set Max UK
+http://173.212.206.199:25461/live/ksa/indep/391.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Set Max UK
+http://173.212.206.199:25461/live/ksa/indep/391.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Max 2-1
+http://173.212.206.199:25461/live/ksa/indep/392.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",& Pictures
+http://173.212.206.199:25461/live/ksa/indep/393.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",UTV Movies
+http://173.212.206.199:25461/live/ksa/indep/394.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara One-2
+http://173.212.206.199:25461/live/ksa/indep/395.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Rishtay Cineplex
+http://173.212.206.199:25461/live/ksa/indep/396.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Rishtay Cineplex UK
+http://173.212.206.199:25461/live/ksa/indep/397.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",B4U Movies
 http://173.212.206.199:25461/live/ksa/indep/398.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",B4U Music-1
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8
-#EXTINF:0, group-title="Indian",B4U Music-2
-http://173.212.206.199:25461/live/ksa/indep/428.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",BBC Global
-http://173.212.206.199:25461/live/ksa/indep/3646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Bhakti Sagar
-http://173.212.206.199:25461/live/ksa/indep/3669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Bhojpuri Cinema
-http://173.212.206.199:25461/live/ksa/indep/3675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Big Magic-1
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225745/01.m3u8
-#EXTINF:0, group-title="Indian",Big Magic-2
-http://173.212.206.199:25461/live/ksa/indep/413.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Big Magic HD
-https://sknwz18.skandha.tv/secure/live/smil:gergewhhwfewtg.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Bindass Play
-http://173.212.206.199:25461/live/ksa/indep/412.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Channel One News
-rtmp://edge-ind.inapcdn.in/vivo/190smart.stream_aac
-#EXTINF:0, group-title="Indian",Channel V-1
-http://sbbsrcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Channel_V/Channel_V.m3u8
-#EXTINF:0, group-title="Indian",Channel V-2
-http://173.212.206.199:25461/live/ksa/indep/426.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Cinema TV
-http://173.212.206.199:25461/live/ksa/indep/3619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",CNBC Awaz
-http://173.212.206.199:25461/live/ksa/indep/3639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",CNBC Prime TV18
-http://173.212.206.199:25461/live/ksa/indep/3645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",CNBC TV18
-http://173.212.206.199:25461/live/ksa/indep/3644.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",CNBC TV18 Prime HD
-http://173.212.206.199:25461/live/ksa/indep/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Cnn Ibn News
-http://173.212.206.199:25461/live/ksa/indep/3660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",CNN News 18
-http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
-#EXTINF:0, group-title="Indian",Colors TV-1
-http://173.212.206.199:25461/live/ksa/indep/3597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Colors TV-2
-http://173.212.206.199:25461/live/ksa/indep/141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Colors TV AUS
-http://173.212.206.199:25461/live/ksa/indep/362.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Colors TV HD
-http://173.212.206.199:25461/live/ksa/indep/3595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Colors TV ME-1
-http://173.212.206.199:25461/live/ksa/indep/3598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Colors TV ME-2
-http://173.212.206.199:25461/live/ksa/indep/137.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Colors TV UK
-http://173.212.206.199:25461/live/ksa/indep/136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Dabangg TV
-http://173.212.206.199:25461/live/ksa/indep/408.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Dangaal TV
-http://173.212.206.199:25461/live/ksa/indep/410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",DD India
-http://173.212.206.199:25461/live/ksa/indep/416.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",DD Lok Sabha-1
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:0, group-title="Indian",DD Lok Sabha-2
-http://nicls1-lh.akamaihd.net:80/i/st_1@26969/master.m3u8
-#EXTINF:0, group-title="Indian",DD National
-https://sknwz18.skandha.tv/secure/live/smil:jhgadhljcabkkbcxkj.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",DD Rajya Sabha
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:0, group-title="Indian",DD Sports
-http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",DD Uttar Pardesh
-http://173.212.206.199:25461/live/ksa/indep/3622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Desi Beats
-http://173.212.206.199:25461/live/ksa/indep/415.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Desi Beats HD
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:0, group-title="Indian",Desi Fusion
-http://173.212.206.199:25461/live/ksa/indep/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0, group-title="Indian",Dhamaal TV
-http://173.212.206.199:25461/live/ksa/indep/409.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Dillagi
-http://173.212.206.199:25461/live/ksa/indep/411.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Discovery (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Discovery Science (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",E24-1
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
-#EXTINF:0, group-title="Indian",E24-2
-http://173.212.206.199:25461/live/ksa/indep/423.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Enter 10
-http://173.212.206.199:25461/live/ksa/indep/401.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Movies OK-2
+http://173.212.206.199:25461/live/ksa/indep/399.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Epic Channel
 http://173.212.206.199:25461/live/ksa/indep/3999.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ET Now-1
-http://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",ET Now-2
-http://173.212.206.199:25461/live/ksa/indep/3659.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ET Now-3
-http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
-#EXTINF:0, group-title="Indian",ETV Bihar
-http://173.212.206.199:25461/live/ksa/indep/436.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ETV Haryana
-http://173.212.206.199:25461/live/ksa/indep/435.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ETV Marathi
-http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:0, group-title="Indian",UTV Movies International
+http://173.212.206.199:25461/live/ksa/indep/400.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Enter 10
+http://173.212.206.199:25461/live/ksa/indep/401.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Wow Cinema
+http://173.212.206.199:25461/live/ksa/indep/402.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Manoranjan Movies
+http://173.212.206.199:25461/live/ksa/indep/403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Maha Movies
+http://173.212.206.199:25461/live/ksa/indep/404.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Star Utsav-2
+http://173.212.206.199:25461/live/ksa/indep/405.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",UTV Bindas
+http://173.212.206.199:25461/live/ksa/indep/406.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Mastiii-2
+http://173.212.206.199:25461/live/ksa/indep/407.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Dabangg TV
+http://173.212.206.199:25461/live/ksa/indep/408.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Dhamaal TV
+http://173.212.206.199:25461/live/ksa/indep/409.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Dangaal TV
+http://173.212.206.199:25461/live/ksa/indep/410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Dillagi
+http://173.212.206.199:25461/live/ksa/indep/411.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Bindass Play
+http://173.212.206.199:25461/live/ksa/indep/412.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Big Magic-2
+http://173.212.206.199:25461/live/ksa/indep/413.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Wah
+http://173.212.206.199:25461/live/ksa/indep/414.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Desi Beats
+http://173.212.206.199:25461/live/ksa/indep/415.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",DD India
+http://173.212.206.199:25461/live/ksa/indep/416.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",App Ka Colors
+http://173.212.206.199:25461/live/ksa/indep/417.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee Etc Bollywood
+http://173.212.206.199:25461/live/ksa/indep/418.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zoom TV 
+http://173.212.206.199:25461/live/ksa/indep/419.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zoom TV UK
+http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zoom TV UK
+http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Zoom TV UK
+http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Zoom TV UK
+http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zing UK
+http://173.212.206.199:25461/live/ksa/indep/421.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="UK",Zing UK
+http://173.212.206.199:25461/live/ksa/indep/421.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zing
+http://173.212.206.199:25461/live/ksa/indep/422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",E24-2
+http://173.212.206.199:25461/live/ksa/indep/423.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Pb-Music Xpress
+http://173.212.206.199:25461/live/ksa/indep/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Music India-2
+http://173.212.206.199:25461/live/ksa/indep/425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Channel V-2
+http://173.212.206.199:25461/live/ksa/indep/426.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",MTV India
+http://173.212.206.199:25461/live/ksa/indep/427.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",B4U Music-2
+http://173.212.206.199:25461/live/ksa/indep/428.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",9X M
+http://173.212.206.199:25461/live/ksa/indep/429.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",9X Jalwa-2
+http://173.212.206.199:25461/live/ksa/indep/430.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sony Mix
+http://173.212.206.199:25461/live/ksa/indep/431.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV UP-2
+http://173.212.206.199:25461/live/ksa/indep/432.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV Rajasthan
+http://173.212.206.199:25461/live/ksa/indep/433.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",ETV MP-3
 http://173.212.206.199:25461/live/ksa/indep/434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ETV MP-2
-http://173.212.206.199:25461/live/ksa/indep/3628.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV Haryana
+http://173.212.206.199:25461/live/ksa/indep/435.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV Bihar
+http://173.212.206.199:25461/live/ksa/indep/436.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",ETV Urdu-2
+http://173.212.206.199:25461/live/ksa/indep/437.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay Raj-1
+http://173.212.206.199:25461/live/ksa/indep/438.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay MP
+http://173.212.206.199:25461/live/ksa/indep/439.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay Bihar
+http://173.212.206.199:25461/live/ksa/indep/441.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami-1
+http://173.212.206.199:25461/live/ksa/indep/442.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sahara Samay
+http://173.212.206.199:25461/live/ksa/indep/443.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Sudarshan News
+http://173.212.206.199:25461/live/ksa/indep/444.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",News 24
+http://173.212.206.199:25461/live/ksa/indep/445.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Zee News
+http://173.212.206.199:25461/live/ksa/indep/446.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Indian",Republic TV
+http://173.212.206.199:25461/live/ksa/indep/887.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="Greece",TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:0, group-title="Greece",TV 100
+http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:0, group-title="Greece",Alpha (Country Limitation)
+http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
+#EXTINF:0, group-title="Punjabi",Zee Punjab
+http://195.154.46.92:1935/lon3/zeepunjabi.stream/playlist.m3u8
+#EXTINF:0, group-title="UK",Peace TV 
+http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
+#EXTINF:0, group-title="UK",My Hit
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://209.153.233.92:7000/chakde/index.m3u8
+#EXTINF:0, group-title="South Indian",Kerela Express TV
+http://217.182.72.190/keralaexpress593gaqk1043hls/keralaexpress593gaqk1043.m3u8
+#EXTINF:0, group-title="USA",News Zone
+http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:0, group-title="Greece",ERT1 (MxPlayer)
+http://38.99.163.117/nimble_live/ert1_low/playlist.m3u8
+#EXTINF:0, group-title="Greece",ERT2
+http://38.99.163.117/nimble_live/ert2_low/playlist.m3u8
+#EXTINF:0, group-title="Greece",ERT3
+http://38.99.163.117/nimble_live/et3_low/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+#EXTINF:0, group-title="USA",Vibe UK 
+http://46.101.21.42:8081/abr/abr/playlist.m3u8 
+#EXTINF:0, group-title="UK",Clubbing TV 
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
+#EXTINF:0, group-title="UK",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0, group-title="USA",JLTV (Public Documentary) 
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0, group-title="Canada",CHCH
+http://52.86.189.59:1935/live/news/playlist.m3u8
+#EXTINF:0, group-title="USA",Family Friendly Entertainment
+http://54.225.64.228:1935/live/roku1/playlist.m3u8
+#EXTINF:0, group-title="USA",Bandwagon Live Music
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0, group-title="Greece",Jayzee 
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0, group-title="UK",Nick Jr 
+http://93.91.113.8:9999/play/a06l 
+#EXTINF:0, group-title="UK",JimJam 
+http://93.91.113.8:9999/play/a06n
+#EXTINF:0, group-title="UK",History 
+http://93.91.113.8:9999/play/a06z 
+#EXTINF:0, group-title="Greece",Samos
+http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:0, group-title="International",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index.m3u8
+#EXTINF:0, group-title="USA",ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0, group-title="USA",Juice TV 
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0, group-title="South Indian",Asianet Utsav
+http://acvonline.asianetmobiletvplus.com/webstreams/mdmjoyquhlcfssxgduaquwcxcpfvadeu/playlist.m3u8
+#EXTINF:0, group-title="International",Al Jazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, group-title="UK",Al Jazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0, group-title="UK",Amazing Facts TV
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+#EXTINF:0, group-title="USA",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0, group-title="Greece",Makedonia/MTV HD
+http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+#EXTINF:0, group-title="Greece",ANT
+http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
+#EXTINF:0, group-title="South Indian",Arra TV
+http://arratvcloud.purplestream.in/arratvorg/smil:arratv.smil/index.m3u8
+#EXTINF:0, group-title="USA",RAI News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:0, group-title="USA",Hope International Channel
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
+#EXTINF:0, group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0, group-title="UK",NDTV-1
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0, group-title="UK",NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:0, group-title="Greece",Movie Play
+http://bit.ly/2l0o6Os
+#EXTINF:0, group-title="Greece",GR Ciinema
+http://bit.ly/2rp95bt
+#EXTINF:0, group-title="Greece",Alpha
+http://bit.ly/alphagr1
+#EXTINF:0, group-title="Greece",Art
+http://bit.ly/artgr1
+#EXTINF:0, group-title="Greece",E-1
+http://bit.ly/epsilongr1
+#EXTINF:0, group-title="UK",Capital TV-2
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:0, group-title="USA",CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:0, group-title="South Indian",KCV
+http://cdn.live5.in:1935/live/kcv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Asianet  ME
+http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8
+#EXTINF:0, group-title="UK",World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+#EXTINF:0, group-title="USA",Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0, group-title="Indian",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 
+#EXTINF:0, group-title="South Indian",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Jai Hind
+http://channels.globaliptv.net/unitedmedia/mnukoccvioqxuvzfmbsx/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Captain TV
+http://channels.globaliptv.net/unitedmedia/uditcphiqnxgpykxggxp/playlist.m3u8
+#EXTINF:0, group-title="USA",Kiroe (HQ)
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/1500.m3u8
+#EXTINF:0, group-title="USA",Kiroe (LQ)
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/300.m3u8
+#EXTINF:0, group-title="USA",Kiroe (EQ)
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/3000.m3u8
+#EXTINF:0, group-title="USA",Kiroe (MQ)
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/700.m3u8
+#EXTINF:0, group-title="USA",FOX 23 
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8 
+#EXTINF:0, group-title="USA",FOX 25 
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8 
+#EXTINF:0, group-title="USA",FOX 30 
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:0, group-title="Indian",CNN News 18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+#EXTINF:0, group-title="USA",Beto TV
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0, group-title="International",Headlines Today
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0, group-title="Bangla",Zee 24 Ghanta
+http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/24_ghanta_iwpl.smil/chunklist_w1628993217_b864000.m3u8?e=1506634227&h=babb8e6a7e496e3b82fcde64c6dd054b
+#EXTINF:0, group-title="Bangla",Zee 24 Taas
+http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/zee_24taas_App.smil/playlist.m3u8?e=1506634085&h=b534a7a030bf9af7790f1cdbdbc6ac20
+#EXTINF:0, group-title="UK",DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="Indian",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0, group-title="International",DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0, group-title="USA",DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0, group-title="International",Indies Music HD
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, group-title="USA",Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 
+#EXTINF:0, group-title="International",Channel Win 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Dheeran TV
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",MK TV
+http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
+#EXTINF:0, group-title="Greece",Lyxnoc
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:0, group-title="Indian",ET Now-3
+http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+#EXTINF:0, group-title="Indian",ETV Marathi
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
 #EXTINF:0, group-title="Indian",ETV MP-1
 http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
 #EXTINF:0, group-title="Indian",ETV Odia News
 http://etv_oriya-lh.akamaihd.net/i/etv_odia_news_n_1@179753/index_3_av-b.m3u8
 #EXTINF:0, group-title="Indian",ETV Raj
 http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV Rajasthan
-http://173.212.206.199:25461/live/ksa/indep/433.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ETV UP-3
-http://173.212.206.199:25461/live/ksa/indep/3627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",ETV UP-2
-http://173.212.206.199:25461/live/ksa/indep/432.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",ETV UP-1
 http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV Urdu-2
-http://173.212.206.199:25461/live/ksa/indep/437.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",ETV Urdu-1
 http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",Food Food-1
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
-#EXTINF:0, group-title="Indian",Food Food-2
-http://173.212.206.199:25461/live/ksa/indep/3608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Fy18 
-http://173.212.206.199:25461/live/ksa/indep/3606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Headline Today
-http://173.212.206.199:25461/live/ksa/indep/3666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",History 18 (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Housefull Action
-http://173.212.206.199:25461/live/ksa/indep/3679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Housefull Movies
-http://173.212.206.199:25461/live/ksa/indep/3680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",IBN Lokmat
-http://173.212.206.199:25461/live/ksa/indep/3636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:0, group-title="USA",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0, group-title="Greece",Kontra
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0, group-title="Punjabi",MH1 News
+http://fliue.vyrnnppgampvi.click/live/smil:fjgsadvjlkbscahgvyudc.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chakde
+http://fliue.vyrnnppgampvi.click/live/smil:gfhgsadgjhgsdagfdsagh.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Garv Punjab-2
+http://fliue.vyrnnppgampvi.click/live/smil:gfvasjnkncasjhvgcjhgd.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Sahara One-1
+http://fliue.vyrnnppgampvi.click/live/smil:gfvytdqgjchdfcdfdvs.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",MH1 Music
+http://fliue.vyrnnppgampvi.click/live/smil:hgvfjxafvbcjbhcv.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Punjabi-2
+http://fliue.vyrnnppgampvi.click/live/smil:kjhgjfgkhfblkjagdhfjhfbkajsdhfd.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",PTC News-2
+http://fliue.vyrnnppgampvi.click/live/smil:tfvwqyfdxgvdyxjdf.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Garv Punjab-1
+http://fliue.vyrnnppgampvi.click/live/smil:trdghsvjkcasbgfasd.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",ABP News-1
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="UK",BBC World
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0, group-title="USA",TV5 Monde
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 #EXTINF:0, group-title="Indian",IBN Lokmat
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:0, group-title="Indian",IBN7
-http://173.212.206.199:25461/live/ksa/indep/3637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",IBN7 News
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
-#EXTINF:0, group-title="Indian",India News
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News Haryana
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News MP CG
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News UP
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India NewsR Raj
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India Today
-http://173.212.206.199:25461/live/ksa/indep/3658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",India TV-2
-http://173.212.206.199:25461/live/ksa/indep/3635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",India TV-1
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
-#EXTINF:0, group-title="Indian",Investigation Discovery (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Ishwar TV
-http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Janata TV
-http://173.212.206.199:25461/live/ksa/indep/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Khabar Fast
-http://173.212.206.199:25461/live/ksa/indep/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Khabrain Abhi Tak
-http://173.212.206.199:25461/live/ksa/indep/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Lakshya TV
-http://173.212.206.199:25461/live/ksa/indep/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Life Ok
-http://173.212.206.199:25461/live/ksa/indep/365.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Life Ok HD
-http://173.212.206.199:25461/live/ksa/indep/3600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Life Ok Mena
-http://173.212.206.199:25461/live/ksa/indep/368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Life Ok Star
-http://173.212.206.199:25461/live/ksa/indep/367.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Life Ok USA
-http://173.212.206.199:25461/live/ksa/indep/366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Living Foodz
-http://173.212.206.199:25461/live/ksa/indep/3609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Maa TV National UK
-http://173.212.206.199:25461/live/ksa/indep/3602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Madha
-http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Maha Movies
-http://173.212.206.199:25461/live/ksa/indep/404.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Mahua Plus
-http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Manorama News
-http://173.212.206.199:25461/live/ksa/indep/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Manoranjan Movies
-http://173.212.206.199:25461/live/ksa/indep/403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Manoranjan TV
-http://173.212.206.199:25461/live/ksa/indep/3621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Mastiii-2
-http://173.212.206.199:25461/live/ksa/indep/407.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Mastiii-1
-https://sknwz18.skandha.tv/secure/live/smil:ghdejfdejfcbjvbdev.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",MBC Odia TV
-http://live-fs.wmncdn.net/mbctv1/live1.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
-#EXTINF:0, group-title="Indian",Movies OK-1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Movies_OK/Movies_OK.m3u8
-#EXTINF:0, group-title="Indian",Movies OK-2
-http://173.212.206.199:25461/live/ksa/indep/399.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",MTV Beats HD
-http://173.212.206.199:25461/live/ksa/indep/3682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",MTV India
-http://173.212.206.199:25461/live/ksa/indep/427.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Music Express
-http://173.212.206.199:25461/live/ksa/indep/3626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Music India-1
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8
-#EXTINF:0, group-title="Indian",Music India-2
-http://173.212.206.199:25461/live/ksa/indep/425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Nat Geo (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Nat Geo Wild (Hindi) 
-http://173.212.206.199:25461/live/ksa/indep/3605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV-2
-http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24×7-1
-http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24X7-3
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24X7-2
-http://173.212.206.199:25461/live/ksa/indep/3656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV 24X7 UK
-http://173.212.206.199:25461/live/ksa/indep/3657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV Goodtimes
-http://173.212.206.199:25461/live/ksa/indep/3650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV India-3
-http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
-#EXTINF:0, group-title="Indian",NDTV India-1
-https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_224_av-b.m3u8
-#EXTINF:0, group-title="Indian",NDTV India-2
-http://173.212.206.199:25461/live/ksa/indep/3654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV Prime
-http://173.212.206.199:25461/live/ksa/indep/3651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV Profit-3
-http://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/index_352_av-b.m3u8
-#EXTINF:0, group-title="Indian",NDTV Profit-2
-http://173.212.206.199:25461/live/ksa/indep/3653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",NDTV Profit-1
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Neo Prime
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225789/01.m3u8
-#EXTINF:0, group-title="Indian",Neo Sports
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:0, group-title="Indian",New X
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
-#EXTINF:0, group-title="Indian",News 18-1
-http://live.wmncdn.net/news18india/c2b04f69640309776f357ac2516bf512.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Indian",News 18-2
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",News 24
-http://173.212.206.199:25461/live/ksa/indep/445.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",News 9 (Eng)
-http://173.212.206.199:25461/live/ksa/indep/3647.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",News Nation
-http://173.212.206.199:25461/live/ksa/indep/3634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",News X
-http://173.212.206.199:25461/live/ksa/indep/3664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",News X HD
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Channel News Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0, group-title="Indian",9X Jalwa-1
+http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110.m3u8
+#EXTINF:0, group-title="Indian",9X Music
+http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
+#EXTINF:0, group-title="Indian",T-Series Music
+http://indiao.freeddns.org:8080/Startv_Hindi_Music_Live/index.m3u8
+#EXTINF:0, group-title="Indian",India TV-1
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="South Indian",Pravasi HD
+http://lax.globaliptv.net/pravasi/wzqsjszoeajnqnbanmpn/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Dhur Ki Baani
+http://live.agmediachandigarh.com/dhurkibaanitvjuly/26a4fc768f858222b8cd8872dfdfb634.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Sahib TV
+http://live.agmediachandigarh.com/sahibtvjuly/0a6051a36c413a1497abee3090df62ef.sdp/mono.m3u8
+#EXTINF:0, group-title="UK",Ideal World
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",Ideal World
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",Create and Craft (Lifestyle) 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="South Indian",NTV UAE HD
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:0, group-title="Greece",Krhth TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Canada Tamils TV
+http://live.streamjo.com:1935/cctv/live/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Eet TV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Saras TV
+http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
+#EXTINF:0, group-title="Greece",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:0, group-title="Greece",Creta TV
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:0, group-title="Greece",TV Filopoli
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:0, group-title="Pakistani",Zindagi TV-1
+http://live.urdustreamz.net:1935/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://live.wmncdn.net/5aabtv/b10132dafba0b0dfbd9d8738c1e62261.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
+#EXTINF:0, group-title="Punjabi",Bhagya TV
+http://live.wmncdn.net/bhaagya1/54f1d025e282fee369a8f2d44998dc49.sdp/mono.m3u8
+#EXTINF:0, group-title="South Indian",Bharat Today TV
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood
+http://live.wmncdn.net/boogle/e54a58cc63ad1a32f28ef53006be2937.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani TV
+http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Hamdard TV
+http://live.wmncdn.net/hamdard/hamdardrv1.stream/mono.m3u8
+#EXTINF:0, group-title="South Indian",Janan TV 
+http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
+#EXTINF:0, group-title="Indian",Sur Cinema
+http://live.wmncdn.net/jugni/a119e534072584a0ea88cdea4664aecd.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Living India News
+http://live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/mono.m3u8
+#EXTINF:0, group-title="Indian",News 18-1
+http://live.wmncdn.net/news18india/c2b04f69640309776f357ac2516bf512.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://live.wmncdn.net/sanjhapunjabjune/c88fc7ba5396ca867f6bf4c0d0213d04.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Tohar TV
+http://live.wmncdn.net/tohartvjune/826aaa14b801427c57de83c05cf96b9c.sdp/mono.m3u8
+#EXTINF:0, group-title="South Indian",TCV Thrissur
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0, group-title="South Indian",Vaanavil TV
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:0, group-title="Punjabi",Baani
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
+#EXTINF:0, group-title="South Indian",DD Podigai
+http://live-fs.wmncdn.net/ddpodigailive1/live1.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",Ishwar TV
+http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Jeevan TV
+http://live-fs.wmncdn.net/jeevantv/jeevantvlive.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Kaumudi TV
+http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",MBC Odia TV
+http://live-fs.wmncdn.net/mbctv1/live1.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Only Music HD
 http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
-#EXTINF:0, group-title="Indian",Pb-Music Xpress
-http://173.212.206.199:25461/live/ksa/indep/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Peace Of Mind
-http://173.212.206.199:25461/live/ksa/indep/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Republic TV
-http://173.212.206.199:25461/live/ksa/indep/887.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Rishtay Americas
-http://173.212.206.199:25461/live/ksa/indep/372.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Rishtay Asia
-http://173.212.206.199:25461/live/ksa/indep/370.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Rishtay Cineplex
-http://173.212.206.199:25461/live/ksa/indep/396.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Rishtay Cineplex UK
-http://173.212.206.199:25461/live/ksa/indep/397.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Rishtay EU
-http://173.212.206.199:25461/live/ksa/indep/371.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Rishtey India
-http://173.212.206.199:25461/live/ksa/indep/369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Sadhana News
 http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana Plus News
 http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana TV
 http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Sahara Filmy
-http://173.212.206.199:25461/live/ksa/indep/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara One-1
-http://fliue.vyrnnppgampvi.click/live/smil:gfvytdqgjchdfcdfdvs.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Sahara One-2
-http://173.212.206.199:25461/live/ksa/indep/395.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay
-http://173.212.206.199:25461/live/ksa/indep/443.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay Aalami-1
-http://173.212.206.199:25461/live/ksa/indep/442.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay Aalami-2
-http://173.212.206.199:25461/live/ksa/indep/3632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay Bihar
-http://173.212.206.199:25461/live/ksa/indep/441.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay MP
-http://173.212.206.199:25461/live/ksa/indep/439.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay Raj-1
-http://173.212.206.199:25461/live/ksa/indep/438.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay Raj-2
-http://173.212.206.199:25461/live/ksa/indep/3629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sahara Samay UP
-http://173.212.206.199:25461/live/ksa/indep/3631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sanskar TV
-http://173.212.206.199:25461/live/ksa/indep/3668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Set Max
-http://173.212.206.199:25461/live/ksa/indep/3614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Set Max AUS
-http://173.212.206.199:25461/live/ksa/indep/390.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Set Max UK
-http://173.212.206.199:25461/live/ksa/indep/391.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Solid Classic Movies 
-http://173.212.206.199:25461/live/ksa/indep/3616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Solid Hindi New 
-http://173.212.206.199:25461/live/ksa/indep/3617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Earth Hindi HD
-http://173.212.206.199:25461/live/ksa/indep/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Max
-http://173.212.206.199:25461/live/ksa/indep/389.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Max 2-1
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225812/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Max 2-1
-http://173.212.206.199:25461/live/ksa/indep/392.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Max HD-1
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8
-#EXTINF:0, group-title="Indian",Sony Max HD-2
-http://173.212.206.199:25461/live/ksa/indep/3613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Mix
-http://173.212.206.199:25461/live/ksa/indep/431.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Pal
-http://173.212.206.199:25461/live/ksa/indep/378.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Rox HD
-http://173.212.206.199:25461/live/ksa/indep/3685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony SAB
-http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Sab Asia
-http://173.212.206.199:25461/live/ksa/indep/3599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Sab TV
-http://173.212.206.199:25461/live/ksa/indep/363.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Sab UK
-http://173.212.206.199:25461/live/ksa/indep/364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony TV-1
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
-#EXTINF:0, group-title="Indian",Sony TV-2
-http://173.212.206.199:25461/live/ksa/indep/357.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony TV Asia
-http://173.212.206.199:25461/live/ksa/indep/3590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony TV HD-2
-http://173.212.206.199:25461/live/ksa/indep/3589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony TV HD-1
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
-#EXTINF:0, group-title="Indian",Sony TV HD USA
-http://173.212.206.199:25461/live/ksa/indep/3591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony TV UK
-http://173.212.206.199:25461/live/ksa/indep/358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sony Wah
-http://173.212.206.199:25461/live/ksa/indep/414.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Bharat HD
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD.m3u8
-#EXTINF:0, group-title="Indian",Star Gold
-http://173.212.206.199:25461/live/ksa/indep/387.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Gold HD-1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD.m3u8
-#EXTINF:0, group-title="Indian",Star Gold HD-2
-http://173.212.206.199:25461/live/ksa/indep/3612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Gold UK
-http://173.212.206.199:25461/live/ksa/indep/388.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Live
-http://173.212.206.199:25461/live/ksa/indep/3618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Parvah
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Pravah/Star_Pravah.m3u8
-#EXTINF:0, group-title="Indian",Star Plus
-http://173.212.206.199:25461/live/ksa/indep/360.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Plus HD-1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD.m3u8
-#EXTINF:0, group-title="Indian",Star Plus HD-2
-http://173.212.206.199:25461/live/ksa/indep/3592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Plus ME
-http://173.212.206.199:25461/live/ksa/indep/359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Plus UK
-http://173.212.206.199:25461/live/ksa/indep/361.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Plus USA
-http://173.212.206.199:25461/live/ksa/indep/3593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Star Sports HD 1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_HD_1/Star_Sports_HD_1.m3u8
-#EXTINF:0, group-title="Indian",Star Sports HD 2
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_HD_2/Star_Sports_HD_2.m3u8
-#EXTINF:0, group-title="Indian",Star Sports HD 3
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_3/Star_Sports_3.m3u8
-#EXTINF:0, group-title="Indian",Star Utsav-1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Utsav/Star_Utsav.m3u8
-#EXTINF:0, group-title="Indian",Star Utsav-3
-https://sknwz18.skandha.tv/secure/live/smil:gyhswgcuqcgyuqcgu.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Star Utsav-2
-http://173.212.206.199:25461/live/ksa/indep/405.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sudarshan News
-http://173.212.206.199:25461/live/ksa/indep/444.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Sur Cinema
-http://live.wmncdn.net/jugni/a119e534072584a0ea88cdea4664aecd.sdp/index.m3u8
-#EXTINF:0, group-title="Indian",Times Now-1
-http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
-#EXTINF:0, group-title="Indian",Times Now-2
-http://173.212.206.199:25461/live/ksa/indep/3648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",TLC (Hindi)
-http://173.212.206.199:25461/live/ksa/indep/3607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",T-Series Music
-http://indiao.freeddns.org:8080/Startv_Hindi_Music_Live/index.m3u8
-#EXTINF:0, group-title="Indian",UtTV Action
-http://173.212.206.199:25461/live/ksa/indep/3584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",UTV Bindas
-http://173.212.206.199:25461/live/ksa/indep/406.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",UTV Movies
-http://173.212.206.199:25461/live/ksa/indep/394.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",UTV Movies International
-http://173.212.206.199:25461/live/ksa/indep/400.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Venus TV UK
-http://173.212.206.199:25461/live/ksa/indep/379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Wow Cinema
-http://173.212.206.199:25461/live/ksa/indep/402.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Yoga TV -Swamiji
-http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Zee Action
-http://173.212.206.199:25461/live/ksa/indep/385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Aflam
-http://streaming.i-sat.tv:1935/live/zee/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Zee Anmol-1
-https://sknwz18.skandha.tv/secure/live/smil:nmadgjqwdfjqfyqfvfeq.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Zee Anmol-2
-http://173.212.206.199:25461/live/ksa/indep/374.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Anmol Cinema
-http://173.212.206.199:25461/live/ksa/indep/380.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Business
-http://173.212.206.199:25461/live/ksa/indep/3633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Cinema
-http://173.212.206.199:25461/live/ksa/indep/381.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Cinema HD
-http://173.212.206.199:25461/live/ksa/indep/3611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Cinema ME
-http://173.212.206.199:25461/live/ksa/indep/382.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Cinema UK
-http://173.212.206.199:25461/live/ksa/indep/383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Classic
-http://173.212.206.199:25461/live/ksa/indep/384.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Etc Bollywood
-http://173.212.206.199:25461/live/ksa/indep/418.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Living
-http://173.212.206.199:25461/live/ksa/indep/3610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee News
-http://173.212.206.199:25461/live/ksa/indep/446.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee Salaam
-http://173.212.206.199:25461/live/ksa/indep/386.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee TV-1
-http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
-#EXTINF:0, group-title="Indian",Zee TV-2
-http://173.212.206.199:25461/live/ksa/indep/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee TV HD-1
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
-#EXTINF:0, group-title="Indian",Zee TV HD-2
-http://173.212.206.199:25461/live/ksa/indep/3585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee TV HD USA
-http://173.212.206.199:25461/live/ksa/indep/3586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee TV ME
-http://173.212.206.199:25461/live/ksa/indep/139.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zee TV UK
-http://173.212.206.199:25461/live/ksa/indep/140.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zindagi TV-2
-http://173.212.206.199:25461/live/ksa/indep/373.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zing
-http://173.212.206.199:25461/live/ksa/indep/422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zing India
-http://173.212.206.199:25461/live/ksa/indep/3625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zing UK
-http://173.212.206.199:25461/live/ksa/indep/421.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zoom
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="Indian",Zoom TV 
-http://173.212.206.199:25461/live/ksa/indep/419.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Zoom TV 2
-http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/index_600_av-p.m3u8
-#EXTINF:0, group-title="Indian",Zoom TV UK
-http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="International",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index.m3u8
-#EXTINF:0, group-title="International",Al Jazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:0, group-title="International",Animal Planet HD
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8
-#EXTINF:0, group-title="International",Bloomberg US
-https://mediauseast.akamaized.net/us/us1_live.m3u8
-#EXTINF:0, group-title="International",Channel News Asia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:0, group-title="International",Channel Win 
-http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
-#EXTINF:0, group-title="International",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
-#EXTINF:0, group-title="International",Discovery World HD
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225757/02.m3u8
-#EXTINF:0, group-title="International",DW Asia
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:0, group-title="International",DW HD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0, group-title="International",France24 News
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
-#EXTINF:0, group-title="International",Headlines Today
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0, group-title="International",Indies Music HD
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0, group-title="International",Jonack
-rtmp://edge-ap2.cloudfrontcdn.in/edge1//smartsh2.stream_aac
-#EXTINF:0, group-title="International",MBC Bollywood HD
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0, group-title="South Indian",Polimer TV
+http://live-fs.wmncdn.net/vpolimertv/live.stream/index.m3u8
+#EXTINF:0, group-title="South Indian",Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Global Punjab
+http://livestream.5centscdn.com/fastway/live7/index.m3u8
+#EXTINF:0, group-title="South Indian",Garshom TV
+http://livestream.5centscdn.com/garshom/feed.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Garshom News
+http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:0, group-title="UK",QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, group-title="UK",QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, group-title="UK",QVC Beauty
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, group-title="UK",QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:0, group-title="Indian",AajTak Link 2
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Mahua Plus
+http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+#EXTINF:0, group-title="South Indian",Anand Media HD
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Asianet Plus 2
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",ABP Majha
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
 #EXTINF:0, group-title="International",Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+#EXTINF:0, group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:0, group-title="International",Movies Now
 http://my2.videodb.in:8081/ENGLISH/MOVIESNOW/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Sun
+http://my2.videodb.in:8081/TAMIL/SUN_TV_2/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Gemini TV
+http://my2.videodb.in:8081/TELUGU/GEMINI/playlist.m3u8
+#EXTINF:0, group-title="UK",NDTV HD
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+#EXTINF:0, group-title="Indian",NDTV 24X7-3
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
+#EXTINF:0, group-title="Indian",NDTV Profit-1
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",NDTV-2
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
+#EXTINF:0, group-title="Indian",NDTV Profit-3
+http://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/index_352_av-b.m3u8
+#EXTINF:0, group-title="Indian",NDTV 24×7-1
+http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
+#EXTINF:0, group-title="Indian",India News Haryana
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News MP CG
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
+#EXTINF:0, group-title="Indian",India NewsR Raj
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News UP
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",New X
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
+#EXTINF:0, group-title="Indian",News X HD
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",DD Lok Sabha-1
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0, group-title="Indian",DD Lok Sabha-2
+http://nicls1-lh.akamaihd.net:80/i/st_1@26969/master.m3u8
+#EXTINF:0, group-title="Indian",DD Rajya Sabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:0, group-title="Punjabi",DD Punjab
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+#EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
+http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:0, group-title="UK",City
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+#EXTINF:0, group-title="International",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
+#EXTINF:0, group-title="UK",Capital TV-1
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0, group-title="UK",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, group-title="USA",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, group-title="UK",Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0, group-title="International",MTA Urdu
+http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
 #EXTINF:0, group-title="International",MTA English
 http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8?secure_ios_token=L2VVcTlpQjJySEx3cVdLcFpOL0NTcnVNRE52UkNyU2tJakFZOUp3ei9MZGg0Z3JKVFJvY3JlZGFqSFFSCnY2WjFEekwxNUF6eGdsMjh2Y0hMZVdMT2VBPT0K
 #EXTINF:0, group-title="International",MTA Original
 http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8?secure_ios_token=Ky92RWptb3U3TmZkOUUxemx1YXZIZXBMYXg4MWNUZnVwUXFiZ055bllLbHl5b3FrZmp3UCthWnNOckdNCkNrVWFzR3hDbnBpWWdteExwSVE4WFp5a25nPT0K
 #EXTINF:0, group-title="International",MTA Urdu
 http://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8?secure_ios_token=RWM5a3pJM3U0NTlQWUFHb1BUd1JTMUZDZU5RMzJZdkx6K1p2SjlQNWdKWTlrZU1WZU5JcjY2S3VYbDZ5CnB6b1pQUGhmZk9BTmVLN3crSUw4aVh4TVBnPT0K" preload="none" crossorigin="anonymous"></video>
-#EXTINF:0, group-title="International",MTA Urdu
-http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
-#EXTINF:0, group-title="International",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
-#EXTINF:0, group-title="International",RT Documentary HD
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:0, group-title="International",RT Documentary
-http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
-#EXTINF:0, group-title="International",Skky  TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-#EXTINF:0, group-title="International",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0, group-title="International",Star Sports Select HD 1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1.m3u8
-#EXTINF:0, group-title="International",Star Sports Select HD 2
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2.m3u8
-#EXTINF:0, group-title="International",Ten Sports
-https://live.tune.tv/tensports/ten-sports/playlist.m3u8
-#EXTINF:0, group-title="Kids",Nickelodeon Sonic
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225845/01.m3u8
-#EXTINF:0, group-title="Kids",Sony Yay
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
-#EXTINF:0, group-title="Pakistani",Geo Entertainment
-http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
-#EXTINF:0, group-title="Pakistani",Zindagi TV-1
-http://live.urdustreamz.net:1935/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",5aab TV
-http://live.wmncdn.net/5aabtv/b10132dafba0b0dfbd9d8738c1e62261.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Baani
-http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Bhagya TV
-http://live.wmncdn.net/bhaagya1/54f1d025e282fee369a8f2d44998dc49.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood
-http://live.wmncdn.net/boogle/e54a58cc63ad1a32f28ef53006be2937.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",Chakde TV
-http://209.153.233.92:7000/chakde/index.m3u8
-#EXTINF:0, group-title="Punjabi",Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",DD Punjab
-http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Dhur Ki Baani
-http://live.agmediachandigarh.com/dhurkibaanitvjuly/26a4fc768f858222b8cd8872dfdfb634.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Garv Punjab-1
-http://fliue.vyrnnppgampvi.click/live/smil:trdghsvjkcasbgfasd.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Garv Punjab-2
-http://fliue.vyrnnppgampvi.click/live/smil:gfvasjnkncasjhvgcjhgd.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Global Punjab
-http://livestream.5centscdn.com/fastway/live7/index.m3u8
-#EXTINF:0, group-title="Punjabi",Gurbaani TV
-http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Hamdard TV
-http://live.wmncdn.net/hamdard/hamdardrv1.stream/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Living India News
-http://live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",MH1 Music
-http://fliue.vyrnnppgampvi.click/live/smil:hgvfjxafvbcjbhcv.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",MH1 News
-http://fliue.vyrnnppgampvi.click/live/smil:fjgsadvjlkbscahgvyudc.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Prime Asia
-http://primeasia.dyndns.tv:8080/Live_web_2500/index.m3u8
-#EXTINF:0, group-title="Punjabi",PTC Chakde
-http://fliue.vyrnnppgampvi.click/live/smil:gfhgsadgjhgsdagfdsagh.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",PTC News
-http://fliue.vyrnnppgampvi.click/live/smil:tfvwqyfdxgvdyxjdf.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",PTC Punjabi
-http://fliue.vyrnnppgampvi.click/live/smil:kjhgjfgkhfblkjagdhfjhfbkajsdhfd.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",RTV Punjabi
-http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
-#EXTINF:0, group-title="Punjabi",Sahib TV
-http://live.agmediachandigarh.com/sahibtvjuly/0a6051a36c413a1497abee3090df62ef.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Sanjha Punjab
-http://live.wmncdn.net/sanjhapunjabjune/c88fc7ba5396ca867f6bf4c0d0213d04.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Tohar TV
-http://live.wmncdn.net/tohartvjune/826aaa14b801427c57de83c05cf96b9c.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Zee Punjab
-http://195.154.46.92:1935/lon3/zeepunjabi.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Anand Media HD
-http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Arra TV
-http://arratvcloud.purplestream.in/arratvorg/smil:arratv.smil/index.m3u8
-#EXTINF:0, group-title="South Indian",Asianet
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet/Asianet.m3u8
-#EXTINF:0, group-title="South Indian",Asianet  ME
-http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Asianet Plus 1
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Plus/Asianet_Plus.m3u8
-#EXTINF:0, group-title="South Indian",Asianet Plus 2
-http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Asianet Utsav
-http://acvonline.asianetmobiletvplus.com/webstreams/mdmjoyquhlcfssxgduaquwcxcpfvadeu/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Bharat Today TV
-http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",Canada Tamils TV
-http://live.streamjo.com:1935/cctv/live/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Captain TV
-http://channels.globaliptv.net/unitedmedia/uditcphiqnxgpykxggxp/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Darshana TV ME
-http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",DD Podigai
-http://live-fs.wmncdn.net/ddpodigailive1/live1.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Zoom TV UK
-http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="South Indian",Dheeran TV
-http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Eet TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Garshom News
-http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Garshom TV
-http://livestream.5centscdn.com/garshom/feed.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Gemini TV
-http://my2.videodb.in:8081/TELUGU/GEMINI/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Jai Hind
-http://channels.globaliptv.net/unitedmedia/mnukoccvioqxuvzfmbsx/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Janan TV 
-http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",Jeevan TV
-http://live-fs.wmncdn.net/jeevantv/jeevantvlive.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Kaumudi TV
-http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",KCV
-http://cdn.live5.in:1935/live/kcv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Kerela Express TV
-http://217.182.72.190/keralaexpress593gaqk1043hls/keralaexpress593gaqk1043.m3u8
-#EXTINF:0, group-title="South Indian",KTN
-http://103.24.96.74/ktn/ktn/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",Maa Gold
-http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Gold/Maa_Gold.m3u8
-#EXTINF:0, group-title="South Indian",Maa Movies
-http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Movies/Maa_Movies.m3u8
-#EXTINF:0, group-title="South Indian",Maa TV
-http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_TV/Maa_TV.m3u8
-#EXTINF:0, group-title="South Indian",Megnavision TV
-http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
-#EXTINF:0, group-title="South Indian",MK TV
-http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
-#EXTINF:0, group-title="South Indian",NTV UAE HD
-http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:0, group-title="Greece",Ebs
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
+#EXTINF:0, group-title="Greece",Ebs Plus
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:0, group-title="South Indian",OTV News MID
 http://otvdigitalhd.in:1935/unevent/otvsmil.smil/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",Polimer TV
-http://live-fs.wmncdn.net/vpolimertv/live.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",Pravasi HD
-http://lax.globaliptv.net/pravasi/wzqsjszoeajnqnbanmpn/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Saras TV
-http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Star Vijay HD
-http://sklktcdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Vijay/Star_Vijay.m3u8
-#EXTINF:0, group-title="South Indian",Sun
-http://my2.videodb.in:8081/TAMIL/SUN_TV_2/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Super TV
-http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Suvarna TV
-http://sjpurcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Suvarna/Suvarna.m3u8
-#EXTINF:0, group-title="South Indian",TCV Thrissur
-http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0, group-title="South Indian",Unitech TV
-http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:0, group-title="South Indian",V4 News 
-rtmp://studiosystem.co.in/v4news//livestream
-#EXTINF:0, group-title="South Indian",Vaanavil TV
-http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",Vasantham TV
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Vendhar TV
-http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",Win TV
-http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
-http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Zee Telugu
-http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
-#EXTINF:0, group-title="UK",& TV UK-1
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
-#EXTINF:0, group-title="UK",& TV UK-2
-http://173.212.206.199:25461/live/ksa/indep/377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Aaj Tak UK
-http://173.212.206.199:25461/live/ksa/indep/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",ABP News UK
-http://173.212.206.199:25461/live/ksa/indep/3641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Colors TV UK
-http://173.212.206.199:25461/live/ksa/indep/136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Set Max UK
-http://173.212.206.199:25461/live/ksa/indep/391.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Sony Sab UK
-http://173.212.206.199:25461/live/ksa/indep/364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Sony TV UK
-http://173.212.206.199:25461/live/ksa/indep/358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Star Gold UK
-http://173.212.206.199:25461/live/ksa/indep/388.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Star Plus UK
-http://173.212.206.199:25461/live/ksa/indep/361.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Zee Cinema UK
-http://173.212.206.199:25461/live/ksa/indep/383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Zee TV UK
-http://173.212.206.199:25461/live/ksa/indep/140.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Zing UK
-http://173.212.206.199:25461/live/ksa/indep/421.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Zoom TV UK
-http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",Zoom TV UK
-http://173.212.206.199:25461/live/ksa/indep/420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="UK",& TV UK-1
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
-#EXTINF:0, group-title="UK",Al Jazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0, group-title="UK",Amazing Facts TV
-http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
-#EXTINF:0, group-title="UK",At The Races
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/83.ts|user-agent=wSsS
+#EXTINF:0, group-title="Indian",Madha
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+#EXTINF:0, group-title="Punjabi",Prime Asia
+http://primeasia.dyndns.tv:8080/Live_web_2500/index.m3u8
+#EXTINF:0, group-title="International",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
+#EXTINF:0, group-title="International",RT Documentary
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:0, group-title="International",RT Documentary HD
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0, group-title="UK",RT Documentary HD-2
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0, group-title="UK",RT Documentary HD-1
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0, group-title="USA",RT Documentary HD
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0, group-title="Greece",Best TV 
+http://s.bizr.gr:8080/hls/best.m3u8
+#EXTINF:0, group-title="Punjabi",RTV Punjabi
+http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
+#EXTINF:0, group-title="UK",Sky Sports News HD
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/118.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports F1 HD
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/119.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",MU TV
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/145.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",WWE Network
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/146.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Chelsea TV
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/148.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",SkyMovies Disney
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/154.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",BBC 1
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/22.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",BBC 2
@@ -916,46 +1054,26 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/23.ts|use
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/24.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",BBC 4 
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/25.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",BBC World
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0, group-title="UK",Box Nation-1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/816.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports News-1
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/309.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports F1
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/310.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",GTV
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/429.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Box Nation-2
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/44.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",BT Sports ESPN
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/792.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Capital TV-1
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0, group-title="UK",Capital TV-2
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:0, group-title="UK",Chelsea TV
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/148.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",City
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
-#EXTINF:0, group-title="UK",Clubbing TV 
-http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
-#EXTINF:0, group-title="UK",DW
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="UK",ESPN 2 USA
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/49.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",ESPN USA
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/48.ts|user-agent=wSsS
+#EXTINF:0, group-title="USA",ESPN USA
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/48.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",ESPN 2 USA
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/49.ts|user-agent=wSsS
+#EXTINF:0, group-title="USA",ESPN 2 USA
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/49.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Eurosport 1
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/50.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Eurosport 2
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/51.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",France 24 News
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
-#EXTINF:0, group-title="UK",GTV
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/429.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0, group-title="UK",History 
-http://93.91.113.8:9999/play/a06z 
-#EXTINF:0, group-title="UK",Ideal World
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
-#EXTINF:0, group-title="UK",Insight
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 #EXTINF:0, group-title="UK",ITV 1
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/52.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",ITV 2 
@@ -964,44 +1082,6 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/53.ts|use
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/54.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",ITV 4
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/55.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",JimJam 
-http://93.91.113.8:9999/play/a06n
-#EXTINF:0, group-title="UK",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0, group-title="UK",MU TV
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/145.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",My Hit
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0, group-title="UK",NDTV-1
-http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:0, group-title="UK",NDTV HD
-http://ndtv.indostan.epac.to/ndtv/247lo/live/native
-#EXTINF:0, group-title="UK",NDTV 24x7
-http://bglive-a.bitgravity.com/ndtv/247lo/live/native
-#EXTINF:0, group-title="UK",Nick Jr 
-http://93.91.113.8:9999/play/a06l 
-#EXTINF:0, group-title="UK",NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-#EXTINF:0, group-title="UK",Peace TV 
-http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
-#EXTINF:0, group-title="UK",Premier Sports
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/763.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",QVC 1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-#EXTINF:0, group-title="UK",QVC 2
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
-#EXTINF:0, group-title="UK",QVC Beauty
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
-#EXTINF:0, group-title="UK",QVC Style
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-#EXTINF:0, group-title="UK",Racing UK
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/84.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",RT Documentary HD-2
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:0, group-title="UK",RT Documentary HD-1
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:0, group-title="UK",Sky Atlantic-1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/74.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Sky Atlantic-2
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/639.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Sky Movie (Action & Adventure)
@@ -1010,6 +1090,8 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/65.ts|use
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/66.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Sky Movie (Crime & Thriller)
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/67.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Movie Christmas (Ex-Drama)
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/68.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Sky Movie (Family)
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/69.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Sky Movie (Modern Greats)
@@ -1018,143 +1100,532 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/70.ts|use
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/71.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Sky Movie (Sci Fi & Horror)
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/72.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Movie Christmas (Ex-Drama)
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/68.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky News UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0, group-title="UK",Sky Sports F1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/310.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports F1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/822.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports F1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/80.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports F1 HD
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/119.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports News-1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/309.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports News-2
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/823.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports News-3
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/81.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",Sky Sports News HD
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/118.ts|user-agent=wSsS
-#EXTINF:0, group-title="UK",SkyMovies Disney
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/154.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",SkyMovies Select
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/73.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Atlantic-1
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/74.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Premier Sports
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/763.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",BT Sports ESPN
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/792.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports F1
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/80.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports News-3
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/81.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Box Nation-1
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/816.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports F1
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/822.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Sky Sports News-2
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/823.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",At The Races
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/83.ts|user-agent=wSsS
+#EXTINF:0, group-title="UK",Racing UK
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/84.ts|user-agent=wSsS
+#EXTINF:0, group-title="International",MBC Bollywood HD
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0, group-title="International",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="UK",Sky News UK
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="USA",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="International",Sky  TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0, group-title="Greece",Axeloos
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Ankhila Punjab
+http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb-23628.ts
+#EXTINF:0, group-title="Pakistani",Geo Entertainment
+http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
+#EXTINF:0, group-title="Indian",Yoga TV -Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:0, group-title="International",France24 News
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0, group-title="UK",France 24 News
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0, group-title="Greece",Omega
+http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+#EXTINF:0, group-title="Greece",Mega Cosmos
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:0, group-title="Greece",Vouli
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:0, group-title="Indian",Zee Aflam
+http://streaming.i-sat.tv:1935/live/zee/chunklist.m3u8
 #EXTINF:0, group-title="UK",TV Knob Business and info Ch 12
 http://streams.tvknob.com/tvloops/CH12/tvknob.wsx
-#EXTINF:0, group-title="UK",TV Knob Ch1	mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
-#EXTINF:0, group-title="UK",TV Knob Movies Ch7	mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
-#EXTINF:0, group-title="UK",TV Knob music Ch3	mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
 #EXTINF:0, group-title="UK",TV Knob Prime Time Ch6
 http://streams.tvknob.com/tvloops/CH6/ch6.wsx
-#EXTINF:0, group-title="UK",TV Knob Public TV Ch2	mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
-#EXTINF:0, group-title="UK",World Fashion
-http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
-#EXTINF:0, group-title="UK",WWE Network
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/146.ts|user-agent=wSsS
-#EXTINF:0, group-title="USA",Life Ok USA
-http://173.212.206.199:25461/live/ksa/indep/366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="USA",Sony TV HD USA
-http://173.212.206.199:25461/live/ksa/indep/3591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="USA",Star Plus USA
-http://173.212.206.199:25461/live/ksa/indep/3593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="USA",Zee TV HD USA
-http://173.212.206.199:25461/live/ksa/indep/3586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="USA",ESPN 2 USA
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/49.ts|user-agent=wSsS
-#EXTINF:0, group-title="USA",ESPN USA
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/48.ts|user-agent=wSsS
-#EXTINF:0, group-title="USA",ABC News HD
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0, group-title="USA",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0, group-title="USA",Bandwagon Live Music
-http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
-#EXTINF:0, group-title="USA",Beto TV
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-#EXTINF:0, group-title="USA",Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0, group-title="South Indian",Super TV
+http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
+#EXTINF:0, group-title="USA",Smart TV
+http://telvuehls_t01587-i.akamaihd.net/hls/live/215638/T01587-slstv/playlist.m3u8
+#EXTINF:0, group-title="Indian",ET Now-1
+http://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Times Now-1
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
+#EXTINF:0, group-title="USA",Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
+#EXTINF:0, group-title="Greece",News TV
+http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Darshana TV ME
+http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",DD Sports
+http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
+#EXTINF:0, group-title="USA",WBKO Bowling Green KY
+http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
+#EXTINF:0, group-title="USA",WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0, group-title="South Indian",Win TV
+http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",History Lab (Italian)
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:0, group-title="USA",CBS 31.1 Peoria IL Illinois
 http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0, group-title="USA",CBS NEWS HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:0, group-title="USA",Create and Craft (Lifestyle) 
-http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
 #EXTINF:0, group-title="USA",DJing Animation
 http://www.djing.com/tv/animation.m3u8 
 #EXTINF:0, group-title="USA",DJing Classic
 http://www.djing.com/tv/classics.m3u8 
-#EXTINF:0, group-title="USA",DJing EDM
-http://www.djing.com/tv/live.m3u8 
-#EXTINF:0, group-title="USA",DJING Hot Hot Hot HD
-http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0, group-title="USA",DJing Dance Floor HD
+http://www.djing.com/tv/d-05.m3u8
 #EXTINF:0, group-title="USA",DJing Ibiza
 http://www.djing.com/tv/dancefloor.m3u8 
+#EXTINF:0, group-title="USA",DJING Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0, group-title="USA",DJing EDM
+http://www.djing.com/tv/live.m3u8 
 #EXTINF:0, group-title="USA",DJing Underground
 http://www.djing.com/tv/underground.m3u8 
-#EXTINF:0, group-title="USA",DJINGing Dancefloor HD
-http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0, group-title="International",DW Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:0, group-title="USA",DW Asia
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:0, group-title="USA",DW HD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0, group-title="USA",Family Friendly Entertainment
-http://54.225.64.228:1935/live/roku1/playlist.m3u8
-#EXTINF:0, group-title="USA",FOX 23 
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8 
-#EXTINF:0, group-title="USA",FOX 25 
-http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8 
-#EXTINF:0, group-title="USA",FOX 30 
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:0, group-title="USA",FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:0, group-title="USA",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0, group-title="USA",History Lab (Italian)
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:0, group-title="USA",Hope International Channel
-http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
-#EXTINF:0, group-title="USA",Ideal World
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
-#EXTINF:0, group-title="USA",JLTV (Public Documentary) 
-http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
-#EXTINF:0, group-title="USA",Juice TV 
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:0, group-title="USA",Kiroe (EQ)
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/3000.m3u8
-#EXTINF:0, group-title="USA",Kiroe (HQ)
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/1500.m3u8
-#EXTINF:0, group-title="USA",Kiroe (LQ)
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/300.m3u8
-#EXTINF:0, group-title="USA",Kiroe (MQ)
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/700.m3u8
-#EXTINF:0, group-title="USA",Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
-#EXTINF:0, group-title="USA",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0, group-title="USA",Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 
-#EXTINF:0, group-title="USA",News Zone
-http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:0, group-title="Greece",Aigaio
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="Greece",Mpaxalo TV
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="Indian",Zoom TV 2
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/index_600_av-p.m3u8
+#EXTINF:0, group-title="Indian",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="International",Ten Sports
+https://live.tune.tv/tensports/ten-sports/playlist.m3u8
+#EXTINF:0, group-title="International",Bloomberg US
+https://mediauseast.akamaized.net/us/us1_live.m3u8
+#EXTINF:0, group-title="Indian",NDTV India-1
+https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_224_av-b.m3u8
 #EXTINF:0, group-title="USA",NHK World HD
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:0, group-title="USA",RAI News
+#EXTINF:0, group-title="Greece",E-2
+https://s2.streamings.gr/epsilontv/epsilontv.m3u8
+#EXTINF:0, group-title="Indian",Big Magic HD
+https://sknwz18.skandha.tv/secure/live/smil:gergewhhwfewtg.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",Mastiii-1
+https://sknwz18.skandha.tv/secure/live/smil:ghdejfdejfcbjvbdev.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",Star Utsav-3
+https://sknwz18.skandha.tv/secure/live/smil:gyhswgcuqcgyuqcgu.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",DD National
+https://sknwz18.skandha.tv/secure/live/smil:jhgadhljcabkkbcxkj.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",Zee Anmol-1
+https://sknwz18.skandha.tv/secure/live/smil:nmadgjqwdfjqfyqfvfeq.smil/chunklist.m3u8
+#EXTINF:0, group-title="Greece",Blue Sky
+https://www.youtube.com/watch?v=6wTqFInWTUE
+#EXTINF:0, group-title="Greece",ERT Play WorldWide WebTV
+https://www.youtube.com/watch?v=Ba4voPNmZUU
+#EXTINF:0, group-title="Greece",ERT3 Worldwide WebTV
+https://www.youtube.com/watch?v=ECbJrjrcCUE
+#EXTINF:0, group-title="Greece",Euronews
+https://www.youtube.com/watch?v=-PUMTIfTvVo
+#EXTINF:0, group-title="Greece",ERT2 WorldWide WebTV
+https://www.youtube.com/watch?v=qBxbnSwOrxE
+#EXTINF:0, group-title="Greece",ERT WORLD WebTV
+https://www.youtube.com/watch?v=qRY56sJJ2to
+#EXTINF:0, group-title="Greece",ERT1 Worldwide WebTV
+https://www.youtube.com/watch?v=Zx98moCvkpU
+#EXTINF:0, group-title="UK",TV Knob Ch1	mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
+#EXTINF:0, group-title="UK",TV Knob Public TV Ch2	mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
+#EXTINF:0, group-title="UK",TV Knob music Ch3	mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
+#EXTINF:0, group-title="UK",TV Knob Movies Ch7	mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
+#EXTINF:0, group-title="Greece",Tilesport	rtmp://78.47.151.114/tilesport/movie1
+#EXTINF:0, group-title="International",Jonack	rtmp://edge-ap2.cloudfrontcdn.in/edge1//smartsh2.stream_aac
+#EXTINF:0, group-title="Bangla",Kolkata News	rtmp://edge-ap2.cloudfrontcdn.in/terry/ctvn.stream
+#EXTINF:0, group-title="Indian",Channel One News	rtmp://edge-ind.inapcdn.in/vivo/190smart.stream_aac
+#EXTINF:0, group-title="Indian", 1 India News	rtmp://live-fs.wmncdn.net/firstindianewstv1/live.stream
+#EXTINF:0, group-title="South Indian",V4 News 	rtmp://studiosystem.co.in/v4news//livestream
+#EXTINF:0, group-title="Greece",Astra	rtmp://www.astratv.gr:1935/astratv/livestream
+#EXTINF:0, group-title="USA",tvg-logo="http://2pouqfl1mif26n3ql1jslyj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/360NorthTuneIn3-650x457.jpg" ,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/QVvBPKr.jpg" ,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg" ,ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_atlantachannel_0.jpg" ,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-_2a2A7YgxZ8/AAAAAAAAAAI/AAAAAAAAAAA/oqVLX-G8DAo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-_2a2A7YgxZ8/AAAAAAAAAAI/AAAAAAAAAAA/oqVLX-G8DAo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:0,Bandwagon Live Music (Music)
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png" ,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/476x268/public/live_beachtvpawleysisland_0_0.jpg" ,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" ,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0,Beto TV (Lifestyle)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.PNG" ,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:0,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" ,Bloomberg TV
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:0,Bloomberg TV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M12K.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://cdn20.patchcdn.com/users/22877169/20170602/110144/styles/T800x600/public/article_images/city_of_bowie-1496415566-7467.jpg" ,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://phonebookoftheworld.com/usa/newyork/city/seal-of-buffalo.jpg" ,Buffalo Gov't TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" ,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/City_of_Montgomery_Great_Seal.png" ,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" ,CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" ,CBS 2 News (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" ,CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" ,CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://kpho.images.worldnow.com/images/490348_G.jpg" ,CBS 5 News (Arizona)
+http://wnmeredithaz-lh.akamaihd.net/i/MEREDITHAZ_1313@308211/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" ,CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/14552.jpg" ,CBS 13 News (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" ,CBS 47 News (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:-1,CBS 31.1 Peoria IL Illinois
+http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,CBS Boston (WBZ) (Public-News) 
+http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8? 
+#EXTINF:-1,CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.fallcreekgarland.net/Garland%20logo.png" ,CGTV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0, group-title="USA",ttvg-logo="http://i.imgur.com/IH7rVcy.png",Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:0, group-title="USA",tvg-logo="http://www.aero-news.net/images/content/general/2016/miami-seal-0616a.jpg" ,City of Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png" ,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:0,Create and Craft (Lifestyle) 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3251.jpg" ,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3250.gif" ,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3249.png" ,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://referenceur-tv.com/wp-content/uploads/2013/04/dbtv-tv-online-live-free-channel-streaming.png" ,DBTV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0,Deutsche Welle (Lifestyle) 
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" ,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://dcps.dc.gov/sites/default/files/styles/medium/public/dc/sites/dcps/service_content/images/district-knowledge-network-.jpg" ,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" ,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:0,DJING Dancefloor HD (Music) (Wuffy Player)
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0,DJing Ibiza (Public-Music) (Wuffy Player)
+http://www.djing.com/tv/dancefloor.m3u8 
+#EXTINF:0,DJing EDM (Public-Music) (Wuffy Player)
+http://www.djing.com/tv/live.m3u8 
+#EXTINF:0,DJing Underground (Public-Music) (Wuffy Player) 
+http://www.djing.com/tv/underground.m3u8 
+#EXTINF:0,DJing Classic (Public-Music) (Wuffy Player)
+http://www.djing.com/tv/classics.m3u8 
+#EXTINF:0,DJing Animation (Public-Music) (Wuffy Player)
+http://www.djing.com/tv/animation.m3u8 
+#EXTINF:0,DJING Hot Hot Hot HD (Music) (Wuffy Player)
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0,DW Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://myescambia.com/assets/images/seal.jpg" ,ECTV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,Family Friendly Entertainment (Family)
+http://54.225.64.228:1935/live/roku1/playlist.m3u8
+#EXTINF:0,Florida Ch (Lifestyle) 
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:0, group-title="USA",tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" ,Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" ,FOX 13 News (Memphis)
+http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+#EXTINF:-1,FOX 23 
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" ,FOX 25 News (New England)
+http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png" ,Fox News 30 (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" ,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" ,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.cabq.gov/culturalservices/govtv/images/GOV%20TV%20live%20stream%20image.jpg/@@images/2e1b9909-8d45-4e86-b54b-375bb71bf3fb.jpeg" ,GOV TV 16
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/cabq/mp4:G1163_002/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.greenbeltmd.gov/images/InfoAdvanced/52/municipal%20Access.jpg" ,Greenbelt Municipal Access TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:0,HEART TV (Music) 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,HISTORY LAB – ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:0,Hope International Channel (Family) 
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-House-Channel_o.jpg" ,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" ,HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" ,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:0,Ideal World (Lifestyle) (UK) 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" ,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,JLTV (Public-Documentary) 
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0,Juce tv (Family) 
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/kbvrtv-profile_image-666cfc3f59b5f449-300x300.jpeg" ,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" ,KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg" ,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png" ,KIRO 7 News (Seattle)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" ,KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" ,KOKI Fox 23 (Tulsa)
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" ,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/4059.jpg" ,KTVU News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" ,KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.cityoflaurel.org/system/files/styles/facebook_big/private/images/laurel-wide-logo.png" ,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg" ,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:0,Miami TV (Lifestyle) 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/5249.jpg" ,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" ,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0,Music Box (Music) 
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0, group-title="USA",tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" ,Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg" ,Naples TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" ,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" ,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,NBC News Live
+http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/N2mDQbE.jpg" ,NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" ,NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/14551.jpg" ,NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:0, group-title="USA",tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" ,News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" ,NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" ,NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg" ,NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" ,NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0,News zone (Public-Entertainment) 
+http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cnlsierra.org/wp-content/uploads/2014/11/NCTV-2015.jpg" ,Nevada County TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-3/nevco/mp4:G0644_001/chunklist_w1334900630.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/9095.png" ,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" ,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0,PAC 12 Arizona HD (Sports) 
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC 12 Arizona (Sports) 
+http://xrxs.net/video/live-p12ariz-1164.m3u8?
+#EXTINF:0,PAC 12 Bay Area HD (Sports) 
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC 12 Bay Area (Sports) 
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:0,PAC 12 Los Angeles HD (Sports) 
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC 12 Los Angeles (Sports) 
+http://xrxs.net/video/live-p12losa-1164.m3u8?
+#EXTINF:0,PAC 12 Mountain HD (Sports) 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,PAC 12 Mountain (Sports) 
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:0,PAC 12 Network HD (Sports) 
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,PAC 12 Network (Sports) 
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:0,PAC 12 Oregon HD (Sports) 
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,PAC 12 Oregon (Sports) 
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0,PAC 12 Washington HD (Sports) 
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:0,PAC 12 Washington (Sports) 
+http://xrxs.net/video/live-p12wash-1164.m3u8?
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Prince_George's_County_Public_Schools_Logo.svg/1011px-Prince_George's_County_Public_Schools_Logo.svg.png" ,PG's County Public Schools
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" ,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,RAI NEWS
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
-#EXTINF:0, group-title="USA",RT Documentary HD
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:0, group-title="USA",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0, group-title="USA",Smart TV
+#EXTINF:0, group-title="USA",tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png" ,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png" ,Russia Today America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.ryeny.gov/images/ryeTV/button.jpg" ,Rye TV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/566359150813143040/WqkPT9so.jpeg" ,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" ,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:0,Smart TV (Family) 
 http://telvuehls_t01587-i.akamaihd.net/hls/live/215638/T01587-slstv/playlist.m3u8
-#EXTINF:0, group-title="USA",TV5 Monde
+#EXTINF:0, group-title="USA",tvg-logo="http://www2.selu.edu/thesoutheasternchannel/schedule/images/sectv.jpg" ,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.stpete.org/logo/images/city_logo_color.gif" ,St. Petersburg TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/1596231467/TUTV_vimeo_logo.png" ,Temple University TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://watchtstv.com/assets/images/TSTV_extracted.png" ,Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" ,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" ,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.thefloridachannel.org/wp-content/themes/tfc/images/logo.png" ,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:0,TruTV (Public-Entertainment) 
+http://185.62.86.6:8081/hls/trutv.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" ,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TV5 MONDE
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:0, group-title="USA",Vibe UK 
+#EXTINF:0, group-title="USA",tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg" ,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg" ,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/UCTV.PNG" ,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.uga.edu/assets/img/GEORGIA-V-FC.png" ,University of Georgia
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" ,VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,Vibee (Public-Music) (UK) 
 http://46.101.21.42:8081/abr/abr/playlist.m3u8 
-#EXTINF:0, group-title="USA",WBKO Bowling Green KY
+#EXTINF:0,WBKO  Bowling Green KY (Public-News) 
 http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
-#EXTINF:0, group-title="USA",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 
-#EXTINF:0, group-title="USA",WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" ,WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/H00wiqw.jpg" ,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3144.jpg" ,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" ,WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/Voh8plV.jpg" ,White Plains Community Media
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/1795192458/n23000337_31608642_9029.jpg" ,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png" ,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg" ,WPXI News (Pittsburg)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg" ,WSOC 9 News (Charlotte)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" ,WTPC 16 (Virginia)
+http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" ,WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" ,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg" ,Comedy Central (Wuffy Player)
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg" ,Investigation Discovery (Wuffy Player)
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/4217.jpg" ,NatGeo Wild (Wuffy Player)
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg" ,Science (Wuffy Player)
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg" ,truTV (Wuffy Player)
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/373.jpg" ,Velocity (Wuffy Player)
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg" ,NBA TV (Wuffy Player)
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" ,Assemblee Nationale du Quebec (French)
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg" ,Canal Savoir (French)
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.PNG" ,CHCH
+http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" ,CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="https://www.ebosscanada.com/wp-content/uploads/2016/10/The-Weather-Network_01.jpg" ,The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" ,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
