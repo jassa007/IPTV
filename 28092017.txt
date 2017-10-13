@@ -617,7 +617,7 @@ http://178.62.176.153/hls/tv100/index.m3u8
 #EXTINF:0, group-title="Greece",Alpha (Country Limitation)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0, group-title="Punjabi",Zee Punjab
-http://195.154.46.92:1935/lon3/zeepunjabi.stream/playlist.m3u8
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/116.m3u8
 #EXTINF:0, group-title="UK",Peace TV 
 http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
 #EXTINF:0, group-title="UK",My Hit
