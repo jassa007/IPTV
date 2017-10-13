@@ -744,10 +744,6 @@ http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:0, group-title="International",Headlines Today
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0, group-title="Bangla",Zee 24 Ghanta
-http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/24_ghanta_iwpl.smil/chunklist_w1628993217_b864000.m3u8?e=1506634227&h=babb8e6a7e496e3b82fcde64c6dd054b
-#EXTINF:0, group-title="Bangla",Zee 24 Taas
-http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/zee_24taas_App.smil/playlist.m3u8?e=1506634085&h=b534a7a030bf9af7790f1cdbdbc6ac20
 #EXTINF:0, group-title="UK",DW
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="Indian",Deutsche Welle
