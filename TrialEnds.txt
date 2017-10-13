@@ -1,22 +1,20 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,YOUR
+#EXTINF:0,  tvg-logo=http://www.hrperformancesolutions.net/templates/HRPS_2015/images/FreeTrial.png ,YOUR
 http://..........
-#EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,TRIAL
+#EXTINF:0,  tvg-logo=http://www.hrperformancesolutions.net/templates/HRPS_2015/images/FreeTrial.png ,TRIAL
 http://..........
-#EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,PERIOD 
+#EXTINF:0,  tvg-logo=http://www.hrperformancesolutions.net/templates/HRPS_2015/images/FreeTrial.png ,PERIOD 
 http://..........
-#EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,HAVE
+#EXTINF:0,  tvg-logo=http://www.hrperformancesolutions.net/templates/HRPS_2015/images/FreeTrial.png ,HAVE
 http://..........
-#EXTINF:0,  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED !
+#EXTINF:0,  tvg-logo=http://thewindowsclub.thewindowsclubco.netdna-cdn.com/wp-content/uploads/2015/01/How-does-trial-version-software-work.png ,EXPIRED !
 http://..........
-
-
-EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,==Please==
+EXTINF:0,  tvg-logo=http://202.157.189.49/clicktocall/customer_assets/img/Click-To-Call-Icon.png ,==Please==
 http://..........
-EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,==Contact==
+EXTINF:0,  tvg-logo=http://202.157.189.49/clicktocall/customer_assets/img/Click-To-Call-Icon.png ,==Contact==
 http://..........
-EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,==Jassa==
+EXTINF:0,  tvg-logo=http://202.157.189.49/clicktocall/customer_assets/img/Click-To-Call-Icon.png ,==Jassa==
 http://..........
-EXTINF:0,  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,==Singh==
+EXTINF:0,  tvg-logo=http://202.157.189.49/clicktocall/customer_assets/img/Click-To-Call-Icon.png ,==Singh==
 http://..........
