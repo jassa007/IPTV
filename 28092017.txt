@@ -216,7 +216,7 @@ http://173.212.206.199:25461/live/ksa/indep/357.ts|refferer=http://solidstreamz.
 http://173.212.206.199:25461/live/ksa/indep/358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="UK",Sony TV UK
 http://173.212.206.199:25461/live/ksa/indep/358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",UtTV Action
+#EXTINF:0, group-title="Indian",UtTV 
 http://173.212.206.199:25461/live/ksa/indep/3584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Zee TV HD-2
 http://173.212.206.199:25461/live/ksa/indep/3585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
@@ -277,7 +277,7 @@ http://173.212.206.199:25461/live/ksa/indep/361.ts|refferer=http://solidstreamz.
 #EXTINF:0, group-title="Indian",Zee Living
 http://173.212.206.199:25461/live/ksa/indep/3610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Zee Cinema HD
-http://173.212.206.199:25461/live/ksa/indep/3611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/117.m3u8
 #EXTINF:0, group-title="Indian",Star Gold HD-2
 http://173.212.206.199:25461/live/ksa/indep/3612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Sony Max HD-2
@@ -420,7 +420,7 @@ http://173.212.206.199:25461/live/ksa/indep/3676.ts|refferer=http://solidstreamz
 http://173.212.206.199:25461/live/ksa/indep/3677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",History 18 (Hindi)
 http://173.212.206.199:25461/live/ksa/indep/3678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:0, group-title="Indian",Housefull Action
+#EXTINF:0, group-title="Indian",Housefull 
 http://173.212.206.199:25461/live/ksa/indep/3679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Life Ok Mena
 http://173.212.206.199:25461/live/ksa/indep/368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
@@ -607,7 +607,7 @@ http://173.212.206.199:25461/live/ksa/indep/444.ts|refferer=http://solidstreamz.
 #EXTINF:0, group-title="Indian",News 24
 http://173.212.206.199:25461/live/ksa/indep/445.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Indian",Zee News
-http://173.212.206.199:25461/live/ksa/indep/446.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/117.m3u8
 #EXTINF:0, group-title="Indian",Republic TV
 http://173.212.206.199:25461/live/ksa/indep/887.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0, group-title="Greece",TV1
@@ -855,7 +855,7 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0, group-title="Pakistani",Zindagi TV-1
 http://live.urdustreamz.net:1935/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
-http://live.wmncdn.net/5aabtv/b10132dafba0b0dfbd9d8738c1e62261.sdp/mono.m3u8
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Bhagya TV
