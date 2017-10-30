@@ -201,6 +201,38 @@ https://www.youtube.com/watch?v=-PUMTIfTvVo
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/50.ts|user-agent=wSsS
 #EXTINF:0, group-title="UK",Eurosport 2
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/51.ts|user-agent=wSsS
+#EXTINF:0, group-title="Indian",Sony TV
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Mix
+http://125.17.129.4/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:0, group-title="Indian",Discovery Turbo
+http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
+#EXTINF:0, group-title="Indian",Sony Max
+http://125.17.129.4/PLTV/88888888/224/3221225811/02.m3u8
+#EXTINF:0, group-title="Indian",Sony Max 2
+http://125.17.129.4/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Sab-1
+http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Sab-2
+http://125.17.129.4/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Six
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:0, group-title="Indian",Zee Cinema
+http://125.17.129.4/PLTV/88888888/224/3221225935/02.m3u8
+#EXTINF:0, group-title="Indian",Zee TV
+http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:0, group-title="Indian",Zee TV HD-1
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/03.m3u8
+#EXTINF:0, group-title="Indian",Zee TV 1080p
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
+#EXTINF:0, group-title="Indian",Zee TV-2
+http://125.17.129.4/PLTV/88888888/224/3221225878/02.m3u8
+#EXTINF:0, group-title="Indian",& TV
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="Indian",Big Magic
+http://125.17.129.4/PLTV/88888888/224/3221225745/01.m3u8
+#EXTINF:0, group-title="Indian",Zee TV HD-2
+http://125.17.129.4/PLTV/88888888/224/3221225878/01.m3u8
 #EXTINF:0, group-title="Indian",Food Food-1
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
 #EXTINF:0, group-title="USA",FOX 23 
@@ -908,8 +940,6 @@ http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 #EXTINF:0, group-title="USA",tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-
-
 #EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" ,Assemblee Nationale du Quebec (French)
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg" ,Canal Savoir (French)
