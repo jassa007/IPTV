@@ -1156,39 +1156,39 @@ http://69.30.251.42:25461/live/image/old/498.ts|refferer=http://solidstreamz.com
 http://69.30.251.42:25461/live/image/old/522.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
 http://69.30.251.42:25461/live/image/old/523.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",KTV HD
+#EXTINF:0, group-title="Pakistani",KTV HD
 http://69.30.251.42:25461/live/image/old/135.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",On TV
+#EXTINF:0, group-title="Pakistani",On TV
 http://69.30.251.42:25461/live/image/old/121.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",PTV Home
+#EXTINF:0, group-title="Pakistani",PTV Home
 http://69.30.251.42:25461/live/image/old/100.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Royal News
+#EXTINF:0, group-title="Pakistani",Royal News
 http://69.30.251.42:25461/live/image/old/67.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Silver Screen
+#EXTINF:0, group-title="Pakistani",Silver Screen
 http://69.30.251.42:25461/live/image/old/72.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Sindh TV 
+#EXTINF:0, group-title="Pakistani",Sindh TV 
 http://69.30.251.42:25461/live/image/old/126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Sindh TV News
+#EXTINF:0, group-title="Pakistani",Sindh TV News
 http://69.30.251.42:25461/live/image/old/127.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Star Max
+#EXTINF:0, group-title="Pakistani",Star Max
 http://69.30.251.42:25461/live/image/old/76.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",StarAsia News
+#EXTINF:0, group-title="Pakistani",StarAsia News
 http://69.30.251.42:25461/live/image/old/94.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Starlite
+#EXTINF:0, group-title="Pakistani",Starlite
 http://69.30.251.42:25461/live/image/old/78.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Such TV
+#EXTINF:0, group-title="Pakistani",Such TV
 http://69.30.251.42:25461/live/image/old/99.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Times TV
+#EXTINF:0, group-title="Pakistani",Times TV
 http://69.30.251.42:25461/live/image/old/117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Vibe TV
+#EXTINF:0, group-title="Pakistani",Vibe TV
 http://69.30.251.42:25461/live/image/old/119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",VSH News
+#EXTINF:0, group-title="Pakistani",VSH News
 http://69.30.251.42:25461/live/image/old/116.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Waqt News
+#EXTINF:0, group-title="Pakistani",Waqt News
 http://69.30.251.42:25461/live/image/old/71.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Zaiqa
+#EXTINF:0, group-title="Pakistani",Zaiqa
 http://69.30.251.42:25461/live/image/old/92.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
-#EXTINF:0, group-title="South Indian",Zindagi TV
+#EXTINF:0, group-title="Pakistani",Zindagi TV
 http://69.30.251.42:25461/live/image/old/113.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
 #EXTINF:0, group-title="South Indian",Manorma News
 http://69.30.251.42:25461/live/image/old/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
