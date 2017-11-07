@@ -433,7 +433,7 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="UK",Premier Sports
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/763.ts|user-agent=wSsS
 #EXTINF:0, group-title="Punjabi",Prime Asia
-http://primeasia.dyndns.tv:8080/Live_web_2500/index.m3u8
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTC Chak De
 http://103.228.155.76:9981/stream/channelid/10252611?ticket=217E7150C5058100BA51124B609D3426BB24D2EC&profile=pass
 #EXTINF:0, group-title="UK",QVC 1
