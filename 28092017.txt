@@ -77,6 +77,12 @@ http://s.bizr.gr:8080/hls/best.m3u8
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:0, group-title="Punjabi",Bhagya TV
 http://live.wmncdn.net/bhaagya1/54f1d025e282fee369a8f2d44998dc49.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",RTV Punjabi
+http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
+#EXTINF:0, group-title="Punjabi",Amrit Bani TV
+http://www.amritbani.tv/VMSPlayer_770x476.swf
+#EXTINF:0, group-title="Punjabi",Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Bharat Today TV
 http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
 #EXTINF:0, group-title="Indian",Big Magic-1
