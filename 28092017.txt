@@ -16,7 +16,7 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Aaj_Tak
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=MTV
 #EXTINF:0, group-title="South Indian",Sun TV
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sun_TV
-#EXTINF:0, group-title="Marathi",Colors Marathi
+#EXTINF:0, group-title="Indian",Colors Marathi
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Colors_Marathi
 #EXTINF:0, group-title="South Indian",Surya TV
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Surya_TV
@@ -938,7 +938,7 @@ http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Asianet
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Jalsa_Movies_HD
 #EXTINF:0, group-title="South Indian",Star Vijay HD
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Star_Vijay
-#EXTINF:0, group-title="Marathi",Colors Marathi HD
+#EXTINF:0, group-title="Indian",Colors Marathi HD
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Colors_Marathi_HD
 #EXTINF:0, group-title="Bangla",Colors Bengali HD
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Colors_Bengali_HD
@@ -1393,7 +1393,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Kids",Sony Yay
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
-#EXTINF:0, group-title="Pakistani",Zindagi TV-1
+#EXTINF:0, group-title="International",Zindagi TV-1
 http://live.urdustreamz.net:1935/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
