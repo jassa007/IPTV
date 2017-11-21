@@ -1,7 +1,3 @@
-
-
-
-
 #EXTM3U
 
 #EXTINF:0, group-title="Indian",Rishtey
@@ -13,7 +9,7 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_Pal
 #EXTINF:0, group-title="Punjabi",Sangat TV
 https://livestream-f.akamaihd.net/i/6986636_5362122_lsitfk6580x31ipcx5a_1@408678/master.m3u8?__b__=446&dw=14400&hdnea=st=1511234718~exp=1511236518~acl=/i/6986636_5362122_lsitfk6580x31ipcx5a_1@408678/*~hmac=8b866f38bff17cc100a09c57ab33a384184fe9bcf3ce1db65cf1f0d5e1717301&__a__=off
 #EXTINF:0, group-title="Punjabi",Pitaara TV
-http://posthlstest-i.akamaihd.net/hls/live/244398/testhls/900-20171121-1511233907.ts
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/03.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
