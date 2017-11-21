@@ -6,6 +6,8 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Rishtey
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Zee_Anmol
 #EXTINF:0, group-title="Indian",Sony Pal
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_Pal
+#EXTINF:0, group-title="Punjabi",Desi Channel
+http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_punjab.m3u8
 #EXTINF:0, group-title="Indian",Sony SAB
