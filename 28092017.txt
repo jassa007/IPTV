@@ -1014,8 +1014,6 @@ http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Sanjha_TV
 http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=PBN_Music
-#EXTINF:0, group-title="Punjabi",Desi Channel
-http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Desi_Channel
 #EXTINF:0, group-title="Indian",Star Bharat HD
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Star_Bharat_HD
 #EXTINF:0, group-title="Indian",PlayMyPlay
