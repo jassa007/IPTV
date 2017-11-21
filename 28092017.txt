@@ -1008,8 +1008,8 @@ http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Udaya_HD
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Only_Music
 #EXTINF:0, group-title="Punjabi",Sanjha TV
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=Sanjha_TV
-#EXTINF:0, group-title="Punjabi",Global Sanjha
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
+#EXTINF:0, group-title="Punjabi",Global Sanjh
+http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://bein.website/ZonaLiveTV1/IndiaHD.m3u8?id=PBN_Music
 #EXTINF:0, group-title="Punjabi",Desi Channel
