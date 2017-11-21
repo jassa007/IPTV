@@ -1,5 +1,6 @@
 
 
+
 #EXTM3U
 
 #EXTINF:0, group-title="Indian",Rishtey
@@ -8,6 +9,8 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Rishtey
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Zee_Anmol
 #EXTINF:0, group-title="Indian",Sony Pal
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_Pal
+#EXTINF:0, group-title="Punjabi",Pitaara TV
+http://posthlstest-i.akamaihd.net/hls/live/244398/testhls/900-20171121-1511233907.ts
 #EXTINF:0, group-title="Punjabi",Jhanjar TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
