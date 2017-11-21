@@ -8,8 +8,10 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Zee_Anmol
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_Pal
 #EXTINF:0, group-title="Indian",Sony SAB
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_SAB
-#EXTINF:0, group-title="Indian",CNN News 18
-http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=CNN_NEWS_18
+#EXTINF:0, group-title="Indian",Movies Now2
+http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Movies_Now2
+#EXTINF:0, group-title="Punjabi",BritAsia
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Indian",Aaj Tak
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Aaj_Tak
 #EXTINF:0, group-title="Indian",MTV
