@@ -6,8 +6,22 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Rishtey
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Zee_Anmol
 #EXTINF:0, group-title="Indian",Sony Pal
 http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_Pal
-#EXTINF:0, group-title="Punjabi",Sangat TV
-https://livestream-f.akamaihd.net/i/6986636_5362122_lsitfk6580x31ipcx5a_1@408678/master.m3u8?__b__=446&dw=14400&hdnea=st=1511234718~exp=1511236518~acl=/i/6986636_5362122_lsitfk6580x31ipcx5a_1@408678/*~hmac=8b866f38bff17cc100a09c57ab33a384184fe9bcf3ce1db65cf1f0d5e1717301&__a__=off
+#EXTINF:0, group-title="Punjabi",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Property Buzz TV
+http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Life Punjabi Channel
+http://ovgdknmydmpw-hls-live.wmncdn.net/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Punjabi",Tag TV
+http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/toronto360/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara TV
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/03.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar TV
