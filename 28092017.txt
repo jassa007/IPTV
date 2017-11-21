@@ -10,8 +10,6 @@ http://bein.website/ZonaLiveTV1/IndiaSD.m3u8?id=Sony_Pal
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Life Punjabi Channel
-http://ovgdknmydmpw-hls-live.wmncdn.net/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Punjabi",Tag TV
