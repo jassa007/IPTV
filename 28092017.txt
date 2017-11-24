@@ -796,8 +796,6 @@ http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=ZOOM
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",9X Tashan (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=9X_Tashan
-#EXTINF:0, group-title="Punjabi",Amrit Bani TV
-http://www.amritbani.tv/VMSPlayer_770x476.swf
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Baani
