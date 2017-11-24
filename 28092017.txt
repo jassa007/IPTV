@@ -1368,19 +1368,19 @@ http://video.oct.dc.gov/out/u/DCN.m3u8
 http://video.oct.dc.gov/out/u/96_4.m3u8
 #EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:0,DJING Dancefloor HD (Music) (Wuffy Player)
+#EXTINF:0,DJING Dancefloor HD (Music) 
 http://www.djing.com/tv/d-05.m3u8
-#EXTINF:0,DJing Ibiza (Public-Music) (Wuffy Player)
+#EXTINF:0,DJing Ibiza (Public-Music) 
 http://www.djing.com/tv/dancefloor.m3u8 
-#EXTINF:0,DJing EDM (Public-Music) (Wuffy Player)
+#EXTINF:0,DJing EDM (Public-Music) 
 http://www.djing.com/tv/live.m3u8 
-#EXTINF:0,DJing Underground (Public-Music) (Wuffy Player) 
+#EXTINF:0,DJing Underground (Public-Music)  
 http://www.djing.com/tv/underground.m3u8 
-#EXTINF:0,DJing Classic (Public-Music) (Wuffy Player)
+#EXTINF:0,DJing Classic (Public-Music) 
 http://www.djing.com/tv/classics.m3u8 
-#EXTINF:0,DJing Animation (Public-Music) (Wuffy Player)
+#EXTINF:0,DJing Animation (Public-Music) 
 http://www.djing.com/tv/animation.m3u8 
-#EXTINF:0,DJING Hot Hot Hot HD (Music) (Wuffy Player)
+#EXTINF:0,DJING Hot Hot Hot HD (Music) 
 http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:0,,DW HD
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
@@ -1622,21 +1622,21 @@ http://93.91.113.8:9999/play/a06z
 http://93.91.113.8:9999/play/a06n
 #EXTINF:0, group-title="USA",, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central 
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery 
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild 
 http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science 
 http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV 
 http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity 
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV 
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet (Wuffy Player)
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet 
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="USA",Arena Sport 1
 rtmp://139.59.120.168:1935/live/arenasport1.stream
@@ -1776,21 +1776,21 @@ http://93.91.113.8:9999/play/a06z
 http://93.91.113.8:9999/play/a06n
 #EXTINF:0, group-title="UK", Nick Jr 
 http://93.91.113.8:9999/play/a06l 
-#EXTINF:0, group-title="UK",tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central 
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery 
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild 
 http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science 
 http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV 
 http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity 
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV 
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:0, group-title="UK",tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet (Wuffy Player)
+#EXTINF:0, group-title="UK",tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet 
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="UK",3E
 http://69.30.251.42:25461/live/newapk/onew/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
@@ -1890,7 +1890,6 @@ http://69.30.251.42:25461/live/newapk/onew/640.ts|refferer=http://solidstreamz.c
 http://69.30.251.42:25461/live/newapk/onew/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:0, group-title="UK",RTE 2
 http://69.30.251.42:25461/live/newapk/onew/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/146.ts|user-agent=wSsS
 #EXTINF:0, group-title="France",Arte TV (Chona)
 http://bein.website/ZonaLiveTV2/FR.m3u8?id=arte
 #EXTINF:0, group-title="France",Chasse et Peche (Chona)
