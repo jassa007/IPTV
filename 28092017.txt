@@ -2098,19 +2098,11 @@ http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
 #EXTINF:0, group-title="International",Movies Now
 http://my2.videodb.in:8081/ENGLISH/MOVIESNOW/playlist.m3u8
 #EXTINF:0, group-title="International",MTA Bangla
-http//ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8?secure_ios_token=RWM5a3pJM3U0NTlQWUFHb1BUd1JTMUZDZU5RMzJZdkx6K1p2SjlQNWdKWTlrZU1WZU5JcjY2S3VYbDZ5CnB6b1pQUGhmZk9BTmVLN3crSUw4aVh4TVBnPT0K" preload="none" crossorigin="anonymous"></video>
-#EXTINF:0, group-title="International",MTA Bangla
 http://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8?secure_ios_token=RWM5a3pJM3U0NTlQWUFHb1BUd1JTMUZDZU5RMzJZdkx6K1p2SjlQNWdKWTlrZU1WZU5JcjY2S3VYbDZ5CnB6b1pQUGhmZk9BTmVLN3crSUw4aVh4TVBnPT0K" preload="none" crossorigin="anonymous"></video>
-#EXTINF:0, group-title="International",MTA English
-http//ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8?secure_ios_token=L2VVcTlpQjJySEx3cVdLcFpOL0NTcnVNRE52UkNyU2tJakFZOUp3ei9MZGg0Z3JKVFJvY3JlZGFqSFFSCnY2WjFEekwxNUF6eGdsMjh2Y0hMZVdMT2VBPT0K
 #EXTINF:0, group-title="International",MTA English
 http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8?secure_ios_token=L2VVcTlpQjJySEx3cVdLcFpOL0NTcnVNRE52UkNyU2tJakFZOUp3ei9MZGg0Z3JKVFJvY3JlZGFqSFFSCnY2WjFEekwxNUF6eGdsMjh2Y0hMZVdMT2VBPT0K
 #EXTINF:0, group-title="International",MTA Original
-http//ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8?secure_ios_token=Ky92RWptb3U3TmZkOUUxemx1YXZIZXBMYXg4MWNUZnVwUXFiZ055bllLbHl5b3FrZmp3UCthWnNOckdNCkNrVWFzR3hDbnBpWWdteExwSVE4WFp5a25nPT0K
-#EXTINF:0, group-title="International",MTA Original
 http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8?secure_ios_token=Ky92RWptb3U3TmZkOUUxemx1YXZIZXBMYXg4MWNUZnVwUXFiZ055bllLbHl5b3FrZmp3UCthWnNOckdNCkNrVWFzR3hDbnBpWWdteExwSVE4WFp5a25nPT0K
-#EXTINF:0, group-title="International",MTA Urdu
-http//ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
 #EXTINF:0, group-title="International",MTA Urdu
 http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
 #EXTINF:0, group-title="International",Nassim TV
