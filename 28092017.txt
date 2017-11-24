@@ -801,7 +801,7 @@ http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Baani
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood (Jio)
-http://bein.website/ZonaLiveTV2/IndiaHD.m3u8?id=Boogle_Bollywood
+http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Boogle_Bollywood
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
