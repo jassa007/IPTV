@@ -1246,7 +1246,7 @@ http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Pogo_Tamil
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=sonic_Hindi
 #EXTINF:0, group-title="Kids",Sonic Nickelodeon (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Sonic_Nickelodeon
-#EXTINF:0, group-title="Kids",sonic Tamil (Jio)
+#EXTINF:0, group-title="Kids",Sonic Tamil (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=sonic_Tamil
 #EXTINF:0, group-title="Kids",Sony Yay
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
