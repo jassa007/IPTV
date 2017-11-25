@@ -864,7 +864,7 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Sanjha TV (Jio)
+#EXTINF:0, group-title="Punjabi",Sanjha TV HD (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Sanjha_TV
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
