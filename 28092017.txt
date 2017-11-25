@@ -812,14 +812,14 @@ http://209.153.233.92:7000/chakde/index.m3u8
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Chardikla_Time_TV
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",DD Punjab
+#EXTINF:0, group-title="Punjabi",DD Punjabi
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=DD_Punjabi
 #EXTINF:0, group-title="Punjabi",Desi Channel
 http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Channel (Jio)
-http://bein.website/ZonaLiveTV2/IndiaHD.m3u8?id=Desi_Channel
+http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Desi_Channel
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
@@ -827,7 +827,7 @@ http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",Garv Punjabi (Jio)
 http://bein.website/ZonaLiveTV2/IndiaHD.m3u8?id=Garv_Punjabi
 #EXTINF:0, group-title="Punjabi",Garv Punjabi Gurbani (Jio)
-http://bein.website/ZonaLiveTV2/IndiaHD.m3u8?id=Garv_Gurbani
+http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Garv_Gurbani
 #EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
@@ -848,12 +848,12 @@ http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=JUSOne
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=JUSPunjabi
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",mh1 (Music) (Jio)
+#EXTINF:0, group-title="Punjabi",mh1 Music (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=mh1_Music
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music (Jio)
-http://bein.website/ZonaLiveTV2/IndiaHD.m3u8?id=PBN_Music
+http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=PBN_Music
 #EXTINF:0, group-title="Punjabi",Pitaara (Jio)
 http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Pitaara
 #EXTINF:0, group-title="Punjabi",Pitaara TV
@@ -865,7 +865,7 @@ http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha TV (Jio)
-http://bein.website/ZonaLiveTV2/IndiaHD.m3u8?id=Sanjha_TV
+http://bein.website/ZonaLiveTV2/IndiaSD.m3u8?id=Sanjha_TV
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Tag TV
