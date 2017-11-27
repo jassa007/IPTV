@@ -12,8 +12,6 @@ http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110.m3u8
 http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
 #EXTINF:0, group-title="Indian",9x Music Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/543.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Aaj Tak (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD500L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Aaj Tak Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2222.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",AajTak
@@ -38,10 +36,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2147.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2148.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Big Magic
 http://125.17.129.4/PLTV/88888888/224/3221225745/01.m3u8
-#EXTINF:0, group-title="Indian",Bloomberg Quint (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD355L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Bollywood Masala (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",BTV World Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/680.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Caccia Dr.
@@ -66,8 +60,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2133.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2269.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",D2H Cinema Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2270.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",DD Bharti (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD251L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",DD Lok Sabha
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:0, group-title="Indian",DD Rajya Sabha
@@ -76,8 +68,6 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
 #EXTINF:0, group-title="Indian",DD UP Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2298.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Delhi Aaj Tak (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD68L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Desi Beats HD
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 #EXTINF:0, group-title="Indian",Discovery Turbo
@@ -86,8 +76,6 @@ http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
 #EXTINF:0, group-title="Indian",ET Now
 http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
-#EXTINF:0, group-title="Indian",ET Now (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD97L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",ETV (UK) Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/243.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",ETV MP
@@ -106,8 +94,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/242.ts|User-A
 http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
 #EXTINF:0, group-title="Indian",Food Food
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
-#EXTINF:0, group-title="Indian",Food Food (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD139L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Food Food TV Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2151.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Gyan Yogi Dr.
@@ -122,30 +108,18 @@ http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
 #EXTINF:0, group-title="Indian",India News
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD148L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India News Haryana
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News MP (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD141L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India News MP CG
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
 #EXTINF:0, group-title="Indian",India News Raj
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News Raj (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD143L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India News UP
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News UP (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD144L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India Today Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2273.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
-#EXTINF:0, group-title="Indian",India Voice (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD321L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",IndiaToday (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD72L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Ishwar TV
 http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Jalsha Movies Dr.
@@ -162,8 +136,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2268.ts|User-
 http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
 #EXTINF:0, group-title="Indian",Mahua Plus
 http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Mangalmay (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD107L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
 #EXTINF:0, group-title="Indian",Movies OK Dr.
@@ -230,16 +202,12 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/541.ts|User-A
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2278.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Rishtey (ME) Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2279.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",RT Movies (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD258L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Sadhana News
 http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana Plus News
 http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana TV
 http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Sanjeev Kapoor- Wonder Chef (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD266L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Sanskar TV Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2280.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sonic Nick Dr.
@@ -284,8 +252,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2155.ts|User-
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
 #EXTINF:0, group-title="Indian",Sony TV HD Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2267.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sristi 35mm (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD87L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Star Bharat HD Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2152.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Star Gold  Dr.
@@ -334,10 +300,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2291.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/820.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Star World Premier HD Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/819.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Swasthik TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD341L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Taaza TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Ten 1 Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2292.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Ten 2 Dr.
@@ -352,24 +314,16 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2231.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2294.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Ten Sports Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2216.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Tez (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD79L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Times Now
 http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
-#EXTINF:0, group-title="Indian",Times Now (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Times Now Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2221.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Toonami (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Travel XP HD Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/818.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",UTV Bindass Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2295.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",UTV Movies Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2296.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Vaani (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Willow HD (Backup) Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/226.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Willow HD Dr.
@@ -426,8 +380,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2307.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2308.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="Indian",Zoom (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD160L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV  Dr.
@@ -438,16 +390,10 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2142.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2250.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
-#EXTINF:0, group-title="Punjabi",AOne Music (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD328L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",AOne News  Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2251.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",AOne Punjabi (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Baani
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD344L240P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
@@ -468,8 +414,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2248.ts|User-
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",Fateh TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
@@ -492,8 +436,6 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2244.ts|User-
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Media Punjab  Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2243.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music  Dr.
@@ -518,8 +460,6 @@ http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2238.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Steelbird Music (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD343L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
@@ -668,12 +608,6 @@ http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m
 http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
 #EXTINF:0, group-title="South Indian",NTV HD
 http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Onkar TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD174L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="South Indian",OTV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD93L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="South Indian",Prarthana TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD94L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="South Indian",Super TV
 http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Unitech TV
@@ -692,12 +626,8 @@ http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanan
 http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
 #EXTINF:0, group-title="South Indian",Zee Telugu Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/189.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Kids",Cartoon Network (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Kids",Pogo Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2293.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Kids",Pogo-2 (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Kids",Sony Yay
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
 #EXTINF:0, group-title="Bangla",Aamar  Dr.
@@ -810,14 +740,10 @@ http//daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:0, group-title="International",Hum TV (YouTube)
 https://youtu.be/VwxB5rCrjUo
-#EXTINF:0, group-title="International",Imaan TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD338L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",Indies Music HD
 http//ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:0, group-title="International",Irib TV 3 (Chona)
 http://irib-live.arvancloud.com/tv3hd/tv3hd.m3u8
-#EXTINF:0, group-title="International",iTV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD195L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",Kanal 24 TV (Chona)
 http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w246985525.m3u8
 #EXTINF:0, group-title="International",Kanal 3 TV (Chona)
@@ -854,16 +780,12 @@ http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_
 http://s3.telewebion.com:1935/devices/_definst_/nasim-500k.stream/chunklist_w2127445813.m3u8
 #EXTINF:0, group-title="International",New TV (Chona)
 http://kurd-live.com:1935/live/new/playlist.m3u8
-#EXTINF:0, group-title="International",News Asia (Zenga)
-http//dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",Peace Asia TV
 rtmp://peace.fms.visionip.tv/live//b2b-peace_asia-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",Peace UK TV
 rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",Peace USA TV
 rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
-#EXTINF:0, group-title="International",QH on TV (Zenga)
-http//d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",RA Documentary (Chona)
 https://secure-streams.akamaized.net/rt-doc/index800.m3u8
 #EXTINF:0, group-title="International",Real Madrid TV
@@ -926,3 +848,631 @@ http://gmcllc.de:25461/live/აპი2/საპრინდრო/2318.ts|User-
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2319.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Test",Test +6 Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2320.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg",Canal Savoir (French)
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.png",CHCH
+http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg",CTV News Live Events 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg",CTV News Live Events 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg",CTV News Live Events 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://i67.tinypic.com/261m6it.jpg",CTV News Live Events 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="https://www.ebosscanada.com/wp-content/uploads/2016/10/The-Weather-Network_01.jpg",The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:0, group-title="Canada",tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://2pouqfl1mif26n3ql1jslyj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/360NorthTuneIn3-650x457.jpg",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/QVvBPKr.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg",ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:0,,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_atlantachannel_0.jpg",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-_2a2A7YgxZ8/AAAAAAAAAAI/AAAAAAAAAAA/oqVLX-G8DAo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-_2a2A7YgxZ8/AAAAAAAAAAI/AAAAAAAAAAA/oqVLX-G8DAo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:0,Bandwagon Live Music (Music)
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/476x268/public/live_beachtvpawleysisland_0_0.jpg",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0,Beto TV (Lifestyle)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.png",Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:0,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg",Bloomberg TV
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:0,Bloomberg TV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M12K.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://cdn20.patchcdn.com/users/22877169/20170602/110144/styles/T800x600/public/article_images/city_of_bowie-1496415566-7467.jpg",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://phonebookoftheworld.com/usa/newyork/city/seal-of-buffalo.jpg",Buffalo Gov't TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/City_of_Montgomery_Great_Seal.png",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg",CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png",CBS 2 News (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png",CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png",CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://kpho.images.worldnow.com/images/490348_G.jpg",CBS 5 News (Arizona)
+http://wnmeredithaz-lh.akamaihd.net/i/MEREDITHAZ_1313@308211/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg",CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/14552.jpg",CBS 13 News (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg",CBS 47 News (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:0,,CBS 31.1 Peoria IL Illinois
+http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,CBS Boston (WBZ) (Public-News) 
+http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8? 
+#EXTINF:0,,CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.fallcreekgarland.net/Garland%20logo.png",CGTV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0, group-title="USA",ttvg-logo="http://i.imgur.com/IH7rVcy.png",Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:0, group-title="USA",tvg-logo="http://www.aero-news.net/images/content/general/2016/miami-seal-0616a.jpg",City of Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png",Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:0,Create and Craft (Lifestyle) 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3251.jpg",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3250.gif" ,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/3249.png",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://referenceur-tv.com/wp-content/uploads/2013/04/dbtv-tv-online-live-free-channel-streaming.png",DBTV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0,Deutsche Welle (Lifestyle) 
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" ,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://dcps.dc.gov/sites/default/files/styles/medium/public/dc/sites/dcps/service_content/images/district-knowledge-network-.jpg",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg",Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:0,DJING Dancefloor HD (Music) 
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0,DJing Ibiza (Public-Music) 
+http://www.djing.com/tv/dancefloor.m3u8 
+#EXTINF:0,DJing EDM (Public-Music) 
+http://www.djing.com/tv/live.m3u8 
+#EXTINF:0,DJing Underground (Public-Music)  
+http://www.djing.com/tv/underground.m3u8 
+#EXTINF:0,DJing Classic (Public-Music) 
+http://www.djing.com/tv/classics.m3u8 
+#EXTINF:0,DJing Animation (Public-Music) 
+http://www.djing.com/tv/animation.m3u8 
+#EXTINF:0,DJING Hot Hot Hot HD (Music) 
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0,,DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0,DW Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://myescambia.com/assets/images/seal.jpg",ECTV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,Family Friendly Entertainment (Family)
+http://54.225.64.228:1935/live/roku1/playlist.m3u8
+#EXTINF:0,Florida Ch (Lifestyle) 
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:0, group-title="USA",tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg",Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg",FOX 13 News (Memphis)
+http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+#EXTINF:0,,FOX 23 
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg",FOX 25 News (New England)
+http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png",Fox News 30 (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:0,,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.cabq.gov/culturalservices/govtv/images/GOV%20TV%20live%20stream%20image.jpg/@@images/2e1b9909-8d45-4e86-b54b-375bb71bf3fb.jpeg" ,GOV TV 16
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/cabq/mp4:G1163_002/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.greenbeltmd.gov/images/InfoAdvanced/52/municipal%20Access.jpg",Greenbelt Municipal Access TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:0,HEART TV (Music) 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,,HISTORY LAB – ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:0,Hope International Channel (Family) 
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-House-Channel_o.jpg",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg",HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png",Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:0,Ideal World (Lifestyle) (UK) 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,JLTV (Public-Documentary) 
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0,Juce tv (Family) 
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/kbvrtv-profile_image-666cfc3f59b5f449-300x300.jpeg" ,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg",KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png",KIRO 7 News (Seattle)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg",KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png",KOKI Fox 23 (Tulsa)
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" ,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/4059.jpg",KTVU News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png",KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.cityoflaurel.org/system/files/styles/facebook_big/private/images/laurel-wide-logo.png",Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg",MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:0,Miami TV (Lifestyle) 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/5249.jpg",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0,Music Box (Music) 
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0, group-title="USA",tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg",Naples TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png",NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png",NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",NBC News Live
+http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/N2mDQbE.jpg",NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/14551.jpg",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:0, group-title="USA",tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png",NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg",NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png",NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0,News zone (Public-Entertainment) 
+http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cnlsierra.org/wp-content/uploads/2014/11/NCTV-2015.jpg",Nevada County TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-3/nevco/mp4:G0644_001/chunklist_w1334900630.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0,,NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Arizona HD (Sports) 
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Arizona (Sports) 
+http://xrxs.net/video/live-p12ariz-1164.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Bay Area HD (Sports) 
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Bay Area (Sports) 
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Los Angeles HD (Sports) 
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Los Angeles (Sports) 
+http://xrxs.net/video/live-p12losa-1164.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Mountain HD (Sports) 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Mountain (Sports) 
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Network HD (Sports) 
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Network (Sports) 
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Oregon HD (Sports) 
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Oregon (Sports) 
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Washington HD (Sports) 
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Washington (Sports) 
+http://xrxs.net/video/live-p12wash-1164.m3u8?
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Prince_George's_County_Public_Schools_Logo.svg/1011px-Prince_George's_County_Public_Schools_Logo.svg.png",PG's County Public Schools
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0, group-title="USA",,RAI NEWS
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png",Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:0, group-title="USA",,RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png",Russia Today America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.ryeny.gov/images/ryeTV/button.jpg",Rye TV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/566359150813143040/WqkPT9so.jpeg" ,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" ,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:0, group-title="USA",Smart TV (Family) 
+http://telvuehls_t01587-i.akamaihd.net/hls/live/215638/T01587-slstv/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www2.selu.edu/thesoutheasternchannel/schedule/images/sectv.jpg",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.stpete.org/logo/images/city_logo_color.gif" ,St. Petersburg TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/1596231467/TUTV_vimeo_logo.png",Temple University TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://watchtstv.com/assets/images/TSTV_extracted.png",Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg",The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://cdn.thefloridachannel.org/wp-content/themes/tfc/images/logo.png",The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:0, group-title="USA",TruTV (Public-Entertainment) 
+http://185.62.86.6:8081/hls/trutv.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:0, group-title="USA",,TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/UCTV.png",UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.uga.edu/assets/img/GEORGIA-V-FC.png",University of Georgia
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png",VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0, group-title="USA",Vibee (Public-Music) (UK) 
+http://46.101.21.42:8081/abr/abr/playlist.m3u8 
+#EXTINF:0, group-title="USA",WBKO  Bowling Green KY (Public-News) 
+http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg",WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://i.imgur.com/H00wiqw.jpg",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/3144.jpg",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://cdn.tribtv.com/slates/wgntv.png",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://i.imgur.com/Voh8plV.jpg",White Plains Community Media
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/1795192458/n23000337_31608642_9029.jpg",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png",Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg",WPXI News (Pittsburg)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg",WSOC 9 News (Charlotte)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png",WTPC 16 (Virginia)
+http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg",WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:0, group-title="USA",History 
+http://93.91.113.8:9999/play/a06z 
+#EXTINF:0, group-title="USA", JimJam 
+http://93.91.113.8:9999/play/a06n
+#EXTINF:0, group-title="USA",, Nick Jr 
+http://93.91.113.8:9999/play/a06l 
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central 
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery 
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild 
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science 
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV 
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity 
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV 
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="USA",Arena Sport 1
+rtmp://139.59.120.168:1935/live/arenasport1.stream
+#EXTINF:0, group-title="USA",Arena Sport 2
+rtmp://139.59.120.168:1935/live/arenasport2.stream
+#EXTINF:0, group-title="USA",Arena Sport 3
+rtmp://139.59.120.168:1935/live/arenasport3.stream
+#EXTINF:0, group-title="USA",Arena Sport 4
+rtmp://139.59.120.168:1935/live/arenasport4.stream
+#EXTINF:0, group-title="USA",Arena Sport 5
+rtmp://139.59.120.168:1935/live/arenasport5.stream
+#EXTINF:0, group-title="USA",SKY SPORT2
+rtmp://139.59.120.168:1935/live/teleclub2sw.stream
+#EXTINF:0, group-title="USA",TELECLUB SPORT1
+rtmp://139.59.120.168:1935/live/teleclub1sw.stream
+#EXTINF:0, group-title="USA",SKY BUNDESLIGA
+rtmp://139.59.120.168:1935/live/skybundesliga1.stream
+#EXTINF:0, group-title="USA",SPORT24
+rtmp://139.59.120.168:1935/live/docle1.stream
+#EXTINF:0, group-title="USA",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:0, group-title="USA",Arena Sport 1 
+http://premium.tvshqip.us:8880/live/mega/iptv/164.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 2 
+http://premium.tvshqip.us:8880/live/mega/iptv/165.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 3 
+http://premium.tvshqip.us:8880/live/mega/iptv/167.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 4 
+http://premium.tvshqip.us:8880/live/mega/iptv/166.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 5 
+http://premium.tvshqip.us:8880/live/mega/iptv/168.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 6 
+http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=25634
+#EXTINF:0, group-title="UK",Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0, group-title="UK", Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:0, group-title="UK", Amazing Facts TV
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" ,BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0, group-title="UK",Brit Asia TV 
+http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
+#EXTINF:0, group-title="UK",CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg",Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://kompitv.com/images/chelsea-tv.jpg",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0 tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2016-03/1458403062_city_tv.jpg",CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+#EXTINF:0, group-title="UK",Clubbing TV 
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
+#EXTINF:0, group-title="UK", DnBTV
+rtmp://fms1.drumandbasslines.com/DnBTV/ch1
+#EXTINF:0 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" ,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="UK", ENT.BAY TV CONCERT
+rtmp://planetaonline.cdnvideo.ru/rr/channel_2
+#EXTINF:0, group-title="UK", Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0 tvg-logo="http://wmub.tv/www/tv-wmub/images/france24-logo-english.jpg",France 24
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/11526.jpg",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, group-title="UK", HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+#EXTINF:0, group-title="UK",  tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png",IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="UK",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg",Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0, group-title="UK", JBLive.TV
+rtsp://videocdn-us.geocdn.scaleengine.net/jblive/live/jblive.stream
+#EXTINF:0, group-title="UK",tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg",Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0, group-title="UK", MELLO TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg",MyHit
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0, group-title="UK", NDTV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0, group-title="UK", NDTV
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+#EXTINF:0, group-title="UK", NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:0, group-title="UK",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0 tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png",NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0, group-title="UK", Peace Tv Asia
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="UK",Peace tv 
+http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
+#EXTINF:0, group-title="UK",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC Beauty
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Russia Today UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:0, group-title="UK", RT Russia Today Documentary HD
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0, group-title="UK", RT Russia Today News HD
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="UK", The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:0, group-title="UK", TV Knob Ch1
+mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
+#EXTINF:0, group-title="UK", TV Knob Public TV Ch2
+mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
+#EXTINF:0, group-title="UK", TV Knob music Ch3
+mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
+#EXTINF:0, group-title="UK", TV Knob Comedie CH5
+mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
+#EXTINF:0, group-title="UK", TV Knob Movies CH7
+mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
+#EXTINF:0, group-title="UK", TV Knob Business and info Ch 12
+http://streams.tvknob.com/tvloops/CH12/tvknob.wsx
+#EXTINF:0, group-title="UK", TV Knob Prime Time Ch 6
+http://streams.tvknob.com/tvloops/CH6/ch6.wsx
+#EXTINF:0, group-title="UK", University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:0 tvg-logo="http://scholarships.istitutomarangoni.com/upload/dream/573a9db65187d8.174338942FRTW%20logo.png",World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+#EXTINF:0, group-title="UK",History 
+http://93.91.113.8:9999/play/a06z 
+#EXTINF:0, group-title="UK", JimJam 
+http://93.91.113.8:9999/play/a06n
+#EXTINF:0, group-title="UK", Nick Jr 
+http://93.91.113.8:9999/play/a06l 
+#EXTINF:0, group-title="UK",tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central 
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery 
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild 
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science 
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV 
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity 
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV 
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:0, group-title="UK",tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="UK",3E
+http://69.30.251.42:25461/live/newapk/onew/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",4E
+http://69.30.251.42:25461/live/newapk/onew/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",5 STAR
+http://69.30.251.42:25461/live/newapk/onew/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",ALIBI
+http://69.30.251.42:25461/live/newapk/onew/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BABY TV
+http://69.30.251.42:25461/live/newapk/onew/595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BBC 1
+http://69.30.251.42:25461/live/newapk/onew/596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BBC 2
+http://69.30.251.42:25461/live/newapk/onew/597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BBC 3
+http://69.30.251.42:25461/live/newapk/onew/598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BBC 4
+http://69.30.251.42:25461/live/newapk/onew/599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BBC NEWS
+http://69.30.251.42:25461/live/newapk/onew/600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",BLOOMBERG
+http://69.30.251.42:25461/live/newapk/onew/601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CARTOON NETWORK
+http://69.30.251.42:25461/live/newapk/onew/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CBS ACTION
+http://69.30.251.42:25461/live/newapk/onew/603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CBS DRAMA
+http://69.30.251.42:25461/live/newapk/onew/604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CBS REALITY
+http://69.30.251.42:25461/live/newapk/onew/605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CHANNEL 4
+http://69.30.251.42:25461/live/newapk/onew/607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CHANNEL 5
+http://69.30.251.42:25461/live/newapk/onew/606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CNBC
+http://69.30.251.42:25461/live/newapk/onew/608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",CNN EUROPE
+http://69.30.251.42:25461/live/newapk/onew/609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",COMEDY CENTRAL
+http://69.30.251.42:25461/live/newapk/onew/610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DAVE
+http://69.30.251.42:25461/live/newapk/onew/611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DISCOVERY HISTORY
+http://69.30.251.42:25461/live/newapk/onew/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DISCOVERY SCIENCE
+http://69.30.251.42:25461/live/newapk/onew/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DISCOVERY
+http://69.30.251.42:25461/live/newapk/onew/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DISNEY CHANNEL
+http://69.30.251.42:25461/live/newapk/onew/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DISNEY JR
+http://69.30.251.42:25461/live/newapk/onew/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",DISNEY XD
+http://69.30.251.42:25461/live/newapk/onew/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",FILM 4
+http://69.30.251.42:25461/live/newapk/onew/619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",GOLD
+http://69.30.251.42:25461/live/newapk/onew/620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",ITV 2+
+http://69.30.251.42:25461/live/newapk/onew/622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",ITV 3+
+http://69.30.251.42:25461/live/newapk/onew/623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",ITV 4
+http://69.30.251.42:25461/live/newapk/onew/624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",ITV
+http://69.30.251.42:25461/live/newapk/onew/621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",MAGIC
+http://69.30.251.42:25461/live/newapk/onew/625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",MORE 4
+http://69.30.251.42:25461/live/newapk/onew/626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",MTV BASE
+http://69.30.251.42:25461/live/newapk/onew/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",MTV DANCE
+http://69.30.251.42:25461/live/newapk/onew/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",MTV MUSIC
+http://69.30.251.42:25461/live/newapk/onew/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",NAT GEO CHANNEL
+http://69.30.251.42:25461/live/newapk/onew/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",NAT GEO WILD
+http://69.30.251.42:25461/live/newapk/onew/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",NICK JR TOO
+http://69.30.251.42:25461/live/newapk/onew/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",NICK JR
+http://69.30.251.42:25461/live/newapk/onew/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",NICKELODEON
+http://69.30.251.42:25461/live/newapk/onew/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",NICKTOONS
+http://69.30.251.42:25461/live/newapk/onew/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",PICK TV
+http://69.30.251.42:25461/live/newapk/onew/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",QUEST
+http://69.30.251.42:25461/live/newapk/onew/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",RT NEWS
+http://69.30.251.42:25461/live/newapk/onew/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",RTE 1
+http://69.30.251.42:25461/live/newapk/onew/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="UK",RTE 2
+http://69.30.251.42:25461/live/newapk/onew/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
