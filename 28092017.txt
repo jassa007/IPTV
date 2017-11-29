@@ -441,7 +441,7 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music  Dr.
 http://gmcllc.de:25461/live/აპი2/საპრინდრო/2242.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Pitaara TV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/03.m3u8
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/01.m3u8
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTC  Dr.
@@ -1476,3 +1476,126 @@ http://69.30.251.42:25461/live/newapk/onew/640.ts|refferer=http://solidstreamz.c
 http://69.30.251.42:25461/live/newapk/onew/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:0, group-title="UK",RTE 2
 http://69.30.251.42:25461/live/newapk/onew/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:0, group-title="Pakistani",???
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
+#EXTINF:0, group-title="Pakistani",??? News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
+#EXTINF:0, group-title="Pakistani",8XM HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
+#EXTINF:0, group-title="Pakistani",A Plus
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
+#EXTINF:0, group-title="Pakistani",Aab Tak TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/58.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
+#EXTINF:0, group-title="Pakistani",Afghan
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/64.m3u8
+#EXTINF:0, group-title="Pakistani",Apna Channel
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/60.m3u8
+#EXTINF:0, group-title="Pakistani",Aruj
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/25.m3u8
+#EXTINF:0, group-title="Pakistani",ATV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
+#EXTINF:0, group-title="Pakistani",Awaz
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
+#EXTINF:0, group-title="Pakistani",Dunya TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
+#EXTINF:0, group-title="Pakistani",Film Workd
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
+#EXTINF:0, group-title="Pakistani",Filmax
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
+#EXTINF:0, group-title="Pakistani",Filmazia HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/69.m3u8
+#EXTINF:0, group-title="Pakistani",Jalwa
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/62.m3u8
+#EXTINF:0, group-title="Pakistani",K21 News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/23.m3u8
+#EXTINF:0, group-title="Pakistani",Kay2
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber News TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
+#EXTINF:0, group-title="Pakistani",Neo News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
+#EXTINF:0, group-title="Pakistani",News 7
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
+#EXTINF:0, group-title="Pakistani",News One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/45.m3u8
+#EXTINF:0, group-title="Pakistani",Oxygene
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/56.m3u8
+#EXTINF:0, group-title="Pakistani",Pashto 1
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/29.m3u8
+#EXTINF:0, group-title="Pakistani",Punjab TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/35.m3u8
+#EXTINF:0, group-title="Pakistani",Roze News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/82.m3u8
+#EXTINF:0, group-title="Pakistani",See TV HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/79.m3u8
+#EXTINF:0, group-title="Pakistani",Sindh News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/15.m3u8
+#EXTINF:0, group-title="Pakistani",Such
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/33.m3u8
+#EXTINF:0, group-title="Pakistani",TV One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
+#EXTINF:0, group-title="Pakistani",Waseb
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
+#EXTINF:0, group-title="South Indian",News Live
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Sarthak
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/01.m3u8
+#EXTINF:0, group-title="International",Al Jazeera
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
+#EXTINF:0, group-title="South Indian",Prag News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/01.m3u8
+#EXTINF:0, group-title="South Indian",Janam TV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226111/01.m3u8
+#EXTINF:0, group-title="South Indian",V News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/01.m3u8
+#EXTINF:0, group-title="Punjabi",MH One
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
+#EXTINF:0, group-title="South Indian",TV9
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226113/01.m3u8
+#EXTINF:0, group-title="South Indian",Arijan
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
+#EXTINF:0, group-title="Bangla",Zee 24 Taas
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
+#EXTINF:0, group-title="Indian",Gulistan News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/01.m3u8
+#EXTINF:0, group-title="Indian",B4U Movies
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:0, group-title="South Indian",KTV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226121/01.m3u8
+#EXTINF:0, group-title="South Indian",Gemini Comedy
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226123/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya MAX
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226101/01.m3u8
+#EXTINF:0, group-title="South Indian",IBC 24
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226102/01.m3u8
+#EXTINF:0, group-title="South Indian",Polimer Music
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/01.m3u8
+#EXTINF:0, group-title="Bangla",Rang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
+#EXTINF:0, group-title="South Indian",Kaumudy
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226100/01.m3u8
+#EXTINF:0, group-title="Bangla",Sony Bangla
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Telugu Cinema
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8
+#EXTINF:0, group-title="Indian",Dabang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226097/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Yuva
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya Movie
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226095/01.m3u8
+#EXTINF:0, group-title="South Indian",TV9
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8
+#EXTINF:0, group-title="South Indian",Kairali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226093/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya TV HD
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226092/01.m3u8
+#EXTINF:0, group-title="South Indian",???
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226091/01.m3u8
+#EXTINF:0, group-title="Bangla",Bengali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
+
