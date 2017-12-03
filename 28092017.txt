@@ -4,70 +4,38 @@
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8
 #EXTINF:0, group-title="Indian",& TV
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
-#EXTINF:0, group-title="Indian",& TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2141.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Canada",Property Buzz TV
+http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
+#EXTINF:0, group-title="Canada",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/toronto360/720/chunks.m3u8
+#EXTINF:0, group-title="Canada",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Indian",9x Jalwa
 http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110.m3u8
 #EXTINF:0, group-title="Indian",9x Music
 http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
-#EXTINF:0, group-title="Indian",9x Music Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/543.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Aaj Tak Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2222.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",AajTak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Aapka Colors HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2271.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Aastha Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2143.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",ABP Majha
 http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
 #EXTINF:0, group-title="Indian",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:0, group-title="Indian",Asianet Plus Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2144.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",B4U Movies Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2146.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Indian",B4U Movies
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/01.m3u8
 #EXTINF:0, group-title="Indian",B4U Music
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8
-#EXTINF:0, group-title="Indian",B4U Music Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2147.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",B4U Plus Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2148.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Big Magic
 http://125.17.129.4/PLTV/88888888/224/3221225745/01.m3u8
-#EXTINF:0, group-title="Indian",BTV World Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/680.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Caccia Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/6.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Cartoon Network Hindi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2272.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Channel V Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/831.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",CNBC Awaaz Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2149.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",CNBC Prime TV18 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/830.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",CNBC TV18 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/829.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",CNN News 18
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
-#EXTINF:0, group-title="Indian",Colors (UK)  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2150.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Colors Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2133.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Colors HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2269.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",D2H Cinema Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2270.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Indian",Dabang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226097/01.m3u8
 #EXTINF:0, group-title="Indian",DD Lok Sabha
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:0, group-title="Indian",DD Rajya Sabha
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:0, group-title="Indian",DD Sports
 http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",DD UP Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2298.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Desi Beats HD
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 #EXTINF:0, group-title="Indian",Discovery Turbo
@@ -76,33 +44,21 @@ http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
 #EXTINF:0, group-title="Indian",ET Now
 http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
-#EXTINF:0, group-title="Indian",ETV (UK) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/243.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",ETV MP
 http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV MP Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/244.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",ETV Now Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/827.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",ETV Raj
 http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
 #EXTINF:0, group-title="Indian",ETV UP
 http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV UP Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/242.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",ETV Urdu
 http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
 #EXTINF:0, group-title="Indian",Food Food
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
-#EXTINF:0, group-title="Indian",Food Food TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2151.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Gyan Yogi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2145.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",HBO Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2255.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",IBN Lokmat
+#EXTINF:0, group-title="Indian",Gulistan News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/01.m3u8
+#EXTINF:0, group-title="Indian",IBN Lokmat-1
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-#EXTINF:0, group-title="Indian",IBN Lokmat
+#EXTINF:0, group-title="Indian",IBN Lokmat-2
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 #EXTINF:0, group-title="Indian",IBN7 News
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
@@ -116,300 +72,95 @@ http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmp
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
 #EXTINF:0, group-title="Indian",India News UP
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India Today Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2273.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:0, group-title="Indian",Ishwar TV
 http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Jalsha Movies Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/40.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Jamuna TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/688.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:0, group-title="Indian",Life Ok  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2274.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Life OK HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2268.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Madha
 http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
 #EXTINF:0, group-title="Indian",Mahua Plus
 http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
 #EXTINF:0, group-title="Indian",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
-#EXTINF:0, group-title="Indian",Movies OK Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2218.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",MTV India Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/542.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Music India
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8
-#EXTINF:0, group-title="Indian",Nat Geo Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2233.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Nat Geo Music HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2236.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Nat Geo People HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2235.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Nat Geo Wild HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2234.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",NDTV 24x7
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24x7 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2309.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",NDTV India
 http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
-#EXTINF:0, group-title="Indian",NDTV India Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2310.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",NDTV Profit
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
 #EXTINF:0, group-title="Indian",Neo Prime
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225789/01.m3u8
-#EXTINF:0, group-title="Indian",Neo Prime Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2161.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Neo Prime HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2159.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Neo Prime HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2257.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Neo Sports
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225791/01.m3u8
 #EXTINF:0, group-title="Indian",New X
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
 #EXTINF:0, group-title="Indian",News 18
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",News 18-2
-http//ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",News X Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/825.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Indian",News 18-2	http//ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
 #EXTINF:0, group-title="Indian",News X HD
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Nick HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/824.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Nick Hindi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2276.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Nick Jr. Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2232.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Nick Jr. Hindi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2277.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",NTV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/674.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Only Music HD
 http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:0, group-title="Indian",OTV News
 http://otvdigitalhd.in:1935/unevent/otvsmil.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Pogo Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/541.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Rishtay Asia Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2278.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Rishtey (ME) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2279.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sadhana News
 http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana Plus News
 http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana TV
 http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Sanskar TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2280.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sonic Nick Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/540.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sony BBC Earth Hindi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/684.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sony ESPN  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2281.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sony ESPN HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/823.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony Max
 http://125.17.129.4/PLTV/88888888/224/3221225811/02.m3u8
 #EXTINF:0, group-title="Indian",Sony Max HD
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8
-#EXTINF:0, group-title="Indian",Sony Max HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2266.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony Max2
 http://125.17.129.4/PLTV/88888888/224/3221225812/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Max2 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2282.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony Mix
 http://125.17.129.4/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Mix Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2283.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sony Pix HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/822.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony SAB
 http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:0, group-title="Indian",Sony SAB Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2140.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony Six
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Six  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2134.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Sony Six HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2265.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony TV
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
-#EXTINF:0, group-title="Indian",Sony TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2155.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Sony TV HD
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
-#EXTINF:0, group-title="Indian",Sony TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2267.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Bharat HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2152.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Gold  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2284.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Gold Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2135.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Gold HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2264.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Movies Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2263.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Movies HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2262.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Movies Select HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2254.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Plus (UK) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2288.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Plus Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2136.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Plus Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2287.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Plus HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2261.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Pravah HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/821.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 1 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2289.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 1 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2156.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 1 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2260.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 2 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2290.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 2 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2157.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 2 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2259.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 3 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2160.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 3 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2158.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Sports 3 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2258.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star Vijay Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2291.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star World HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/820.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Star World Premier HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/819.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten 1 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2292.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten 2 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2215.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten 2 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/4.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten 3 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/190.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten Cricket Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2231.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten Golf HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2294.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Ten Sports Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2216.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Indian",Sony Yay
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
 #EXTINF:0, group-title="Indian",Times Now
 http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
-#EXTINF:0, group-title="Indian",Times Now Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2221.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Travel XP HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/818.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",UTV Bindass Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2295.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",UTV Movies Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2296.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Willow HD (Backup) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/226.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Willow HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2217.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Yoga TV -Swamiji
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",Zee Action Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2297.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Anmol Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2304.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Anmol Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2237.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Bollywood HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2299.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Business Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2300.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Zee Cinema
 http://125.17.129.4/PLTV/88888888/224/3221225935/02.m3u8
-#EXTINF:0, group-title="Indian",Zee Cinema Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2301.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Cinema HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2253.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Classic Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2302.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Etc Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2246.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Living Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2311.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Living Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2153.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Marathi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2138.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2312.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2154.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Salam Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2303.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee Talkies Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2139.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Zee TV
 http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
-#EXTINF:0, group-title="Indian",Zee TV (ME) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2306.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zee TV (UK) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2313.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Indian",Zee TV HD
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
-#EXTINF:0, group-title="Indian",Zee TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2137.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zindagi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2307.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Indian",Zing TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2308.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Indian",Zee Yuva
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
 #EXTINF:0, group-title="Indian",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",5aab TV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2252.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",9x Tashan Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2142.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",Akaal  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2250.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
-#EXTINF:0, group-title="Punjabi",AOne News  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2251.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Baani
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
 http://209.153.233.92:7000/chakde/index.m3u8
-#EXTINF:0, group-title="Punjabi",Chakde TV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2249.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Channel
 http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Channel (Backup) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2247.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",Desi Channel Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2248.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
@@ -420,168 +171,42 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 http://104.237.59.106/live/Global_punjab.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
 http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",GTV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/196.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Gurbaani TV
 http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Hamdard TV
 http://live.wmncdn.net/hamdard/hamdardrv1.stream/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Hamdard TV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2245.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Jhanjar TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:0, group-title="Punjabi",Jhanjar TV HD  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2244.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Media Punjab  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2243.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Punjabi",MH One
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",PBN Music  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2242.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",Pitaara TV
+#EXTINF:0, group-title="Punjabi",Pitaara
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/01.m3u8
+#EXTINF:0, group-title="Punjabi",Pitaara TV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/03.m3u8
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",PTC  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2239.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",PTC Chakde  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2241.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Punjabi",PTC News  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2240.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",RTV Punjabi
 http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
-#EXTINF:0, group-title="Punjabi",Sangat TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/685.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Sikh Channel  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2238.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Tamil",Aditya TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2163.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Captain News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2164.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Captain TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2162.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Channel Ufx Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2165.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Chithiram TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2166.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",DAN Music HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2167.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",DAN News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2168.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",DAN TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2169.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",DD Podhigai Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2170.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Deepam TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2171.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",eet TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2172.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",GTV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/678.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Isai Aruvi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2173.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Jaya Max (US) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2175.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Jaya Max Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2174.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Jaya Movies Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2176.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Jaya Plus Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2177.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Jaya TV HD (US) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2179.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Kalaignar TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2180.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",KTV (US) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2182.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",KTV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2181.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Makkal TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2183.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Murasu TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2184.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",News 7 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2185.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Peppers Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2186.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Pirai TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2187.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Polimer News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2188.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Polimer TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2189.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Puthiya Thalaimurai Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2190.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Puthuyugam TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2191.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Raj Digital Plus (US) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2193.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Raj Digital Plus Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2192.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Raj Musix Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2194.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Raj News 24x7 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2195.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Raj TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2196.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Seithigal Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2198.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sirippoli TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2199.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sri Sankara Tamil Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2200.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Star Vijay (UK) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2202.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Star Vijay Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2201.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sun Life Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2203.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sun Music Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2204.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sun News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2205.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sun TV (US) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2207.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sun TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2206.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Sun TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2256.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Tamil Aruvi Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2208.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Thanthi News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2209.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Vasanth TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2197.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Vendhar Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2210.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Vijay HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2211.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Vimbam TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2212.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Win TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2213.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Zee Tamizh Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2214.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Tamil",Jaya TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2178.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="South Indian",???
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226091/01.m3u8
 #EXTINF:0, group-title="South Indian",Anand Media HD
 http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Asianet  ME
 http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Bharat Today TV
 http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",Colors Kannada Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/828.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="South Indian",Darshana TV ME
 http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8
 #EXTINF:0, group-title="South Indian",DD Podigai
@@ -590,28 +215,54 @@ http://live-fs.wmncdn.net/ddpodigailive1/live1.stream/playlist.m3u8
 http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Eet TV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",ETV Telugu Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/245.ts|User-Agent=Lavf/56.15.102
 #EXTINF:0, group-title="South Indian",Garshom News
 http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Gemini Comedy
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226123/01.m3u8
+#EXTINF:0, group-title="South Indian",IBC 24
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226102/01.m3u8
+#EXTINF:0, group-title="South Indian",Janam TV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226111/01.m3u8
 #EXTINF:0, group-title="South Indian",Janan TV 
 http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
+#EXTINF:0, group-title="South Indian",Jaya Max
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226101/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya Movie
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226095/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya TV HD
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226092/01.m3u8
+#EXTINF:0, group-title="South Indian",Kairali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226093/01.m3u8
 #EXTINF:0, group-title="South Indian",Kaumudi TV
 http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Kaumudy
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226100/01.m3u8
 #EXTINF:0, group-title="South Indian",KTN
 http://103.24.96.74/ktn/ktn/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",Maa TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/826.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="South Indian",KTV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226121/01.m3u8
 #EXTINF:0, group-title="South Indian",Megnavision TV
 http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
 #EXTINF:0, group-title="South Indian",MK TV
 http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",News Live
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/01.m3u8
 #EXTINF:0, group-title="South Indian",NTV HD
 http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Polimer Music
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/01.m3u8
+#EXTINF:0, group-title="South Indian",Prag News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/01.m3u8
 #EXTINF:0, group-title="South Indian",Super TV
 http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",TV9
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226113/01.m3u8
+#EXTINF:0, group-title="South Indian",TV9
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8
 #EXTINF:0, group-title="South Indian",Unitech TV
 http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:0, group-title="South Indian",V News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/01.m3u8
 #EXTINF:0, group-title="South Indian",Vaanavil TV
 http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 #EXTINF:0, group-title="South Indian",Vasantham TV
@@ -622,108 +273,109 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
 http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Zee Sarthak
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/01.m3u8
 #EXTINF:0, group-title="South Indian",Zee Telugu
 http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Telugu Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/189.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Kids",Pogo Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2293.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Kids",Sony Yay
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
-#EXTINF:0, group-title="Bangla",Aamar  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/817.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",ABP Ananda  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/696.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",ABTV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/690.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Asian TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/816.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",ATN Bangla Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/815.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",ATN News Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/814.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Bangla Vision  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/813.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Boishakhi TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/681.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Channel 24 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/695.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Channel 9 HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/694.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Channel I Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/71.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Channel S  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/39.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Colors Bangla Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/693.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Deepto TV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/692.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Desh TV  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/691.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Ekattor TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/689.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",GB Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/679.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Independent Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/677.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Movie  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/686.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",News 24 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2275.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",News Time Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/683.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",RTV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/673.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Rupashi  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/672.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Sa TV HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/671.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Somoy News  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/670.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Star Jalsha  Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2285.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Star Jalsha (US) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2286.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Zee Bangla Cinema HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/682.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Zee Bangla Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/669.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Bangla",Zee Taas 24 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2305.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Canada",eet TV Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2172.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Canada",Property Buzz TV
-http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
-#EXTINF:0, group-title="Canada",Toronto 360
-http://toronto3.live247stream.com/toronto360/tv/toronto360/720/chunks.m3u8
-#EXTINF:0, group-title="Canada",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="South Indian",Zee Telugu Cinema
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8
+#EXTINF:0, group-title="Pakistani",???
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
+#EXTINF:0, group-title="Pakistani",??? News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
+#EXTINF:0, group-title="Pakistani",8XM HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
+#EXTINF:0, group-title="Pakistani",A Plus
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
+#EXTINF:0, group-title="Pakistani",Aab Tak TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/58.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
+#EXTINF:0, group-title="Pakistani",Afghan
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/64.m3u8
+#EXTINF:0, group-title="Pakistani",Apna Channel
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/60.m3u8
+#EXTINF:0, group-title="Pakistani",Aruj
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/25.m3u8
+#EXTINF:0, group-title="Pakistani",ATV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
+#EXTINF:0, group-title="Pakistani",Awaz
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
+#EXTINF:0, group-title="Pakistani",Dunya TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
+#EXTINF:0, group-title="Pakistani",Film Workd
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
+#EXTINF:0, group-title="Pakistani",Filmax
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
+#EXTINF:0, group-title="Pakistani",Filmazia HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/69.m3u8
+#EXTINF:0, group-title="Pakistani",Jalwa
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/62.m3u8
+#EXTINF:0, group-title="Pakistani",K21 News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/23.m3u8
+#EXTINF:0, group-title="Pakistani",Kay2
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber News TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
+#EXTINF:0, group-title="Pakistani",Neo News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
+#EXTINF:0, group-title="Pakistani",News 7
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
+#EXTINF:0, group-title="Pakistani",News One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/45.m3u8
+#EXTINF:0, group-title="Pakistani",Oxygene
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/56.m3u8
+#EXTINF:0, group-title="Pakistani",Pashto 1
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/29.m3u8
+#EXTINF:0, group-title="Pakistani",Punjab TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/35.m3u8
+#EXTINF:0, group-title="Pakistani",Roze News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/82.m3u8
+#EXTINF:0, group-title="Pakistani",See TV HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/79.m3u8
+#EXTINF:0, group-title="Pakistani",Sindh News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/15.m3u8
+#EXTINF:0, group-title="Pakistani",Such
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/33.m3u8
+#EXTINF:0, group-title="Pakistani",TV One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
+#EXTINF:0, group-title="Pakistani",Waseb
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
+#EXTINF:0, group-title="Bangla",Arijan
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
+#EXTINF:0, group-title="Bangla",Bengali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
+#EXTINF:0, group-title="Bangla",Rang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
+#EXTINF:0, group-title="Bangla",Sony Bangla
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:0, group-title="Bangla",Zee 24 Taas
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
+#EXTINF:0, group-title="International",???
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/73.m3u8
 #EXTINF:0, group-title="International",360 TV (Chona)
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w2073057097_b364000.m3u8
+#EXTINF:0, group-title="International",Al Jazeera	http//aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:0, group-title="International",Al Jazeera
-http//aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
 #EXTINF:0, group-title="International",Animal Planet HD
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8
 #EXTINF:0, group-title="International",Bloomberg TV (Chona)
 http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
 #EXTINF:0, group-title="International",Bloomberg US
 https://mediauseast.akamaized.net/us/us1_live.m3u8
-#EXTINF:0, group-title="International",Channel News Asia
-http//imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:0, group-title="International",Channel Win 
-http//edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="International",Channel News Asia	http//imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0, group-title="International",Channel Win 	http//edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 #EXTINF:0, group-title="International",Chasseet Pache TV (Chona)
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:0, group-title="International",Chelsea TV
-http//ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
+#EXTINF:0, group-title="International",Chelsea TV	http//ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
 #EXTINF:0, group-title="International",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0, group-title="International",Deutshe Welle
-http//dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
-#EXTINF:0, group-title="International",DW Asia
-http//www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:0, group-title="International",France24 News
-http//stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0, group-title="International",Deutshe Welle	http//dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
+#EXTINF:0, group-title="International",DW Asia	http//www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="International",France24 News	http//stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
 #EXTINF:0, group-title="International",France24 News
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
 #EXTINF:0, group-title="International",Gem Life TV (Chona)
@@ -733,15 +385,11 @@ http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
 #EXTINF:0, group-title="International",Geo Entertainment
 http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
 #EXTINF:0, group-title="International",Grand Lille TV
-rtsp:://str81.creacast.com/grandlilletv/high
-#EXTINF:0, group-title="International",Headlines Today
-http//daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0, group-title="International",Headlines Today
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:0, group-title="International",Headlines Today	http//daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:0, group-title="International",Hum TV (YouTube)
 https://youtu.be/VwxB5rCrjUo
-#EXTINF:0, group-title="International",Indies Music HD
-http//ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, group-title="International",Indies Music HD	http//ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:0, group-title="International",Irib TV 3 (Chona)
 http://irib-live.arvancloud.com/tv3hd/tv3hd.m3u8
 #EXTINF:0, group-title="International",Kanal 24 TV (Chona)
@@ -756,12 +404,9 @@ http://84.244.187.12:1935/live/livestream/chunklist_w1501586204.m3u8
 http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
 #EXTINF:0, group-title="International",La Chaine Normande TV (Chona)
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:0, group-title="International",Maasranga HD (Backup) Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/675.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="International",Maasranga HD Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/687.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="International",MBC Bollywood HD
-http//selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0, group-title="International",Macca TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/75.m3u8
+#EXTINF:0, group-title="International",MBC Bollywood HD	http//selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 #EXTINF:0, group-title="International",MBC Bollywood HD
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 #EXTINF:0, group-title="International",Mello TV
@@ -788,8 +433,7 @@ rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
 rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",RA Documentary (Chona)
 https://secure-streams.akamaized.net/rt-doc/index800.m3u8
-#EXTINF:0, group-title="International",Real Madrid TV
-http//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
+#EXTINF:0, group-title="International",Real Madrid TV	http//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
 #EXTINF:0, group-title="International",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
 #EXTINF:0, group-title="International",Rega TV (Chona)
@@ -802,10 +446,13 @@ http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:0, group-title="International",Rudaw Live TV (Chona)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Saudi 2 HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/71.m3u8
+#EXTINF:0, group-title="International",Saudi TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/77.m3u8
 #EXTINF:0, group-title="International",Science & Vie TV (Chona)
 http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:0, group-title="International",Sky  TG24
-http//skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0, group-title="International",Sky  TG24	http//skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0, group-title="International",Sky  TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0, group-title="International",Sky News
@@ -833,21 +480,373 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:0, group-title="International",TV5 Monde-Latin (Chona)
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 #EXTINF:0, group-title="International",TV7 Bordeaux (Chona)
-rtsp:://62.210.204.108/livtv7vo/mystream700.sdp
+rtsp://62.210.204.108/livtv7vo/mystream700.sdp
 #EXTINF:0, group-title="International",Ushuaia TV (Chona)
 http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
-#EXTINF:0, group-title="Test",Test +1 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2314.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Test",Test +2 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2315.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Test",Test +3 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2316.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Test",Test +4 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2318.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Test",Test +5 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2319.ts|User-Agent=Lavf/56.15.102
-#EXTINF:0, group-title="Test",Test +6 Dr.
-http://gmcllc.de:25461/live/აპი2/საპრინდრო/2320.ts|User-Agent=Lavf/56.15.102
+#EXTINF:0, group-title="Indian",Zee Etc
+http://130.185.144.63:8000/live/indian/indian/	100.m3u8
+#EXTINF:0, group-title="Indian",Zee Talkies
+http://130.185.144.63:8000/live/indian/indian/	101.m3u8
+#EXTINF:0, group-title="Indian",Zee Anmol
+http://130.185.144.63:8000/live/indian/indian/	102.m3u8
+#EXTINF:0, group-title="South Indian",Zee Telugu
+http://130.185.144.63:8000/live/indian/indian/	103.m3u8
+#EXTINF:0, group-title="South Indian",Zee Tamil
+http://130.185.144.63:8000/live/indian/indian/	104.m3u8
+#EXTINF:0, group-title="South Indian",Zee Kannada
+http://130.185.144.63:8000/live/indian/indian/	105.m3u8
+#EXTINF:0, group-title="South Indian",Zee Sangam
+http://130.185.144.63:8000/live/indian/indian/	106.m3u8
+#EXTINF:0, group-title="South Indian",Zee Oriya News
+http://130.185.144.63:8000/live/indian/indian/	107.m3u8
+#EXTINF:0, group-title="Indian",Zee Purvaiya
+http://130.185.144.63:8000/live/indian/indian/	108.m3u8
+#EXTINF:0, group-title="UK",Pick
+http://130.185.144.63:8000/live/indian/indian/	109.m3u8
+#EXTINF:0, group-title="Indian",Zee Salam
+http://130.185.144.63:8000/live/indian/indian/	110.m3u8
+#EXTINF:0, group-title="Indian",Zee Classic
+http://130.185.144.63:8000/live/indian/indian/	111.m3u8
+#EXTINF:0, group-title="Indian",Sahib TV
+http://130.185.144.63:8000/live/indian/indian/	1100.m3u8
+#EXTINF:0, group-title="Punjabi",Akaal Channel
+http://130.185.144.63:8000/live/indian/indian/	1111.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://130.185.144.63:8000/live/indian/indian/	1112.m3u8
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://130.185.144.63:8000/live/indian/indian/	1113.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel
+http://130.185.144.63:8000/live/indian/indian/	1114.m3u8
+#EXTINF:0, group-title="Punjabi",Hamdard TV
+http://130.185.144.63:8000/live/indian/indian/	1115.m3u8
+#EXTINF:0, group-title="Punjabi",Jhanjar HD
+http://130.185.144.63:8000/live/indian/indian/	1116.m3u8
+#EXTINF:0, group-title="Punjabi",Mh1 News
+http://130.185.144.63:8000/live/indian/indian/	1117.m3u8
+#EXTINF:0, group-title="Punjabi",Mh1 Sharddha
+http://130.185.144.63:8000/live/indian/indian/	1118.m3u8
+#EXTINF:0, group-title="Punjabi",PIBN Music
+http://130.185.144.63:8000/live/indian/indian/	1119.m3u8
+#EXTINF:0, group-title="Indian",Zee Action
+http://130.185.144.63:8000/live/indian/indian/	112.m3u8
+#EXTINF:0, group-title="Punjabi",Sanjh TV
+http://130.185.144.63:8000/live/indian/indian/	1120.m3u8
+#EXTINF:0, group-title="Punjabi",Zee Punjabi Haryana TV
+http://130.185.144.63:8000/live/indian/indian/	1121.m3u8
+#EXTINF:0, group-title="Indian",1stIndIndia News
+http://130.185.144.63:8000/live/indian/indian/	1122.m3u8
+#EXTINF:0, group-title="Indian",Aastha TV
+http://130.185.144.63:8000/live/indian/indian/	1123.m3u8
+#EXTINF:0, group-title="International",BBC Global
+http://130.185.144.63:8000/live/indian/indian/	1124.m3u8
+#EXTINF:0, group-title="Indian",Bhojpuri Cinema
+http://130.185.144.63:8000/live/indian/indian/	1125.m3u8
+#EXTINF:0, group-title="Indian",CNBC Awaz
+http://130.185.144.63:8000/live/indian/indian/	1126.m3u8
+#EXTINF:0, group-title="Indian",CNBC Prime TV18
+http://130.185.144.63:8000/live/indian/indian/	1127.m3u8
+#EXTINF:0, group-title="Indian",CNBC TV18
+http://130.185.144.63:8000/live/indian/indian/	1128.m3u8
+#EXTINF:0, group-title="Indian",CNN IBN News
+http://130.185.144.63:8000/live/indian/indian/	1129.m3u8
+#EXTINF:0, group-title="Indian",Zee Smile
+http://130.185.144.63:8000/live/indian/indian/	113.m3u8
+#EXTINF:0, group-title="International",Colors TV AUS
+http://130.185.144.63:8000/live/indian/indian/	1130.m3u8
+#EXTINF:0, group-title="Indian",Colors TV AUS
+http://130.185.144.63:8000/live/indian/indian/	1130.m3u8
+#EXTINF:0, group-title="International",Colors TV ME
+http://130.185.144.63:8000/live/indian/indian/	1131.m3u8
+#EXTINF:0, group-title="Indian",Colors TV ME
+http://130.185.144.63:8000/live/indian/indian/	1131.m3u8
+#EXTINF:0, group-title="UK",Colors TV UK
+http://130.185.144.63:8000/live/indian/indian/	1132.m3u8
+#EXTINF:0, group-title="Indian",Colors TV UK
+http://130.185.144.63:8000/live/indian/indian/	1132.m3u8
+#EXTINF:0, group-title="Indian",DD India
+http://130.185.144.63:8000/live/indian/indian/	1133.m3u8
+#EXTINF:0, group-title="Indian",DD News
+http://130.185.144.63:8000/live/indian/indian/	1134.m3u8
+#EXTINF:0, group-title="Indian",Desi Beats
+http://130.185.144.63:8000/live/indian/indian/	1135.m3u8
+#EXTINF:0, group-title="Indian",E24
+http://130.185.144.63:8000/live/indian/indian/	1136.m3u8
+#EXTINF:0, group-title="Indian",Et Now
+http://130.185.144.63:8000/live/indian/indian/	1137.m3u8
+#EXTINF:0, group-title="Indian",Etv Bihar
+http://130.185.144.63:8000/live/indian/indian/	1138.m3u8
+#EXTINF:0, group-title="Indian",Etv MP
+http://130.185.144.63:8000/live/indian/indian/	1139.m3u8
+#EXTINF:0, group-title="UK",Zee TV UK
+http://130.185.144.63:8000/live/indian/indian/	114.m3u8
+#EXTINF:0, group-title="Indian",Zee TV UK
+http://130.185.144.63:8000/live/indian/indian/	114.m3u8
+#EXTINF:0, group-title="Indian",Etv  Raj
+http://130.185.144.63:8000/live/indian/indian/	1140.m3u8
+#EXTINF:0, group-title="Indian",Etv UP
+http://130.185.144.63:8000/live/indian/indian/	1141.m3u8
+#EXTINF:0, group-title="Indian",Etv Urdu
+http://130.185.144.63:8000/live/indian/indian/	1142.m3u8
+#EXTINF:0, group-title="Indian",Vaa Movies
+http://130.185.144.63:8000/live/indian/indian/	1143.m3u8
+#EXTINF:0, group-title="Indian",Life Ok MEna
+http://130.185.144.63:8000/live/indian/indian/	1146.m3u8
+#EXTINF:0, group-title="Indian",Life Ok Star
+http://130.185.144.63:8000/live/indian/indian/	1147.m3u8
+#EXTINF:0, group-title="USA",Life Ok USA
+http://130.185.144.63:8000/live/indian/indian/	1148.m3u8
+#EXTINF:0, group-title="Indian",Life Ok USA
+http://130.185.144.63:8000/live/indian/indian/	1148.m3u8
+#EXTINF:0, group-title="Indian",NDTV 24x7
+http://130.185.144.63:8000/live/indian/indian/	1149.m3u8
+#EXTINF:0, group-title="Indian",Zee TV HD
+http://130.185.144.63:8000/live/indian/indian/	115.m3u8
+#EXTINF:0, group-title="Indian",NDTV Profit
+http://130.185.144.63:8000/live/indian/indian/	1150.m3u8
+#EXTINF:0, group-title="Indian",News 24
+http://130.185.144.63:8000/live/indian/indian/	1151.m3u8
+#EXTINF:0, group-title="Indian",News X
+http://130.185.144.63:8000/live/indian/indian/	1152.m3u8
+#EXTINF:0, group-title="Indian",News 9 Eng
+http://130.185.144.63:8000/live/indian/indian/	1153.m3u8
+#EXTINF:0, group-title="Indian",Rishtey Asia
+http://130.185.144.63:8000/live/indian/indian/	1154.m3u8
+#EXTINF:0, group-title="International",Rishtey Asia
+http://130.185.144.63:8000/live/indian/indian/	1154.m3u8
+#EXTINF:0, group-title="Indian",Rishtay EU
+http://130.185.144.63:8000/live/indian/indian/	1155.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay
+http://130.185.144.63:8000/live/indian/indian/	1156.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami
+http://130.185.144.63:8000/live/indian/indian/	1157.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay Bihar
+http://130.185.144.63:8000/live/indian/indian/	1158.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay MP
+http://130.185.144.63:8000/live/indian/indian/	1159.m3u8
+#EXTINF:0, group-title="Indian",Zee Business
+http://130.185.144.63:8000/live/indian/indian/	116.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay Raj
+http://130.185.144.63:8000/live/indian/indian/	1160.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay UP
+http://130.185.144.63:8000/live/indian/indian/	1161.m3u8
+#EXTINF:0, group-title="Indian",Set MAX AUS
+http://130.185.144.63:8000/live/indian/indian/	1162.m3u8
+#EXTINF:0, group-title="Indian",Sony MAX 2
+http://130.185.144.63:8000/live/indian/indian/	1163.m3u8
+#EXTINF:0, group-title="Indian",Star Plus ME
+http://130.185.144.63:8000/live/indian/indian/	1164.m3u8
+#EXTINF:0, group-title="International",Star Plus ME
+http://130.185.144.63:8000/live/indian/indian/	1164.m3u8
+#EXTINF:0, group-title="Indian",Sudarshan News
+http://130.185.144.63:8000/live/indian/indian/	1165.m3u8
+#EXTINF:0, group-title="Indian",Zee TV ME
+http://130.185.144.63:8000/live/indian/indian/	1169.m3u8
+#EXTINF:0, group-title="International",Zee TV ME
+http://130.185.144.63:8000/live/indian/indian/	1169.m3u8
+#EXTINF:0, group-title="Indian",Zee Cinema
+http://130.185.144.63:8000/live/indian/indian/	117.m3u8
+#EXTINF:0, group-title="Indian",News 9
+http://130.185.144.63:8000/live/indian/indian/	1171.m3u8
+#EXTINF:0, group-title="Indian",Rishtay Asia
+http://130.185.144.63:8000/live/indian/indian/	1172.m3u8
+#EXTINF:0, group-title="Punjabi",Pb Zee Punjabi
+http://130.185.144.63:8000/live/indian/indian/	118.m3u8
+#EXTINF:0, group-title="Indian",Zee News
+http://130.185.144.63:8000/live/indian/indian/	119.m3u8
+#EXTINF:0, group-title="Indian",Colors
+http://130.185.144.63:8000/live/indian/indian/	121.m3u8
+#EXTINF:0, group-title="Indian",HD Colors TV HD
+http://130.185.144.63:8000/live/indian/indian/	122.m3u8
+#EXTINF:0, group-title="International",Colors EU
+http://130.185.144.63:8000/live/indian/indian/	123.m3u8
+#EXTINF:0, group-title="Indian",Colors EU
+http://130.185.144.63:8000/live/indian/indian/	123.m3u8
+#EXTINF:0, group-title="Indian",Colors Apac
+http://130.185.144.63:8000/live/indian/indian/	124.m3u8
+#EXTINF:0, group-title="Indian",Set MAX
+http://130.185.144.63:8000/live/indian/indian/	125.m3u8
+#EXTINF:0, group-title="UK",Sony TV UK
+http://130.185.144.63:8000/live/indian/indian/	126.m3u8
+#EXTINF:0, group-title="Indian",Sony TV UK
+http://130.185.144.63:8000/live/indian/indian/	126.m3u8
+#EXTINF:0, group-title="Indian",Sony TV HD
+http://130.185.144.63:8000/live/indian/indian/	127.m3u8
+#EXTINF:0, group-title="International",Sony TV Aud
+http://130.185.144.63:8000/live/indian/indian/	128.m3u8
+#EXTINF:0, group-title="Indian",Sony TV AUS
+http://130.185.144.63:8000/live/indian/indian/	128.m3u8
+#EXTINF:0, group-title="Indian",Sab TV 
+http://130.185.144.63:8000/live/indian/indian/	129.m3u8
+#EXTINF:0, group-title="Indian",Sab TV
+http://130.185.144.63:8000/live/indian/indian/	130.m3u8
+#EXTINF:0, group-title="Indian",Star Plus HD
+http://130.185.144.63:8000/live/indian/indian/	131.m3u8
+#EXTINF:0, group-title="Indian",Star Plus
+http://130.185.144.63:8000/live/indian/indian/	132.m3u8
+#EXTINF:0, group-title="Indian",Star Gold 
+http://130.185.144.63:8000/live/indian/indian/	133.m3u8
+#EXTINF:0, group-title="Indian",Aaj Tak
+http://130.185.144.63:8000/live/indian/indian/	134.m3u8
+#EXTINF:0, group-title="Indian",Life Ok
+http://130.185.144.63:8000/live/indian/indian/	135.m3u8
+#EXTINF:0, group-title="Indian",Life Ok 
+http://130.185.144.63:8000/live/indian/indian/	136.m3u8
+#EXTINF:0, group-title="Indian",Star Movies
+http://130.185.144.63:8000/live/indian/indian/	137.m3u8
+#EXTINF:0, group-title="Indian",Rishtey
+http://130.185.144.63:8000/live/indian/indian/	138.m3u8
+#EXTINF:0, group-title="Indian",Rishtey UK
+http://130.185.144.63:8000/live/indian/indian/	139.m3u8
+#EXTINF:0, group-title="UK",Rishtey UK
+http://130.185.144.63:8000/live/indian/indian/	139.m3u8
+#EXTINF:0, group-title="Indian",B4u Movies
+http://130.185.144.63:8000/live/indian/indian/	140.m3u8
+#EXTINF:0, group-title="Indian",And TV HD
+http://130.185.144.63:8000/live/indian/indian/	141.m3u8
+#EXTINF:0, group-title="Indian",Enter 10
+http://130.185.144.63:8000/live/indian/indian/	142.m3u8
+#EXTINF:0, group-title="Indian",Animal Planet
+http://130.185.144.63:8000/live/indian/indian/	143.m3u8
+#EXTINF:0, group-title="Indian",Disney
+http://130.185.144.63:8000/live/indian/indian/	144.m3u8
+#EXTINF:0, group-title="Indian",Peace TV
+http://130.185.144.63:8000/live/indian/indian/	145.m3u8
+#EXTINF:0, group-title="Indian",Pogo
+http://130.185.144.63:8000/live/indian/indian/	146.m3u8
+#EXTINF:0, group-title="Indian",NDTV
+http://130.185.144.63:8000/live/indian/indian/	147.m3u8
+#EXTINF:0, group-title="Indian",Zoom
+http://130.185.144.63:8000/live/indian/indian/	149.m3u8
+#EXTINF:0, group-title="Indian",Zing
+http://130.185.144.63:8000/live/indian/indian/	150.m3u8
+#EXTINF:0, group-title="Indian",Music Xpress
+http://130.185.144.63:8000/live/indian/indian/	151.m3u8
+#EXTINF:0, group-title="Indian",Music India-1
+http://130.185.144.63:8000/live/indian/indian/	152.m3u8
+#EXTINF:0, group-title="Indian",MTV India
+http://130.185.144.63:8000/live/indian/indian/	153.m3u8
+#EXTINF:0, group-title="Indian",MTunes HD
+http://130.185.144.63:8000/live/indian/indian/	154.m3u8
+#EXTINF:0, group-title="Indian",Bindass Play
+http://130.185.144.63:8000/live/indian/indian/	155.m3u8
+#EXTINF:0, group-title="Indian",B4u Music
+http://130.185.144.63:8000/live/indian/indian/	156.m3u8
+#EXTINF:0, group-title="Indian",9x Music
+http://130.185.144.63:8000/live/indian/indian/	157.m3u8
+#EXTINF:0, group-title="Indian",9x Jhakass
+http://130.185.144.63:8000/live/indian/indian/	158.m3u8
+#EXTINF:0, group-title="Indian",9x Jalwa
+http://130.185.144.63:8000/live/indian/indian/	159.m3u8
+#EXTINF:0, group-title="Indian",UTV Movies-1
+http://130.185.144.63:8000/live/indian/indian/	160.m3u8
+#EXTINF:0, group-title="Indian",UTV Bindass
+http://130.185.144.63:8000/live/indian/indian/	161.m3u8
+#EXTINF:0, group-title="Indian",UTV Movies-2
+http://130.185.144.63:8000/live/indian/indian/	162.m3u8
+#EXTINF:0, group-title="Indian",Cartoon Network
+http://130.185.144.63:8000/live/indian/indian/	163.m3u8
+#EXTINF:0, group-title="Indian",8xm
+http://130.185.144.63:8000/live/indian/indian/	165.m3u8
+#EXTINF:0, group-title="Indian",Food
+http://130.185.144.63:8000/live/indian/indian/	166.m3u8
+#EXTINF:0, group-title="Indian",Aastha Bhajan
+http://130.185.144.63:8000/live/indian/indian/	167.m3u8
+#EXTINF:0, group-title="Punjabi",DD Punjabi
+http://130.185.144.63:8000/live/indian/indian/	168.m3u8
+#EXTINF:0, group-title="Punjabi",Brit Asia
+http://130.185.144.63:8000/live/indian/indian/	169.m3u8
+#EXTINF:0, group-title="Punjabi",Punjab TV
+http://130.185.144.63:8000/live/indian/indian/	170.m3u8
+#EXTINF:0, group-title="Punjabi",Etc Punjabi
+http://130.185.144.63:8000/live/indian/indian/	171.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://130.185.144.63:8000/live/indian/indian/	172.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chak De
+http://130.185.144.63:8000/live/indian/indian/	173.m3u8
+#EXTINF:0, group-title="Punjabi",PTC News
+http://130.185.144.63:8000/live/indian/indian/	174.m3u8
+#EXTINF:0, group-title="Punjabi",9x Tashan
+http://130.185.144.63:8000/live/indian/indian/	175.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Punjabi
+http://130.185.144.63:8000/live/indian/indian/	176.m3u8
+#EXTINF:0, group-title="Punjabi",Mh1
+http://130.185.144.63:8000/live/indian/indian/	177.m3u8
+#EXTINF:0, group-title="Punjabi",Chardikla Time TV
+http://130.185.144.63:8000/live/indian/indian/	178.m3u8
+#EXTINF:0, group-title="Punjabi",Jus Punjabi
+http://130.185.144.63:8000/live/indian/indian/	179.m3u8
+#EXTINF:0, group-title="Punjabi",Jus One TV
+http://130.185.144.63:8000/live/indian/indian/	180.m3u8
+#EXTINF:0, group-title="Punjabi",Sikh Channel
+http://130.185.144.63:8000/live/indian/indian/	181.m3u8
+#EXTINF:0, group-title="Punjabi",Sangat TV
+http://130.185.144.63:8000/live/indian/indian/	182.m3u8
+#EXTINF:0, group-title="Punjabi",Akkal
+http://130.185.144.63:8000/live/indian/indian/	183.m3u8
+#EXTINF:0, group-title="Indian",India TV
+http://130.185.144.63:8000/live/indian/indian/	184.m3u8
+#EXTINF:0, group-title="Indian",NDTV TV Profit
+http://130.185.144.63:8000/live/indian/indian/	185.m3u8
+#EXTINF:0, group-title="Indian",Abp News
+http://130.185.144.63:8000/live/indian/indian/	186.m3u8
+#EXTINF:0, group-title="Indian",Time Now
+http://130.185.144.63:8000/live/indian/indian/	187.m3u8
+#EXTINF:0, group-title="Indian",Star Plus 
+http://130.185.144.63:8000/live/indian/indian/	188.m3u8
+#EXTINF:0, group-title="Indian",Star Gold HD
+http://130.185.144.63:8000/live/indian/indian/	191.m3u8
+#EXTINF:0, group-title="Indian",Star Plus UK
+http://130.185.144.63:8000/live/indian/indian/	479.m3u8
+#EXTINF:0, group-title="UK",Star Plus UK
+http://130.185.144.63:8000/live/indian/indian/	479.m3u8
+#EXTINF:0, group-title="USA",Star Plus USA
+http://130.185.144.63:8000/live/indian/indian/	480.m3u8
+#EXTINF:0, group-title="Indian",Star Plus USA
+http://130.185.144.63:8000/live/indian/indian/	480.m3u8
+#EXTINF:0, group-title="UK",Sab TV UK
+http://130.185.144.63:8000/live/indian/indian/	481.m3u8
+#EXTINF:0, group-title="Indian",Sab TV UK
+http://130.185.144.63:8000/live/indian/indian/	481.m3u8
+#EXTINF:0, group-title="Indian",Set MAX UK
+http://130.185.144.63:8000/live/indian/indian/	484.m3u8
+#EXTINF:0, group-title="Indian",Ump Movies
+http://130.185.144.63:8000/live/indian/indian/	485.m3u8
+#EXTINF:0, group-title="Indian",Zee Cinema
+http://130.185.144.63:8000/live/indian/indian/	487.m3u8
+#EXTINF:0, group-title="Indian",Music India-2
+http://130.185.144.63:8000/live/indian/indian/	489.m3u8
+#EXTINF:0, group-title="Indian",Food Network
+http://130.185.144.63:8000/live/indian/indian/	491.m3u8
+#EXTINF:0, group-title="UK",Zoom UK
+http://130.185.144.63:8000/live/indian/indian/	492.m3u8
+#EXTINF:0, group-title="Indian",Zoom UK
+http://130.185.144.63:8000/live/indian/indian/	492.m3u8
+#EXTINF:0, group-title="UK",Zing UK
+http://130.185.144.63:8000/live/indian/indian/	493.m3u8
+#EXTINF:0, group-title="Indian",Zing UK
+http://130.185.144.63:8000/live/indian/indian/	493.m3u8
+#EXTINF:0, group-title="Indian",And TV
+http://130.185.144.63:8000/live/indian/indian/	494.m3u8
+#EXTINF:0, group-title="Indian",9x Jalwa-2
+http://130.185.144.63:8000/live/indian/indian/	495.m3u8
+#EXTINF:0, group-title="Indian",India Today
+http://130.185.144.63:8000/live/indian/indian/	496.m3u8
+#EXTINF:0, group-title="Indian",Etv Now
+http://130.185.144.63:8000/live/indian/indian/	497.m3u8
+#EXTINF:0, group-title="Indian",IBN Lokmat
+http://130.185.144.63:8000/live/indian/indian/	498.m3u8
+#EXTINF:0, group-title="Indian",IBN 7
+http://130.185.144.63:8000/live/indian/indian/	499.m3u8
+#EXTINF:0, group-title="Indian",Zee Rishtay
+http://130.185.144.63:8000/live/indian/indian/	501.m3u8
+#EXTINF:0, group-title="Indian",9xm
+http://130.185.144.63:8000/live/indian/indian/	5307.m3u8
+#EXTINF:0, group-title="Indian",Sony MAX HD (Jio)
+http://130.185.144.63:8000/live/indian/indian/	536.m3u8
+#EXTINF:0, group-title="Indian",And Picture HD
+http://130.185.144.63:8000/live/indian/indian/	823.m3u8
+#EXTINF:0, group-title="Indian",Living Food
+http://130.185.144.63:8000/live/indian/indian/	99.m3u8
 #EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg",Canal Savoir (French)
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.png",CHCH
@@ -1476,126 +1475,3 @@ http://69.30.251.42:25461/live/newapk/onew/640.ts|refferer=http://solidstreamz.c
 http://69.30.251.42:25461/live/newapk/onew/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:0, group-title="UK",RTE 2
 http://69.30.251.42:25461/live/newapk/onew/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
-#EXTINF:0, group-title="Pakistani",???
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
-#EXTINF:0, group-title="Pakistani",??? News HD
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
-#EXTINF:0, group-title="Pakistani",8XM HD
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
-#EXTINF:0, group-title="Pakistani",A Plus
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
-#EXTINF:0, group-title="Pakistani",Aab Tak TV
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/58.m3u8
-#EXTINF:0, group-title="Pakistani",Aaj News
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
-#EXTINF:0, group-title="Pakistani",Afghan
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/64.m3u8
-#EXTINF:0, group-title="Pakistani",Apna Channel
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/60.m3u8
-#EXTINF:0, group-title="Pakistani",Aruj
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/25.m3u8
-#EXTINF:0, group-title="Pakistani",ATV
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
-#EXTINF:0, group-title="Pakistani",Awaz
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
-#EXTINF:0, group-title="Pakistani",Dunya TV
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
-#EXTINF:0, group-title="Pakistani",Film Workd
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
-#EXTINF:0, group-title="Pakistani",Filmax
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
-#EXTINF:0, group-title="Pakistani",Filmazia HD
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/69.m3u8
-#EXTINF:0, group-title="Pakistani",Jalwa
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/62.m3u8
-#EXTINF:0, group-title="Pakistani",K21 News
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/23.m3u8
-#EXTINF:0, group-title="Pakistani",Kay2
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
-#EXTINF:0, group-title="Pakistani",Khyber News TV
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
-#EXTINF:0, group-title="Pakistani",Khyber TV
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
-#EXTINF:0, group-title="Pakistani",Neo News HD
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
-#EXTINF:0, group-title="Pakistani",News 7
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
-#EXTINF:0, group-title="Pakistani",News One
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/45.m3u8
-#EXTINF:0, group-title="Pakistani",Oxygene
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/56.m3u8
-#EXTINF:0, group-title="Pakistani",Pashto 1
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/29.m3u8
-#EXTINF:0, group-title="Pakistani",Punjab TV
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/35.m3u8
-#EXTINF:0, group-title="Pakistani",Roze News
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/82.m3u8
-#EXTINF:0, group-title="Pakistani",See TV HD
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/79.m3u8
-#EXTINF:0, group-title="Pakistani",Sindh News
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/15.m3u8
-#EXTINF:0, group-title="Pakistani",Such
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/33.m3u8
-#EXTINF:0, group-title="Pakistani",TV One
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
-#EXTINF:0, group-title="Pakistani",Waseb
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
-#EXTINF:0, group-title="South Indian",News Live
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Sarthak
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/01.m3u8
-#EXTINF:0, group-title="International",Al Jazeera
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
-#EXTINF:0, group-title="South Indian",Prag News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/01.m3u8
-#EXTINF:0, group-title="South Indian",Janam TV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226111/01.m3u8
-#EXTINF:0, group-title="South Indian",V News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/01.m3u8
-#EXTINF:0, group-title="Punjabi",MH One
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
-#EXTINF:0, group-title="South Indian",TV9
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226113/01.m3u8
-#EXTINF:0, group-title="South Indian",Arijan
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
-#EXTINF:0, group-title="Bangla",Zee 24 Taas
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
-#EXTINF:0, group-title="Indian",Gulistan News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/01.m3u8
-#EXTINF:0, group-title="Indian",B4U Movies
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/01.m3u8
-#EXTINF:0, group-title="South Indian",KTV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226121/01.m3u8
-#EXTINF:0, group-title="South Indian",Gemini Comedy
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226123/01.m3u8
-#EXTINF:0, group-title="South Indian",Jaya MAX
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226101/01.m3u8
-#EXTINF:0, group-title="South Indian",IBC 24
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226102/01.m3u8
-#EXTINF:0, group-title="South Indian",Polimer Music
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/01.m3u8
-#EXTINF:0, group-title="Bangla",Rang
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
-#EXTINF:0, group-title="South Indian",Kaumudy
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226100/01.m3u8
-#EXTINF:0, group-title="Bangla",Sony Bangla
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Telugu Cinema
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8
-#EXTINF:0, group-title="Indian",Dabang
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226097/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Yuva
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
-#EXTINF:0, group-title="South Indian",Jaya Movie
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226095/01.m3u8
-#EXTINF:0, group-title="South Indian",TV9
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8
-#EXTINF:0, group-title="South Indian",Kairali
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226093/01.m3u8
-#EXTINF:0, group-title="South Indian",Jaya TV HD
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226092/01.m3u8
-#EXTINF:0, group-title="South Indian",???
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226091/01.m3u8
-#EXTINF:0, group-title="Bangla",Bengali
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
-
