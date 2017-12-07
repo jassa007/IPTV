@@ -138,9 +138,9 @@ http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/322122594
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
 #EXTINF:0, group-title="Indian",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="Pakistani",???
+#EXTINF:0, group-title="Pakistani",Aaj Enertainment
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
-#EXTINF:0, group-title="Pakistani",??? News HD
+#EXTINF:0, group-title="Pakistani",Lahore News HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
 #EXTINF:0, group-title="Pakistani",8XM HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
@@ -348,11 +348,11 @@ http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
 http://toronto3.live247stream.com/toronto360/tv/toronto360/720/chunks.m3u8
 #EXTINF:0, group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Kids",Junoon TV
+#EXTINF:0, group-title="Kids",???
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/73.m3u8
 #EXTINF:0, group-title="Kids",Sony Yay
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
-#EXTINF:0, group-title="International",Junoon TV
+#EXTINF:0, group-title="International",???
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/73.m3u8
 #EXTINF:0, group-title="International",360 TV (Chona)
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w2073057097_b364000.m3u8
