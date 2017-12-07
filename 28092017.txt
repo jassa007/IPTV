@@ -4,52 +4,174 @@
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8
 #EXTINF:0, group-title="Indian",& TV
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="Indian",& TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",& TV HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",1st India News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",8xm (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",9x Jalwa
 http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110.m3u8
+#EXTINF:0, group-title="Indian",9x Jalwa-1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",9x Jalwa-2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",9x Jhakass (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",9x Music
 http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
+#EXTINF:0, group-title="Indian",9x Music (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",9xm (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Aaj Tak (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Aaj Tak (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD500L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Aaj Tak (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD500L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",AajTak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Aastha Bhajan (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Aastha TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",ABP Majha
 http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
 #EXTINF:0, group-title="Indian",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="Indian",Abp News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Animal Planet (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",B4U Movies
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:0, group-title="Indian",B4u Movies (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",B4U Music
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8
+#EXTINF:0, group-title="Indian",B4u Music (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Bhojpuri Cinema (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Big Magic
 http://125.17.129.4/PLTV/88888888/224/3221225745/01.m3u8
+#EXTINF:0, group-title="Indian",Bindass Play (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Bloomberg Quint (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD355L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Bloomberg Quint (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD355L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Bollywood Masala (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Bollywood Masala (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Cartoon Network (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",CNBC Awaz (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",CNBC Prime TV18 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",CNBC TV18 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",CNN IBN News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",CNN News 18
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+#EXTINF:0, group-title="Indian",Colors (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Colors Apac (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Colors EU (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Colors TV AUS (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Colors TV HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Colors TV ME (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Colors TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Dabang
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226097/01.m3u8
+#EXTINF:0, group-title="Indian",DD Bharti (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD251L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",DD Bharti (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD251L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",DD India (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",DD Lok Sabha
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0, group-title="Indian",DD News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",DD Rajya Sabha
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:0, group-title="Indian",DD Sports
 http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",Delhi Aaj Tak (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD68L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Delhi Aaj Tak (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD68L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Desi Beats (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Desi Beats HD
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 #EXTINF:0, group-title="Indian",Discovery Turbo
 http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
+#EXTINF:0, group-title="Indian",Disney (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",E24
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:0, group-title="Indian",E24 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Enter 10 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",ET Now
 http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+#EXTINF:0, group-title="Indian",Et Now (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",ET Now (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD97L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",ET Now (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD97L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Etv  Raj (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Etv Bihar (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",ETV MP
 http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",Etv MP (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Etv Now (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",ETV Raj
 http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
 #EXTINF:0, group-title="Indian",ETV UP
 http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
+#EXTINF:0, group-title="Indian",Etv UP (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",ETV Urdu
 http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",Etv Urdu (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Food (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Food Food
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:0, group-title="Indian",Food Food (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD139L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Food Food (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD139L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Food Network (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Gulistan News
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/01.m3u8
+#EXTINF:0, group-title="Indian",IBN 7 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",IBN Lokmat (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",IBN Lokmat-1
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
 #EXTINF:0, group-title="Indian",IBN Lokmat-2
@@ -58,34 +180,100 @@ http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
 #EXTINF:0, group-title="Indian",India News
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD148L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD148L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India News Haryana
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News MP (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD141L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News MP (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD141L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India News MP CG
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
 #EXTINF:0, group-title="Indian",India News Raj
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News Raj (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD143L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News Raj (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD143L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",India News UP
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News UP (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD144L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News UP (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD144L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India Today (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="Indian",India TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",India Voice (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD321L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India Voice (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD321L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",IndiaToday (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD72L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",IndiaToday (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD72L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Ishwar TV
 http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0, group-title="Indian",Life Ok  (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Life Ok (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Life Ok MEna (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Life Ok Star (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Life Ok USA (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Living Food (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Madha
 http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
 #EXTINF:0, group-title="Indian",Mahua Plus
 http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Mangalmay (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD107L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Mangalmay (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD107L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Mastiii (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD254L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Mastiii (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD254L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+#EXTINF:0, group-title="Indian",MTunes HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",MTV India (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Music India
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8
+#EXTINF:0, group-title="Indian",Music India-1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Music India-2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Music Xpress (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",NDTV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",NDTV 24x7
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
+#EXTINF:0, group-title="Indian",NDTV 24x7 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",NDTV India
 http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
 #EXTINF:0, group-title="Indian",NDTV Profit
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",NDTV Profit (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",NDTV TV Profit (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Neo Prime
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225789/01.m3u8
 #EXTINF:0, group-title="Indian",Neo Sports
@@ -94,26 +282,83 @@ http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/32212257
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
 #EXTINF:0, group-title="Indian",News 18
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",News 18-2
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",News 18-2	http//ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",News 24 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",News 9 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",News 9 Eng (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",News X (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",News X HD
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
 #EXTINF:0, group-title="Indian",Only Music HD
 http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:0, group-title="Indian",OTV News
 http://otvdigitalhd.in:1935/unevent/otvsmil.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",Peace TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Rishtay Asia (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Rishtay EU (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Rishtey (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Rishtey Asia (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Rishtey UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",RT Movies (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD258L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",RT Movies (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD258L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Sab TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sab TV-1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sab TV-2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Sadhana News
 http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana Plus News
 http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
 #EXTINF:0, group-title="Indian",Sadhana TV
 http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",Sahara Samay (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sahara Samay Bihar (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sahara Samay MP (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sahara Samay Raj (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sahara Samay UP (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sahib TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sanjeev Kapoor- Wonder Chef (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD266L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Sanjeev Kapoor- Wonder Chef (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD266L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Set MAX (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Set MAX AUS (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Set MAX UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Sony Max
 http://125.17.129.4/PLTV/88888888/224/3221225811/02.m3u8
 #EXTINF:0, group-title="Indian",Sony Max HD
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8
+#EXTINF:0, group-title="Indian",Sony MAX HD (Jio) (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Sony Max2
 http://125.17.129.4/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:0, group-title="Indian",Sony MAX2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Sony Mix
 http://125.17.129.4/PLTV/88888888/224/3221225816/01.m3u8
 #EXTINF:0, group-title="Indian",Sony SAB
@@ -122,32 +367,146 @@ http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/322122582
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
 #EXTINF:0, group-title="Indian",Sony TV
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Indian",Sony TV AUS (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Sony TV HD
 http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
+#EXTINF:0, group-title="Indian",Sony TV HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sony TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sristi 35mm (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD87L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Sristi 35mm (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD87L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Star Gold  (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Gold HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Movies (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Plus HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Plus ME (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Plus UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Plus USA (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Plus-1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Star Plus-2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Sudarshan News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Swasthik TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD341L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Swasthik TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD341L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Taaza TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Taaza TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Tez (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD79L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Tez (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD79L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Time Now (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Times Now
 http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
+#EXTINF:0, group-title="Indian",Times Now (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Times Now (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Times Now (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Times Now (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Toonami (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Toonami (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Ump Movies (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",UTV Bindass (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",UTV Movies-1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",UTV Movies-2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Vaa Movies (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Vaani (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Vaani (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Indian",Yoga TV -Swamiji
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",Zee Action (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Anmol (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Business (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Zee Cinema
 http://125.17.129.4/PLTV/88888888/224/3221225935/02.m3u8
+#EXTINF:0, group-title="Indian",Zee Cinema-1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Cinema-2 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Classic (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Etc (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Purvaiya (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Rishtay (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Salam (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Smile (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee Talkies (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Zee TV
 http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
 #EXTINF:0, group-title="Indian",Zee TV HD
 http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
+#EXTINF:0, group-title="Indian",Zee TV HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee TV ME (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zee TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Zee Yuva
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
+#EXTINF:0, group-title="Indian",Zing (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zing UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Indian",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="Pakistani",Aaj Enertainment
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
-#EXTINF:0, group-title="Pakistani",Lahore News HD
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
+#EXTINF:0, group-title="Indian",Zoom (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Indian",Zoom (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD160L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Zoom (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD160L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Zoom UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Pakistani",8XM HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
 #EXTINF:0, group-title="Pakistani",A Plus
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
 #EXTINF:0, group-title="Pakistani",Aab Tak TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/58.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj Entertainment
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
 #EXTINF:0, group-title="Pakistani",Aaj News
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
 #EXTINF:0, group-title="Pakistani",Afghan
@@ -178,6 +537,8 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
 #EXTINF:0, group-title="Pakistani",Khyber TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
+#EXTINF:0, group-title="Pakistani",Lahore News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
 #EXTINF:0, group-title="Pakistani",Neo News HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
 #EXTINF:0, group-title="Pakistani",News 7
@@ -204,25 +565,63 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",9x Tashan (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Akaal Channel (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Akkal (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Music (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Aone Music (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD328L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Aone Music (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD328L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Aone Punjabi (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Aone Punjabi (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Aone Punjabi (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Baani
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD344L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD344L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Brit Asia (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
 http://209.153.233.92:7000/chakde/index.m3u8
+#EXTINF:0, group-title="Punjabi",Chakde TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Chardikla Time TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+#EXTINF:0, group-title="Punjabi",DD Punjabi (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Desi Channel
 http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC 
+#EXTINF:0, group-title="Punjabi",Etc Punjabi (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Fateh TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Fateh TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_punjab.m3u8
@@ -230,28 +629,68 @@ http://104.237.59.106/live/Global_punjab.m3u8
 http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Gurbaani TV
 http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Hamdard TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Jhanjar HD (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Jhanjar TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0, group-title="Punjabi",Jus One TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Jus Punjabi (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",MH One
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
+#EXTINF:0, group-title="Punjabi",Mh1 (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Mh1 News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Mh1 Sharddha (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Pb Zee Punjabi (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/01.m3u8
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chakde (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",PTC News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",PTC Punjabi (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Punjab TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",RTV Punjabi
 http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
+#EXTINF:0, group-title="Punjabi",Sangat TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Punjabi",Sanjh TV (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sikh Channel (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Steelbird Music (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD343L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Steelbird Music (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD343L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Punjabi",Zee Punjab HP Haryana (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="South Indian",???
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226091/01.m3u8
 #EXTINF:0, group-title="South Indian",Anand Media HD
@@ -302,10 +741,22 @@ http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/01.m3u8
 #EXTINF:0, group-title="South Indian",NTV HD
 http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Onkar TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD174L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",Onkar TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD174L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",OTV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD93L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",OTV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD93L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="South Indian",Polimer Music
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/01.m3u8
 #EXTINF:0, group-title="South Indian",Prag News
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/01.m3u8
+#EXTINF:0, group-title="South Indian",Prarthana TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD94L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",Prarthana TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD94L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="South Indian",Super TV
 http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
 #EXTINF:0, group-title="South Indian",TV9
@@ -326,10 +777,20 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
 http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Zee Kannada (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="South Indian",Zee Oriya News (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="South Indian",Zee Sangam (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="South Indian",Zee Sarthak
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Tamil (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="South Indian",Zee Telugu
 http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Telugu (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="South Indian",Zee Telugu Cinema
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8
 #EXTINF:0, group-title="Bangla",Arijan
@@ -342,46 +803,79 @@ http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/32212261
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
 #EXTINF:0, group-title="Bangla",Zee 24 Taas
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
+#EXTINF:0, group-title="Kids",???
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/73.m3u8
+#EXTINF:0, group-title="Kids",Cartoon Network (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Kids",Cartoon Network (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Kids",Pogo (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="Kids",Pogo-2 (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Kids",Pogo-2 (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Kids",Sony Yay
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
 #EXTINF:0, group-title="Canada",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
 #EXTINF:0, group-title="Canada",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:0, group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Kids",???
-http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/73.m3u8
-#EXTINF:0, group-title="Kids",Sony Yay
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
+#EXTINF:0, group-title="UK",Colors TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Pick (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Rishtey UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Sab TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Sony TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Star Plus UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Zee TV UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Zing UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="UK",Zoom UK (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="USA",Life Ok USA (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="USA",Star Plus USA (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="International",???
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/73.m3u8
 #EXTINF:0, group-title="International",360 TV (Chona)
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w2073057097_b364000.m3u8
-#EXTINF:0, group-title="International",Al Jazeera-1
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, group-title="International",Al Jazeera-1	http//aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:0, group-title="International",Al Jazeera-2
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
 #EXTINF:0, group-title="International",Animal Planet HD
 http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:0, group-title="International",BBC Global (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="International",Bloomberg TV (Chona)
 http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
 #EXTINF:0, group-title="International",Bloomberg US
 https://mediauseast.akamaized.net/us/us1_live.m3u8
-#EXTINF:0, group-title="International",Channel News Asia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:0, group-title="International",Channel Win 
-http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="International",Channel News Asia	http//imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0, group-title="International",Channel Win 	http//edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 #EXTINF:0, group-title="International",Chasseet Pache TV (Chona)
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:0, group-title="International",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
+#EXTINF:0, group-title="International",Chelsea TV	http//ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
+#EXTINF:0, group-title="International",Colors EU (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="International",Colors TV AUS (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="International",Colors TV ME (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="International",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0, group-title="International",Deutshe Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
-#EXTINF:0, group-title="International",DW Asia
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:0, group-title="International",France24 News
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0, group-title="International",Deutshe Welle	http//dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
+#EXTINF:0, group-title="International",DW Asia	http//www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="International",France24 News	http//stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
 #EXTINF:0, group-title="International",Gem Life TV (Chona)
 http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
 #EXTINF:0, group-title="International",Gem Travel TV (Chona)
@@ -390,14 +884,20 @@ http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
 http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
 #EXTINF:0, group-title="International",Grand Lille TV
 rtsp://str81.creacast.com/grandlilletv/high
-#EXTINF:0, group-title="International",Headlines Today
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0, group-title="International",Headlines Today	http//daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:0, group-title="International",Hum TV (YouTube)
 https://youtu.be/VwxB5rCrjUo
-#EXTINF:0, group-title="International",Indies Music HD
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, group-title="International",Imaan TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD338L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Imaan TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD338L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Indies Music HD	http//ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:0, group-title="International",Irib TV 3 (Chona)
 http://irib-live.arvancloud.com/tv3hd/tv3hd.m3u8
+#EXTINF:0, group-title="International",iTV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD195L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",iTV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD195L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",Kanal 24 TV (Chona)
 http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w246985525.m3u8
 #EXTINF:0, group-title="International",Kanal 3 TV (Chona)
@@ -412,8 +912,7 @@ http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:0, group-title="International",Macca TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/75.m3u8
-#EXTINF:0, group-title="International",MBC Bollywood HD
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0, group-title="International",MBC Bollywood HD	http//selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 #EXTINF:0, group-title="International",MBC Bollywood HD
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 #EXTINF:0, group-title="International",Mello TV
@@ -432,20 +931,29 @@ http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_
 http://s3.telewebion.com:1935/devices/_definst_/nasim-500k.stream/chunklist_w2127445813.m3u8
 #EXTINF:0, group-title="International",New TV (Chona)
 http://kurd-live.com:1935/live/new/playlist.m3u8
+#EXTINF:0, group-title="International",News Asia (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",News Asia (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",Peace Asia TV
 rtmp://peace.fms.visionip.tv/live//b2b-peace_asia-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",Peace UK TV
 rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",Peace USA TV
 rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",QH on TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",QH on TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",RA Documentary (Chona)
 https://secure-streams.akamaized.net/rt-doc/index800.m3u8
-#EXTINF:0, group-title="International",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
+#EXTINF:0, group-title="International",Real Madrid TV	http//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
 #EXTINF:0, group-title="International",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
 #EXTINF:0, group-title="International",Rega TV (Chona)
 http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
+#EXTINF:0, group-title="International",Rishtey Asia (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="International",Ronahi TV
 http://bein.website/ZonaLiveTV1/Ronahi.m3u8
 #EXTINF:0, group-title="International",RT Documentary
@@ -460,12 +968,15 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/71.m3u8
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/77.m3u8
 #EXTINF:0, group-title="International",Science & Vie TV (Chona)
 http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:0, group-title="International",Sky  TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0, group-title="International",Sky  TG24	http//skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0, group-title="International",Sky  TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0, group-title="International",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="International",Sony TV AUS (Sat)
+http://130.185.144.63:8000/live/indian/indian/
+#EXTINF:0, group-title="International",Star Plus ME (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 #EXTINF:0, group-title="International",TRT 1 HD (Chona)
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0, group-title="International",TRT Arabic (Chona)
@@ -492,371 +1003,9 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 rtsp://62.210.204.108/livtv7vo/mystream700.sdp
 #EXTINF:0, group-title="International",Ushuaia TV (Chona)
 http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
+#EXTINF:0, group-title="International",Zee TV ME (Sat)
+http://130.185.144.63:8000/live/indian/indian/
 
-#EXTINF:0, group-title="Indian",& Picture HD
-http://130.185.144.63:8000/live/indian/indian/823.m3u8
-#EXTINF:0, group-title="Indian",& TV
-http://130.185.144.63:8000/live/indian/indian/494.m3u8
-#EXTINF:0, group-title="Indian",& TV HD
-http://130.185.144.63:8000/live/indian/indian/141.m3u8
-#EXTINF:0, group-title="Indian",1st India News
-http://130.185.144.63:8000/live/indian/indian/1122.m3u8
-#EXTINF:0, group-title="Indian",8xm
-http://130.185.144.63:8000/live/indian/indian/165.m3u8
-#EXTINF:0, group-title="Indian",9x Jalwa-1
-http://130.185.144.63:8000/live/indian/indian/159.m3u8
-#EXTINF:0, group-title="Indian",9x Jalwa-2
-http://130.185.144.63:8000/live/indian/indian/495.m3u8
-#EXTINF:0, group-title="Indian",9x Jhakass
-http://130.185.144.63:8000/live/indian/indian/158.m3u8
-#EXTINF:0, group-title="Indian",9x Music
-http://130.185.144.63:8000/live/indian/indian/157.m3u8
-#EXTINF:0, group-title="Indian",9xm
-http://130.185.144.63:8000/live/indian/indian/5307.m3u8
-#EXTINF:0, group-title="Indian",Aaj Tak
-http://130.185.144.63:8000/live/indian/indian/134.m3u8
-#EXTINF:0, group-title="Indian",Aastha Bhajan
-http://130.185.144.63:8000/live/indian/indian/167.m3u8
-#EXTINF:0, group-title="Indian",Aastha TV
-http://130.185.144.63:8000/live/indian/indian/1123.m3u8
-#EXTINF:0, group-title="Indian",Abp News
-http://130.185.144.63:8000/live/indian/indian/186.m3u8
-#EXTINF:0, group-title="Indian",Animal Planet
-http://130.185.144.63:8000/live/indian/indian/143.m3u8
-#EXTINF:0, group-title="Indian",B4u Movies
-http://130.185.144.63:8000/live/indian/indian/140.m3u8
-#EXTINF:0, group-title="Indian",B4u Music
-http://130.185.144.63:8000/live/indian/indian/156.m3u8
-#EXTINF:0, group-title="Indian",Bhojpuri Cinema
-http://130.185.144.63:8000/live/indian/indian/1125.m3u8
-#EXTINF:0, group-title="Indian",Bindass Play
-http://130.185.144.63:8000/live/indian/indian/155.m3u8
-#EXTINF:0, group-title="Indian",Cartoon Network
-http://130.185.144.63:8000/live/indian/indian/163.m3u8
-#EXTINF:0, group-title="Indian",CNBC Awaz
-http://130.185.144.63:8000/live/indian/indian/1126.m3u8
-#EXTINF:0, group-title="Indian",CNBC Prime TV18
-http://130.185.144.63:8000/live/indian/indian/1127.m3u8
-#EXTINF:0, group-title="Indian",CNBC TV18
-http://130.185.144.63:8000/live/indian/indian/1128.m3u8
-#EXTINF:0, group-title="Indian",CNN IBN News
-http://130.185.144.63:8000/live/indian/indian/1129.m3u8
-#EXTINF:0, group-title="Indian",Colors
-http://130.185.144.63:8000/live/indian/indian/121.m3u8
-#EXTINF:0, group-title="Indian",Colors Apac
-http://130.185.144.63:8000/live/indian/indian/124.m3u8
-#EXTINF:0, group-title="Indian",Colors EU
-http://130.185.144.63:8000/live/indian/indian/123.m3u8
-#EXTINF:0, group-title="Indian",Colors TV AUS
-http://130.185.144.63:8000/live/indian/indian/1130.m3u8
-#EXTINF:0, group-title="Indian",Colors TV HD
-http://130.185.144.63:8000/live/indian/indian/122.m3u8
-#EXTINF:0, group-title="Indian",Colors TV ME
-http://130.185.144.63:8000/live/indian/indian/1131.m3u8
-#EXTINF:0, group-title="Indian",Colors TV UK
-http://130.185.144.63:8000/live/indian/indian/1132.m3u8
-#EXTINF:0, group-title="Indian",DD India
-http://130.185.144.63:8000/live/indian/indian/1133.m3u8
-#EXTINF:0, group-title="Indian",DD News
-http://130.185.144.63:8000/live/indian/indian/1134.m3u8
-#EXTINF:0, group-title="Indian",Desi Beats
-http://130.185.144.63:8000/live/indian/indian/1135.m3u8
-#EXTINF:0, group-title="Indian",Disney
-http://130.185.144.63:8000/live/indian/indian/144.m3u8
-#EXTINF:0, group-title="Indian",E24
-http://130.185.144.63:8000/live/indian/indian/1136.m3u8
-#EXTINF:0, group-title="Indian",Enter 10
-http://130.185.144.63:8000/live/indian/indian/142.m3u8
-#EXTINF:0, group-title="Indian",Et Now
-http://130.185.144.63:8000/live/indian/indian/1137.m3u8
-#EXTINF:0, group-title="Indian",Etv  Raj
-http://130.185.144.63:8000/live/indian/indian/1140.m3u8
-#EXTINF:0, group-title="Indian",Etv Bihar
-http://130.185.144.63:8000/live/indian/indian/1138.m3u8
-#EXTINF:0, group-title="Indian",Etv MP
-http://130.185.144.63:8000/live/indian/indian/1139.m3u8
-#EXTINF:0, group-title="Indian",Etv Now
-http://130.185.144.63:8000/live/indian/indian/497.m3u8
-#EXTINF:0, group-title="Indian",Etv UP
-http://130.185.144.63:8000/live/indian/indian/1141.m3u8
-#EXTINF:0, group-title="Indian",Etv Urdu
-http://130.185.144.63:8000/live/indian/indian/1142.m3u8
-#EXTINF:0, group-title="Indian",Food
-http://130.185.144.63:8000/live/indian/indian/166.m3u8
-#EXTINF:0, group-title="Indian",Food Network
-http://130.185.144.63:8000/live/indian/indian/491.m3u8
-#EXTINF:0, group-title="Indian",IBN 7
-http://130.185.144.63:8000/live/indian/indian/499.m3u8
-#EXTINF:0, group-title="Indian",IBN Lokmat
-http://130.185.144.63:8000/live/indian/indian/498.m3u8
-#EXTINF:0, group-title="Indian",India Today
-http://130.185.144.63:8000/live/indian/indian/496.m3u8
-#EXTINF:0, group-title="Indian",India TV
-http://130.185.144.63:8000/live/indian/indian/184.m3u8
-#EXTINF:0, group-title="Indian",Life Ok
-http://130.185.144.63:8000/live/indian/indian/135.m3u8
-#EXTINF:0, group-title="Indian",Life Ok 
-http://130.185.144.63:8000/live/indian/indian/136.m3u8
-#EXTINF:0, group-title="Indian",Life Ok MEna
-http://130.185.144.63:8000/live/indian/indian/1146.m3u8
-#EXTINF:0, group-title="Indian",Life Ok Star
-http://130.185.144.63:8000/live/indian/indian/1147.m3u8
-#EXTINF:0, group-title="Indian",Life Ok USA
-http://130.185.144.63:8000/live/indian/indian/1148.m3u8
-#EXTINF:0, group-title="Indian",Living Food
-http://130.185.144.63:8000/live/indian/indian/99.m3u8
-#EXTINF:0, group-title="Indian",MTunes HD
-http://130.185.144.63:8000/live/indian/indian/154.m3u8
-#EXTINF:0, group-title="Indian",MTV India
-http://130.185.144.63:8000/live/indian/indian/153.m3u8
-#EXTINF:0, group-title="Indian",Music India-1
-http://130.185.144.63:8000/live/indian/indian/152.m3u8
-#EXTINF:0, group-title="Indian",Music India-2
-http://130.185.144.63:8000/live/indian/indian/489.m3u8
-#EXTINF:0, group-title="Indian",Music Xpress
-http://130.185.144.63:8000/live/indian/indian/151.m3u8
-#EXTINF:0, group-title="Indian",NDTV
-http://130.185.144.63:8000/live/indian/indian/147.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24x7
-http://130.185.144.63:8000/live/indian/indian/1149.m3u8
-#EXTINF:0, group-title="Indian",NDTV Profit
-http://130.185.144.63:8000/live/indian/indian/1150.m3u8
-#EXTINF:0, group-title="Indian",NDTV TV Profit
-http://130.185.144.63:8000/live/indian/indian/185.m3u8
-#EXTINF:0, group-title="Indian",News 24
-http://130.185.144.63:8000/live/indian/indian/1151.m3u8
-#EXTINF:0, group-title="Indian",News 9
-http://130.185.144.63:8000/live/indian/indian/1171.m3u8
-#EXTINF:0, group-title="Indian",News 9 Eng
-http://130.185.144.63:8000/live/indian/indian/1153.m3u8
-#EXTINF:0, group-title="Indian",News X
-http://130.185.144.63:8000/live/indian/indian/1152.m3u8
-#EXTINF:0, group-title="Indian",Peace TV
-http://130.185.144.63:8000/live/indian/indian/145.m3u8
-#EXTINF:0, group-title="Indian",Rishtay Asia
-http://130.185.144.63:8000/live/indian/indian/1172.m3u8
-#EXTINF:0, group-title="Indian",Rishtay EU
-http://130.185.144.63:8000/live/indian/indian/1155.m3u8
-#EXTINF:0, group-title="Indian",Rishtey
-http://130.185.144.63:8000/live/indian/indian/138.m3u8
-#EXTINF:0, group-title="Indian",Rishtey Asia
-http://130.185.144.63:8000/live/indian/indian/1154.m3u8
-#EXTINF:0, group-title="Indian",Rishtey UK
-http://130.185.144.63:8000/live/indian/indian/139.m3u8
-#EXTINF:0, group-title="Indian",Sab TV UK
-http://130.185.144.63:8000/live/indian/indian/481.m3u8
-#EXTINF:0, group-title="Indian",Sab TV-1
-http://130.185.144.63:8000/live/indian/indian/129.m3u8
-#EXTINF:0, group-title="Indian",Sab TV-2
-http://130.185.144.63:8000/live/indian/indian/130.m3u8
-#EXTINF:0, group-title="Indian",Sahara Samay
-http://130.185.144.63:8000/live/indian/indian/1156.m3u8
-#EXTINF:0, group-title="Indian",Sahara Samay Aalami
-http://130.185.144.63:8000/live/indian/indian/1157.m3u8
-#EXTINF:0, group-title="Indian",Sahara Samay Bihar
-http://130.185.144.63:8000/live/indian/indian/1158.m3u8
-#EXTINF:0, group-title="Indian",Sahara Samay MP
-http://130.185.144.63:8000/live/indian/indian/1159.m3u8
-#EXTINF:0, group-title="Indian",Sahara Samay Raj
-http://130.185.144.63:8000/live/indian/indian/1160.m3u8
-#EXTINF:0, group-title="Indian",Sahara Samay UP
-http://130.185.144.63:8000/live/indian/indian/1161.m3u8
-#EXTINF:0, group-title="Indian",Sahib TV
-http://130.185.144.63:8000/live/indian/indian/1100.m3u8
-#EXTINF:0, group-title="Indian",Set MAX
-http://130.185.144.63:8000/live/indian/indian/125.m3u8
-#EXTINF:0, group-title="Indian",Set MAX AUS
-http://130.185.144.63:8000/live/indian/indian/1162.m3u8
-#EXTINF:0, group-title="Indian",Set MAX UK
-http://130.185.144.63:8000/live/indian/indian/484.m3u8
-#EXTINF:0, group-title="Indian",Sony MAX HD (Jio)
-http://130.185.144.63:8000/live/indian/indian/536.m3u8
-#EXTINF:0, group-title="Indian",Sony MAX2
-http://130.185.144.63:8000/live/indian/indian/1163.m3u8
-#EXTINF:0, group-title="Indian",Sony TV AUS
-http://130.185.144.63:8000/live/indian/indian/128.m3u8
-#EXTINF:0, group-title="Indian",Sony TV HD
-http://130.185.144.63:8000/live/indian/indian/127.m3u8
-#EXTINF:0, group-title="Indian",Sony TV UK
-http://130.185.144.63:8000/live/indian/indian/126.m3u8
-#EXTINF:0, group-title="Indian",Star Gold 
-http://130.185.144.63:8000/live/indian/indian/133.m3u8
-#EXTINF:0, group-title="Indian",Star Gold HD
-http://130.185.144.63:8000/live/indian/indian/191.m3u8
-#EXTINF:0, group-title="Indian",Star Movies
-http://130.185.144.63:8000/live/indian/indian/137.m3u8
-#EXTINF:0, group-title="Indian",Star Plus HD
-http://130.185.144.63:8000/live/indian/indian/131.m3u8
-#EXTINF:0, group-title="Indian",Star Plus ME
-http://130.185.144.63:8000/live/indian/indian/1164.m3u8
-#EXTINF:0, group-title="Indian",Star Plus UK
-http://130.185.144.63:8000/live/indian/indian/479.m3u8
-#EXTINF:0, group-title="Indian",Star Plus USA
-http://130.185.144.63:8000/live/indian/indian/480.m3u8
-#EXTINF:0, group-title="Indian",Star Plus-1
-http://130.185.144.63:8000/live/indian/indian/132.m3u8
-#EXTINF:0, group-title="Indian",Star Plus-2
-http://130.185.144.63:8000/live/indian/indian/188.m3u8
-#EXTINF:0, group-title="Indian",Sudarshan News
-http://130.185.144.63:8000/live/indian/indian/1165.m3u8
-#EXTINF:0, group-title="Indian",Time Now
-http://130.185.144.63:8000/live/indian/indian/187.m3u8
-#EXTINF:0, group-title="Indian",Ump Movies
-http://130.185.144.63:8000/live/indian/indian/485.m3u8
-#EXTINF:0, group-title="Indian",UTV Bindass
-http://130.185.144.63:8000/live/indian/indian/161.m3u8
-#EXTINF:0, group-title="Indian",UTV Movies-1
-http://130.185.144.63:8000/live/indian/indian/160.m3u8
-#EXTINF:0, group-title="Indian",UTV Movies-2
-http://130.185.144.63:8000/live/indian/indian/162.m3u8
-#EXTINF:0, group-title="Indian",Vaa Movies
-http://130.185.144.63:8000/live/indian/indian/1143.m3u8
-#EXTINF:0, group-title="Indian",Zee Action
-http://130.185.144.63:8000/live/indian/indian/112.m3u8
-#EXTINF:0, group-title="Indian",Zee Anmol
-http://130.185.144.63:8000/live/indian/indian/102.m3u8
-#EXTINF:0, group-title="Indian",Zee Business
-http://130.185.144.63:8000/live/indian/indian/116.m3u8
-#EXTINF:0, group-title="Indian",Zee Cinema-1
-http://130.185.144.63:8000/live/indian/indian/117.m3u8
-#EXTINF:0, group-title="Indian",Zee Cinema-2
-http://130.185.144.63:8000/live/indian/indian/487.m3u8
-#EXTINF:0, group-title="Indian",Zee Classic
-http://130.185.144.63:8000/live/indian/indian/111.m3u8
-#EXTINF:0, group-title="Indian",Zee Etc
-http://130.185.144.63:8000/live/indian/indian/100.m3u8
-#EXTINF:0, group-title="Indian",Zee News
-http://130.185.144.63:8000/live/indian/indian/119.m3u8
-#EXTINF:0, group-title="Indian",Zee News
-http://130.185.144.63:8000/live/indian/indian/119.m3u8
-#EXTINF:0, group-title="Indian",Zee Purvaiya
-http://130.185.144.63:8000/live/indian/indian/108.m3u8
-#EXTINF:0, group-title="Indian",Zee Rishtay
-http://130.185.144.63:8000/live/indian/indian/501.m3u8
-#EXTINF:0, group-title="Indian",Zee Salam
-http://130.185.144.63:8000/live/indian/indian/110.m3u8
-#EXTINF:0, group-title="Indian",Zee Smile
-http://130.185.144.63:8000/live/indian/indian/113.m3u8
-#EXTINF:0, group-title="Indian",Zee Talkies
-http://130.185.144.63:8000/live/indian/indian/101.m3u8
-#EXTINF:0, group-title="Indian",Zee TV HD
-http://130.185.144.63:8000/live/indian/indian/115.m3u8
-#EXTINF:0, group-title="Indian",Zee TV ME
-http://130.185.144.63:8000/live/indian/indian/1169.m3u8
-#EXTINF:0, group-title="Indian",Zee TV UK
-http://130.185.144.63:8000/live/indian/indian/114.m3u8
-#EXTINF:0, group-title="Indian",Zing
-http://130.185.144.63:8000/live/indian/indian/150.m3u8
-#EXTINF:0, group-title="Indian",Zing UK
-http://130.185.144.63:8000/live/indian/indian/493.m3u8
-#EXTINF:0, group-title="Indian",Zoom
-http://130.185.144.63:8000/live/indian/indian/149.m3u8
-#EXTINF:0, group-title="Indian",Zoom UK
-http://130.185.144.63:8000/live/indian/indian/492.m3u8
-#EXTINF:0, group-title="Punjabi",9x Tashan
-http://130.185.144.63:8000/live/indian/indian/175.m3u8
-#EXTINF:0, group-title="Punjabi",Akaal Channel
-http://130.185.144.63:8000/live/indian/indian/1111.m3u8
-#EXTINF:0, group-title="Punjabi",Akkal
-http://130.185.144.63:8000/live/indian/indian/183.m3u8
-#EXTINF:0, group-title="Punjabi",Aone Music
-http://130.185.144.63:8000/live/indian/indian/1112.m3u8
-#EXTINF:0, group-title="Punjabi",Aone Punjabi
-http://130.185.144.63:8000/live/indian/indian/176.m3u8
-#EXTINF:0, group-title="Punjabi",Brit Asia
-http://130.185.144.63:8000/live/indian/indian/169.m3u8
-#EXTINF:0, group-title="Punjabi",Chakde TV
-http://130.185.144.63:8000/live/indian/indian/1113.m3u8
-#EXTINF:0, group-title="Punjabi",Chardikla Time TV
-http://130.185.144.63:8000/live/indian/indian/178.m3u8
-#EXTINF:0, group-title="Punjabi",DD Punjabi
-http://130.185.144.63:8000/live/indian/indian/168.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Channel
-http://130.185.144.63:8000/live/indian/indian/1114.m3u8
-#EXTINF:0, group-title="Punjabi",Etc Punjabi
-http://130.185.144.63:8000/live/indian/indian/171.m3u8
-#EXTINF:0, group-title="Punjabi",Hamdard TV
-http://130.185.144.63:8000/live/indian/indian/1115.m3u8
-#EXTINF:0, group-title="Punjabi",Jhanjar HD
-http://130.185.144.63:8000/live/indian/indian/1116.m3u8
-#EXTINF:0, group-title="Punjabi",Jus One TV
-http://130.185.144.63:8000/live/indian/indian/180.m3u8
-#EXTINF:0, group-title="Punjabi",Jus Punjabi
-http://130.185.144.63:8000/live/indian/indian/179.m3u8
-#EXTINF:0, group-title="Punjabi",Mh1
-http://130.185.144.63:8000/live/indian/indian/177.m3u8
-#EXTINF:0, group-title="Punjabi",Mh1 News
-http://130.185.144.63:8000/live/indian/indian/1117.m3u8
-#EXTINF:0, group-title="Punjabi",Mh1 Sharddha
-http://130.185.144.63:8000/live/indian/indian/1118.m3u8
-#EXTINF:0, group-title="Punjabi",Pb Zee Punjabi
-http://130.185.144.63:8000/live/indian/indian/118.m3u8
-#EXTINF:0, group-title="Punjabi",PTC Chakde
-http://130.185.144.63:8000/live/indian/indian/173.m3u8
-#EXTINF:0, group-title="Punjabi",PTC News
-http://130.185.144.63:8000/live/indian/indian/174.m3u8
-#EXTINF:0, group-title="Punjabi",PTC Punjabi
-http://130.185.144.63:8000/live/indian/indian/172.m3u8
-#EXTINF:0, group-title="Punjabi",Punjab TV
-http://130.185.144.63:8000/live/indian/indian/170.m3u8
-#EXTINF:0, group-title="Punjabi",Sangat TV
-http://130.185.144.63:8000/live/indian/indian/182.m3u8
-#EXTINF:0, group-title="Punjabi",Sanjh TV
-http://130.185.144.63:8000/live/indian/indian/1120.m3u8
-#EXTINF:0, group-title="Punjabi",Sikh Channel
-http://130.185.144.63:8000/live/indian/indian/181.m3u8
-#EXTINF:0, group-title="Punjabi",Zee Punjab HP Haryana
-http://130.185.144.63:8000/live/indian/indian/1121.m3u8
-#EXTINF:0, group-title="South Indian",Zee Kannada
-http://130.185.144.63:8000/live/indian/indian/105.m3u8
-#EXTINF:0, group-title="South Indian",Zee Oriya News
-http://130.185.144.63:8000/live/indian/indian/107.m3u8
-#EXTINF:0, group-title="South Indian",Zee Sangam
-http://130.185.144.63:8000/live/indian/indian/106.m3u8
-#EXTINF:0, group-title="South Indian",Zee Tamil
-http://130.185.144.63:8000/live/indian/indian/104.m3u8
-#EXTINF:0, group-title="South Indian",Zee Telugu
-http://130.185.144.63:8000/live/indian/indian/103.m3u8
-#EXTINF:0, group-title="Kids",Pogo
-http://130.185.144.63:8000/live/indian/indian/146.m3u8
-#EXTINF:0, group-title="UK",Colors TV UK
-http://130.185.144.63:8000/live/indian/indian/1132.m3u8
-#EXTINF:0, group-title="UK",Pick
-http://130.185.144.63:8000/live/indian/indian/109.m3u8
-#EXTINF:0, group-title="UK",Rishtey UK
-http://130.185.144.63:8000/live/indian/indian/139.m3u8
-#EXTINF:0, group-title="UK",Sab TV UK
-http://130.185.144.63:8000/live/indian/indian/481.m3u8
-#EXTINF:0, group-title="UK",Sony TV UK
-http://130.185.144.63:8000/live/indian/indian/126.m3u8
-#EXTINF:0, group-title="UK",Star Plus UK
-http://130.185.144.63:8000/live/indian/indian/479.m3u8
-#EXTINF:0, group-title="UK",Zee TV UK
-http://130.185.144.63:8000/live/indian/indian/114.m3u8
-#EXTINF:0, group-title="UK",Zing UK
-http://130.185.144.63:8000/live/indian/indian/493.m3u8
-#EXTINF:0, group-title="UK",Zoom UK
-http://130.185.144.63:8000/live/indian/indian/492.m3u8
-#EXTINF:0, group-title="USA",Life Ok USA
-http://130.185.144.63:8000/live/indian/indian/1148.m3u8
-#EXTINF:0, group-title="USA",Star Plus USA
-http://130.185.144.63:8000/live/indian/indian/480.m3u8
-#EXTINF:0, group-title="International",BBC Global
-http://130.185.144.63:8000/live/indian/indian/1124.m3u8
-#EXTINF:0, group-title="International",Colors EU
-http://130.185.144.63:8000/live/indian/indian/123.m3u8
-#EXTINF:0, group-title="International",Colors TV AUS
-http://130.185.144.63:8000/live/indian/indian/1130.m3u8
-#EXTINF:0, group-title="International",Colors TV ME
-http://130.185.144.63:8000/live/indian/indian/1131.m3u8
-#EXTINF:0, group-title="International",Rishtey Asia
-http://130.185.144.63:8000/live/indian/indian/1154.m3u8
-#EXTINF:0, group-title="International",Sony TV AUS
-http://130.185.144.63:8000/live/indian/indian/128.m3u8
-#EXTINF:0, group-title="International",Star Plus ME
-http://130.185.144.63:8000/live/indian/indian/1164.m3u8
-#EXTINF:0, group-title="International",Zee TV ME
-http://130.185.144.63:8000/live/indian/indian/1169.m3u8
 #EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg",Canal Savoir (French)
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.png",CHCH
@@ -1486,28 +1635,40 @@ http://69.30.251.42:25461/live/newapk/onew/641.ts|refferer=http://solidstreamz.c
 #EXTINF:0, group-title="UK",RTE 2
 http://69.30.251.42:25461/live/newapk/onew/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
+
+
 #EXTINF:0, group-title="Jio",& Pictures HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=And_Pictures_HD
 #EXTINF:0, group-title="Jio",& TV HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=And_TV_HD
 #EXTINF:0, group-title="Jio",10 TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=10_TV
+#EXTINF:0, group-title="Jio",24 Ghanta TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=24_Ghanta_TV
 #EXTINF:0, group-title="Jio",4 TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=4_TV
 #EXTINF:0, group-title="Jio",9X Jalwa (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=9X_Jalwa
 #EXTINF:0, group-title="Jio",9x Jhakaas (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=9x_Jhakaas
+#EXTINF:0, group-title="Jio",9X Tashan (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=9X_Tashan
 #EXTINF:0, group-title="Jio",9XM (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=9XM
 #EXTINF:0, group-title="Jio",A1 TV Rajasthan (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=A1_TV_Rajasthan
 #EXTINF:0, group-title="Jio",Aaj Tak (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Aaj_Tak
+#EXTINF:0, group-title="Jio",Aakaash (bangla) (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Aakaash_bangla
 #EXTINF:0, group-title="Jio",Aastha (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Aastha
 #EXTINF:0, group-title="Jio",Aastha Bhajan (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Aastha_Bhajan
+#EXTINF:0, group-title="Jio",ABN Andhra Jyothi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABN_Andhra_Jyothi
+#EXTINF:0, group-title="Jio",ABP Ananda (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABP_Ananda
 #EXTINF:0, group-title="Jio",ABP Asmita (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABP_Asmita
 #EXTINF:0, group-title="Jio",ABP Majha (Jio)
@@ -1516,16 +1677,24 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABP_Majha
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABP_News_India
 #EXTINF:0, group-title="Jio",Adhyatam (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Adhyatam
+#EXTINF:0, group-title="Jio",Adithya TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Adithya_TV
+#EXTINF:0, group-title="Jio",Al Jazeera (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=AL_Jazeera
 #EXTINF:0, group-title="Jio",Alankar TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Alankar_TV
+#EXTINF:0, group-title="Jio",Amrita TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Amrita_TV
+#EXTINF:0, group-title="Jio",Angel TV HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Angel_TV_HD
+#EXTINF:0, group-title="Jio",Animal Planet English (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Animal_Planet_English
 #EXTINF:0, group-title="Jio",Animal Planet HD World (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Animal_Planet_HD
 #EXTINF:0, group-title="Jio",Animal Planet Hindi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Animal_Planet_Hindi
 #EXTINF:0, group-title="Jio",Anjan TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Anjan_TV
-#EXTINF:0, group-title="Jio",HP
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ANM_News
 #EXTINF:0, group-title="Jio",APN News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=APN_News
 #EXTINF:0, group-title="Jio",Aradhana TV (Jio)
@@ -1536,12 +1705,24 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Arihant_TV
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Arre
 #EXTINF:0, group-title="Jio",Artage News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zeal_News
+#EXTINF:0, group-title="Jio",Asianet HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet
+#EXTINF:0, group-title="Jio",Asianet Movies HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet_Movies_HD
+#EXTINF:0, group-title="Jio",Asianet News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Asianet_News
+#EXTINF:0, group-title="Jio",Asianet Plus HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet_Plus
 #EXTINF:0, group-title="Jio",Assam Talks (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Assam_Talks
+#EXTINF:0, group-title="Jio",AXN HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=AXN_HD
 #EXTINF:0, group-title="Jio",B4U Movies (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=B4U_Movies
 #EXTINF:0, group-title="Jio",B4U Music (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=B4U_Music
+#EXTINF:0, group-title="Jio",BBC World News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=BBC_World_News
 #EXTINF:0, group-title="Jio",Bhakti TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Bhakti_TV
 #EXTINF:0, group-title="Jio",Bhaktisagar 2 (Jio)
@@ -1550,6 +1731,8 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Bhaktisagar_2
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Bharat_Samachar
 #EXTINF:0, group-title="Jio",Bhojpuri Cinema (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Bhojpuri_Cinema
+#EXTINF:0, group-title="Jio",Boogle Bollywood (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Boogle_Bollywood
 #EXTINF:0, group-title="Jio",Brilliant TV English (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Brilliant_TV_English
 #EXTINF:0, group-title="Jio",Brilliant TV Hindi (Jio)
@@ -1560,14 +1743,32 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=BTV
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=BTVi
 #EXTINF:0, group-title="Jio",Captain News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Captain_News
+#EXTINF:0, group-title="Jio",Captain tv (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Captain_tv
 #EXTINF:0, group-title="Jio",Care World (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Care_World
+#EXTINF:0, group-title="Jio",Cartoon Network Hindi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cartoon_Network_Hindi
+#EXTINF:0, group-title="Jio",Cartoon Network Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cartoon_Network_Tamil
+#EXTINF:0, group-title="Jio",Cartoon Network Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cartoon_Network_Telugu
+#EXTINF:0, group-title="Jio",Cauvery News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cauvery_News
+#EXTINF:0, group-title="Jio",Channel News Asia International (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Channel_News_Asia_International
 #EXTINF:0, group-title="Jio",Channel One News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Channel_One_News
 #EXTINF:0, group-title="Jio",Channel V HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Channel_V
 #EXTINF:0, group-title="Jio",Channel Win (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Channel_Win
+#EXTINF:0, group-title="Jio",Chardikla Time TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Chardikla_Time_TV
+#EXTINF:0, group-title="Jio",Chintu TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Chintu_TV
+#EXTINF:0, group-title="Jio",Chutti TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Chutti_TV
 #EXTINF:0, group-title="Jio",CNBC Awaaz (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CNBC_Awaaz
 #EXTINF:0, group-title="Jio",CNBC Bazaar (MNO) (Jio)
@@ -1576,12 +1777,18 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CNBC_Bazaar_MNO
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CNBC_Tv_18
 #EXTINF:0, group-title="Jio",CNBC TV18 Prime HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=CNBC_Tv18_Prime_HD
+#EXTINF:0, group-title="Jio",CNN (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CNN
 #EXTINF:0, group-title="Jio",CNN News 18 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CNN_NEWS_18
+#EXTINF:0, group-title="Jio",Colors Bengali HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Colors_Bengali_HD
 #EXTINF:0, group-title="Jio",Colors Gujarati (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Colors_Gujarati
 #EXTINF:0, group-title="Jio",Colors HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Colors_HD
+#EXTINF:0, group-title="Jio",Colors Kannada HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Colors_Kannada_HD
 #EXTINF:0, group-title="Jio",Colors Marathi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Colors_Marathi
 #EXTINF:0, group-title="Jio",Colors Marathi HD (Jio)
@@ -1596,12 +1803,16 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CVR_English
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CVR_Health
 #EXTINF:0, group-title="Jio",CVR News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CVR_News
+#EXTINF:0, group-title="Jio",CVR OM Spiritual (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CVR_OM_Spiritual
 #EXTINF:0, group-title="Jio",Dabangg (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Dabangg
 #EXTINF:0, group-title="Jio",Dangal (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Dangal
 #EXTINF:0, group-title="Jio",Darshan 24 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Darshan_24
+#EXTINF:0, group-title="Jio",DD Bangla (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Bangla
 #EXTINF:0, group-title="Jio",DD Bharati (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_bharati
 #EXTINF:0, group-title="Jio",DD Bihar (Jio)
@@ -1616,18 +1827,24 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Kashir
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Kisan
 #EXTINF:0, group-title="Jio",DD Madhya Pradesh (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Madhya_Pradesh
+#EXTINF:0, group-title="Jio",DD Malayalam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Malayalam
 #EXTINF:0, group-title="Jio",DD National (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_National
 #EXTINF:0, group-title="Jio",DD News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_News
 #EXTINF:0, group-title="Jio",DD Oriya (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Oriya
+#EXTINF:0, group-title="Jio",DD Punjabi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Punjabi
 #EXTINF:0, group-title="Jio",DD Rajasthan (Jaipur) (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Rajasthan_Jaipur
 #EXTINF:0, group-title="Jio",DD Rajyasabha (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Rajyasabha
 #EXTINF:0, group-title="Jio",DD Sahayadri (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Sahayadri
+#EXTINF:0, group-title="Jio",DD Saptagiri (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Saptagiri
 #EXTINF:0, group-title="Jio",DD Sports (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Sports
 #EXTINF:0, group-title="Jio",DD urdu (Jio)
@@ -1636,8 +1853,16 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_urdu
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Uttar_Pradesh
 #EXTINF:0, group-title="Jio",DD13 Guwahati NE (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD13_Guwahati_NE
+#EXTINF:0, group-title="Jio",DD5 Podhigai (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD5_Podhigai
+#EXTINF:0, group-title="Jio",DD9 chandana (Kannada) (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD9_chandana_kannada
 #EXTINF:0, group-title="Jio",Delhi Aaj Tak (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Aaj_Tak_Delhi
+#EXTINF:0, group-title="Jio",Desi Channel (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Desi_Channel
+#EXTINF:0, group-title="Jio",Deutsche Welle (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=dw
 #EXTINF:0, group-title="Jio",Dhamaal TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Dhamaal_TV
 #EXTINF:0, group-title="Jio",Dighvijay TV (Jio)
@@ -1646,6 +1871,8 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Dighvijay_TV
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Dillagi_TV
 #EXTINF:0, group-title="Jio",Discovery (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery
+#EXTINF:0, group-title="Jio",Discovery Channel Bengali (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Channel_Bengali
 #EXTINF:0, group-title="Jio",Discovery Channel Hindi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Channel_Hindi
 #EXTINF:0, group-title="Jio",Discovery Channel Tamil (Jio)
@@ -1654,6 +1881,12 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Channel_Tamil
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Channel_Telugu
 #EXTINF:0, group-title="Jio",Discovery HD World (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Discovery_HD_World
+#EXTINF:0, group-title="Jio",Discovery Kids 1 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Kids_1
+#EXTINF:0, group-title="Jio",Discovery Kids 2 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Kids_2
+#EXTINF:0, group-title="Jio",Discovery Kids Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Kids_Tamil
 #EXTINF:0, group-title="Jio",Discovery Science (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Science
 #EXTINF:0, group-title="Jio",Discovery Turbo (Jio)
@@ -1668,6 +1901,8 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Divya_Vani
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DNN
 #EXTINF:0, group-title="Jio",Dsports HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Dsports_HD
+#EXTINF:0, group-title="Jio",DY 365 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DY_365
 #EXTINF:0, group-title="Jio",E 24 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=E_24
 #EXTINF:0, group-title="Jio",Enterr 10 (Jio)
@@ -1678,10 +1913,18 @@ http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Epic_HD
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ET_Now
 #EXTINF:0, group-title="Jio",ETV Abhiruchi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Abhiruchi
+#EXTINF:0, group-title="Jio",ETV Andhra pradesh (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Andhra_pradesh
+#EXTINF:0, group-title="Jio",ETV Bangla News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Bangla_News
 #EXTINF:0, group-title="Jio",ETV BIHAR (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_BIHAR
+#EXTINF:0, group-title="Jio",ETV Cinema (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Cinema
 #EXTINF:0, group-title="Jio",ETV Haryana & HP News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Haryana_and_HP_News
+#EXTINF:0, group-title="Jio",ETV Kannada News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Kannada_News
 #EXTINF:0, group-title="Jio",ETV Life (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Life
 #EXTINF:0, group-title="Jio",ETV MP (Jio)
@@ -1694,20 +1937,52 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_News_Oriya
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Plus
 #EXTINF:0, group-title="Jio",ETV RAJASTHAN (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_RAJASTHAN
+#EXTINF:0, group-title="Jio",ETV Telangana (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Telangana
+#EXTINF:0, group-title="Jio",ETV Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Telugu
 #EXTINF:0, group-title="Jio",ETV UP (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_UP
 #EXTINF:0, group-title="Jio",ETV Urdu (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Urdu
+#EXTINF:0, group-title="Jio",Euro News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Euro_News
 #EXTINF:0, group-title="Jio",Fakt Marathi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Fakt_Marathi
 #EXTINF:0, group-title="Jio",First India News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=First_India_News
+#EXTINF:0, group-title="Jio",Flower TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Flower_TV
 #EXTINF:0, group-title="Jio",Food Food (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Food_Food
+#EXTINF:0, group-title="Jio",France 24 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=France_24
 #EXTINF:0, group-title="Jio",FYI TV18 HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=FYI_TV18
+#EXTINF:0, group-title="Jio",Garv Punjabi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Garv_Punjabi
+#EXTINF:0, group-title="Jio",Garv Punjabi Gurbani (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Garv_Gurbani
 #EXTINF:0, group-title="Jio",Garv Shree Swaminarayan (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Garv
+#EXTINF:0, group-title="Jio",Gemini Comedy (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Comedy
+#EXTINF:0, group-title="Jio",Gemini Life (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Life
+#EXTINF:0, group-title="Jio",Gemini Movies (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Movies
+#EXTINF:0, group-title="Jio",Gemini Movies HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Gemini_Movies_HD
+#EXTINF:0, group-title="Jio",Gemini Music (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Music
+#EXTINF:0, group-title="Jio",Gemini Music HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Gemini_Music_HD
+#EXTINF:0, group-title="Jio",Gemini News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_News
+#EXTINF:0, group-title="Jio",Gemini TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_TV
+#EXTINF:0, group-title="Jio",Gemini TV HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Gemini_TV_HD
 #EXTINF:0, group-title="Jio",GoodNews Channel (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=GoodNews_Channel
 #EXTINF:0, group-title="Jio",Green TV (Jio)
@@ -1720,18 +1995,30 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gulistan_News
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gyana_Yogi
 #EXTINF:0, group-title="Jio",Hare krsna (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Harekrsna
+#EXTINF:0, group-title="Jio",HBO HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=HBO_HD
 #EXTINF:0, group-title="Jio",Hindi Khabar (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Hindi_Khabar
+#EXTINF:0, group-title="Jio",Hindu Dharmam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Hindu_Dharmam
 #EXTINF:0, group-title="Jio",History 18 Hindi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=History_18_Hindi
+#EXTINF:0, group-title="Jio",History 18 Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=History_18_Tamil
+#EXTINF:0, group-title="Jio",History 18 Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=History_18_Telugu
 #EXTINF:0, group-title="Jio",History HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=History_HD
+#EXTINF:0, group-title="Jio",HM TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=HM_TV
 #EXTINF:0, group-title="Jio",Home Shop 18 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=home_shop_18
 #EXTINF:0, group-title="Jio",Housefull Action (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Housefull_Action
 #EXTINF:0, group-title="Jio",Housefull Movies (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Housefull_Movies
+#EXTINF:0, group-title="Jio",HP
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ANM_News
 #EXTINF:0, group-title="Jio",I News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=I_News
 #EXTINF:0, group-title="Jio",I Plus News (Jio)
@@ -1768,10 +2055,24 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=INH_24x7
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Insight
 #EXTINF:0, group-title="Jio",Ishwar TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ishwar_TV
+#EXTINF:0, group-title="Jio",Jaihind tv (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jaihind_tv
+#EXTINF:0, group-title="Jio",Jalsha Movies HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Jalsa_Movies_HD
 #EXTINF:0, group-title="Jio",Jan TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jan_TV
+#EXTINF:0, group-title="Jio",Janam TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janam_TV
+#EXTINF:0, group-title="Jio",Janasri News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janasri_News
+#EXTINF:0, group-title="Jio",Janataa TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janataa_TV
 #EXTINF:0, group-title="Jio",Janta TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janta_TV
+#EXTINF:0, group-title="Jio",Jaya Jaya Shankara TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jaya_Jaya_Shankara_TV
+#EXTINF:0, group-title="Jio",Jeevan TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jeevan_TV
 #EXTINF:0, group-title="Jio",Jinvani TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jinvani_TV
 #EXTINF:0, group-title="Jio",Jio Sports (Jio)
@@ -1780,18 +2081,46 @@ http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Jio_Sports
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JK_24x7_News
 #EXTINF:0, group-title="Jio",Jonack (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jonack
+#EXTINF:0, group-title="Jio",jus 24x7 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JUS24x7
+#EXTINF:0, group-title="Jio",jus One (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JUSOne
+#EXTINF:0, group-title="Jio",jus Punjabi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JUSPunjabi
 #EXTINF:0, group-title="Jio",K News India (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=K_News_India
+#EXTINF:0, group-title="Jio",K TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=K1_TV
+#EXTINF:0, group-title="Jio",Kairali People TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kairali_People_TV
+#EXTINF:0, group-title="Jio",Kairali TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kairali_TV
+#EXTINF:0, group-title="Jio",Kairali WE TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kairali_WE_TV
 #EXTINF:0, group-title="Jio",Kalinga TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kalinga_TV
+#EXTINF:0, group-title="Jio",Kanak News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kanak_TV
 #EXTINF:0, group-title="Jio",Kappa TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kappa_TV
 #EXTINF:0, group-title="Jio",Kashish News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kashish_News
+#EXTINF:0, group-title="Jio",Kasturi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kasturi
+#EXTINF:0, group-title="Jio",Katyayani (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Katyayani
 #EXTINF:0, group-title="Jio",Kaumudy TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kaumudy_TV
 #EXTINF:0, group-title="Jio",Khabar Fast (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Khabar_Fast
+#EXTINF:0, group-title="Jio",Kiran TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kiran_TV
+#EXTINF:0, group-title="Jio",Kochu TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kochu_TV
+#EXTINF:0, group-title="Jio",KTV HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=KTV_HD
+#EXTINF:0, group-title="Jio",Kushi TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kushi_TV
 #EXTINF:0, group-title="Jio",Lakshya TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Lakshya_TV
 #EXTINF:0, group-title="Jio",Live Today (Jio)
@@ -1802,6 +2131,18 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Living_Foodz
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Living_India_News
 #EXTINF:0, group-title="Jio",Loksabha TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Loksabha_TV
+#EXTINF:0, group-title="Jio",Lotus News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Lotus_News
+#EXTINF:0, group-title="Jio",Maa Gold HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Maa_Gold
+#EXTINF:0, group-title="Jio",Maa Movies HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Maa_Movies
+#EXTINF:0, group-title="Jio",Maa TV HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Maa_TV
+#EXTINF:0, group-title="Jio",Madhimugam TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Madhimugam_TV
+#EXTINF:0, group-title="Jio",Maha Cartoon (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Maha_Cartoon
 #EXTINF:0, group-title="Jio",Maha Movies (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Maha_Movies
 #EXTINF:0, group-title="Jio",Maha News (Jio)
@@ -1812,16 +2153,40 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Maharashtra1
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mahua_Plus
 #EXTINF:0, group-title="Jio",Maiboli (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Maiboli
+#EXTINF:0, group-title="Jio",Makkal TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Makkal_TV
+#EXTINF:0, group-title="Jio",Malai Murasu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Malai_Murasu
+#EXTINF:0, group-title="Jio",Manorama News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Manorama_News
+#EXTINF:0, group-title="Jio",Mantavya News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mantavya_News
 #EXTINF:0, group-title="Jio",Mastiii (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mastiii
+#EXTINF:0, group-title="Jio",Mathrubhumi News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mathrubhumi_News
+#EXTINF:0, group-title="Jio",Mazavali Manorama HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Mazavali_Manorama_HD
+#EXTINF:0, group-title="Jio",Mazhavil Manorama (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mazhavil_Manorama
+#EXTINF:0, group-title="Jio",MBC (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MBC
 #EXTINF:0, group-title="Jio",Media One TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Media_One_TV
 #EXTINF:0, group-title="Jio",Mh One News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mh_One_News
+#EXTINF:0, group-title="Jio",mh1 (Music) (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=mh1_Music
 #EXTINF:0, group-title="Jio",mh1 Shraddha (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=mh1_Shraddha
 #EXTINF:0, group-title="Jio",Mirror Now (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Magic_bricks_Now
+#EXTINF:0, group-title="Jio",MK Music (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MK_Music
+#EXTINF:0, group-title="Jio",MK News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MK_News
+#EXTINF:0, group-title="Jio",MK TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MK_TV
 #EXTINF:0, group-title="Jio",MN+ (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=MNPLUS
 #EXTINF:0, group-title="Jio",Movies Now HD (Jio)
@@ -1836,6 +2201,8 @@ http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Movies_OK
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MTV
 #EXTINF:0, group-title="Jio",MTV Beats HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=MTV_Beats_HD
+#EXTINF:0, group-title="Jio",Music Fatafati (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Music_Fatafati
 #EXTINF:0, group-title="Jio",Music India (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Music_India
 #EXTINF:0, group-title="Jio",Nambikkai (Jio)
@@ -1846,6 +2213,8 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nation_Live_News
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=National_Voice
 #EXTINF:0, group-title="Jio",Navagraha (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Navagraha
+#EXTINF:0, group-title="Jio",Naxatra News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Naxatra_News
 #EXTINF:0, group-title="Jio",NDTV 24x7 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=NDTV_24x7
 #EXTINF:0, group-title="Jio",NDTV Good Times (Jio)
@@ -1858,12 +2227,16 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=NDTV_Profit
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Neo_Prime
 #EXTINF:0, group-title="Jio",Neo Sports (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Neo_Sports
+#EXTINF:0, group-title="Jio",Nepal one (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nepal_one
 #EXTINF:0, group-title="Jio",News 1 India (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_1_India
 #EXTINF:0, group-title="Jio",News 18 Assam (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_18_Assam
 #EXTINF:0, group-title="Jio",News 18 India (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=IBN_7
+#EXTINF:0, group-title="Jio",News 18 Tamilnadu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_18_Tamilnadu
 #EXTINF:0, group-title="Jio",News 24 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_24
 #EXTINF:0, group-title="Jio",News 9 (Jio)
@@ -1884,8 +2257,22 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_World_Odisha
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_X
 #EXTINF:0, group-title="Jio",News11 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News11
+#EXTINF:0, group-title="Jio",News7 Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News7_Tamil
 #EXTINF:0, group-title="Jio",Newslive (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Newslive
+#EXTINF:0, group-title="Jio",Nick Hindi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Hindi
+#EXTINF:0, group-title="Jio",Nick Jr. Hindi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Junior
+#EXTINF:0, group-title="Jio",Nick Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Tamil
+#EXTINF:0, group-title="Jio",Nick Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Telugu
+#EXTINF:0, group-title="Jio",Nickelodeon (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nickelodeon
+#EXTINF:0, group-title="Jio",Nickelodeon Jr. (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nickelodeon_Jr
 #EXTINF:0, group-title="Jio",North East Live (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=North_East_Live
 #EXTINF:0, group-title="Jio",NTV (Jio)
@@ -1900,30 +2287,78 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Osar_Movies
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=OTV_Odisha_TV
 #EXTINF:0, group-title="Jio",Paras TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Paras_tv
+#EXTINF:0, group-title="Jio",PBN Music (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=PBN_Music
 #EXTINF:0, group-title="Jio",Peace of Mind (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Peace_of_Mind
 #EXTINF:0, group-title="Jio",Peppers TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Peppers_TV
+#EXTINF:0, group-title="Jio",Pitaara (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pitaara
 #EXTINF:0, group-title="Jio",PlayMyPlay (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=PlayMyPlay
+#EXTINF:0, group-title="Jio",Pogo Hindi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pogo_Hindi
+#EXTINF:0, group-title="Jio",Pogo Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pogo_Tamil
+#EXTINF:0, group-title="Jio",Polimer Kannada (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Polimer_Kannada
+#EXTINF:0, group-title="Jio",Polimer News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Polimer_News
+#EXTINF:0, group-title="Jio",Polimer TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Polimer_TV
 #EXTINF:0, group-title="Jio",Prag News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prag_News
+#EXTINF:0, group-title="Jio",Prajaa TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prajaa_TV
+#EXTINF:0, group-title="Jio",Prameya News 7 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prameya_News_7
 #EXTINF:0, group-title="Jio",Prathana TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prathana_TV
 #EXTINF:0, group-title="Jio",Pratidin News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pratidin_News
 #EXTINF:0, group-title="Jio",Prime News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prime_News
+#EXTINF:0, group-title="Jio",Propex TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Propex_TV
 #EXTINF:0, group-title="Jio",Public Music (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Public_Music
 #EXTINF:0, group-title="Jio",Public TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Public_TV
+#EXTINF:0, group-title="Jio",Puthiya Thalimurai (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Puthiya_Thalimurai
+#EXTINF:0, group-title="Jio",Puthu Yugam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Puthu_Yugam
+#EXTINF:0, group-title="Jio",R Plus (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=RPLUS
+#EXTINF:0, group-title="Jio",Raj Digital Plus (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Digital_Plus
+#EXTINF:0, group-title="Jio",Raj Music Kannada (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Music_Kannada
+#EXTINF:0, group-title="Jio",Raj Music Malayalam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Music_Malayalam
+#EXTINF:0, group-title="Jio",Raj Music Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Music_Telugu
+#EXTINF:0, group-title="Jio",Raj Musix (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Musix
+#EXTINF:0, group-title="Jio",Raj News Kannada (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_Kannada
+#EXTINF:0, group-title="Jio",Raj News Malayalam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_Malayalam
+#EXTINF:0, group-title="Jio",Raj News Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_Telugu
 #EXTINF:0, group-title="Jio",Raj News 24x7 (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_24x7
 #EXTINF:0, group-title="Jio",Raj Pariwar (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Pariwar
+#EXTINF:0, group-title="Jio",Raj TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_TV
+#EXTINF:0, group-title="Jio",Ramdhenu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ramdhenu
 #EXTINF:0, group-title="Jio",Rang (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rang
+#EXTINF:0, group-title="Jio",Rengoni (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rengoni
 #EXTINF:0, group-title="Jio",Republic TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Republic_TV
 #EXTINF:0, group-title="Jio",Rishtey (Jio)
@@ -1932,14 +2367,20 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rishtey
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rishtey_Cineplex
 #EXTINF:0, group-title="Jio",Romedy Now HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Romedy_Now_HD
+#EXTINF:0, group-title="Jio",Rujumargam TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rujumargam_TV
 #EXTINF:0, group-title="Jio",Saam TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Saam_Tv
 #EXTINF:0, group-title="Jio",Sadhna (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sadhna
 #EXTINF:0, group-title="Jio",Sadhna News Plus (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sadhna_News_Plus
+#EXTINF:0, group-title="Jio",Sahana Music (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sahana_Music
 #EXTINF:0, group-title="Jio",Sai TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=SaiTV
+#EXTINF:0, group-title="Jio",Sakshi tv (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sakshi_tv
 #EXTINF:0, group-title="Jio",Samachar Plus (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Samachar_Plus
 #EXTINF:0, group-title="Jio",Samachar Plus Rajasthan (Jio)
@@ -1958,16 +2399,22 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sahara_Samay_Rastriya
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=SAHARA_SAMAY_UP
 #EXTINF:0, group-title="Jio",Sanatan TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sanatan_TV
+#EXTINF:0, group-title="Jio",Sandesh News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sandesh_News
+#EXTINF:0, group-title="Jio",Sangeet Bangla (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sangeet_Bangla
 #EXTINF:0, group-title="Jio",Sangeet Bhojpuri (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sangeet_Bhojpuri
 #EXTINF:0, group-title="Jio",Sangeet Marathi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sangeet_Marathi
+#EXTINF:0, group-title="Jio",Sanjha TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sanjha_TV
 #EXTINF:0, group-title="Jio",Sanskar (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sanskar
 #EXTINF:0, group-title="Jio",Saral Jeevan (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Saral_Jeevan
-#EXTINF:0, group-title="Jio",Zee Sarthak TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sarthak_TV
+#EXTINF:0, group-title="Jio",Sathiyam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sathiyam
 #EXTINF:0, group-title="Jio",Satsang TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Satsang_TV
 #EXTINF:0, group-title="Jio",Shalom (Jio)
@@ -1980,10 +2427,24 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Shubh_TV
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Shubhsandesh_TV
 #EXTINF:0, group-title="Jio",SMBC TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=SMBC_TV
+#EXTINF:0, group-title="Jio",Sonic Hindi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=sonic_Hindi
+#EXTINF:0, group-title="Jio",Sonic Nickelodeon (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sonic_Nickelodeon
+#EXTINF:0, group-title="Jio",sonic Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=sonic_Tamil
 #EXTINF:0, group-title="Jio",Sony aath (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_aath
 #EXTINF:0, group-title="Jio",Sony BBC Earth HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD
+#EXTINF:0, group-title="Jio",Sony BBC Earth HD English (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD_English
+#EXTINF:0, group-title="Jio",Sony BBC Earth HD Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD_Tamil
+#EXTINF:0, group-title="Jio",Sony BBC Earth HD Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD_Telugu
+#EXTINF:0, group-title="Jio",Sony BBC Earth SD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_BBC_Earth_SD
 #EXTINF:0, group-title="Jio",Sony ESPN HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_ESPN_HD
 #EXTINF:0, group-title="Jio",Sony ESPN SD (Jio)
@@ -2014,12 +2475,20 @@ http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Six_HD
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_Six_SD
 #EXTINF:0, group-title="Jio",Sony Yay Hindi (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_Yay_Hindi
+#EXTINF:0, group-title="Jio",Sony Yay Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_Yay_Tamil
+#EXTINF:0, group-title="Jio",Sony Yay Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_Yay_Telugu
+#EXTINF:0, group-title="Jio",Sri Sankara (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sri_Sankara
 #EXTINF:0, group-title="Jio",Sri Venkateshwar Bhakti (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sri_Venkateshwar_Bhakti
 #EXTINF:0, group-title="Jio",Star Bharat HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Bharat_HD
 #EXTINF:0, group-title="Jio",Star Gold HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Gold_HD
+#EXTINF:0, group-title="Jio",Star Jalsha HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Jalsha
 #EXTINF:0, group-title="Jio",Star Plus HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Plus_HD
 #EXTINF:0, group-title="Jio",Star Pravah HD (Jio)
@@ -2036,350 +2505,14 @@ http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Sports_Select_HD_1
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Sports_Select_HD_2
 #EXTINF:0, group-title="Jio",Star Utsav HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Utsav
-#EXTINF:0, group-title="Jio",Subhavartha TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Subhavartha_TV
-#EXTINF:0, group-title="Jio",Sudarshan (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sudarshan
-#EXTINF:0, group-title="Jio",Suvarna News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Suvarna_News
-#EXTINF:0, group-title="Jio",Taaza TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Taaza_TV
-#EXTINF:0, group-title="Jio",Tarang Music (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tarang_Music
-#EXTINF:0, group-title="Jio",Tarang TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tarang_TV
-#EXTINF:0, group-title="Jio",Ten 1 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ten_1
-#EXTINF:0, group-title="Jio",Ten 1HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten_HD
-#EXTINF:0, group-title="Jio",Ten 2 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ten_2
-#EXTINF:0, group-title="Jio",Ten 3 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ten_3
-#EXTINF:0, group-title="Jio",Ten Golf HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten_Golf_HD
-#EXTINF:0, group-title="Jio",Ten2 HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten2_HD
-#EXTINF:0, group-title="Jio",Ten3 HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten3_HD
-#EXTINF:0, group-title="Jio",Tez (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tez
-#EXTINF:0, group-title="Jio",Times NOW (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Times_NOW
-#EXTINF:0, group-title="Jio",Times Now HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Times_Now_HD
-#EXTINF:0, group-title="Jio",TLC HD World (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=TLC_HD_World
-#EXTINF:0, group-title="Jio",TLC Hindi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TLC_Hindi
-#EXTINF:0, group-title="Jio",Total TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Total_TV
-#EXTINF:0, group-title="Jio",Travel XP (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Travel_XP
-#EXTINF:0, group-title="Jio",Travel XP HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Travel_XP_HD
-#EXTINF:0, group-title="Jio",True Sports (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=True_Sports
-#EXTINF:0, group-title="Jio",Tunes 6 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tunes_6
-#EXTINF:0, group-title="Jio",TV 100 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV_100
-#EXTINF:0, group-title="Jio",TV1 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV1
-#EXTINF:0, group-title="Jio",TV9 Gujarat (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tv_9_Gujarat
-#EXTINF:0, group-title="Jio",TV9 Maharashtra (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV9_Maharashtra
-#EXTINF:0, group-title="Jio",Udaya Comedy (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_Comedy
-#EXTINF:0, group-title="Jio",Udaya News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_News
-#EXTINF:0, group-title="Jio",V6 News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=V6_News
-#EXTINF:0, group-title="Jio",Vanitha (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vanitha
-#EXTINF:0, group-title="Jio",Vedic TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vedic_TV
-#EXTINF:0, group-title="Jio",Vendhar TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vendhar_TV
-#EXTINF:0, group-title="Jio",VIP News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=VIP_News
-#EXTINF:0, group-title="Jio",Vissa TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vissa_TV
-#EXTINF:0, group-title="Jio",VTV Gujarati (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=VTV_Gujarati
-#EXTINF:0, group-title="Jio",WB (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=WB
-#EXTINF:0, group-title="Jio",Zee 24 Kalak (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_24_Kalak
-#EXTINF:0, group-title="Jio",Zee 24 Taas (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_24_Taas
-#EXTINF:0, group-title="Jio",Zee Action (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Action
-#EXTINF:0, group-title="Jio",Zee Anmol (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Anmol
-#EXTINF:0, group-title="Jio",Zee Business (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Business
-#EXTINF:0, group-title="Jio",Zee Cinema (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Cinema
-#EXTINF:0, group-title="Jio",Zee Cinema HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Zee_Cinema_HD
-#EXTINF:0, group-title="Jio",Zee Classic (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Classic
-#EXTINF:0, group-title="Jio",Zee etc (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=etc
-#EXTINF:0, group-title="Jio",Zee Hindustan (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_SANGAM
-#EXTINF:0, group-title="Jio",Zee Marathi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Marathi
-#EXTINF:0, group-title="Jio",Zee News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_News
-#EXTINF:0, group-title="Jio",Zee News MP Chattisgarh (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_News_MP_Chattisgarh
-#EXTINF:0, group-title="Jio",Zee Purvaiya (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Purvaiya
-#EXTINF:0, group-title="Jio",Zee Rajasthan (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Rajasthan
-#EXTINF:0, group-title="Jio",Zee Talkies (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Talkies
-#EXTINF:0, group-title="Jio",Zee TV HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Zee_TV_HD
-#EXTINF:0, group-title="Jio",Zing (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zing
-#EXTINF:0, group-title="Jio",ZOOM (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ZOOM
-#EXTINF:0, group-title="Jio",9X Tashan (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=9X_Tashan
-#EXTINF:0, group-title="Jio",Boogle Bollywood (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Boogle_Bollywood
-#EXTINF:0, group-title="Jio",Chardikla Time TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Chardikla_Time_TV
-#EXTINF:0, group-title="Jio",DD Punjabi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Punjabi
-#EXTINF:0, group-title="Jio",Desi Channel (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Desi_Channel
-#EXTINF:0, group-title="Jio",Garv Punjabi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Garv_Punjabi
-#EXTINF:0, group-title="Jio",Garv Punjabi Gurbani (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Garv_Gurbani
-#EXTINF:0, group-title="Jio",jus 24x7 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JUS24x7
-#EXTINF:0, group-title="Jio",jus One (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JUSOne
-#EXTINF:0, group-title="Jio",jus Punjabi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=JUSPunjabi
-#EXTINF:0, group-title="Jio",mh1 (Music) (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=mh1_Music
-#EXTINF:0, group-title="Jio",PBN Music (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=PBN_Music
-#EXTINF:0, group-title="Jio",Pitaara (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pitaara
-#EXTINF:0, group-title="Jio",Sanjha TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sanjha_TV
-#EXTINF:0, group-title="Jio",Zee Punjab HP Haryana (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Punjabi_HP_Haryana
-#EXTINF:0, group-title="Jio",ABN Andhra Jyothi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABN_Andhra_Jyothi
-#EXTINF:0, group-title="Jio",ABP Ananda (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ABP_Ananda
-#EXTINF:0, group-title="Jio",Adithya TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Adithya_TV
-#EXTINF:0, group-title="Jio",Amrita TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Amrita_TV
-#EXTINF:0, group-title="Jio",Angel TV HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Angel_TV_HD
-#EXTINF:0, group-title="Jio",Asianet HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet
-#EXTINF:0, group-title="Jio",Asianet Movies HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet_Movies_HD
-#EXTINF:0, group-title="Jio",Asianet News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Asianet_News
-#EXTINF:0, group-title="Jio",Asianet Plus HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet_Plus
-#EXTINF:0, group-title="Jio",Captain tv (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Captain_tv
-#EXTINF:0, group-title="Jio",Cauvery News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cauvery_News
-#EXTINF:0, group-title="Jio",Colors Kannada HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Colors_Kannada_HD
-#EXTINF:0, group-title="Jio",CVR OM Spiritual (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CVR_OM_Spiritual
-#EXTINF:0, group-title="Jio",DD Malayalam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Malayalam
-#EXTINF:0, group-title="Jio",DD Saptagiri (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Saptagiri
-#EXTINF:0, group-title="Jio",DD5 Podhigai (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD5_Podhigai
-#EXTINF:0, group-title="Jio",DD9 chandana (Kannada) (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD9_chandana_kannada
-#EXTINF:0, group-title="Jio",DY 365 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DY_365
-#EXTINF:0, group-title="Jio",ETV Andhra pradesh (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Andhra_pradesh
-#EXTINF:0, group-title="Jio",ETV Cinema (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Cinema
-#EXTINF:0, group-title="Jio",ETV Kannada News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Kannada_News
-#EXTINF:0, group-title="Jio",ETV Telangana (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Telangana
-#EXTINF:0, group-title="Jio",ETV Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Telugu
-#EXTINF:0, group-title="Jio",Flower TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Flower_TV
-#EXTINF:0, group-title="Jio",Gemini Comedy (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Comedy
-#EXTINF:0, group-title="Jio",Gemini Life (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Life
-#EXTINF:0, group-title="Jio",Gemini Movies (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Movies
-#EXTINF:0, group-title="Jio",Gemini Movies HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Gemini_Movies_HD
-#EXTINF:0, group-title="Jio",Gemini Music (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_Music
-#EXTINF:0, group-title="Jio",Gemini Music HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Gemini_Music_HD
-#EXTINF:0, group-title="Jio",Gemini News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_News
-#EXTINF:0, group-title="Jio",Gemini TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Gemini_TV
-#EXTINF:0, group-title="Jio",Gemini TV HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Gemini_TV_HD
-#EXTINF:0, group-title="Jio",Hindu Dharmam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Hindu_Dharmam
-#EXTINF:0, group-title="Jio",History 18 Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=History_18_Tamil
-#EXTINF:0, group-title="Jio",History 18 Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=History_18_Telugu
-#EXTINF:0, group-title="Jio",HM TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=HM_TV
-#EXTINF:0, group-title="Jio",Jaihind tv (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jaihind_tv
-#EXTINF:0, group-title="Jio",Janasri News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janasri_News
-#EXTINF:0, group-title="Jio",Janataa TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janataa_TV
-#EXTINF:0, group-title="Jio",Jaya Jaya Shankara TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jaya_Jaya_Shankara_TV
-#EXTINF:0, group-title="Jio",Jeevan TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Jeevan_TV
-#EXTINF:0, group-title="Jio",K TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=K1_TV
-#EXTINF:0, group-title="Jio",Kairali People TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kairali_People_TV
-#EXTINF:0, group-title="Jio",Kairali TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kairali_TV
-#EXTINF:0, group-title="Jio",Kairali WE TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kairali_WE_TV
-#EXTINF:0, group-title="Jio",Kanak News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kanak_TV
-#EXTINF:0, group-title="Jio",Kasturi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kasturi
-#EXTINF:0, group-title="Jio",Katyayani (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Katyayani
-#EXTINF:0, group-title="Jio",Kiran TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kiran_TV
-#EXTINF:0, group-title="Jio",KTV HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=KTV_HD
-#EXTINF:0, group-title="Jio",Lotus News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Lotus_News
-#EXTINF:0, group-title="Jio",Maa Gold HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Maa_Gold
-#EXTINF:0, group-title="Jio",Maa Movies HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Maa_Movies
-#EXTINF:0, group-title="Jio",Maa TV HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Maa_TV
-#EXTINF:0, group-title="Jio",Madhimugam TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Madhimugam_TV
-#EXTINF:0, group-title="Jio",Makkal TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Makkal_TV
-#EXTINF:0, group-title="Jio",Malai Murasu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Malai_Murasu
-#EXTINF:0, group-title="Jio",Manorama News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Manorama_News
-#EXTINF:0, group-title="Jio",Mantavya News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mantavya_News
-#EXTINF:0, group-title="Jio",Mathrubhumi News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mathrubhumi_News
-#EXTINF:0, group-title="Jio",Mazavali Manorama HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Mazavali_Manorama_HD
-#EXTINF:0, group-title="Jio",Mazhavil Manorama (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Mazhavil_Manorama
-#EXTINF:0, group-title="Jio",MBC (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MBC
-#EXTINF:0, group-title="Jio",MK Music (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MK_Music
-#EXTINF:0, group-title="Jio",MK News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MK_News
-#EXTINF:0, group-title="Jio",MK TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=MK_TV
-#EXTINF:0, group-title="Jio",Naxatra News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Naxatra_News
-#EXTINF:0, group-title="Jio",News 18 Tamilnadu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News_18_Tamilnadu
-#EXTINF:0, group-title="Jio",News7 Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=News7_Tamil
-#EXTINF:0, group-title="Jio",Polimer Kannada (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Polimer_Kannada
-#EXTINF:0, group-title="Jio",Polimer News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Polimer_News
-#EXTINF:0, group-title="Jio",Polimer TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Polimer_TV
-#EXTINF:0, group-title="Jio",Prajaa TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prajaa_TV
-#EXTINF:0, group-title="Jio",Prameya News 7 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Prameya_News_7
-#EXTINF:0, group-title="Jio",Propex TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Propex_TV
-#EXTINF:0, group-title="Jio",Puthiya Thalimurai (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Puthiya_Thalimurai
-#EXTINF:0, group-title="Jio",Puthu Yugam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Puthu_Yugam
-#EXTINF:0, group-title="Jio",R Plus (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=RPLUS
-#EXTINF:0, group-title="Jio",Raj Digital Plus (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Digital_Plus
-#EXTINF:0, group-title="Jio",Raj Music Kannada (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Music_Kannada
-#EXTINF:0, group-title="Jio",Raj Music Malayalam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Music_Malayalam
-#EXTINF:0, group-title="Jio",Raj Music Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Music_Telugu
-#EXTINF:0, group-title="Jio",Raj Musix (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_Musix
-#EXTINF:0, group-title="Jio",Raj News Kannada (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_Kannada
-#EXTINF:0, group-title="Jio",Raj News Malayalam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_Malayalam
-#EXTINF:0, group-title="Jio",Raj News Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_News_Telugu
-#EXTINF:0, group-title="Jio",Raj TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Raj_TV
-#EXTINF:0, group-title="Jio",Ramdhenu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ramdhenu
-#EXTINF:0, group-title="Jio",Rengoni (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rengoni
-#EXTINF:0, group-title="Jio",Rujumargam TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Rujumargam_TV
-#EXTINF:0, group-title="Jio",Sahana Music (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sahana_Music
-#EXTINF:0, group-title="Jio",Sakshi tv (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sakshi_tv
-#EXTINF:0, group-title="Jio",Sathiyam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sathiyam
-#EXTINF:0, group-title="Jio",Sony BBC Earth HD Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD_Tamil
-#EXTINF:0, group-title="Jio",Sony BBC Earth HD Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD_Telugu
-#EXTINF:0, group-title="Jio",Sony Yay Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_Yay_Tamil
-#EXTINF:0, group-title="Jio",Sony Yay Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_Yay_Telugu
-#EXTINF:0, group-title="Jio",Sri Sankara (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sri_Sankara
 #EXTINF:0, group-title="Jio",Star Vijay HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Vijay
 #EXTINF:0, group-title="Jio",Studio n (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Studio_n
+#EXTINF:0, group-title="Jio",Subhavartha TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Subhavartha_TV
+#EXTINF:0, group-title="Jio",Sudarshan (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sudarshan
 #EXTINF:0, group-title="Jio",Suddi TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Suddi_TV
 #EXTINF:0, group-title="Jio",Sun Life (Jio)
@@ -2402,143 +2535,161 @@ http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Surya_Music
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Surya_TV
 #EXTINF:0, group-title="Jio",Suvarna HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Suvarna
+#EXTINF:0, group-title="Jio",Suvarna News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Suvarna_News
 #EXTINF:0, group-title="Jio",Suvarna Plus HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Asianet_Suvarna_HD
 #EXTINF:0, group-title="Jio",T News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=T_News
+#EXTINF:0, group-title="Jio",Taaza TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Taaza_TV
+#EXTINF:0, group-title="Jio",Tarang Music (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tarang_Music
+#EXTINF:0, group-title="Jio",Tarang TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tarang_TV
+#EXTINF:0, group-title="Jio",Ten 1 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ten_1
+#EXTINF:0, group-title="Jio",Ten 1HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten_HD
+#EXTINF:0, group-title="Jio",Ten 2 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ten_2
+#EXTINF:0, group-title="Jio",Ten 3 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Ten_3
+#EXTINF:0, group-title="Jio",Ten Golf HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten_Golf_HD
+#EXTINF:0, group-title="Jio",Ten2 HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten2_HD
+#EXTINF:0, group-title="Jio",Ten3 HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Ten3_HD
+#EXTINF:0, group-title="Jio",Tez (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tez
 #EXTINF:0, group-title="Jio",Thanthi TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Thanthi_TV
+#EXTINF:0, group-title="Jio",Times NOW (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Times_NOW
+#EXTINF:0, group-title="Jio",Times Now HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Times_Now_HD
+#EXTINF:0, group-title="Jio",TLC English (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TLC_English
+#EXTINF:0, group-title="Jio",TLC HD World (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=TLC_HD_World
+#EXTINF:0, group-title="Jio",TLC Hindi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TLC_Hindi
+#EXTINF:0, group-title="Jio",Toonami (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Toonami
+#EXTINF:0, group-title="Jio",Total TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Total_TV
+#EXTINF:0, group-title="Jio",Travel XP (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Travel_XP
+#EXTINF:0, group-title="Jio",Travel XP HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Travel_XP_HD
 #EXTINF:0, group-title="Jio",Travel XP Tamil (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Travel_XP_Tamil
+#EXTINF:0, group-title="Jio",True Sports (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=True_Sports
+#EXTINF:0, group-title="Jio",Tunes 6 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tunes_6
+#EXTINF:0, group-title="Jio",TV 100 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV_100
 #EXTINF:0, group-title="Jio",TV 5 Kannada (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV_5_Kannada
+#EXTINF:0, group-title="Jio",TV 5 Monde (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV_5_Monde
 #EXTINF:0, group-title="Jio",TV 5 News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV_5_News
+#EXTINF:0, group-title="Jio",TV1 (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV1
+#EXTINF:0, group-title="Jio",TV9 Gujarat (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Tv_9_Gujarat
 #EXTINF:0, group-title="Jio",TV9 Karnataka (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV9_Karnataka
+#EXTINF:0, group-title="Jio",TV9 Maharashtra (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV9_Maharashtra
 #EXTINF:0, group-title="Jio",TV9 Telugu News (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV9_Telugu_News
+#EXTINF:0, group-title="Jio",Udaya Comedy (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_Comedy
 #EXTINF:0, group-title="Jio",Udaya HD (Jio)
 http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Udaya_HD
 #EXTINF:0, group-title="Jio",Udaya Movies (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_Movies
 #EXTINF:0, group-title="Jio",Udaya Music (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_Music
+#EXTINF:0, group-title="Jio",Udaya News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_News
 #EXTINF:0, group-title="Jio",Udaya TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Udaya_TV
+#EXTINF:0, group-title="Jio",V6 News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=V6_News
+#EXTINF:0, group-title="Jio",Vanitha (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vanitha
 #EXTINF:0, group-title="Jio",Vasanth TV (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vasanth_TV
-#EXTINF:0, group-title="Jio",Zee Kalinga (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Kalinga
-#EXTINF:0, group-title="Jio",Zee Kannada (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Kannada
-#EXTINF:0, group-title="Jio",Zee Salaam (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Salaam
-#EXTINF:0, group-title="Jio",Zee Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Tamil
-#EXTINF:0, group-title="Jio",Zee Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Telugu
-#EXTINF:0, group-title="Jio",24 Ghanta TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=24_Ghanta_TV
-#EXTINF:0, group-title="Jio",Aakaash (bangla) (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Aakaash_bangla
-#EXTINF:0, group-title="Jio",Colors Bengali HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Colors_Bengali_HD
-#EXTINF:0, group-title="Jio",DD Bangla (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=DD_Bangla
-#EXTINF:0, group-title="Jio",Discovery Channel Bengali (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Channel_Bengali
-#EXTINF:0, group-title="Jio",ETV Bangla News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ETV_Bangla_News
-#EXTINF:0, group-title="Jio",Jalsha Movies HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Jalsa_Movies_HD
-#EXTINF:0, group-title="Jio",Janam TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Janam_TV
-#EXTINF:0, group-title="Jio",Music Fatafati (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Music_Fatafati
-#EXTINF:0, group-title="Jio",Sandesh News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sandesh_News
-#EXTINF:0, group-title="Jio",Sangeet Bangla (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sangeet_Bangla
-#EXTINF:0, group-title="Jio",Star Jalsha HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Star_Jalsha
+#EXTINF:0, group-title="Jio",Vedic TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vedic_TV
+#EXTINF:0, group-title="Jio",Vendhar TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vendhar_TV
+#EXTINF:0, group-title="Jio",VIP News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=VIP_News
+#EXTINF:0, group-title="Jio",Vissa TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Vissa_TV
+#EXTINF:0, group-title="Jio",VTV Gujarati (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=VTV_Gujarati
+#EXTINF:0, group-title="Jio",WB (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=WB
+#EXTINF:0, group-title="Jio",Zee 24 Kalak (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_24_Kalak
+#EXTINF:0, group-title="Jio",Zee 24 Taas (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_24_Taas
+#EXTINF:0, group-title="Jio",Zee Action (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Action
+#EXTINF:0, group-title="Jio",Zee Anmol (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Anmol
 #EXTINF:0, group-title="Jio",Zee Bangla (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Bangla
 #EXTINF:0, group-title="Jio",Zee Bangla Cinema (Jio)
 http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Bangla_Cinema
-#EXTINF:0, group-title="Jio",Cartoon Network Hindi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cartoon_Network_Hindi
-#EXTINF:0, group-title="Jio",Cartoon Network Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cartoon_Network_Tamil
-#EXTINF:0, group-title="Jio",Cartoon Network Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Cartoon_Network_Telugu
-#EXTINF:0, group-title="Jio",Chintu TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Chintu_TV
-#EXTINF:0, group-title="Jio",Chutti TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Chutti_TV
-#EXTINF:0, group-title="Jio",Discovery Kids 1 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Kids_1
-#EXTINF:0, group-title="Jio",Discovery Kids 2 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Kids_2
-#EXTINF:0, group-title="Jio",Discovery Kids Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Discovery_Kids_Tamil
-#EXTINF:0, group-title="Jio",Kochu TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kochu_TV
-#EXTINF:0, group-title="Jio",Kushi TV (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Kushi_TV
-#EXTINF:0, group-title="Jio",Maha Cartoon (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Maha_Cartoon
-#EXTINF:0, group-title="Jio",Nick Hindi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Hindi
-#EXTINF:0, group-title="Jio",Nick Jr. Hindi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Junior
-#EXTINF:0, group-title="Jio",Nick Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Tamil
-#EXTINF:0, group-title="Jio",Nick Telugu (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nick_Telugu
-#EXTINF:0, group-title="Jio",Nickelodeon (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nickelodeon
-#EXTINF:0, group-title="Jio",Nickelodeon Jr. (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nickelodeon_Jr
-#EXTINF:0, group-title="Jio",Pogo Hindi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pogo_Hindi
-#EXTINF:0, group-title="Jio",Pogo Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Pogo_Tamil
-#EXTINF:0, group-title="Jio",Sonic Hindi (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=sonic_Hindi
-#EXTINF:0, group-title="Jio",Sonic Nickelodeon (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sonic_Nickelodeon
-#EXTINF:0, group-title="Jio",sonic Tamil (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=sonic_Tamil
-#EXTINF:0, group-title="Jio",Toonami (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Toonami
-#EXTINF:0, group-title="Jio",Al Jazeera (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=AL_Jazeera
-#EXTINF:0, group-title="Jio",Animal Planet English (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Animal_Planet_English
-#EXTINF:0, group-title="Jio",AXN HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=AXN_HD
-#EXTINF:0, group-title="Jio",BBC World News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=BBC_World_News
-#EXTINF:0, group-title="Jio",Channel News Asia International (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Channel_News_Asia_International
-#EXTINF:0, group-title="Jio",CNN (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=CNN
-#EXTINF:0, group-title="Jio",Deutsche Welle (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=dw
-#EXTINF:0, group-title="Jio",Euro News (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Euro_News
-#EXTINF:0, group-title="Jio",France 24 (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=France_24
-#EXTINF:0, group-title="Jio",HBO HD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=HBO_HD
-#EXTINF:0, group-title="Jio",Nepal one (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Nepal_one
-#EXTINF:0, group-title="Jio",Sony BBC Earth HD English (Jio)
-http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Sony_BBC_Earth_HD_English
-#EXTINF:0, group-title="Jio",Sony BBC Earth SD (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sony_BBC_Earth_SD
-#EXTINF:0, group-title="Jio",TLC English (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TLC_English
-#EXTINF:0, group-title="Jio",TV 5 Monde (Jio)
-http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=TV_5_Monde
+#EXTINF:0, group-title="Jio",Zee Business (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Business
+#EXTINF:0, group-title="Jio",Zee Cinema (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Cinema
+#EXTINF:0, group-title="Jio",Zee Cinema HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Zee_Cinema_HD
+#EXTINF:0, group-title="Jio",Zee Classic (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Classic
+#EXTINF:0, group-title="Jio",Zee etc (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=etc
+#EXTINF:0, group-title="Jio",Zee Hindustan (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_SANGAM
+#EXTINF:0, group-title="Jio",Zee Kalinga (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Kalinga
+#EXTINF:0, group-title="Jio",Zee Kannada (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Kannada
+#EXTINF:0, group-title="Jio",Zee Marathi (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Marathi
+#EXTINF:0, group-title="Jio",Zee News (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_News
+#EXTINF:0, group-title="Jio",Zee News MP Chattisgarh (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_News_MP_Chattisgarh
+#EXTINF:0, group-title="Jio",Zee Punjab HP Haryana (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Punjabi_HP_Haryana
+#EXTINF:0, group-title="Jio",Zee Purvaiya (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Purvaiya
+#EXTINF:0, group-title="Jio",Zee Rajasthan (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Rajasthan
+#EXTINF:0, group-title="Jio",Zee Salaam (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Salaam
+#EXTINF:0, group-title="Jio",Zee Sarthak TV (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Sarthak_TV
+#EXTINF:0, group-title="Jio",Zee Talkies (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Talkies
+#EXTINF:0, group-title="Jio",Zee Tamil (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Tamil
+#EXTINF:0, group-title="Jio",Zee Telugu (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zee_Telugu
+#EXTINF:0, group-title="Jio",Zee TV HD (Jio)
+http://bein.website/ZonaLiveTV3/IndiaHD.m3u8?id=Zee_TV_HD
+#EXTINF:0, group-title="Jio",Zing (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=Zing
+#EXTINF:0, group-title="Jio",ZOOM (Jio)
+http://bein.website/ZonaLiveTV3/IndiaSD.m3u8?id=ZOOM
