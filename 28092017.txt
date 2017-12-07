@@ -222,7 +222,7 @@ http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5f
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC 
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_punjab.m3u8
@@ -345,7 +345,7 @@ http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/32212261
 #EXTINF:0, group-title="Canada",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
 #EXTINF:0, group-title="Canada",Toronto 360
-http://toronto3.live247stream.com/toronto360/tv/toronto360/720/chunks.m3u8
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:0, group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Kids",???
@@ -851,7 +851,7 @@ http://130.185.144.63:8000/live/indian/indian/1130.m3u8
 http://130.185.144.63:8000/live/indian/indian/1131.m3u8
 #EXTINF:0, group-title="International",Rishtey Asia
 http://130.185.144.63:8000/live/indian/indian/1154.m3u8
-#EXTINF:0, group-title="International",Sony TV Aud
+#EXTINF:0, group-title="International",Sony TV AUS
 http://130.185.144.63:8000/live/indian/indian/128.m3u8
 #EXTINF:0, group-title="International",Star Plus ME
 http://130.185.144.63:8000/live/indian/indian/1164.m3u8
