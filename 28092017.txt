@@ -211,7 +211,7 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
 #EXTINF:0, group-title="Pakistani",Dunya TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
-#EXTINF:0, group-title="Pakistani",Film Workd
+#EXTINF:0, group-title="Pakistani",Film World
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
 #EXTINF:0, group-title="Pakistani",Filmax
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
@@ -1047,13 +1047,13 @@ http://69.30.251.42:25461/live/apk/asd/4329.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/4354.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Abb Tak (SS)
 http://69.30.251.42:25461/live/apk/asd/4353.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Aplus (SS)
+#EXTINF:0, group-title="Pakistani",A Plus (SS)
 http://69.30.251.42:25461/live/apk/asd/4326.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Aruj TV (SS)
 http://69.30.251.42:25461/live/apk/asd/4402.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Ary Digital (SS)
 http://69.30.251.42:25461/live/apk/asd/4316.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Ary Digital PK (SS)
+#EXTINF:0, group-title="Pakistani",Ary Digital (SS)
 http://69.30.251.42:25461/live/apk/asd/4320.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Ary Digital World (SS)
 http://69.30.251.42:25461/live/apk/asd/4321.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
@@ -1115,17 +1115,17 @@ http://69.30.251.42:25461/live/apk/asd/4429.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/4315.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Geo News (SS)
 http://69.30.251.42:25461/live/apk/asd/4344.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Geo News PK (SS)
+#EXTINF:0, group-title="Pakistani",Geo News (SS)
 http://69.30.251.42:25461/live/apk/asd/4345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Geo Super (SS)
 http://69.30.251.42:25461/live/apk/asd/4806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Geo Tezz (SS)
 http://69.30.251.42:25461/live/apk/asd/4346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Geo Tezz PK (SS)
+#EXTINF:0, group-title="Pakistani",Geo Tezz (SS)
 http://69.30.251.42:25461/live/apk/asd/4347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Geo TV (SS)
 http://69.30.251.42:25461/live/apk/asd/4313.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Geo TV PK (SS)
+#EXTINF:0, group-title="Pakistani",Geo TV (SS)
 http://69.30.251.42:25461/live/apk/asd/4314.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Hum News (SS)
 http://69.30.251.42:25461/live/apk/asd/4359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
@@ -1179,7 +1179,7 @@ http://69.30.251.42:25461/live/apk/asd/4421.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/4416.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Play Entertainment (SS)
 http://69.30.251.42:25461/live/apk/asd/4422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Prime TV PK (SS)
+#EXTINF:0, group-title="Pakistani",Prime TV (SS)
 http://69.30.251.42:25461/live/apk/asd/4335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",PTV Global (SS)
 http://69.30.251.42:25461/live/apk/asd/4336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
@@ -1217,7 +1217,7 @@ http://69.30.251.42:25461/live/apk/asd/4325.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/4410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Urdu TV Toronto (SS)
 http://69.30.251.42:25461/live/apk/asd/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Venus TV PK (SS)
+#EXTINF:0, group-title="Pakistani",Venus TV (SS)
 http://69.30.251.42:25461/live/apk/asd/4434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Vibe TV (SS)
 http://69.30.251.42:25461/live/apk/asd/4425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
