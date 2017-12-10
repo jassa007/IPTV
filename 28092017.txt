@@ -1737,16 +1737,8 @@ http://69.30.251.42:25461/live/apk/asd/5136.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/5135.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Punjabi",PTC Punjabi (SS)
 http://69.30.251.42:25461/live/apk/asd/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",PTC Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5125.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Punjabi",PTN 24 (SS)
 http://69.30.251.42:25461/live/apk/asd/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",RTV HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5122.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sanjh TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5143.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sanjha Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5158.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Punjabi",Sikh Channel (SS)
 http://69.30.251.42:25461/live/apk/asd/5159.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Punjabi",Solid Movies Punjabi (SS)
@@ -1759,40 +1751,6 @@ http://69.30.251.42:25461/live/apk/asd/5123.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/5121.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Punjabi",Zee Punjabi (SS)
 http://69.30.251.42:25461/live/apk/asd/5120.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Bhaagya (SS)
-http://69.30.251.42:25461/live/apk/asd/5170.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Cine Voice (SS)
-http://69.30.251.42:25461/live/apk/asd/5171.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Dhur Ki Baani (SS)
-http://69.30.251.42:25461/live/apk/asd/5172.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",DPD Punjabi HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5173.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Ekonkar TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5167.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Global Sanjh TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5168.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Gurbani TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5169.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Guru TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5166.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Mh1 Sharddha (SS)
-http://69.30.251.42:25461/live/apk/asd/5165.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Nav Punjabi 24x7 (SS)
-http://69.30.251.42:25461/live/apk/asd/5175.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sadda Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5177.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sahib TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5178.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sangat (SS)
-http://69.30.251.42:25461/live/apk/asd/5179.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sikh Channel USA (SS)
-http://69.30.251.42:25461/live/apk/asd/5174.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Sur Sagar (SS)
-http://69.30.251.42:25461/live/apk/asd/5176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Tohar TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5180.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Vaani (SS)
-http://69.30.251.42:25461/live/apk/asd/5181.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Bangla",24 Ghanta (SS)
 http://69.30.251.42:25461/live/apk/asd/5188.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Bangla",Aakaash Bangla (SS)
