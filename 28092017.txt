@@ -1019,21 +1019,21 @@ http://69.30.251.42:25461/live/apk/asd/5067.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/5065.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Sports",Star Sports 1 HD (SS)
 http://69.30.251.42:25461/live/apk/asd/5066.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Sports",Star Sports 1 Hindi Hindi HD SS
+#EXTINF:0, group-title="Sports",Star Sports 1 Hindi Hindi HD (SS)
 http://69.30.251.42:25461/live/apk/asd/5061.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Sports",Star Sports 2 (SS)
 http://69.30.251.42:25461/live/apk/asd/5063.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Sports",Star Sports 2 HD (SS)
 http://69.30.251.42:25461/live/apk/asd/5064.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Sports",Star Sports Select 1  HD SS
+#EXTINF:0, group-title="Sports",Star Sports Select 1  HD (SS)
 http://69.30.251.42:25461/live/apk/asd/5060.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Sports",Star Sports Select 2  HD SS
+#EXTINF:0, group-title="Sports",Star Sports Select 2  HD (SS)
 http://69.30.251.42:25461/live/apk/asd/5059.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",Noor Jahan Songs (SS)
 http://69.30.251.42:25461/live/apk/asd/4369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",24 Channel HD (SS)
 http://69.30.251.42:25461/live/apk/asd/4350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Pakistani",Mujra Msati (SS)
+#EXTINF:0, group-title="Pakistani",Mujra Masti (SS)
 http://69.30.251.42:25461/live/apk/asd/4332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Pakistani",7 News HD (SS)
 http://69.30.251.42:25461/live/apk/asd/4383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
