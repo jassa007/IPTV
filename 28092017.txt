@@ -1299,11 +1299,11 @@ http://69.30.251.42:25461/live/apk/asd/4641.ts|refferer=http://solidstreamz.com/
 http://69.30.251.42:25461/live/apk/asd/5047.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Indian",Et Now News (SS)
 http://69.30.251.42:25461/live/apk/asd/4613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="HD CHANNELS",Fyi TV18 HD (SS)
+#EXTINF:0, group-title="Indian",Fyi TV18 HD (SS)
 http://69.30.251.42:25461/live/apk/asd/4625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="HD CHANNELS",History 18 HD (SS)
+#EXTINF:0, group-title="Indian",History 18 HD (SS)
 http://69.30.251.42:25461/live/apk/asd/5091.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="HD CHANNELS",History 18 HD Hindi (SS)
+#EXTINF:0, group-title="Indian",History 18 HD Hindi (SS)
 http://69.30.251.42:25461/live/apk/asd/4643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Indian",Housefull Action (SS)
 http://69.30.251.42:25461/live/apk/asd/4645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
