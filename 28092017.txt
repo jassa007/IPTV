@@ -1748,8 +1748,6 @@ http://69.30.251.42:25461/live/apk/asd/5140.ts|refferer=http://solidstreamz.com/
 #EXTINF:0, group-title="Punjabi",Zee Punjabi Haryana HP (SS)
 http://69.30.251.42:25461/live/apk/asd/5123.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Punjabi",Zee Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5121.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-#EXTINF:0, group-title="Punjabi",Zee Punjabi (SS)
 http://69.30.251.42:25461/live/apk/asd/5120.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:0, group-title="Bangla",24 Ghanta (SS)
 http://69.30.251.42:25461/live/apk/asd/5188.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
