@@ -940,1085 +940,1085 @@ http://130.185.144.63:8000/live/indian/indian/1164.ts
 #EXTINF:0, group-title="International",Zee TV ME (Sat)
 http://130.185.144.63:8000/live/indian/indian/1131.ts
 #EXTINF:0, group-title="UK",3E (SS)
-http://69.30.251.42:25461/live/apk/asd/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",4E (SS)
-http://69.30.251.42:25461/live/apk/asd/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",5 Star (SS)
-http://69.30.251.42:25461/live/apk/asd/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",Alibi (SS)
-http://69.30.251.42:25461/live/apk/asd/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",Pick TV (SS)
-http://69.30.251.42:25461/live/apk/asd/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",Quest (SS)
-http://69.30.251.42:25461/live/apk/asd/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",RT News (SS)
-http://69.30.251.42:25461/live/apk/asd/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",RTE 1 (SS)
-http://69.30.251.42:25461/live/apk/asd/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="UK",RTE 2 (SS)
-http://69.30.251.42:25461/live/apk/asd/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5085.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5085.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports NBA HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5086.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5086.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 1 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5074.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5074.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 2 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5075.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5075.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 3 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5076.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5076.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 4 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5077.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5077.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 5 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5078.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5078.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 6 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5079.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5079.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 7 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5080.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5080.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 8 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5081.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5081.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 9 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5082.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5082.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 10 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5083.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5083.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Bein Sports 11 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5084.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5084.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",OSN Cricket HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5068.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5068.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",OSN Sports 1 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5069.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5069.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",OSN Sports 2 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5070.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5070.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",OSN Sports 3 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5071.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5071.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",OSN Sports 4 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5072.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5072.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Sony Six (SS)
-http://69.30.251.42:25461/live/apk/asd/5054.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5054.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Sony Six HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5055.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5055.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Sony Ten 1 (SS)
-http://69.30.251.42:25461/live/apk/asd/5052.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5052.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Sony Ten 1 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5053.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5053.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Sony Ten 2 (SS)
-http://69.30.251.42:25461/live/apk/asd/5051.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5051.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Sony Ten 2 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5050.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5050.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Ten 3 (SS)
-http://69.30.251.42:25461/live/apk/asd/5049.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5049.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Ten Cricket (SS)
-http://69.30.251.42:25461/live/apk/asd/5058.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5058.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Ten Golf HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5087.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5087.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Ten Sports (SS)
-http://69.30.251.42:25461/live/apk/asd/5057.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5057.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports First (SS)
-http://69.30.251.42:25461/live/apk/asd/5067.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5067.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports 1 (SS)
-http://69.30.251.42:25461/live/apk/asd/5065.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5065.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports 1 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5066.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5066.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports 1 Hindi Hindi HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5061.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5061.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports 2 (SS)
-http://69.30.251.42:25461/live/apk/asd/5063.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5063.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports 2 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5064.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5064.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports Select 1  HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5060.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5060.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Star Sports Select 2  HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5059.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5059.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Noor Jahan Songs (SS)
-http://69.30.251.42:25461/live/apk/asd/4369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",24 Channel HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Mujra Masti (SS)
-http://69.30.251.42:25461/live/apk/asd/4332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",7 News HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",8xM HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4372.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4372.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",92 News HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Aaj Entertainment (SS)
-http://69.30.251.42:25461/live/apk/asd/4329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Aaj News (SS)
-http://69.30.251.42:25461/live/apk/asd/4354.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4354.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Abb Tak (SS)
-http://69.30.251.42:25461/live/apk/asd/4353.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4353.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",A Plus (SS)
-http://69.30.251.42:25461/live/apk/asd/4326.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4326.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Aruj TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4402.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4402.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary Digital (SS)
-http://69.30.251.42:25461/live/apk/asd/4316.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4316.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary Digital (SS)
-http://69.30.251.42:25461/live/apk/asd/4320.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4320.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary Digital World (SS)
-http://69.30.251.42:25461/live/apk/asd/4321.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4321.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary Music (SS)
-http://69.30.251.42:25461/live/apk/asd/4371.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4371.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary News (SS)
-http://69.30.251.42:25461/live/apk/asd/4343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary News World (SS)
-http://69.30.251.42:25461/live/apk/asd/4342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary Zauq (SS)
-http://69.30.251.42:25461/live/apk/asd/4378.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4378.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ary Zindagi (SS)
-http://69.30.251.42:25461/live/apk/asd/4323.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4323.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",ATV (SS)
-http://69.30.251.42:25461/live/apk/asd/4328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Awami Awaz TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4413.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4413.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Awaz TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4399.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4399.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Bol News HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Channel 5 (SS)
-http://69.30.251.42:25461/live/apk/asd/4348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",City 41 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4426.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4426.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",City 42 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4427.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4427.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Desi TV USA (SS)
-http://69.30.251.42:25461/live/apk/asd/4385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Dhanak TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4376.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4376.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Dhanka TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4386.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4386.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Din News (SS)
-http://69.30.251.42:25461/live/apk/asd/4384.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4384.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Dtv News (SS)
-http://69.30.251.42:25461/live/apk/asd/4401.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4401.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Dunya News (SS)
-http://69.30.251.42:25461/live/apk/asd/4340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Lahore News HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4351.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4351.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Business Plus (SS)
-http://69.30.251.42:25461/live/apk/asd/4356.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4356.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Express News (SS)
-http://69.30.251.42:25461/live/apk/asd/4433.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4433.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Falak TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4408.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4408.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Filmasia (SS)
-http://69.30.251.42:25461/live/apk/asd/4428.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4428.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Filmax (SS)
-http://69.30.251.42:25461/live/apk/asd/4367.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4367.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Filmazia (SS)
-http://69.30.251.42:25461/live/apk/asd/4366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Filmworld (SS)
-http://69.30.251.42:25461/live/apk/asd/4364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Filmy Rhythm (SS)
-http://69.30.251.42:25461/live/apk/asd/4429.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4429.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo Kahani (SS)
-http://69.30.251.42:25461/live/apk/asd/4315.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4315.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo News (SS)
-http://69.30.251.42:25461/live/apk/asd/4344.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4344.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo News (SS)
-http://69.30.251.42:25461/live/apk/asd/4345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo Super (SS)
-http://69.30.251.42:25461/live/apk/asd/4806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo Tezz (SS)
-http://69.30.251.42:25461/live/apk/asd/4346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo Tezz (SS)
-http://69.30.251.42:25461/live/apk/asd/4347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4313.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4313.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4314.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4314.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Hum News (SS)
-http://69.30.251.42:25461/live/apk/asd/4359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Hum TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4309.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4309.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Hum TV EU (SS)
-http://69.30.251.42:25461/live/apk/asd/4311.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4311.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Hum TV Sitary (SS)
-http://69.30.251.42:25461/live/apk/asd/4312.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4312.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Hum TV World (SS)
-http://69.30.251.42:25461/live/apk/asd/4310.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4310.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Humsab TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Joo Music (SS)
-http://69.30.251.42:25461/live/apk/asd/4374.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4374.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Kashish TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4409.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4409.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Kawish TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4389.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4389.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Kay 2 (SS)
-http://69.30.251.42:25461/live/apk/asd/4415.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4415.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Khyber TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4417.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4417.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Kohenoor (SS)
-http://69.30.251.42:25461/live/apk/asd/4370.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4370.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ktn (SS)
-http://69.30.251.42:25461/live/apk/asd/4411.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4411.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ktn News (SS)
-http://69.30.251.42:25461/live/apk/asd/4412.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4412.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Lahore News (SS)
-http://69.30.251.42:25461/live/apk/asd/4339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Masala TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Mashriq TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4414.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4414.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Mehran TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4419.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4419.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Metro 1 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4400.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4400.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",As Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4431.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4431.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Neo News HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4381.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4381.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",News One (SS)
-http://69.30.251.42:25461/live/apk/asd/4382.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4382.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",News Pakistan (SS)
-http://69.30.251.42:25461/live/apk/asd/4420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Oxygen HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4421.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4421.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Pashto 1 (SS)
-http://69.30.251.42:25461/live/apk/asd/4416.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4416.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Play Entertainment (SS)
-http://69.30.251.42:25461/live/apk/asd/4422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Prime TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",PTV Global (SS)
-http://69.30.251.42:25461/live/apk/asd/4336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",PTV National (SS)
-http://69.30.251.42:25461/live/apk/asd/4395.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4395.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",PTV News (SS)
-http://69.30.251.42:25461/live/apk/asd/4396.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4396.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",PTV World (SS)
-http://69.30.251.42:25461/live/apk/asd/4397.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4397.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Raavi TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4404.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4404.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Samaa TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",See TV HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Silver Screen (SS)
-http://69.30.251.42:25461/live/apk/asd/4423.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4423.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Star Asia News (SS)
-http://69.30.251.42:25461/live/apk/asd/4380.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4380.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Starlite (SS)
-http://69.30.251.42:25461/live/apk/asd/4368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Tag TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4393.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4393.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Times TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4432.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4432.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Toronto 360 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4327.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4327.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Tv One (SS)
-http://69.30.251.42:25461/live/apk/asd/4331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Uk 44 (SS)
-http://69.30.251.42:25461/live/apk/asd/4424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Urdu 1 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4325.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4325.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Urdu 1 EU (SS)
-http://69.30.251.42:25461/live/apk/asd/4410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Urdu TV Toronto (SS)
-http://69.30.251.42:25461/live/apk/asd/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Venus TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Vibe TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Vsh News (SS)
-http://69.30.251.42:25461/live/apk/asd/4405.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4405.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Waqt News (SS)
-http://69.30.251.42:25461/live/apk/asd/4357.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4357.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Waseeb TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Zaiqa (SS)
-http://69.30.251.42:25461/live/apk/asd/4379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Barkat TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4430.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4430.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Apna Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/5095.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5095.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Canada One (SS)
-http://69.30.251.42:25461/live/apk/asd/4660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Dharti TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5096.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5096.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Ehtesab News (SS)
-http://69.30.251.42:25461/live/apk/asd/4407.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4407.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Express Entertainment (SS)
-http://69.30.251.42:25461/live/apk/asd/4324.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4324.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Geo Kahani EU (SS)
-http://69.30.251.42:25461/live/apk/asd/5097.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5097.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Hamara TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5098.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5098.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",PTV Home (SS)
-http://69.30.251.42:25461/live/apk/asd/5100.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5100.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Punjab TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5099.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5099.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Roze News (SS)
-http://69.30.251.42:25461/live/apk/asd/4398.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4398.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Pakistani",Zindagi TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",1St India News (SS)
-http://69.30.251.42:25461/live/apk/asd/4615.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4615.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",9X Jalwa (SS)
-http://69.30.251.42:25461/live/apk/asd/4575.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4575.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Aaj Tak News (SS)
-http://69.30.251.42:25461/live/apk/asd/4599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Aaj Tak UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Aastha Bhajan (SS)
-http://69.30.251.42:25461/live/apk/asd/4623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Aastha TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Animal Planet Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Arihant Bhakti (SS)
-http://69.30.251.42:25461/live/apk/asd/4621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Bbo TV LIVE (SS)
-http://69.30.251.42:25461/live/apk/asd/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Bhakti Sagar (SS)
-http://69.30.251.42:25461/live/apk/asd/4620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Bhojpuri Cinema (SS)
-http://69.30.251.42:25461/live/apk/asd/4630.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4630.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Cnbc TV18 Prime HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5090.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5090.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Cnn Ibn News (SS)
-http://69.30.251.42:25461/live/apk/asd/4614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD Girnar (SS)
-http://69.30.251.42:25461/live/apk/asd/4634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD National (SS)
-http://69.30.251.42:25461/live/apk/asd/4635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD News (SS)
-http://69.30.251.42:25461/live/apk/asd/4636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD Sports (SS)
-http://69.30.251.42:25461/live/apk/asd/5046.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5046.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD Urdu (SS)
-http://69.30.251.42:25461/live/apk/asd/4637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Discovery Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Discovery Science Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Disha TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Dsports HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5047.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5047.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Et Now News (SS)
-http://69.30.251.42:25461/live/apk/asd/4613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Fyi TV18 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",History 18 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5091.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5091.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",History 18 HD Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Housefull Action (SS)
-http://69.30.251.42:25461/live/apk/asd/4645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Housefull Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",India Today News (SS)
-http://69.30.251.42:25461/live/apk/asd/4612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Invest Discovery Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Living Foodz (SS)
-http://69.30.251.42:25461/live/apk/asd/4496.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4496.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Living Foodz USA (SS)
-http://69.30.251.42:25461/live/apk/asd/4650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Maha Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Movies House (SS)
-http://69.30.251.42:25461/live/apk/asd/5042.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5042.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Movies Ok (SS)
-http://69.30.251.42:25461/live/apk/asd/4544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Mtv Beats (SS)
-http://69.30.251.42:25461/live/apk/asd/4661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Mtv Beats HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5089.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5089.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Mtv India (SS)
-http://69.30.251.42:25461/live/apk/asd/4572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Nat Geo Wild Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4490.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4490.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ndtv 24X7 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ndtv 24X7 UK News (SS)
-http://69.30.251.42:25461/live/apk/asd/4611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ndtv Goodtimes News (SS)
-http://69.30.251.42:25461/live/apk/asd/4607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ndtv India News (SS)
-http://69.30.251.42:25461/live/apk/asd/4609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ndtv Prime News (SS)
-http://69.30.251.42:25461/live/apk/asd/4608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ndtv Profit News (SS)
-http://69.30.251.42:25461/live/apk/asd/4606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",News 9 (SS)
-http://69.30.251.42:25461/live/apk/asd/4604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",News Nation (SS)
-http://69.30.251.42:25461/live/apk/asd/5092.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5092.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",News X (SS)
-http://69.30.251.42:25461/live/apk/asd/4616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Republic News TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sanskar TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sanskar TV Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Setmax HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5038.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5038.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Shubhsandesh TV Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/5044.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5044.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Earth Hindi HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5088.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5088.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Mix (SS)
-http://69.30.251.42:25461/live/apk/asd/5041.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5041.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Pal (SS)
-http://69.30.251.42:25461/live/apk/asd/4662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Rox HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Sab HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5040.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5040.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony TV HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4440.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4440.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Bharat (SS)
-http://69.30.251.42:25461/live/apk/asd/4658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Bharat HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5043.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5043.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Gold (SS)
-http://69.30.251.42:25461/live/apk/asd/4529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Gold UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Plus HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5037.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5037.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Utsav Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Times Now News (SS)
-http://69.30.251.42:25461/live/apk/asd/4605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",True Sports (SS)
-http://69.30.251.42:25461/live/apk/asd/5048.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5048.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Utv Action (SS)
-http://69.30.251.42:25461/live/apk/asd/5039.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5039.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Utv Movies INternational (SS)
-http://69.30.251.42:25461/live/apk/asd/4546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Sports",Willow Cricket HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5062.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5062.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Action (SS)
-http://69.30.251.42:25461/live/apk/asd/4526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Cinema (SS)
-http://69.30.251.42:25461/live/apk/asd/4500.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4500.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Classic (SS)
-http://69.30.251.42:25461/live/apk/asd/4503.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4503.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",9xm (SS)
-http://69.30.251.42:25461/live/apk/asd/4574.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4574.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Aap Ka Colors (SS)
-http://69.30.251.42:25461/live/apk/asd/4564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Abp News UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",& Pictures HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",& TV HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4484.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4484.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",& TV ME (SS)
-http://69.30.251.42:25461/live/apk/asd/4485.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4485.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",& TV UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4486.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4486.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Apb News (SS)
-http://69.30.251.42:25461/live/apk/asd/5093.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5093.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Apn News (SS)
-http://69.30.251.42:25461/live/apk/asd/4597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",B4U Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",B4U Music (SS)
-http://69.30.251.42:25461/live/apk/asd/4573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Bharat Samachar News (SS)
-http://69.30.251.42:25461/live/apk/asd/4596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Big Magic (SS)
-http://69.30.251.42:25461/live/apk/asd/4560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Bindass Play (SS)
-http://69.30.251.42:25461/live/apk/asd/4559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Channel V (SS)
-http://69.30.251.42:25461/live/apk/asd/5114.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5114.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Cinema TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",CNBC Awaz News (SS)
-http://69.30.251.42:25461/live/apk/asd/4595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",CNBC Prime TV18 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",CNBC TV18 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Colors TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Colors TV AUS (SS)
-http://69.30.251.42:25461/live/apk/asd/4464.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4464.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Colors TV HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4456.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4456.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Colors TV ME (SS)
-http://69.30.251.42:25461/live/apk/asd/4461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Colors TV UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Dabangg TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Dangaal TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Darshan 24 Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/5113.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5113.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD India (SS)
-http://69.30.251.42:25461/live/apk/asd/4561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",DD UP (SS)
-http://69.30.251.42:25461/live/apk/asd/4562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Delhi Aajtak News (SS)
-http://69.30.251.42:25461/live/apk/asd/4594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Desi Beats (SS)
-http://69.30.251.42:25461/live/apk/asd/4563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Dhamaal TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Dillagi (SS)
-http://69.30.251.42:25461/live/apk/asd/4558.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4558.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Divya TV Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/5112.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5112.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",E24 (SS)
-http://69.30.251.42:25461/live/apk/asd/4569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Enter 10 (SS)
-http://69.30.251.42:25461/live/apk/asd/4545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Etv Bihar (SS)
-http://69.30.251.42:25461/live/apk/asd/4580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Etv Haryana (SS)
-http://69.30.251.42:25461/live/apk/asd/4579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Etv MP News (SS)
-http://69.30.251.42:25461/live/apk/asd/4578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Etv Rajasthan (SS)
-http://69.30.251.42:25461/live/apk/asd/4577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Etv UP News (SS)
-http://69.30.251.42:25461/live/apk/asd/4576.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4576.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Etv Urdu (SS)
-http://69.30.251.42:25461/live/apk/asd/4581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Food Food (SS)
-http://69.30.251.42:25461/live/apk/asd/4494.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4494.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Green TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5107.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5107.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Home Shop 18 (SS)
-http://69.30.251.42:25461/live/apk/asd/5108.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5108.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",IBN 7 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",IBN Lokmat News (SS)
-http://69.30.251.42:25461/live/apk/asd/4592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",India TV News (SS)
-http://69.30.251.42:25461/live/apk/asd/4591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Ishwar TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5111.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5111.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Jinvani TV [Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/5110.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5110.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Katyayani Bhakti (SS)
-http://69.30.251.42:25461/live/apk/asd/5109.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5109.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Manorangan Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Manorangan TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Masti TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Music India (SS)
-http://69.30.251.42:25461/live/apk/asd/4571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",News 24 News (SS)
-http://69.30.251.42:25461/live/apk/asd/4588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Only Music HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Oscar Movies Bhojpuri (SS)
-http://69.30.251.42:25461/live/apk/asd/5106.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5106.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Paras TV Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/5105.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5105.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Peace Of MIND (SS)
-http://69.30.251.42:25461/live/apk/asd/5104.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5104.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Rishtay America (SS)
-http://69.30.251.42:25461/live/apk/asd/4480.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4480.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Rishtay Asia (SS)
-http://69.30.251.42:25461/live/apk/asd/4477.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4477.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Rishtay Cineplex (SS)
-http://69.30.251.42:25461/live/apk/asd/4539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Rishtay Cineplex UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Rishtay Eu (SS)
-http://69.30.251.42:25461/live/apk/asd/4478.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4478.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Rishtey India (SS)
-http://69.30.251.42:25461/live/apk/asd/4476.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4476.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sadhna TV Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/5103.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5103.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sahara Samay Aalami News (SS)
-http://69.30.251.42:25461/live/apk/asd/4585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sahara Samay Bihar News (SS)
-http://69.30.251.42:25461/live/apk/asd/4584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sahara Samay MP News (SS)
-http://69.30.251.42:25461/live/apk/asd/4583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sahara Samay News (SS)
-http://69.30.251.42:25461/live/apk/asd/4586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sahara Samay Raj News (SS)
-http://69.30.251.42:25461/live/apk/asd/4582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sahara Samay UP (SS)
-http://69.30.251.42:25461/live/apk/asd/4632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sanatantv Bhakti (SS)
-http://69.30.251.42:25461/live/apk/asd/5102.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5102.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sangeet Bhojpori (SS)
-http://69.30.251.42:25461/live/apk/asd/5101.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5101.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Satsang TV Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Setmax (SS)
-http://69.30.251.42:25461/live/apk/asd/4533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Setmax Aus (SS)
-http://69.30.251.42:25461/live/apk/asd/4532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Solid Classic Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/4541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Solid Hindi NEW (SS)
-http://69.30.251.42:25461/live/apk/asd/4542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Max 2 (SS)
-http://69.30.251.42:25461/live/apk/asd/4535.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4535.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Max (SS)
-http://69.30.251.42:25461/live/apk/asd/4531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Sab Asia (SS)
-http://69.30.251.42:25461/live/apk/asd/4467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Sab TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Sab UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony Setmax UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4441.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4441.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony TV Asia (SS)
-http://69.30.251.42:25461/live/apk/asd/4442.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4442.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony TV HD USA (SS)
-http://69.30.251.42:25461/live/apk/asd/4444.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4444.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sony TV UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4443.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4443.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sri Venkateshwar Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Bharat Mena (SS)
-http://69.30.251.42:25461/live/apk/asd/4474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Bharat UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Gold HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Plus (SS)
-http://69.30.251.42:25461/live/apk/asd/4448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Plus ME (SS)
-http://69.30.251.42:25461/live/apk/asd/4452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Plus UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Utsav (SS)
-http://69.30.251.42:25461/live/apk/asd/4551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Star Utsav UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Sudarshan News (SS)
-http://69.30.251.42:25461/live/apk/asd/4587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Taaza TV News (SS)
-http://69.30.251.42:25461/live/apk/asd/4631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Tez TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4488.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4488.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Tlc Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4493.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4493.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Travel Xp Hindi (SS)
-http://69.30.251.42:25461/live/apk/asd/4628.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4628.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Utv Bindas (SS)
-http://69.30.251.42:25461/live/apk/asd/4552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Vip News (SS)
-http://69.30.251.42:25461/live/apk/asd/4491.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4491.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Wow Cinema (SS)
-http://69.30.251.42:25461/live/apk/asd/4547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Anmol (SS)
-http://69.30.251.42:25461/live/apk/asd/4481.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4481.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Anmol Cinema (SS)
-http://69.30.251.42:25461/live/apk/asd/4487.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4487.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Business News (SS)
-http://69.30.251.42:25461/live/apk/asd/4590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Cinema HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4499.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4499.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Cinema ME (SS)
-http://69.30.251.42:25461/live/apk/asd/4501.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4501.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Cinema UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4502.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4502.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Etc Bollywood (SS)
-http://69.30.251.42:25461/live/apk/asd/4565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Living (SS)
-http://69.30.251.42:25461/live/apk/asd/4497.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4497.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee News (SS)
-http://69.30.251.42:25461/live/apk/asd/4589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Puraiya (SS)
-http://69.30.251.42:25461/live/apk/asd/4492.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4492.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Rajasthan News (SS)
-http://69.30.251.42:25461/live/apk/asd/4495.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4495.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Salaam (SS)
-http://69.30.251.42:25461/live/apk/asd/4489.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4489.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee Sangam (SS)
-http://69.30.251.42:25461/live/apk/asd/5094.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5094.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee TV HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4435.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4435.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee TV HD USA (SS)
-http://69.30.251.42:25461/live/apk/asd/4436.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4436.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee TV ME (SS)
-http://69.30.251.42:25461/live/apk/asd/4438.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4438.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zee TV UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4439.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4439.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zing India (SS)
-http://69.30.251.42:25461/live/apk/asd/4568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zing UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zoom TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Indian",Zoom TV UK (SS)
-http://69.30.251.42:25461/live/apk/asd/4566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",24X7 Non Stop Punjabi Music SS
-http://69.30.251.42:25461/live/apk/asd/5144.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5144.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",5Aab Today TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5163.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5163.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",84 TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",9X Tashan (SS)
-http://69.30.251.42:25461/live/apk/asd/5149.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5149.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Akaal Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/5164.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5164.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Alpha Etc Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5151.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5151.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Ankhila Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Aone Music (SS)
-http://69.30.251.42:25461/live/apk/asd/5142.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5142.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Aone Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5154.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5154.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Britasia (SS)
-http://69.30.251.42:25461/live/apk/asd/5146.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5146.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Chakde TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5153.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5153.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Channel Punjab Beats (SS)
-http://69.30.251.42:25461/live/apk/asd/5127.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5127.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Channel Y (SS)
-http://69.30.251.42:25461/live/apk/asd/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5162.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5162.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",DD Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5139.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5139.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Desi Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/5152.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5152.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Desi Plus (SS)
-http://69.30.251.42:25461/live/apk/asd/5118.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5118.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",E9 Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Fateh TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5155.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5155.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Garv Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5161.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5161.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Gaunda Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5147.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5147.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Global Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5150.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5150.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Gurmet Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Hamdard TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5148.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5148.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Jus 24X7 (SS)
-http://69.30.251.42:25461/live/apk/asd/5131.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5131.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Jus One TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5130.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5130.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Jus Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5129.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5129.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Life Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5124.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5124.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Manjhe Te Speaker (SS)
-http://69.30.251.42:25461/live/apk/asd/5160.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5160.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Mh1 News (SS)
-http://69.30.251.42:25461/live/apk/asd/5137.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5137.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Mh1 (SS)
-http://69.30.251.42:25461/live/apk/asd/5138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Mirror Punjab (SS)
-http://69.30.251.42:25461/live/apk/asd/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",NDA (SS)
-http://69.30.251.42:25461/live/apk/asd/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",PBN Music (SS)
-http://69.30.251.42:25461/live/apk/asd/5145.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5145.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Pitaara TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5116.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5116.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Prime Asia (SS)
-http://69.30.251.42:25461/live/apk/asd/5133.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5133.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",PTC Chakde (SS)
-http://69.30.251.42:25461/live/apk/asd/5128.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5128.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",PTC News (SS)
-http://69.30.251.42:25461/live/apk/asd/5136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",PTC News (SS)
-http://69.30.251.42:25461/live/apk/asd/5135.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5135.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",PTC Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",PTN 24 (SS)
-http://69.30.251.42:25461/live/apk/asd/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Sikh Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/5159.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5159.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Solid Movies Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/524.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/524.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Steelbird  Music (SS)
-http://69.30.251.42:25461/live/apk/asd/5140.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5140.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Zee Punjabi Haryana HP (SS)
-http://69.30.251.42:25461/live/apk/asd/5123.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5123.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Punjabi",Zee Punjabi (SS)
-http://69.30.251.42:25461/live/apk/asd/5120.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5120.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",24 Ghanta (SS)
-http://69.30.251.42:25461/live/apk/asd/5188.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5188.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Aakaash Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5237.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5237.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Aamar Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5238.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5238.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Abp Ananda (SS)
-http://69.30.251.42:25461/live/apk/asd/5202.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5202.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Asian TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5222.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5222.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",ATN Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5220.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5220.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",ATN Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5221.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5221.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",ATN Music TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5192.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5192.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",ATN News (SS)
-http://69.30.251.42:25461/live/apk/asd/5193.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5193.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Bangla Etv (SS)
-http://69.30.251.42:25461/live/apk/asd/5244.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5244.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Bangla Times (SS)
-http://69.30.251.42:25461/live/apk/asd/5217.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5217.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Bangla TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5219.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5219.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Bangla Vision (SS)
-http://69.30.251.42:25461/live/apk/asd/5218.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5218.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Bijoy TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5236.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5236.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Bns1 TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5235.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5235.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Boishakhi TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5194.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5194.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",BTV World (SS)
-http://69.30.251.42:25461/live/apk/asd/5233.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5233.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",BTV (SS)
-http://69.30.251.42:25461/live/apk/asd/5234.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5234.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Channel 24 (SS)
-http://69.30.251.42:25461/live/apk/asd/5191.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5191.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Channel 9 (SS)
-http://69.30.251.42:25461/live/apk/asd/5215.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5215.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Channel I EU (SS)
-http://69.30.251.42:25461/live/apk/asd/5240.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5240.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Channel I (SS)
-http://69.30.251.42:25461/live/apk/asd/5239.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5239.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Channel S (SS)
-http://69.30.251.42:25461/live/apk/asd/5241.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5241.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Colors Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5252.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5252.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",DbBC News (SS)
-http://69.30.251.42:25461/live/apk/asd/5232.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5232.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",DD Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5242.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5242.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Desh TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5195.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5195.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Deshe Bideshe TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5196.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5196.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Deshi TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5231.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5231.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Dhoom Music (SS)
-http://69.30.251.42:25461/live/apk/asd/5230.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5230.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Discovery Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/5187.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5187.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Doom Music (SS)
-http://69.30.251.42:25461/live/apk/asd/5197.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5197.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Ekattor TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5198.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5198.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Etv Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5182.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5182.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",G TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5199.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5199.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Gaan Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5200.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5200.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Independent TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5201.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5201.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Itv (SS)
-http://69.30.251.42:25461/live/apk/asd/5229.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5229.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Magic Bangla TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5203.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5203.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Masranga TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5204.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5204.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Millennium TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5205.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5205.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Mohona TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5206.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5206.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Movie Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5249.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5249.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Music Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5207.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5207.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",My Cinema TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5189.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5189.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",My TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5214.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5214.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",News Time (SS)
-http://69.30.251.42:25461/live/apk/asd/5186.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5186.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Nj24 Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5227.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5227.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Nrb TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5208.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5208.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Ntv Bd (SS)
-http://69.30.251.42:25461/live/apk/asd/5210.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5210.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Ntv (SS)
-http://69.30.251.42:25461/live/apk/asd/5209.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5209.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Probashi Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5226.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5226.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",R Plus (SS)
-http://69.30.251.42:25461/live/apk/asd/5211.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5211.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Rtv (SS)
-http://69.30.251.42:25461/live/apk/asd/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Ruposhi Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5213.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5213.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Sangeet Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5185.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5185.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Satv (SS)
-http://69.30.251.42:25461/live/apk/asd/5225.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5225.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",SK Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/5223.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5223.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Solid Movie Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5247.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5247.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Somoy News TV (SS)
-http://69.30.251.42:25461/live/apk/asd/5250.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5250.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Sony Aath (SS)
-http://69.30.251.42:25461/live/apk/asd/5184.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5184.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Star Jhalsa Movies (SS)
-http://69.30.251.42:25461/live/apk/asd/5246.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5246.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Star Jhalsa (SS)
-http://69.30.251.42:25461/live/apk/asd/5254.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5254.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Star Pravah (SS)
-http://69.30.251.42:25461/live/apk/asd/5183.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5183.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Tara Muzik (SS)
-http://69.30.251.42:25461/live/apk/asd/5245.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5245.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Time Television (SS)
-http://69.30.251.42:25461/live/apk/asd/5243.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5243.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",TV Asia (SS)
-http://69.30.251.42:25461/live/apk/asd/5224.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5224.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Zee Bangla Cinema (SS)
-http://69.30.251.42:25461/live/apk/asd/5248.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5248.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Zee Bangla (SS)
-http://69.30.251.42:25461/live/apk/asd/5251.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5251.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Colors Bangla HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5253.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5253.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Deepto HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5216.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5216.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",Digi Bangla HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5190.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5190.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Bangla",News 24 HD (SS)
-http://69.30.251.42:25461/live/apk/asd/5228.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/5228.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Ajyal TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4706.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4706.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Baby TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4686.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4686.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Baby TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Bbc Cbeebies (SS)
-http://69.30.251.42:25461/live/apk/asd/4696.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4696.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Boomerang Fr (SS)
-http://69.30.251.42:25461/live/apk/asd/4718.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4718.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Boomerang (SS)
-http://69.30.251.42:25461/live/apk/asd/4689.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4689.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Canal J FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4717.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4717.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Canal Panda ES (SS)
-http://69.30.251.42:25461/live/apk/asd/4722.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4722.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoon Network AR (SS)
-http://69.30.251.42:25461/live/apk/asd/4681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoon Network FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4716.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4716.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoon Network HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoon Network IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoon Network TG (SS)
-http://69.30.251.42:25461/live/apk/asd/4702.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4702.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoon NetworkTamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4732.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4732.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cartoonito (SS)
-http://69.30.251.42:25461/live/apk/asd/4678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Cbbc (SS)
-http://69.30.251.42:25461/live/apk/asd/4697.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4697.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Chintu TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4726.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4726.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Chutti TVTamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4693.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4693.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",CITV (SS)
-http://69.30.251.42:25461/live/apk/asd/4698.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4698.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Discovery Kids IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4723.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4723.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Discovery Kids Tamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4734.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4734.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Disney Channel (SS)
-http://69.30.251.42:25461/live/apk/asd/4675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Disney Jr FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4715.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4715.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Disney Jr (SS)
-http://69.30.251.42:25461/live/apk/asd/4674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Disney XD DE (SS)
-http://69.30.251.42:25461/live/apk/asd/4720.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4720.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Disney XD FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4714.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4714.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Disney XD (SS)
-http://69.30.251.42:25461/live/apk/asd/4676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Gulli Fr (SS)
-http://69.30.251.42:25461/live/apk/asd/4713.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4713.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Hungama IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4687.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4687.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Kochu TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4728.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4728.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Kushi TV (SS)
-http://69.30.251.42:25461/live/apk/asd/4730.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4730.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Maha Cartoon (SS)
-http://69.30.251.42:25461/live/apk/asd/4668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Majid Kids (SS)
-http://69.30.251.42:25461/live/apk/asd/4708.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4708.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",MbBC 3 AR (SS)
-http://69.30.251.42:25461/live/apk/asd/4704.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4704.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Nick Jr Toonami (SS)
-http://69.30.251.42:25461/live/apk/asd/4671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Nick Jr (SS)
-http://69.30.251.42:25461/live/apk/asd/4672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Nick Tamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4736.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4736.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Nickelodeon HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Nickelodeon IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Nicktoons (SS)
-http://69.30.251.42:25461/live/apk/asd/4682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",OSN Movies Kids HD (SS)
-http://69.30.251.42:25461/live/apk/asd/4695.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4695.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Piwi + FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4712.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4712.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Pogo IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4690.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4690.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Pogo Tamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4738.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4738.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Pop (SS)
-http://69.30.251.42:25461/live/apk/asd/4670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Baby TV (SS)
-http://69.30.251.42:25461/live/apk/asd/471.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/471.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Rte Junior (SS)
-http://69.30.251.42:25461/live/apk/asd/4688.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4688.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Sat 7 Kids AR (SS)
-http://69.30.251.42:25461/live/apk/asd/4705.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4705.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Smile of a Child (SS)
-http://69.30.251.42:25461/live/apk/asd/4691.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4691.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Sonic Tamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4740.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4740.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Sonic (SS)
-http://69.30.251.42:25461/live/apk/asd/4279.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4279.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Sony Yay IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4700.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4700.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Sony Yay TG (SS)
-http://69.30.251.42:25461/live/apk/asd/4701.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4701.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Sony YayTamil (SS)
-http://69.30.251.42:25461/live/apk/asd/4742.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4742.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Space Toon AR (SS)
-http://69.30.251.42:25461/live/apk/asd/4707.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4707.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Teletoon Plus FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4711.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4711.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Teletoon (SS)
-http://69.30.251.42:25461/live/apk/asd/4721.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4721.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Tfou TV FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4719.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4719.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Tiji FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4710.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4710.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Tiny Pop (SS)
-http://69.30.251.42:25461/live/apk/asd/4669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Toonami IN (SS)
-http://69.30.251.42:25461/live/apk/asd/4724.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4724.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 #EXTINF:0, group-title="Kids",Zouzou TV FR (SS)
-http://69.30.251.42:25461/live/apk/asd/4709.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
+http://69.30.251.42:25461/live/xxyycc/zxc/4709.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwerty
 
 #EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg",Canal Savoir (French)
 http://stream.canalsavoir.tv/livestream/stream.m3u8
@@ -3608,4 +3608,3 @@ http://bein.website/ZonaLiveTV4/IndiaSD.m3u8?id=Sony_BBC_Earth_SD
 http://bein.website/ZonaLiveTV4/IndiaSD.m3u8?id=TLC_English
 #EXTINF:0, group-title="Jio",TV 5 Monde (Jio)
 http://bein.website/ZonaLiveTV4/IndiaSD.m3u8?id=TV_5_Monde
-
