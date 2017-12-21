@@ -1007,6 +1007,7 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Osar_Movies/Osar_Movies_800.
 #EXTINF:0, group-title="Bhojpuri",Sangeet Bhojpuri
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bhojpuri",Zee Purvaiya
+
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Purvaiya/Zee_Purvaiya_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Oriya",Alankar TV
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Alankar_TV/Alankar_TV_800.m3u8|Referer=https://jiotv.com/
@@ -1056,3 +1057,411 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Gulistan_News/Gulistan_News_
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/I_Plus_News/I_Plus_News_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Urdu",Zee Salaam
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Salaam/Zee_Salaam_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Arijan
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
+#EXTINF:0, group-title="Bangla",Bengali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
+#EXTINF:0, group-title="Bangla",Rang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
+#EXTINF:0, group-title="Bangla",Sony Bangla
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:0, group-title="Bangla",Zee 24 Taas
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
+#EXTINF:0, group-title="Hindi",Bloomberg Quint 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD355L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Bollywood Masala 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Disney 
+http://130.185.144.63:8000/live/indian/indian/144.ts
+#EXTINF:0, group-title="Hindi",Madha
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+#EXTINF:0, group-title="Hindi",Mangalmay 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD107L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Music Xpress 
+http://130.185.144.63:8000/live/indian/indian/151.ts
+#EXTINF:0, group-title="Hindi",Only Music HD
+http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:0, group-title="Hindi",RT Movies 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD258L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Sanjeev Kapoor- Wonder Chef 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD266L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Sristi 35mm 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD87L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Swasthik TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD341L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Vaani 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Hindi",Yoga TV -Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Zee Yuva
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
+#EXTINF:0, group-title="Indian",UTV Action 
+http://130.185.144.63:8000/live/indian/indian/700.ts
+#EXTINF:0, group-title="Indian",UTV Bindass 
+http://130.185.144.63:8000/live/indian/indian/161.ts
+#EXTINF:0, group-title="Indian",UTV Movies 
+http://130.185.144.63:8000/live/indian/indian/485.ts
+#EXTINF:0, group-title="Indian",Vaa Movies 
+http://130.185.144.63:8000/live/indian/indian/1143.ts
+#EXTINF:0, group-title="International",Al Jazeera-1
+http:://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, group-title="International",Al Jazeera-2
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
+#EXTINF:0, group-title="International",Animal Planet HD
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:0, group-title="International",Bloomberg TV 
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Bloomberg US	https://mediauseast.akamaized.net/us/us1_live.m3u8
+#EXTINF:0, group-title="International",Channel News Asia
+http:://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0, group-title="International",Channel Win 
+http:://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="International",Chasseet Pache TV 
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, group-title="International",Chelsea TV
+http:://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
+#EXTINF:0, group-title="International",Colors EU 
+http://130.185.144.63:8000/live/indian/indian/123.ts
+#EXTINF:0, group-title="International",Colors TV AUS 
+http://130.185.144.63:8000/live/indian/indian/1130.ts
+#EXTINF:0, group-title="International",Colors TV HD 
+http://130.185.144.63:8000/live/indian/indian/122.ts
+#EXTINF:0, group-title="International",Colors TV ME 
+http://130.185.144.63:8000/live/indian/indian/1154.ts
+#EXTINF:0, group-title="International",Colors TV UK 
+http://130.185.144.63:8000/live/indian/indian/1132.ts
+#EXTINF:0, group-title="International",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0, group-title="International",DW Asia
+http:://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="International",Gem Life TV 
+http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:0, group-title="International",Gem Travel TV 
+http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:0, group-title="International",Grand Lille TV	rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:0, group-title="International",Headlines Today
+http:://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0, group-title="International",Imaan TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD338L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Indies Music HD
+http:://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, group-title="International",Irib TV 3 
+http://irib-live.arvancloud.com/tv3hd/tv3hd.m3u8
+#EXTINF:0, group-title="International",iTV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD195L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Kanal 24 TV 
+http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w246985525.m3u8
+#EXTINF:0, group-title="International",Kanal 3 TV 
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/chunklist_w1696095007_b750000.m3u8
+#EXTINF:0, group-title="International",Kanal D Turk 
+http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:0, group-title="International",Kurdistan TV 
+http://84.244.187.12:1935/live/livestream/chunklist_w1501586204.m3u8
+#EXTINF:0, group-title="International",Kurdmax TV
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
+#EXTINF:0, group-title="International",La Chaine Normande TV 
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:0, group-title="International",Life Ok Mena 
+http://130.185.144.63:8000/live/indian/indian/1146.ts
+#EXTINF:0, group-title="International",Life Ok Star 
+http://130.185.144.63:8000/live/indian/indian/1147.ts
+#EXTINF:0, group-title="International",Life Ok USA 
+http://130.185.144.63:8000/live/indian/indian/1148.ts
+#EXTINF:0, group-title="International",Macca TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/75.m3u8
+#EXTINF:0, group-title="International",MBC Bollywood HD
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0, group-title="International",Mello TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+#EXTINF:0, group-title="International",Movies Now
+http://my2.videodb.in:8081/ENGLISH/MOVIESNOW/playlist.m3u8
+#EXTINF:0, group-title="International",MTA Bangla
+http://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8?secure_ios_token=RWM5a3pJM3U0NTlQWUFHb1BUd1JTMUZDZU5RMzJZdkx6K1p2SjlQNWdKWTlrZU1WZU5JcjY2S3VYbDZ5CnB6b1pQUGhmZk9BTmVLN3crSUw4aVh4TVBnPT0K" preload="none" crossorigin="anonymous"></video>
+#EXTINF:0, group-title="International",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8?secure_ios_token=L2VVcTlpQjJySEx3cVdLcFpOL0NTcnVNRE52UkNyU2tJakFZOUp3ei9MZGg0Z3JKVFJvY3JlZGFqSFFSCnY2WjFEekwxNUF6eGdsMjh2Y0hMZVdMT2VBPT0K
+#EXTINF:0, group-title="International",MTA Original
+http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8?secure_ios_token=Ky92RWptb3U3TmZkOUUxemx1YXZIZXBMYXg4MWNUZnVwUXFiZ055bllLbHl5b3FrZmp3UCthWnNOckdNCkNrVWFzR3hDbnBpWWdteExwSVE4WFp5a25nPT0K
+#EXTINF:0, group-title="International",MTA Urdu
+http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
+#EXTINF:0, group-title="International",Nassim TV
+http://s3.telewebion.com:1935/devices/_definst_/nasim-500k.stream/chunklist_w2127445813.m3u8
+#EXTINF:0, group-title="International",New TV 
+http://kurd-live.com:1935/live/new/playlist.m3u8
+#EXTINF:0, group-title="International",News Asia 
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Peace Asia TV	rtmp://peace.fms.visionip.tv/live//b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace UK TV	rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace USA TV	rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Pick 
+http://130.185.144.63:8000/live/indian/indian/109.ts
+#EXTINF:0, group-title="International",Property Buzz TV
+http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
+#EXTINF:0, group-title="International",QH on TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",RA Documentary 	https://secure-streams.akamaized.net/rt-doc/index800.m3u8
+#EXTINF:0, group-title="International",Real Madrid TV
+http:://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
+#EXTINF:0, group-title="International",Rega TV 
+http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
+#EXTINF:0, group-title="International",Rishtay Asia 
+http://130.185.144.63:8000/live/indian/indian/1172.ts
+#EXTINF:0, group-title="International",Rishtay EU 
+http://130.185.144.63:8000/live/indian/indian/1155.ts
+#EXTINF:0, group-title="International",Rishtey 
+http://130.185.144.63:8000/live/indian/indian/138.ts
+#EXTINF:0, group-title="International",Rishtey UK 
+http://130.185.144.63:8000/live/indian/indian/139.ts
+#EXTINF:0, group-title="International",Ronahi TV
+http://bein.website/ZonaLiveTV1/Ronahi.m3u8
+#EXTINF:0, group-title="International",RT Documentary
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:0, group-title="International",RT Documentary HD
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0, group-title="International",Rudaw Live TV 	https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Sab TV UK 
+http://130.185.144.63:8000/live/indian/indian/481.ts
+#EXTINF:0, group-title="International",Saudi 2 HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/71.m3u8
+#EXTINF:0, group-title="International",Saudi TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/77.m3u8
+#EXTINF:0, group-title="International",Science & Vie TV 
+http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, group-title="International",Set MAX AUS 
+http://130.185.144.63:8000/live/indian/indian/1162.ts
+#EXTINF:0, group-title="International",Set MAX UK 
+http://130.185.144.63:8000/live/indian/indian/484.ts
+#EXTINF:0, group-title="International",Sky  TG24
+http:://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0, group-title="International",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="International",Sony TV AUS 
+http://130.185.144.63:8000/live/indian/indian/128.ts
+#EXTINF:0, group-title="International",Sony TV HD 
+http://130.185.144.63:8000/live/indian/indian/127.ts
+#EXTINF:0, group-title="International",Sony TV UK 
+http://130.185.144.63:8000/live/indian/indian/126.ts
+#EXTINF:0, group-title="International",Star Plus ME 
+http://130.185.144.63:8000/live/indian/indian/1164.ts
+#EXTINF:0, group-title="International",Star Plus UK 
+http://130.185.144.63:8000/live/indian/indian/479.ts
+#EXTINF:0, group-title="International",Star Plus USA 
+http://130.185.144.63:8000/live/indian/indian/480.ts
+#EXTINF:0, group-title="International",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0, group-title="International",TRT 1 HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0, group-title="International",TRT Arabic 
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0, group-title="International",TRT Avaz 
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0, group-title="International",TRT Diyanet TV 
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Haber TV 
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Kurd TV 
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Okul TV 
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Turk TV 
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TV5 Monde Info 
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0, group-title="International",TV5 Monde-Latin 
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:0, group-title="International",TV7 Bordeaux 	rtsp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:0, group-title="International",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="International",Ushuaia TV 
+http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
+#EXTINF:0, group-title="International",Zee Cinema ME 
+http://130.185.144.63:8000/live/indian/indian/1167.ts
+#EXTINF:0, group-title="International",Zee TV ME 
+http://130.185.144.63:8000/live/indian/indian/1169.ts
+#EXTINF:0, group-title="International",Zee TV UK 
+http://130.185.144.63:8000/live/indian/indian/114.ts
+#EXTINF:0, group-title="International",Zing UK 
+http://130.185.144.63:8000/live/indian/indian/493.ts
+#EXTINF:0, group-title="International",Zoom UK 
+http://130.185.144.63:8000/live/indian/indian/492.ts
+#EXTINF:0, group-title="Pakistani",8XM HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
+#EXTINF:0, group-title="Pakistani",A Plus
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
+#EXTINF:0, group-title="Pakistani",Aab Tak TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/58.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj Entertainment
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
+#EXTINF:0, group-title="Pakistani",Afghan
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/64.m3u8
+#EXTINF:0, group-title="Pakistani",Apna Channel
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/60.m3u8
+#EXTINF:0, group-title="Pakistani",Aruj
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/25.m3u8
+#EXTINF:0, group-title="Pakistani",ATV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
+#EXTINF:0, group-title="Pakistani",Awaz
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
+#EXTINF:0, group-title="Pakistani",Dunya TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
+#EXTINF:0, group-title="Pakistani",Film World
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
+#EXTINF:0, group-title="Pakistani",Filmax
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
+#EXTINF:0, group-title="Pakistani",Filmazia HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/69.m3u8
+#EXTINF:0, group-title="Pakistani",Geo Entertainment
+http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
+#EXTINF:0, group-title="Pakistani",Jalwa
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/62.m3u8
+#EXTINF:0, group-title="Pakistani",K21 News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/23.m3u8
+#EXTINF:0, group-title="Pakistani",Kay2
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber News TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
+#EXTINF:0, group-title="Pakistani",Lahore News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
+#EXTINF:0, group-title="Pakistani",Neo News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
+#EXTINF:0, group-title="Pakistani",News 7
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
+#EXTINF:0, group-title="Pakistani",News One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/45.m3u8
+#EXTINF:0, group-title="Pakistani",Oxygene
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/56.m3u8
+#EXTINF:0, group-title="Pakistani",Pashto 1
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/29.m3u8
+#EXTINF:0, group-title="Pakistani",Punjab TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/35.m3u8
+#EXTINF:0, group-title="Pakistani",Roze News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/82.m3u8
+#EXTINF:0, group-title="Pakistani",See TV HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/79.m3u8
+#EXTINF:0, group-title="Pakistani",Sindh News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/15.m3u8
+#EXTINF:0, group-title="Pakistani",Such
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/33.m3u8
+#EXTINF:0, group-title="Pakistani",TV One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
+#EXTINF:0, group-title="Pakistani",Waseb
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Akkal 
+http://130.185.144.63:8000/live/indian/indian/183.ts
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Music 
+http://130.185.144.63:8000/live/indian/indian/1112.ts
+#EXTINF:0, group-title="Punjabi",Aone Punjabi 
+http://130.185.144.63:8000/live/indian/indian/176.ts
+#EXTINF:0, group-title="Punjabi",Aone Punjabi 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Baani
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Brit Asia 
+http://130.185.144.63:8000/live/indian/indian/169.ts
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://209.153.233.92:7000/chakde/index.m3u8
+#EXTINF:0, group-title="Punjabi",Chakde TV 
+http://130.185.144.63:8000/live/indian/indian/1113.ts
+#EXTINF:0, group-title="Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",DPD Punjabi HD
+http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Etc Punjabi 
+http://130.185.144.63:8000/live/indian/indian/171.ts
+#EXTINF:0, group-title="Punjabi",Fateh TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Global Punjab
+http://104.237.59.106/live/Global_punjab.m3u8
+#EXTINF:0, group-title="Punjabi",Global Sanjh
+http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani TV
+http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Hamdard TV 
+http://130.185.144.63:8000/live/indian/indian/1115.ts
+#EXTINF:0, group-title="Punjabi",Jhanjar HD 
+http://130.185.144.63:8000/live/indian/indian/1116.ts
+#EXTINF:0, group-title="Punjabi",Jhanjar TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0, group-title="Punjabi",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Only Music HD 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Prime Asia
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chakde 
+http://130.185.144.63:8000/live/indian/indian/173.ts
+#EXTINF:0, group-title="Punjabi",PTC News 
+http://130.185.144.63:8000/live/indian/indian/174.ts
+#EXTINF:0, group-title="Punjabi",PTC Punjabi 
+http://130.185.144.63:8000/live/indian/indian/172.ts
+#EXTINF:0, group-title="Punjabi",Punjab TV 
+http://130.185.144.63:8000/live/indian/indian/170.ts
+#EXTINF:0, group-title="Punjabi",RTV Punjabi
+http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
+#EXTINF:0, group-title="Punjabi",Sahib TV 
+http://130.185.144.63:8000/live/indian/indian/1100.ts
+#EXTINF:0, group-title="Punjabi",Sangat TV 
+http://130.185.144.63:8000/live/indian/indian/182.ts
+#EXTINF:0, group-title="Punjabi",Sanjh TV 
+http://130.185.144.63:8000/live/indian/indian/1120.ts
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sikh Channel 
+http://130.185.144.63:8000/live/indian/indian/181.ts
+#EXTINF:0, group-title="Punjabi",Steelbird Music
+http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Tag TV
+http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Punjabi",Zee Punjabi 
+http://130.185.144.63:8000/live/indian/indian/118.ts
+#EXTINF:0, group-title="South Indian",Anand Media HD
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Asianet  ME
+http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Bharat Today TV
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:0, group-title="South Indian",Darshana TV ME
+http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8
+#EXTINF:0, group-title="South Indian",Garshom News
+http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:0, group-title="South Indian",Onkar TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD174L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",Prarthana TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD94L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",Super TV
+http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",TV9
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8
+#EXTINF:0, group-title="South Indian",Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:0, group-title="South Indian",V News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/01.m3u8
+#EXTINF:0, group-title="South Indian",Vaanavil TV
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:0, group-title="South Indian",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
+http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Zee Oriya News 
+http://130.185.144.63:8000/live/indian/indian/107.ts
+#EXTINF:0, group-title="South Indian",Zee Sangam 
+http://130.185.144.63:8000/live/indian/indian/106.ts
