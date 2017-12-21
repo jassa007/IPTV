@@ -1097,13 +1097,13 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:0, group-title="Hindi",Zee Yuva
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
-#EXTINF:0, group-title="Indian",UTV Action 
+#EXTINF:0, group-title="Hindi",UTV Action 
 http://130.185.144.63:8000/live/indian/indian/700.ts
-#EXTINF:0, group-title="Indian",UTV Bindass 
+#EXTINF:0, group-title="Hindi",UTV Bindass 
 http://130.185.144.63:8000/live/indian/indian/161.ts
-#EXTINF:0, group-title="Indian",UTV Movies 
+#EXTINF:0, group-title="Hindi",UTV Movies 
 http://130.185.144.63:8000/live/indian/indian/485.ts
-#EXTINF:0, group-title="Indian",Vaa Movies 
+#EXTINF:0, group-title="Hindi",Vaa Movies 
 http://130.185.144.63:8000/live/indian/indian/1143.ts
 #EXTINF:0, group-title="International",Al Jazeera-1
 http:://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
