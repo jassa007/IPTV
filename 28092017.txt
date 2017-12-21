@@ -1362,8 +1362,6 @@ http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Music 
 http://130.185.144.63:8000/live/indian/indian/1112.ts
 #EXTINF:0, group-title="Punjabi",Aone Punjabi 
-http://130.185.144.63:8000/live/indian/indian/176.ts
-#EXTINF:0, group-title="Punjabi",Aone Punjabi 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Baani
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
@@ -1371,8 +1369,6 @@ http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 http://130.185.144.63:8000/live/indian/indian/169.ts
 #EXTINF:0, group-title="Punjabi",Chakde TV
 http://209.153.233.92:7000/chakde/index.m3u8
-#EXTINF:0, group-title="Punjabi",Chakde TV 
-http://130.185.144.63:8000/live/indian/indian/1113.ts
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Plus
@@ -1393,14 +1389,10 @@ http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Hamdard TV 
 http://130.185.144.63:8000/live/indian/indian/1115.ts
-#EXTINF:0, group-title="Punjabi",Jhanjar HD 
-http://130.185.144.63:8000/live/indian/indian/1116.ts
-#EXTINF:0, group-title="Punjabi",Jhanjar TV
+#EXTINF:0, group-title="Punjabi",Jhanjar HD
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Only Music HD 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTC Chakde 
@@ -1417,8 +1409,6 @@ http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
 http://130.185.144.63:8000/live/indian/indian/1100.ts
 #EXTINF:0, group-title="Punjabi",Sangat TV 
 http://130.185.144.63:8000/live/indian/indian/182.ts
-#EXTINF:0, group-title="Punjabi",Sanjh TV 
-http://130.185.144.63:8000/live/indian/indian/1120.ts
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sikh Channel 
