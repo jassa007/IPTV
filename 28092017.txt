@@ -568,7 +568,7 @@ http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.c
 #EXTINF:0, group-title="Punjabi",Punjab TV 
 http://130.185.144.63:8000/live/indian/indian/170.ts
 #EXTINF:0, group-title="Punjabi",RTV Punjabi
-http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
+http://69.30.251.42:25461/live/qqaass/poi/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Sahib TV 
 http://130.185.144.63:8000/live/indian/indian/1100.ts
 #EXTINF:0, group-title="Punjabi",Sangat TV 
@@ -576,7 +576,7 @@ http://130.185.144.63:8000/live/indian/indian/182.ts
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha TV
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sanjha_TV/Sanjha_TV_800.m3u8|Referer=https://jiotv.com/
+http://69.30.251.42:25461/live/qqaass/poi/5143.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Sikh Channel 
 http://130.185.144.63:8000/live/indian/indian/181.ts
 #EXTINF:0, group-title="Punjabi",Steelbird Music
