@@ -473,6 +473,124 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_800.m3
 #EXTINF:0, group-title="Hindi",Zee Anmol
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Anmol/Zee_Anmol_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Hindi",Zee Business
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",84 TV
+http://69.30.251.42:25461/live/qqaass/poi/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",9X Tashan
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/9X_Tashan/9X_Tashan_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Akkal 
+http://130.185.144.63:8000/live/indian/indian/183.ts
+#EXTINF:0, group-title="Punjabi",Ankhila Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Music 
+http://130.185.144.63:8000/live/indian/indian/1112.ts
+#EXTINF:0, group-title="Punjabi",Aone Punjabi 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Baani
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Brit Asia 
+http://130.185.144.63:8000/live/indian/indian/169.ts
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://209.153.233.92:7000/chakde/index.m3u8
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://69.30.251.42:25461/live/qqaass/poi/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Chardikla Time TV
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",DD Punjabi
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Punjabi/DD_Punjabi_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Desi Channel
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Desi_Channel/Desi_Channel_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",DPD Punjabi HD
+http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Etc Punjabi 
+http://130.185.144.63:8000/live/indian/indian/171.ts
+#EXTINF:0, group-title="Punjabi",Fateh TV 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Garv Punjabi
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Garv_Punjabi/Garv_Punjabi.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Garv Punjabi Gurbani
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Garv_Gurbani/Garv_Gurbani.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Global Punjab
+http://104.237.59.106/live/Global_punjab.m3u8
+#EXTINF:0, group-title="Punjabi",Global Sanjh
+http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani TV
+http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Gurmit Channel
+http://69.30.251.42:25461/live/qqaass/poi/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Hamdard TV 
+http://130.185.144.63:8000/live/indian/indian/1115.ts
+#EXTINF:0, group-title="Punjabi",Jhanjar HD
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0, group-title="Punjabi",jus 24x7
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/JUS24x7/JUS24x7_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",jus One
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/JUSOne/JUSOne_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",jus Punjabi
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/JUSPunjabi/JUSPunjabi_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Life Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5124.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",mh1 Music
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/mh1_Music/mh1_Music_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",mh1 Shraddha
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Mirror Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",NDA Channel
+http://69.30.251.42:25461/live/qqaass/poi/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Only Music
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Only_Music/Only_Music_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",PBN Music
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PBN_Music/PBN_Music.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Pitaara
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Pitaara/Pitaara_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Prime Asia
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chakde 
+http://130.185.144.63:8000/live/indian/indian/173.ts
+#EXTINF:0, group-title="Punjabi",PTC News 
+http://130.185.144.63:8000/live/indian/indian/174.ts
+#EXTINF:0, group-title="Punjabi",PTC Punjabi 
+http://130.185.144.63:8000/live/indian/indian/172.ts
+#EXTINF:0, group-title="Punjabi",PTC Punjabi UK
+http://69.30.251.42:25461/live/qqaass/poi/5125.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",PTN 24
+http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Punjab TV 
+http://130.185.144.63:8000/live/indian/indian/170.ts
+#EXTINF:0, group-title="Punjabi",RTV Punjabi
+http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
+#EXTINF:0, group-title="Punjabi",Sahib TV 
+http://130.185.144.63:8000/live/indian/indian/1100.ts
+#EXTINF:0, group-title="Punjabi",Sangat TV 
+http://130.185.144.63:8000/live/indian/indian/182.ts
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sanjha TV
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sanjha_TV/Sanjha_TV.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Sikh Channel 
+http://130.185.144.63:8000/live/indian/indian/181.ts
+#EXTINF:0, group-title="Punjabi",Steelbird Music
+http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Tag TV
+http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Punjabi",Zee PB HP HR
+https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Punjabi",Zee Punjabi 
+http://130.185.144.63:8000/live/indian/indian/118.ts
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Hindi",Zee Cinema
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema/Zee_Cinema_800.m3u8|Referer=https://jiotv.com/
@@ -496,184 +614,6 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_1200.m3u
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zing/Zing_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Hindi",Zoom
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ZOOM/ZOOM_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",9X Tashan
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/9X_Tashan/9X_Tashan_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Chardikla Time TV
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",DD Punjabi
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Punjabi/DD_Punjabi_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Desi Channel
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Desi_Channel/Desi_Channel_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Garv Punjabi
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Garv_Punjabi/Garv_Punjabi.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Garv Punjabi Gurbani
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Garv_Gurbani/Garv_Gurbani.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",jus 24x7
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/JUS24x7/JUS24x7_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",jus One
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/JUSOne/JUSOne_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",jus Punjabi
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/JUSPunjabi/JUSPunjabi_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",mh1 Music
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/mh1_Music/mh1_Music_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",mh1 Shraddha
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Only Music
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Only_Music/Only_Music_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",PBN Music
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PBN_Music/PBN_Music.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Pitaara
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Pitaara/Pitaara_800.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Sanjha TV
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sanjha_TV/Sanjha_TV.m3u8|Referer=https://jiotv.com/
-#EXTINF:0, group-title="Punjabi",Zee PB HP HR
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8|Referer=https://jiotv.com/
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-#EXTINF:0, group-title="Punjabi",24X7 Non Stop Punjabi Music
-http://69.30.251.42:25461/live/qqaass/poi/5144.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",5aab Today TV
-http://69.30.251.42:25461/live/qqaass/poi/5163.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",84 TV
-http://69.30.251.42:25461/live/qqaass/poi/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Ankhila Punjab
-http://69.30.251.42:25461/live/qqaass/poi/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Bhaagya
-http://69.30.251.42:25461/live/qqaass/poi/5170.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Channel Punjab Beats
-http://69.30.251.42:25461/live/qqaass/poi/5127.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Channel Y
-http://69.30.251.42:25461/live/qqaass/poi/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Dhur Ki Baani
-http://69.30.251.42:25461/live/qqaass/poi/5172.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",E9 Punjabi
-http://69.30.251.42:25461/live/qqaass/poi/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Ek Onkar TV
-http://69.30.251.42:25461/live/qqaass/poi/5167.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Gurmeet Channel
-http://69.30.251.42:25461/live/qqaass/poi/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Life Punjab
-http://69.30.251.42:25461/live/qqaass/poi/5124.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Mirror Punjab
-http://69.30.251.42:25461/live/qqaass/poi/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Nav Punjabi 24x7
-http://69.30.251.42:25461/live/qqaass/poi/5175.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",NDA
-http://69.30.251.42:25461/live/qqaass/poi/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",PTC News
-http://69.30.251.42:25461/live/qqaass/poi/5136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",PTC News
-http://69.30.251.42:25461/live/qqaass/poi/5135.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",PTC Punjabi
-http://69.30.251.42:25461/live/qqaass/poi/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",PTC Punjabi
-http://69.30.251.42:25461/live/qqaass/poi/5125.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",PTN 24
-http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",RTV HD
-http://69.30.251.42:25461/live/qqaass/poi/5122.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Sadda Punjab
-http://69.30.251.42:25461/live/qqaass/poi/5177.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Sanjh TV
-http://69.30.251.42:25461/live/qqaass/poi/5143.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Sikh Channel USA
-http://69.30.251.42:25461/live/qqaass/poi/5174.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Sur Sagar
-http://69.30.251.42:25461/live/qqaass/poi/5176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",Tohar TV
-http://69.30.251.42:25461/live/qqaass/poi/5180.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-
 #EXTINF:0, group-title="Tamil",Adithya TV
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Adithya_TV/Adithya_TV_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Tamil",Angel TV HD
@@ -1782,75 +1722,6 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
 http://69.30.251.42:25461/live/qqaass/poi/4379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Pakistani",Zindagi TV
 http://69.30.251.42:25461/live/qqaass/poi/4403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-
-#EXTINF:0, group-title="Punjabi",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Akkal 
-http://130.185.144.63:8000/live/indian/indian/183.ts
-#EXTINF:0, group-title="Punjabi",Aone Music
-http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
-#EXTINF:0, group-title="Punjabi",Aone Music 
-http://130.185.144.63:8000/live/indian/indian/1112.ts
-#EXTINF:0, group-title="Punjabi",Aone Punjabi 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD201L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Punjabi",Baani
-http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Brit Asia 
-http://130.185.144.63:8000/live/indian/indian/169.ts
-#EXTINF:0, group-title="Punjabi",Chakde TV
-http://209.153.233.92:7000/chakde/index.m3u8
-#EXTINF:0, group-title="Punjabi",Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",DPD Punjabi HD
-http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",Etc Punjabi 
-http://130.185.144.63:8000/live/indian/indian/171.ts
-#EXTINF:0, group-title="Punjabi",Fateh TV 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Punjabi",Gaunda Punjab/BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Global Punjab
-http://104.237.59.106/live/Global_punjab.m3u8
-#EXTINF:0, group-title="Punjabi",Global Sanjh
-http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Gurbaani TV
-http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Hamdard TV 
-http://130.185.144.63:8000/live/indian/indian/1115.ts
-#EXTINF:0, group-title="Punjabi",Jhanjar HD
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:0, group-title="Punjabi",Living India News
-http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Prime Asia
-http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",PTC Chakde 
-http://130.185.144.63:8000/live/indian/indian/173.ts
-#EXTINF:0, group-title="Punjabi",PTC News 
-http://130.185.144.63:8000/live/indian/indian/174.ts
-#EXTINF:0, group-title="Punjabi",PTC Punjabi 
-http://130.185.144.63:8000/live/indian/indian/172.ts
-#EXTINF:0, group-title="Punjabi",Punjab TV 
-http://130.185.144.63:8000/live/indian/indian/170.ts
-#EXTINF:0, group-title="Punjabi",RTV Punjabi
-http://s1.h1.mymaxcdn.net/rtvpunjabi-main/video.m3u8
-#EXTINF:0, group-title="Punjabi",Sahib TV 
-http://130.185.144.63:8000/live/indian/indian/1100.ts
-#EXTINF:0, group-title="Punjabi",Sangat TV 
-http://130.185.144.63:8000/live/indian/indian/182.ts
-#EXTINF:0, group-title="Punjabi",Sanjha Punjab
-http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Sikh Channel 
-http://130.185.144.63:8000/live/indian/indian/181.ts
-#EXTINF:0, group-title="Punjabi",Steelbird Music
-http://192.206.7.232:1935/Steelbird/smil:myStream.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Tag TV
-http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
-#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Punjabi",Zee Punjabi 
-http://130.185.144.63:8000/live/indian/indian/118.ts
 #EXTINF:0, group-title="South Indian",Anand Media HD
 http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Asianet  ME
