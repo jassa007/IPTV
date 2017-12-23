@@ -568,7 +568,7 @@ http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.c
 #EXTINF:0, group-title="Punjabi",Punjab TV 
 http://130.185.144.63:8000/live/indian/indian/170.ts
 #EXTINF:0, group-title="Punjabi",RTV Punjabi
-http://69.30.251.42:25461/live/qqaass/poi/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+http://69.30.251.42:25461/live/qqaass/poi/5122.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Sahib TV 
 http://130.185.144.63:8000/live/indian/indian/1100.ts
 #EXTINF:0, group-title="Punjabi",Sangat TV 
