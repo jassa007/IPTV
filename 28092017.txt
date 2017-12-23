@@ -502,7 +502,7 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Punjabi/DD_Punjabi_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Desi Channel
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Desi_Channel/Desi_Channel_800.m3u8|Referer=https://jiotv.com/
+http://69.30.251.42:25461/live/qqaass/poi/5152.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://69.30.251.42:25461/live/qqaass/poi/5152.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
