@@ -938,34 +938,153 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Ananda/ABP_Ananda_800.m3
 #EXTINF:0, group-title="Bangla",ANM News
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ANM_News/ANM_News_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Artage News	"https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zeal_News/Zeal_News	_801	.m3u8|Referer=https://jiotv.com/"
+#EXTINF:0, group-title="Bangla",Asian TV
+http://69.30.251.42:25461/live/qqaass/poi/5222.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",ATN Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5220.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",ATN Music TV
+http://69.30.251.42:25461/live/qqaass/poi/5192.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",ATN News
+http://69.30.251.42:25461/live/qqaass/poi/5193.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Bangla Times
+http://69.30.251.42:25461/live/qqaass/poi/5217.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Bangla TV
+http://69.30.251.42:25461/live/qqaass/poi/5219.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Bangla Vision
+http://69.30.251.42:25461/live/qqaass/poi/5218.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Bengali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
+#EXTINF:0, group-title="Bangla",Bijoy TV
+http://69.30.251.42:25461/live/qqaass/poi/5236.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",BNS1 TV
+http://69.30.251.42:25461/live/qqaass/poi/5235.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Boishakhi TV
+http://69.30.251.42:25461/live/qqaass/poi/5194.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",BTV
+http://69.30.251.42:25461/live/qqaass/poi/5234.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",BTV World
+http://69.30.251.42:25461/live/qqaass/poi/5233.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Channel 24
+http://69.30.251.42:25461/live/qqaass/poi/5191.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Channel 9
+http://69.30.251.42:25461/live/qqaass/poi/5215.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Channel I
+http://69.30.251.42:25461/live/qqaass/poi/5239.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Channel I EU
+http://69.30.251.42:25461/live/qqaass/poi/5240.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Channel S
+http://69.30.251.42:25461/live/qqaass/poi/5241.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Colors Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5252.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Colors Bengali HD
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Colors_Bengali_HD/Colors_Bengali_HD_1200.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",DBC News
+http://69.30.251.42:25461/live/qqaass/poi/5232.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",DD Bangla
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Bangla/DD_Bangla_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Deepto HD
+http://69.30.251.42:25461/live/qqaass/poi/5216.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Desh TV
+http://69.30.251.42:25461/live/qqaass/poi/5195.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Deshe Bideshe TV
+http://69.30.251.42:25461/live/qqaass/poi/5196.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Deshi TV
+http://69.30.251.42:25461/live/qqaass/poi/5231.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Dhoom Music
+http://69.30.251.42:25461/live/qqaass/poi/5230.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Digi Bangla HD
+http://69.30.251.42:25461/live/qqaass/poi/5190.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Discovery Channel (Bangla)
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Doom Music
+http://69.30.251.42:25461/live/qqaass/poi/5197.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Ekattor TV
+http://69.30.251.42:25461/live/qqaass/poi/5198.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",ETV Bangla News
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ETV_Bangla_News/ETV_Bangla_News_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",G TV
+http://69.30.251.42:25461/live/qqaass/poi/5199.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Gaan Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5200.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Independent TV
+http://69.30.251.42:25461/live/qqaass/poi/5201.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",ITV
+http://69.30.251.42:25461/live/qqaass/poi/5229.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Jalsha Movies HD
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Jalsa_Movies_HD/Jalsa_Movies_HD_1200.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Magic Bangla TV
+http://69.30.251.42:25461/live/qqaass/poi/5203.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Masranga TV
+http://69.30.251.42:25461/live/qqaass/poi/5204.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Millennium TV
+http://69.30.251.42:25461/live/qqaass/poi/5205.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Mohona TV
+http://69.30.251.42:25461/live/qqaass/poi/5206.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Movie Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5249.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Music Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5207.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Music Fatafati
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Music_Fatafati/Music_Fatafati_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",My Cinema TV
+http://69.30.251.42:25461/live/qqaass/poi/5189.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",My TV
+http://69.30.251.42:25461/live/qqaass/poi/5214.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Nepal one
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nepal_one/Nepal_one_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",News 24 HD
+http://69.30.251.42:25461/live/qqaass/poi/5228.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",News Time TV
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",NJ24 Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5227.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",NRB TV
+http://69.30.251.42:25461/live/qqaass/poi/5208.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",NTV
+http://69.30.251.42:25461/live/qqaass/poi/5209.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Probashi Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5226.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",R Plus
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/RPLUS/RPLUS_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Rang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
+#EXTINF:0, group-title="Bangla",RTV
+http://69.30.251.42:25461/live/qqaass/poi/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Ruposhi Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5213.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Sa TV
+http://69.30.251.42:25461/live/qqaass/poi/5225.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Sangeet Bangla
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",SK Movies
+http://69.30.251.42:25461/live/qqaass/poi/5223.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Solid Movie Bangla
+http://69.30.251.42:25461/live/qqaass/poi/5247.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Somoy News TV
+http://69.30.251.42:25461/live/qqaass/poi/5250.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Bangla",Sony Aath
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath_800.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Sony Bangla
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
 #EXTINF:0, group-title="Bangla",Star Jalsha HD
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Star_Jalsha/Star_Jalsha_1200.m3u8|Referer=https://jiotv.com/
+#EXTINF:0, group-title="Bangla",Star Jhalsa Movies
+http://69.30.251.42:25461/live/qqaass/poi/5246.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Star Pravah
+http://69.30.251.42:25461/live/qqaass/poi/5183.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Tara Muzik
+http://69.30.251.42:25461/live/qqaass/poi/5245.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Time Television
+http://69.30.251.42:25461/live/qqaass/poi/5243.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",TV Asia
+http://69.30.251.42:25461/live/qqaass/poi/5224.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Bangla",Zee 24 Taas
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
 #EXTINF:0, group-title="Bangla",Zee Bangla
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Zee Bangla Cinema
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8|Referer=https://jiotv.com/
+
 #EXTINF:0, group-title="Assamese",Assam Talks
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Assam_Talks/Assam_Talks_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Assamese",DD Guwahati NE
