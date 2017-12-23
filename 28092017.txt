@@ -528,6 +528,152 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Pitaara/Pitaara_800.m3u8|Ref
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sanjha_TV/Sanjha_TV.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8|Referer=https://jiotv.com/
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+#EXTINF:0, group-title="Punjabi",24X7 Non Stop Punjabi Music
+http://69.30.251.42:25461/live/qqaass/poi/5144.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",5aab Today TV
+http://69.30.251.42:25461/live/qqaass/poi/5163.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",84 TV
+http://69.30.251.42:25461/live/qqaass/poi/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Ankhila Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Bhaagya
+http://69.30.251.42:25461/live/qqaass/poi/5170.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Channel Punjab Beats
+http://69.30.251.42:25461/live/qqaass/poi/5127.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://69.30.251.42:25461/live/qqaass/poi/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Dhur Ki Baani
+http://69.30.251.42:25461/live/qqaass/poi/5172.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",E9 Punjabi
+http://69.30.251.42:25461/live/qqaass/poi/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Ek Onkar TV
+http://69.30.251.42:25461/live/qqaass/poi/5167.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Gurmeet Channel
+http://69.30.251.42:25461/live/qqaass/poi/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Life Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5124.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Mirror Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Nav Punjabi 24x7
+http://69.30.251.42:25461/live/qqaass/poi/5175.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",NDA
+http://69.30.251.42:25461/live/qqaass/poi/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",PTC News
+http://69.30.251.42:25461/live/qqaass/poi/5136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",PTC News
+http://69.30.251.42:25461/live/qqaass/poi/5135.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://69.30.251.42:25461/live/qqaass/poi/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://69.30.251.42:25461/live/qqaass/poi/5125.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",PTN 24
+http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",RTV HD
+http://69.30.251.42:25461/live/qqaass/poi/5122.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Sadda Punjab
+http://69.30.251.42:25461/live/qqaass/poi/5177.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Sanjh TV
+http://69.30.251.42:25461/live/qqaass/poi/5143.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Sikh Channel USA
+http://69.30.251.42:25461/live/qqaass/poi/5174.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Sur Sagar
+http://69.30.251.42:25461/live/qqaass/poi/5176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+#EXTINF:0, group-title="Punjabi",Tohar TV
+http://69.30.251.42:25461/live/qqaass/poi/5180.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
+
 #EXTINF:0, group-title="Tamil",Adithya TV
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Adithya_TV/Adithya_TV_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Tamil",Angel TV HD
