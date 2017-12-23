@@ -521,8 +521,6 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 http://104.237.59.106/live/Global_punjab.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
 http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Gurbaani TV
-http://69.30.251.42:25461/live/qqaass/poi/5169.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Gurmit Channel
 http://69.30.251.42:25461/live/qqaass/poi/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Hamdard TV 
@@ -550,7 +548,7 @@ http://69.30.251.42:25461/live/qqaass/poi/5117.ts|refferer=http://solidstreamz.c
 #EXTINF:0, group-title="Punjabi",Only Music
 http://69.30.251.42:25461/live/qqaass/poi/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",PBN Music
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PBN_Music/PBN_Music_800.m3u8|Referer=https://jiotv.com/
+http://69.30.251.42:25461/live/qqaass/poi/5145.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Pitaara
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Pitaara/Pitaara_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Prime Asia
@@ -566,7 +564,7 @@ http://69.30.251.42:25461/live/qqaass/poi/5125.ts|refferer=http://solidstreamz.c
 #EXTINF:0, group-title="Punjabi",PTN 24
 http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Punjab TV 
-http://130.185.144.63:8000/live/indian/indian/170.ts
+http://69.30.251.42:25461/live/qqaass/poi/5099.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",RTV Punjabi
 http://69.30.251.42:25461/live/qqaass/poi/5122.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Sahib TV 
