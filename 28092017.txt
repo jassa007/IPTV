@@ -1341,7 +1341,8 @@ http:://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
 #EXTINF:0, group-title="International",Gem Travel TV 
 http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
-#EXTINF:0, group-title="International",Grand Lille TV	rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:0, group-title="International",Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
 #EXTINF:0, group-title="International",Headlines Today
 http:://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:0, group-title="International",Imaan TV 
@@ -1392,16 +1393,20 @@ http://s3.telewebion.com:1935/devices/_definst_/nasim-500k.stream/chunklist_w212
 http://kurd-live.com:1935/live/new/playlist.m3u8
 #EXTINF:0, group-title="International",News Asia 
 http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="International",Peace Asia TV	rtmp://peace.fms.visionip.tv/live//b2b-peace_asia-live-25f-4x3-sdh_1
-#EXTINF:0, group-title="International",Peace UK TV	rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
-#EXTINF:0, group-title="International",Peace USA TV	rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace Asia TV
+rtmp://peace.fms.visionip.tv/live//b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace UK TV
+rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace USA TV
+rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",Pick 
 http://130.185.144.63:8000/live/indian/indian/109.ts
 #EXTINF:0, group-title="International",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
 #EXTINF:0, group-title="International",QH on TV 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="International",RA Documentary 	https://secure-streams.akamaized.net/rt-doc/index800.m3u8
+#EXTINF:0, group-title="International",RA Documentary
+https://secure-streams.akamaized.net/rt-doc/index800.m3u8
 #EXTINF:0, group-title="International",Real Madrid TV
 http:://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
 #EXTINF:0, group-title="International",Rega TV 
@@ -1420,7 +1425,8 @@ http://bein.website/ZonaLiveTV1/Ronahi.m3u8
 http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
 #EXTINF:0, group-title="International",RT Documentary HD
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:0, group-title="International",Rudaw Live TV 	https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Rudaw Live TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:0, group-title="International",Sab TV UK 
 http://130.185.144.63:8000/live/indian/indian/481.ts
 #EXTINF:0, group-title="International",Saudi 2 HD
@@ -1473,7 +1479,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:0, group-title="International",TV5 Monde-Latin 
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:0, group-title="International",TV7 Bordeaux 	rtsp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:0, group-title="International",TV7 Bordeaux
+rtsp://62.210.204.108/livtv7vo/mystream700.sdp
 #EXTINF:0, group-title="International",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="International",Ushuaia TV 
@@ -1752,3 +1759,4 @@ http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanan
 http://130.185.144.63:8000/live/indian/indian/107.ts
 #EXTINF:0, group-title="South Indian",Zee Sangam 
 http://130.185.144.63:8000/live/indian/indian/106.ts
+
