@@ -549,7 +549,7 @@ http://69.30.251.42:25461/live/qqaass/poi/5132.ts|refferer=http://solidstreamz.c
 http://69.30.251.42:25461/live/qqaass/poi/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Only Music
 http://69.30.251.42:25461/live/qqaass/poi/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
-#EXTINF:0, group-title="Punjabi",OZ Star
+#EXTINF:0, group-title="Punjabi",OZ TV Channel
 http://69.30.251.42:25461/live/qqaass/poi/5648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://69.30.251.42:25461/live/qqaass/poi/5145.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
@@ -573,7 +573,7 @@ http://69.30.251.42:25461/live/qqaass/poi/5115.ts|refferer=http://solidstreamz.c
 http://69.30.251.42:25461/live/qqaass/poi/5099.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=iop
 #EXTINF:0, group-title="Punjabi",Sahib TV 
 http://130.185.144.63:8000/live/indian/indian/1100.ts
-#EXTINF:0, group-title="Punjabi",Sangat TV HD 
+#EXTINF:0, group-title="Punjabi",Sangat TV
 http://130.185.144.63:8000/live/indian/indian/182.ts
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
