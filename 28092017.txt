@@ -476,13 +476,13 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Anmol/Zee_Anmol_800.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",TV 84
-http://69.30.251.42:25461/live/data/ask/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5156.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",9X Tashan
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/9X_Tashan/9X_Tashan_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Akaal 
 http://130.185.144.63:8000/live/indian/indian/183.ts
 #EXTINF:0, group-title="Punjabi",Ankhila Punjab
-http://69.30.251.42:25461/live/data/ask/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi 
@@ -494,9 +494,9 @@ http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Brit Asia 
 http://130.185.144.63:8000/live/indian/indian/169.ts
 #EXTINF:0, group-title="Punjabi",Chakde TV
-http://69.30.251.42:25461/live/data/ask/5153.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5153.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Channel Y
-http://69.30.251.42:25461/live/data/ask/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Cine Voice
@@ -504,15 +504,15 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Punjabi/DD_Punjabi_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Desi Channel
-http://69.30.251.42:25461/live/data/ask/5152.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5152.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Desi TV USA
-http://69.30.251.42:25461/live/data/ask/4385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",E9 Punjabi
-http://69.30.251.42:25461/live/data/ask/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Etc Punjabi 
 http://130.185.144.63:8000/live/indian/indian/171.ts
 #EXTINF:0, group-title="Punjabi",Fateh TV
@@ -526,7 +526,7 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_punjab.m3u8
 #EXTINF:0, group-title="Punjabi",Gurmit Channel
-http://69.30.251.42:25461/live/data/ask/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5134.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Hamdard TV 
 http://130.185.144.63:8000/live/indian/indian/1115.ts
 #EXTINF:0, group-title="Punjabi",Jhanjar HD
@@ -544,15 +544,15 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/mh1_Music/mh1_Music_800.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Shraddha
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Mirror Punjab
-http://69.30.251.42:25461/live/data/ask/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5132.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",NDA Channel
-http://69.30.251.42:25461/live/data/ask/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5117.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Only Music
-http://69.30.251.42:25461/live/data/ask/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",OZ TV Channel
-http://69.30.251.42:25461/live/data/ask/5648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",PBN Music
-http://69.30.251.42:25461/live/data/ask/5145.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5145.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Pitaara
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Pitaara/Pitaara_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Punjabi",Prime Asia
@@ -562,15 +562,15 @@ http://130.185.144.63:8000/live/indian/indian/173.ts
 #EXTINF:0, group-title="Punjabi",PTC News 
 http://130.185.144.63:8000/live/indian/indian/174.ts
 #EXTINF:0, group-title="Punjabi",PTC Punjabi
-http://69.30.251.42:25461/live/data/ask/5125.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5125.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",PTC News UK
-http://69.30.251.42:25461/live/data/ask/5136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5136.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",PTC Punjabi UK
-http://69.30.251.42:25461/live/data/ask/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5126.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",PTN 24
-http://69.30.251.42:25461/live/data/ask/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5115.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Punjab TV 
-http://69.30.251.42:25461/live/data/ask/5099.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5099.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Sahib TV 
 http://130.185.144.63:8000/live/indian/indian/1100.ts
 #EXTINF:0, group-title="Punjabi",Sangat TV
@@ -592,7 +592,7 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Punjabi_HP_Haryana/Zee_P
 #EXTINF:0, group-title="Punjabi",Zee Punjabi 
 http://130.185.144.63:8000/live/indian/indian/118.ts
 #EXTINF:0, group-title="Punjabi",Zee Punjabi UK
-http://69.30.251.42:25461/live/data/ask/5121.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5121.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Hindi",Zee Business
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Hindi",Zee Cinema
@@ -1028,129 +1028,129 @@ https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Ananda/ABP_Ananda_800.m3
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ANM_News/ANM_News_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Artage News	"https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zeal_News/Zeal_News	_801	.m3u8|Referer=https://jiotv.com/"
 #EXTINF:0, group-title="Bangla",Asian TV
-http://69.30.251.42:25461/live/data/ask/5222.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5222.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",ATN Bangla
-http://69.30.251.42:25461/live/data/ask/5220.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5220.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",ATN Music TV
-http://69.30.251.42:25461/live/data/ask/5192.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5192.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",ATN News
-http://69.30.251.42:25461/live/data/ask/5193.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5193.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Bangla Times
-http://69.30.251.42:25461/live/data/ask/5217.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5217.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Bangla TV
-http://69.30.251.42:25461/live/data/ask/5219.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5219.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Bangla Vision
-http://69.30.251.42:25461/live/data/ask/5218.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5218.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Bengali
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
 #EXTINF:0, group-title="Bangla",Bijoy TV
-http://69.30.251.42:25461/live/data/ask/5236.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5236.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",BNS1 TV
-http://69.30.251.42:25461/live/data/ask/5235.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5235.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Boishakhi TV
-http://69.30.251.42:25461/live/data/ask/5194.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5194.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",BTV
-http://69.30.251.42:25461/live/data/ask/5234.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5234.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",BTV World
-http://69.30.251.42:25461/live/data/ask/5233.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5233.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Channel 24
-http://69.30.251.42:25461/live/data/ask/5191.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5191.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Channel 9
-http://69.30.251.42:25461/live/data/ask/5215.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5215.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Channel I
-http://69.30.251.42:25461/live/data/ask/5239.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5239.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Channel I EU
-http://69.30.251.42:25461/live/data/ask/5240.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5240.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Channel S
-http://69.30.251.42:25461/live/data/ask/5241.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5241.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Colors Bangla
-http://69.30.251.42:25461/live/data/ask/5252.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5252.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Colors Bengali HD
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Colors_Bengali_HD/Colors_Bengali_HD_1200.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",DBC News
-http://69.30.251.42:25461/live/data/ask/5232.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5232.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",DD Bangla
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Bangla/DD_Bangla_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Deepto HD
-http://69.30.251.42:25461/live/data/ask/5216.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5216.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Desh TV
-http://69.30.251.42:25461/live/data/ask/5195.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5195.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Deshe Bideshe TV
-http://69.30.251.42:25461/live/data/ask/5196.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5196.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Deshi TV
-http://69.30.251.42:25461/live/data/ask/5231.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5231.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Dhoom Music
-http://69.30.251.42:25461/live/data/ask/5230.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5230.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Digi Bangla HD
-http://69.30.251.42:25461/live/data/ask/5190.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5190.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Discovery Channel (Bangla)
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Doom Music
-http://69.30.251.42:25461/live/data/ask/5197.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5197.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Ekattor TV
-http://69.30.251.42:25461/live/data/ask/5198.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5198.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",ETV Bangla News
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ETV_Bangla_News/ETV_Bangla_News_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",G TV
-http://69.30.251.42:25461/live/data/ask/5199.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5199.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Gaan Bangla
-http://69.30.251.42:25461/live/data/ask/5200.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5200.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Independent TV
-http://69.30.251.42:25461/live/data/ask/5201.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5201.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",ITV
-http://69.30.251.42:25461/live/data/ask/5229.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5229.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Jalsha Movies HD
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Jalsa_Movies_HD/Jalsa_Movies_HD_1200.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Magic Bangla TV
-http://69.30.251.42:25461/live/data/ask/5203.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5203.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Masranga TV
-http://69.30.251.42:25461/live/data/ask/5204.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5204.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Millennium TV
-http://69.30.251.42:25461/live/data/ask/5205.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5205.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Mohona TV
-http://69.30.251.42:25461/live/data/ask/5206.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5206.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Movie Bangla
-http://69.30.251.42:25461/live/data/ask/5249.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5249.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Music Bangla
-http://69.30.251.42:25461/live/data/ask/5207.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5207.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Music Fatafati
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Music_Fatafati/Music_Fatafati_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",My Cinema TV
-http://69.30.251.42:25461/live/data/ask/5189.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5189.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",My TV
-http://69.30.251.42:25461/live/data/ask/5214.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5214.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Nepal one
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nepal_one/Nepal_one_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",News 24 HD
-http://69.30.251.42:25461/live/data/ask/5228.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5228.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",News Time TV
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",NJ24 Bangla
-http://69.30.251.42:25461/live/data/ask/5227.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5227.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",NRB TV
-http://69.30.251.42:25461/live/data/ask/5208.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5208.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",NTV
-http://69.30.251.42:25461/live/data/ask/5209.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5209.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Probashi Bangla
-http://69.30.251.42:25461/live/data/ask/5226.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5226.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",R Plus
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/RPLUS/RPLUS_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Rang
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
 #EXTINF:0, group-title="Bangla",RTV
-http://69.30.251.42:25461/live/data/ask/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5212.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Ruposhi Bangla
-http://69.30.251.42:25461/live/data/ask/5213.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5213.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Sa TV
-http://69.30.251.42:25461/live/data/ask/5225.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5225.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Sangeet Bangla
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",SK Movies
-http://69.30.251.42:25461/live/data/ask/5223.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5223.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Solid Movie Bangla
-http://69.30.251.42:25461/live/data/ask/5247.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5247.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Somoy News TV
-http://69.30.251.42:25461/live/data/ask/5250.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5250.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Sony Aath
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Sony Bangla
@@ -1158,15 +1158,15 @@ http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/32212260
 #EXTINF:0, group-title="Bangla",Star Jalsha HD
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Star_Jalsha/Star_Jalsha_1200.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="Bangla",Star Jhalsa Movies
-http://69.30.251.42:25461/live/data/ask/5246.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5246.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Star Pravah
-http://69.30.251.42:25461/live/data/ask/5183.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5183.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Tara Muzik
-http://69.30.251.42:25461/live/data/ask/5245.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5245.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Time Television
-http://69.30.251.42:25461/live/data/ask/5243.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5243.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",TV Asia
-http://69.30.251.42:25461/live/data/ask/5224.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5224.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Bangla",Zee 24 Taas
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
 #EXTINF:0, group-title="Bangla",Zee Bangla
@@ -1503,13 +1503,13 @@ http://130.185.144.63:8000/live/indian/indian/493.ts
 #EXTINF:0, group-title="International",Zoom UK 
 http://130.185.144.63:8000/live/indian/indian/492.ts
 #EXTINF:0, group-title="Pakistani",24 Channel HD
-http://69.30.251.42:25461/live/data/ask/4350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",7 News HD
-http://69.30.251.42:25461/live/data/ask/4383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4383.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",8XM HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
 #EXTINF:0, group-title="Pakistani",92 News HD
-http://69.30.251.42:25461/live/data/ask/4352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",A Plus
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
 #EXTINF:0, group-title="Pakistani",Aaj Entertainment
@@ -1517,7 +1517,7 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
 #EXTINF:0, group-title="Pakistani",Aaj News
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
 #EXTINF:0, group-title="Pakistani",Abb Tak
-http://69.30.251.42:25461/live/data/ask/4353.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4353.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Afghan
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/64.m3u8
 #EXTINF:0, group-title="Pakistani",Apna Channel
@@ -1525,113 +1525,113 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/60.m3u8
 #EXTINF:0, group-title="Pakistani",Aruj
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/25.m3u8
 #EXTINF:0, group-title="Pakistani",Ary Digital
-http://69.30.251.42:25461/live/data/ask/4316.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4316.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ary Digital World
-http://69.30.251.42:25461/live/data/ask/4321.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4321.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ary Music
-http://69.30.251.42:25461/live/data/ask/4371.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4371.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ary News
-http://69.30.251.42:25461/live/data/ask/4343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ary News World
-http://69.30.251.42:25461/live/data/ask/4342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ary Zauq
-http://69.30.251.42:25461/live/data/ask/4378.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4378.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ary Zindagi
-http://69.30.251.42:25461/live/data/ask/4323.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4323.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",As Movies
-http://69.30.251.42:25461/live/data/ask/4431.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4431.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",ATV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
 #EXTINF:0, group-title="Pakistani",Awami Awaz TV
-http://69.30.251.42:25461/live/data/ask/4413.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4413.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Awaz
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
 #EXTINF:0, group-title="Pakistani",Barkat TV
-http://69.30.251.42:25461/live/data/ask/4430.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4430.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Bol News HD
-http://69.30.251.42:25461/live/data/ask/4338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Business Plus
-http://69.30.251.42:25461/live/data/ask/4356.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4356.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Canada One
-http://69.30.251.42:25461/live/data/ask/4660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Channel 5
-http://69.30.251.42:25461/live/data/ask/4348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",City 41 News
-http://69.30.251.42:25461/live/data/ask/4426.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4426.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",City 42 News
-http://69.30.251.42:25461/live/data/ask/4427.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4427.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Desi TV USA
-http://69.30.251.42:25461/live/data/ask/4385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4385.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Dhanak TV
-http://69.30.251.42:25461/live/data/ask/4376.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4376.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Dhanka TV
-http://69.30.251.42:25461/live/data/ask/4386.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4386.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Dharti TV
-http://69.30.251.42:25461/live/data/ask/5096.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5096.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Din News
-http://69.30.251.42:25461/live/data/ask/4384.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4384.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",DTV News
-http://69.30.251.42:25461/live/data/ask/4401.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4401.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Dunya News
-http://69.30.251.42:25461/live/data/ask/4340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Dunya TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
 #EXTINF:0, group-title="Pakistani",Ehtesab News
-http://69.30.251.42:25461/live/data/ask/4407.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4407.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Express Entertainment
-http://69.30.251.42:25461/live/data/ask/4324.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4324.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Express News
-http://69.30.251.42:25461/live/data/ask/4433.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4433.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Falak TV
-http://69.30.251.42:25461/live/data/ask/4408.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4408.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Film World
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
 #EXTINF:0, group-title="Pakistani",Filmasia
-http://69.30.251.42:25461/live/data/ask/4428.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4428.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Filmax
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
 #EXTINF:0, group-title="Pakistani",Filmazia
-http://69.30.251.42:25461/live/data/ask/4366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4366.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Filmazia HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/69.m3u8
 #EXTINF:0, group-title="Pakistani",Filmworld
-http://69.30.251.42:25461/live/data/ask/4364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4364.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Filmy Rhythm
-http://69.30.251.42:25461/live/data/ask/4429.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4429.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Geo Kahani
-http://69.30.251.42:25461/live/data/ask/4315.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4315.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Geo Kahani EU
-http://69.30.251.42:25461/live/data/ask/5097.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5097.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Geo News
-http://69.30.251.42:25461/live/data/ask/4345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Geo Super
-http://69.30.251.42:25461/live/data/ask/4806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Geo Tezz
-http://69.30.251.42:25461/live/data/ask/4346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Geo TV
-http://69.30.251.42:25461/live/data/ask/4313.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4313.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Hamara TV
-http://69.30.251.42:25461/live/data/ask/5098.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5098.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Hum News
-http://69.30.251.42:25461/live/data/ask/4359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4359.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Hum TV
-http://69.30.251.42:25461/live/data/ask/4309.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4309.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Hum TV EU
-http://69.30.251.42:25461/live/data/ask/4311.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4311.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Hum TV Sitary
-http://69.30.251.42:25461/live/data/ask/4312.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4312.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Hum TV World
-http://69.30.251.42:25461/live/data/ask/4310.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4310.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Humsab TV
-http://69.30.251.42:25461/live/data/ask/4358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4358.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Jalwa
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/62.m3u8
 #EXTINF:0, group-title="Pakistani",Joo Music
-http://69.30.251.42:25461/live/data/ask/4374.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4374.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",K21 News
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/23.m3u8
 #EXTINF:0, group-title="Pakistani",Kawish TV
-http://69.30.251.42:25461/live/data/ask/4389.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4389.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Kay2
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
 #EXTINF:0, group-title="Pakistani",Khyber News TV
@@ -1639,23 +1639,23 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
 #EXTINF:0, group-title="Pakistani",Khyber TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
 #EXTINF:0, group-title="Pakistani",Kohenoor
-http://69.30.251.42:25461/live/data/ask/4370.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4370.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",KTN
-http://69.30.251.42:25461/live/data/ask/4411.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4411.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Ktn News
-http://69.30.251.42:25461/live/data/ask/4412.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4412.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Lahore News HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
 #EXTINF:0, group-title="Pakistani",Masala TV
-http://69.30.251.42:25461/live/data/ask/4377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4377.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Mashriq TV
-http://69.30.251.42:25461/live/data/ask/4414.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4414.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Mehran TV
-http://69.30.251.42:25461/live/data/ask/4419.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4419.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Metro 1 News
-http://69.30.251.42:25461/live/data/ask/4400.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4400.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Mujra Masti
-http://69.30.251.42:25461/live/data/ask/4332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Neo News HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
 #EXTINF:0, group-title="Pakistani",News 7
@@ -1663,75 +1663,75 @@ http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
 #EXTINF:0, group-title="Pakistani",News One
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/45.m3u8
 #EXTINF:0, group-title="Pakistani",News Pakistan
-http://69.30.251.42:25461/live/data/ask/4420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4420.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Noor Jahan Songs
-http://69.30.251.42:25461/live/data/ask/4369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Oxygene
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/56.m3u8
 #EXTINF:0, group-title="Pakistani",Pashto 1
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/29.m3u8
 #EXTINF:0, group-title="Pakistani",Play Entertainment
-http://69.30.251.42:25461/live/data/ask/4422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4422.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Prime TV
-http://69.30.251.42:25461/live/data/ask/4335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",PTV Global
-http://69.30.251.42:25461/live/data/ask/4336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",PTV Home
-http://69.30.251.42:25461/live/data/ask/5100.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/5100.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",PTV National
-http://69.30.251.42:25461/live/data/ask/4395.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4395.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",PTV News
-http://69.30.251.42:25461/live/data/ask/4396.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4396.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",PTV World
-http://69.30.251.42:25461/live/data/ask/4397.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4397.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Punjab TV
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/35.m3u8
 #EXTINF:0, group-title="Pakistani",Raavi TV
-http://69.30.251.42:25461/live/data/ask/4404.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4404.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Roze News
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/82.m3u8
 #EXTINF:0, group-title="Pakistani",Samaa TV
-http://69.30.251.42:25461/live/data/ask/4349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",See TV HD
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/79.m3u8
 #EXTINF:0, group-title="Pakistani",Silver Screen
-http://69.30.251.42:25461/live/data/ask/4423.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4423.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Sindh News
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/15.m3u8
 #EXTINF:0, group-title="Pakistani",Star Asia News
-http://69.30.251.42:25461/live/data/ask/4380.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4380.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Starlite
-http://69.30.251.42:25461/live/data/ask/4368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4368.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Such
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/33.m3u8
 #EXTINF:0, group-title="Pakistani",Times TV
-http://69.30.251.42:25461/live/data/ask/4432.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4432.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Toronto 360 HD
-http://69.30.251.42:25461/live/data/ask/4327.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4327.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",TV One
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
 #EXTINF:0, group-title="Pakistani",Uk 44
-http://69.30.251.42:25461/live/data/ask/4424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Urdu 1 EU
-http://69.30.251.42:25461/live/data/ask/4410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4410.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Urdu 1 HD
-http://69.30.251.42:25461/live/data/ask/4325.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4325.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Urdu TV Toronto
-http://69.30.251.42:25461/live/data/ask/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Venus TV
-http://69.30.251.42:25461/live/data/ask/4434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Vibe TV
-http://69.30.251.42:25461/live/data/ask/4425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4425.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",VSH News
-http://69.30.251.42:25461/live/data/ask/4405.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4405.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Waqt News
-http://69.30.251.42:25461/live/data/ask/4357.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4357.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Waseb
 http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
 #EXTINF:0, group-title="Pakistani",Zaiqa
-http://69.30.251.42:25461/live/data/ask/4379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4379.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",Zindagi TV
-http://69.30.251.42:25461/live/data/ask/4403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://69.197.135.178:25461live/data/ask/4403.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="South Indian",Anand Media HD
 http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
 #EXTINF:0, group-title="South Indian",Asianet  ME
