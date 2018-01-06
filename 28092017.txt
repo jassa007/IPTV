@@ -59,6 +59,8 @@ http://130.185.144.63:8000/live/indian/indian/140.ts
 #EXTINF:0, group-title="Indian",B4u Music
 http://130.185.144.63:8000/live/indian/indian/156.ts
 #EXTINF:0, group-title="Indian",Bhakti Sagar
+EXTINF:0, group-title=""Indian",BBO HD 
+http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 http://streamxcode.ddns.net:25461/live/data/ask/4620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Bharat Samachar News
 http://streamxcode.ddns.net:25461/live/data/ask/4596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
@@ -787,8 +789,7 @@ http://streamxcode.ddns.net:25461/live/data/ask/5154.ts|refferer=http://solidstr
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood
 http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood 
-http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
+#
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Punjabi",Channel Y
