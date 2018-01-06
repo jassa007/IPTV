@@ -789,7 +789,6 @@ http://streamxcode.ddns.net:25461/live/data/ask/5154.ts|refferer=http://solidstr
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood
 http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
 #EXTINF:0, group-title="Punjabi",Channel Y
@@ -808,7 +807,7 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",E9 Punjabi
 http://streamxcode.ddns.net:25461/live/data/ask/5141.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Punjabi",Etc α Punjabi
+#EXTINF:0, group-title="Punjabi",Etc Punjabi
 http://130.185.144.63:8000/live/indian/indian/171.ts
 #EXTINF:0, group-title="Punjabi",Fateh TV
 http://streamxcode.ddns.net:25461/live/data/ask/5155.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
