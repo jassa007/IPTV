@@ -745,20 +745,20 @@ http://streamxcode.ddns.net:25461/live/data/ask/4403.ts|refferer=http://solidstr
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",9x Tashan
 http://130.185.144.63:8000/live/indian/indian/175.ts
-#EXTINF:0, group-title="Punjabi",Akkal
+#EXTINF:0, group-title="Punjabi",Akaal
 http://130.185.144.63:8000/live/indian/indian/183.ts
 #EXTINF:0, group-title="Punjabi",Alpha etc Punjabi
 #EXTINF:0, group-title="Punjabi",Ankhila Punjab
 http://streamxcode.ddns.net:25461/live/data/ask/5119.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Aone Music
-http://streamxcode.ddns.net:25461/live/data/ask/5142.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi
-http://streamxcode.ddns.net:25461/live/data/ask/5154.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+http://live.wmncdn.net/abr/797ce155156c55b75be98e9a764cefb7.m3u8
 #EXTINF:0, group-title="Punjabi",BnB
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
-EXTINF:0, group-title=""Punjabi",Boogle Bollywood HD
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood HD
 http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Channel Y
 http://streamxcode.ddns.net:25461/live/data/ask/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
@@ -780,7 +780,7 @@ http://streamxcode.ddns.net:25461/live/data/ask/5141.ts|refferer=http://solidstr
 http://130.185.144.63:8000/live/indian/indian/171.ts
 #EXTINF:0, group-title="Punjabi",Fateh TV
 http://streamxcode.ddns.net:25461/live/data/ask/5155.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Punjabi",Garv Punjabi
+#EXTINF:0, group-title="Punjabi",Garv Punjab
 http://streamxcode.ddns.net:25461/live/data/ask/5161.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",BBC Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
