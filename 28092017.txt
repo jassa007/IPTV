@@ -1,6 +1,4 @@
- ME#EXTM3U
-
-
+#EXTM3U
 
 #EXTINF:0, group-title="Indian",& Picture HD
 http://130.185.144.63:8000/live/indian/indian/823.ts
