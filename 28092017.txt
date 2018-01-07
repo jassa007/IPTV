@@ -1,4 +1,4 @@
-#EXTM3U
+ ME#EXTM3U
 
 
 
@@ -6,12 +6,10 @@
 http://130.185.144.63:8000/live/indian/indian/823.ts
 #EXTINF:0, group-title="Indian",& Pictures HD
 http://streamxcode.ddns.net:25461/live/data/ask/4537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",& TV
+#EXTINF:0, group-title="Indian",& TV ME
 http://130.185.144.63:8000/live/indian/indian/494.ts
 #EXTINF:0, group-title="Indian",& TV HD
 http://130.185.144.63:8000/live/indian/indian/141.ts
-#EXTINF:0, group-title="Indian",& TV ME
-http://streamxcode.ddns.net:25461/live/data/ask/4485.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",& TV UK
 http://streamxcode.ddns.net:25461/live/data/ask/4486.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",1st India News
@@ -20,24 +18,18 @@ http://130.185.144.63:8000/live/indian/indian/1122.ts
 http://130.185.144.63:8000/live/indian/indian/165.ts
 #EXTINF:0, group-title="Indian",9X Jalwa
 http://streamxcode.ddns.net:25461/live/data/ask/4575.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",9x Jalwa-1
+#EXTINF:0, group-title="Indian",9x Jalwa
 http://130.185.144.63:8000/live/indian/indian/159.ts
-#EXTINF:0, group-title="Indian",9x Jalwa-2
-http://130.185.144.63:8000/live/indian/indian/495.ts
 #EXTINF:0, group-title="Indian",9x Jhakass
 http://130.185.144.63:8000/live/indian/indian/158.ts
-#EXTINF:0, group-title="Indian",9x Music
-http://130.185.144.63:8000/live/indian/indian/157.ts
 #EXTINF:0, group-title="Indian",9xm
-http://130.185.144.63:8000/live/indian/indian/5307.ts
+http://130.185.144.63:8000/live/indian/indian/157.ts
 #EXTINF:0, group-title="Indian",Aaj Tak
 http://130.185.144.63:8000/live/indian/indian/134.ts
-#EXTINF:0, group-title="Indian",Aaj Tak News
-http://streamxcode.ddns.net:25461/live/data/ask/4599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Aaj Tak UK
+#EXTINF:0, group-title="Indian",Delhi Aajtak
+http://streamxcode.ddns.net:25461/live/data/ask/4594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Pakistani",Aaj News UK
 http://streamxcode.ddns.net:25461/live/data/ask/4600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Aap Ka Colors
-http://streamxcode.ddns.net:25461/live/data/ask/4564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Aastha Bhajan
 http://130.185.144.63:8000/live/indian/indian/167.ts
 #EXTINF:0, group-title="Indian",Aastha TV
@@ -56,12 +48,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/4597.ts|refferer=http://solidstr
 http://streamxcode.ddns.net:25461/live/data/ask/4621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",B4u Movies
 http://130.185.144.63:8000/live/indian/indian/140.ts
-#EXTINF:0, group-title="Indian",B4u Music
+#EXTINF:0, group-title="Indian",B4U Music
 http://130.185.144.63:8000/live/indian/indian/156.ts
-#EXTINF:0, group-title="Indian",Bhakti Sagar
-EXTINF:0, group-title=""Indian",BBO HD 
-http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
-http://streamxcode.ddns.net:25461/live/data/ask/4620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",BBO HD
+http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Bharat Samachar News
 http://streamxcode.ddns.net:25461/live/data/ask/4596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Bhojpuri Cinema
@@ -76,22 +66,16 @@ http://130.185.144.63:8000/live/indian/indian/163.ts
 http://130.185.144.63:8000/live/indian/indian/756.ts
 #EXTINF:0, group-title="Indian",Cinema TV
 http://streamxcode.ddns.net:25461/live/data/ask/4550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",CNBC Awaz
+#EXTINF:0, group-title="Indian",CNBC Awaaz
 http://130.185.144.63:8000/live/indian/indian/1126.ts
-#EXTINF:0, group-title="Indian",CNBC Awaz News
-http://streamxcode.ddns.net:25461/live/data/ask/4595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",CNBC Prime TV18
-http://130.185.144.63:8000/live/indian/indian/1127.ts
-#EXTINF:0, group-title="Indian",CNBC Prime TV18 News
-http://streamxcode.ddns.net:25461/live/data/ask/4602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",CNBC TV18
 http://130.185.144.63:8000/live/indian/indian/1128.ts
-#EXTINF:0, group-title="Indian",CNBC TV18 News
-http://streamxcode.ddns.net:25461/live/data/ask/4601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",CNBC TV18 Prime HD
 http://streamxcode.ddns.net:25461/live/data/ask/5090.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",CNN IBN News
 http://130.185.144.63:8000/live/indian/indian/1129.ts
+#EXTINF:0, group-title="Indian",Aap Ka Colors
+http://streamxcode.ddns.net:25461/live/data/ask/4564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Colors
 http://130.185.144.63:8000/live/indian/indian/121.ts
 #EXTINF:0, group-title="Indian",Colors Apac
@@ -126,10 +110,6 @@ http://streamxcode.ddns.net:25461/live/data/ask/5046.ts|refferer=http://solidstr
 http://streamxcode.ddns.net:25461/live/data/ask/4562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",DD Urdu
 http://streamxcode.ddns.net:25461/live/data/ask/4637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Delhi Aajtak News
-http://streamxcode.ddns.net:25461/live/data/ask/4594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Desi Beats
-http://streamxcode.ddns.net:25461/live/data/ask/4563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Dhamaal TV
 http://streamxcode.ddns.net:25461/live/data/ask/4556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Dillagi
@@ -144,7 +124,7 @@ http://streamxcode.ddns.net:25461/live/data/ask/4641.ts|refferer=http://solidstr
 http://130.185.144.63:8000/live/indian/indian/144.ts
 #EXTINF:0, group-title="Indian",Divya TV
 http://streamxcode.ddns.net:25461/live/data/ask/5112.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Dsports HD
+#EXTINF:0, group-title="Indian",D Sports HD
 http://streamxcode.ddns.net:25461/live/data/ask/5047.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",E24
 http://130.185.144.63:8000/live/indian/indian/1136.ts
@@ -160,11 +140,11 @@ http://130.185.144.63:8000/live/indian/indian/1140.ts
 http://130.185.144.63:8000/live/indian/indian/1138.ts
 #EXTINF:0, group-title="Indian",Etv Haryana
 http://streamxcode.ddns.net:25461/live/data/ask/4579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Etv MP
+#EXTINF:0, group-title="Indian",Etv AP
 http://130.185.144.63:8000/live/indian/indian/1139.ts
 #EXTINF:0, group-title="Indian",Etv MP News
 http://streamxcode.ddns.net:25461/live/data/ask/4578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",Etv Now
+#EXTINF:0, group-title="Indian",ET Now
 http://130.185.144.63:8000/live/indian/indian/497.ts
 #EXTINF:0, group-title="Indian",Etv Rajasthan
 http://streamxcode.ddns.net:25461/live/data/ask/4577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
@@ -176,15 +156,13 @@ http://streamxcode.ddns.net:25461/live/data/ask/4576.ts|refferer=http://solidstr
 http://130.185.144.63:8000/live/indian/indian/1142.ts
 #EXTINF:0, group-title="Indian",Food Food
 http://130.185.144.63:8000/live/indian/indian/166.ts
-#EXTINF:0, group-title="Indian",Food Network
-http://130.185.144.63:8000/live/indian/indian/491.ts
 #EXTINF:0, group-title="Indian",Fyi TV18 HD
 http://streamxcode.ddns.net:25461/live/data/ask/4625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Green TV
 http://streamxcode.ddns.net:25461/live/data/ask/5107.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",History 18 HD
+#EXTINF:0, group-title="Indian",History HD
 http://streamxcode.ddns.net:25461/live/data/ask/5091.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",History 18 HD Hindi
+#EXTINF:0, group-title="Indian",History HD (Hindi)
 http://streamxcode.ddns.net:25461/live/data/ask/4643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Home Shop 18
 http://streamxcode.ddns.net:25461/live/data/ask/5108.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
@@ -192,22 +170,14 @@ http://streamxcode.ddns.net:25461/live/data/ask/5108.ts|refferer=http://solidstr
 http://streamxcode.ddns.net:25461/live/data/ask/4645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Housefull Movies
 http://streamxcode.ddns.net:25461/live/data/ask/4646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",IBN 7
+#EXTINF:0, group-title="Indian",News 18 India
 http://130.185.144.63:8000/live/indian/indian/499.ts
-#EXTINF:0, group-title="Indian",IBN 7 News
-http://streamxcode.ddns.net:25461/live/data/ask/4593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Indian",IBN Lokmat
+#EXTINF:0, group-title="Indian",News 18 Lokmat
 http://130.185.144.63:8000/live/indian/indian/498.ts
-#EXTINF:0, group-title="Indian",IBN Lokmat News
-http://streamxcode.ddns.net:25461/live/data/ask/4592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",India Today
 http://130.185.144.63:8000/live/indian/indian/496.ts
-#EXTINF:0, group-title="Indian",India Today News
-http://streamxcode.ddns.net:25461/live/data/ask/4612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",India TV
 http://130.185.144.63:8000/live/indian/indian/184.ts
-#EXTINF:0, group-title="Indian",India TV News
-http://streamxcode.ddns.net:25461/live/data/ask/4591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Invest Discovery Hindi
 http://streamxcode.ddns.net:25461/live/data/ask/4649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Indian",Ishwar TV
@@ -787,10 +757,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/5142.ts|refferer=http://solidstr
 http://streamxcode.ddns.net:25461/live/data/ask/5154.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",BnB
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood
-http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",BritAsia
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
+EXTINF:0, group-title=""Punjabi",Boogle Bollywood HD
+http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Channel Y
 http://streamxcode.ddns.net:25461/live/data/ask/5157.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
