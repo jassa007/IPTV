@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 
 #EXTINF:0, group-title="English",Al Jazeera
 http://thoptv.stream/jiotv/live/play?AL_Jazeera/AL_Jazeera_800.m3u8
