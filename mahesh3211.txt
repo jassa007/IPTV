@@ -1,1066 +1,535 @@
 #EXTM3U
 
-#EXTINF:0, group-title="English",Al Jazeera
-http://thoptv.stream/jiotv/live/play?AL_Jazeera/AL_Jazeera_800.m3u8
-#EXTINF:0, group-title="English",Animal Planet (Eng)
-http://thoptv.stream/jiotv/live/play?Animal_Planet_English/Animal_Planet_English_800.m3u8
-#EXTINF:0, group-title="English",Animal Planet HD World
-http://thoptv.stream/jiotv/live/play?Animal_Planet_HD/Animal_Planet_HD_1200.m3u8
-#EXTINF:0, group-title="English",Arre
-http://thoptv.stream/jiotv/live/play?Arre/Arre_800.m3u8
-#EXTINF:0, group-title="English",AXN HD
-http://thoptv.stream/jiotv/live/play?AXN_HD/AXN_HD_1200.m3u8
-#EXTINF:0, group-title="English",BBC World News
-http://thoptv.stream/jiotv/live/play?BBC_World_News/BBC_World_News_800.m3u8
-#EXTINF:0, group-title="English",Brilliant Living TV
-http://thoptv.stream/jiotv/live/play?Brilliant_TV_English/Brilliant_TV_English_800.m3u8
-#EXTINF:0, group-title="English",BTVi
-http://thoptv.stream/jiotv/live/play?BTVi/BTVi_800.m3u8
-#EXTINF:0, group-title="English",CNBC TV18
-http://thoptv.stream/jiotv/live/play?CNBC_Tv_18/CNBC_Tv_18_800.m3u8
-#EXTINF:0, group-title="English",CNBC TV18 Prime HD
-http://thoptv.stream/jiotv/live/play?CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_1200.m3u8
-#EXTINF:0, group-title="English",CNN
-http://thoptv.stream/jiotv/live/play?CNN/CNN_800.m3u8
-#EXTINF:0, group-title="English",CNN News 18
-http://thoptv.stream/jiotv/live/play?CNN_NEWS_18/CNN_NEWS_18_800.m3u8
-#EXTINF:0, group-title="English",CVR
-http://thoptv.stream/jiotv/live/play?CVR_English/CVR_English_800.m3u8
-#EXTINF:0, group-title="English",Deutshe Welle
-http://thoptv.stream/jiotv/live/play?dw/dw_800.m3u8
-#EXTINF:0, group-title="English",Discovery
-http://thoptv.stream/jiotv/live/play?Discovery/Discovery_800.m3u8
-#EXTINF:0, group-title="English",Discovery HD World
-http://thoptv.stream/jiotv/live/play?Discovery_HD_World/Discovery_HD_World_1200.m3u8
-#EXTINF:0, group-title="English",Discovery Kids 1
-http://thoptv.stream/jiotv/live/play?Discovery_Kids_1/Discovery_Kids_1_800.m3u8
-#EXTINF:0, group-title="English",Discovery Science
-http://thoptv.stream/jiotv/live/play?Discovery_Science/Discovery_Science_800.m3u8
-#EXTINF:0, group-title="English",Discovery Turbo
-http://thoptv.stream/jiotv/live/play?Discovery_Turbo/Discovery_Turbo_800.m3u8
-#EXTINF:0, group-title="English",DSports HD
-http://thoptv.stream/jiotv/live/play?Dsports_HD/Dsports_HD_1200.m3u8
-#EXTINF:0, group-title="English",ET Now
-http://thoptv.stream/jiotv/live/play?ET_Now/ET_Now_800.m3u8
-#EXTINF:0, group-title="English",Euro News
-http://thoptv.stream/jiotv/live/play?Euro_News/Euro_News_800.m3u8
-#EXTINF:0, group-title="English",France 24
-http://thoptv.stream/jiotv/live/play?France_24/France_24_800.m3u8
-#EXTINF:0, group-title="English",fyi, TV18 HD
-http://thoptv.stream/jiotv/live/play?FYI_TV18/FYI_TV18_1200.m3u8
-#EXTINF:0, group-title="English",Good News Channel
-http://thoptv.stream/jiotv/live/play?GoodNews_Channel/GoodNews_Channel_800.m3u8
-#EXTINF:0, group-title="English",HBO HD
-http://thoptv.stream/jiotv/live/play?HBO_HD/HBO_HD_1200.m3u8
-#EXTINF:0, group-title="English",History HD
-http://thoptv.stream/jiotv/live/play?History_HD/History_HD_1200.m3u8
-#EXTINF:0, group-title="English",India Today
-http://thoptv.stream/jiotv/live/play?India_Today/India_Today_800.m3u8
-#EXTINF:0, group-title="English",Insight
-http://thoptv.stream/jiotv/live/play?Insight/Insight_800.m3u8
-#EXTINF:0, group-title="English",Jio Events
-http://thoptv.stream/jiotv/live/play?Jio_Events/Jio_Events_800.m3u8
-#EXTINF:0, group-title="English",Jio Sports
-http://thoptv.stream/jiotv/live/play?Jio_Sports/Jio_Sports_800.m3u8
-#EXTINF:0, group-title="English",Living Foodz
-http://thoptv.stream/jiotv/live/play?Living_Foodz/Living_Foodz_800.m3u8
-#EXTINF:0, group-title="English",Millionlights
-http://thoptv.stream/jiotv/live/play?Millionlights/Millionlights_800.m3u8
-#EXTINF:0, group-title="English",Mirror Now
-http://thoptv.stream/jiotv/live/play?Magic_bricks_Now/Magic_bricks_Now_800.m3u8
-#EXTINF:0, group-title="English",MN+
-http://thoptv.stream/jiotv/live/play?MNPLUS/MNPLUS_800.m3u8
-#EXTINF:0, group-title="English",MNX
-http://thoptv.stream/jiotv/live/play?Movies_Now2/Movies_Now2_800.m3u8
-#EXTINF:0, group-title="English",MNX HD
-http://thoptv.stream/jiotv/live/play?Movies_Now2_HD/Movies_Now2_HD_1200.m3u8
-#EXTINF:0, group-title="English",Movies Now HD
-http://thoptv.stream/jiotv/live/play?Movies_Now_HD/Movies_Now_HD_1200.m3u8
-#EXTINF:0, group-title="English",NDTV 24x7
-http://thoptv.stream/jiotv/live/play?NDTV_24x7/NDTV_24x7_800.m3u8
-#EXTINF:0, group-title="English",NDTV Good Times
-http://thoptv.stream/jiotv/live/play?NDTV_Good_Times/NDTV_Good_Times_800.m3u8
-#EXTINF:0, group-title="English",NDTV Profit
-http://thoptv.stream/jiotv/live/play?NDTV_Profit/NDTV_Profit_800.m3u8
-#EXTINF:0, group-title="English",Neo Prime
-http://thoptv.stream/jiotv/live/play?Neo_Prime/Neo_Prime_800.m3u8
-#EXTINF:0, group-title="English",Neo Sports
-http://thoptv.stream/jiotv/live/play?Neo_Sports/Neo_Sports_800.m3u8
-#EXTINF:0, group-title="English",News 9
-http://thoptv.stream/jiotv/live/play?News_9/News_9_800.m3u8
-#EXTINF:0, group-title="English",News Asia 
-http://thoptv.stream/jiotv/live/play?Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
-#EXTINF:0, group-title="English",News X
-http://thoptv.stream/jiotv/live/play?News_X/News_X_800.m3u8
-#EXTINF:0, group-title="English",Nick (Eng)
-http://thoptv.stream/jiotv/live/play?Nickelodeon/Nickelodeon_800.m3u8
-#EXTINF:0, group-title="English",Nick Jr.
-http://thoptv.stream/jiotv/live/play?Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
-#EXTINF:0, group-title="English",Republic TV
-http://thoptv.stream/jiotv/live/play?Republic_TV/Republic_TV_800.m3u8
-#EXTINF:0, group-title="English",Romedy Now HD
-http://thoptv.stream/jiotv/live/play?Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
-#EXTINF:0, group-title="English",Nick Sonic
-http://thoptv.stream/jiotv/live/play?Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
-#EXTINF:0, group-title="English",Sony BBC Earth 
-http://thoptv.stream/jiotv/live/play?Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
-#EXTINF:0, group-title="English",Sony BBC Earth HD (Eng)
-http://thoptv.stream/jiotv/live/play?Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_1200.m3u8
-#EXTINF:0, group-title="English",Sony ESPN
-http://thoptv.stream/jiotv/live/play?Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
-#EXTINF:0, group-title="English",Sony ESPN HD
-http://thoptv.stream/jiotv/live/play?Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Le PLEX HD
-http://thoptv.stream/jiotv/live/play?Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Pix HD
-http://thoptv.stream/jiotv/live/play?Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Six (Hindi)
-http://thoptv.stream/jiotv/live/play?Sony_Six_SD/Sony_Six_SD_800.m3u8
-#EXTINF:0, group-title="English",Sony Six HD
-http://thoptv.stream/jiotv/live/play?Six_HD/Six_HD_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports HD 1
-http://thoptv.stream/jiotv/live/play?Star_Sports_HD_1/Star_Sports_HD_1_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports HD 2
-http://thoptv.stream/jiotv/live/play?Star_Sports_HD_2/Star_Sports_HD_2_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports Select HD 1
-http://thoptv.stream/jiotv/live/play?Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports Select HD 2
-http://thoptv.stream/jiotv/live/play?Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten 1
-http://thoptv.stream/jiotv/live/play?Ten_1/Ten_1_800.m3u8
-#EXTINF:0, group-title="English",Sony Ten 1 HD
-http://thoptv.stream/jiotv/live/play?Ten_HD/Ten_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten 2
-http://thoptv.stream/jiotv/live/play?Ten_2/Ten_2_800.m3u8
-#EXTINF:0, group-title="English",Sony Ten 2 HD
-http://thoptv.stream/jiotv/live/play?Ten2_HD/Ten2_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten 3
-http://thoptv.stream/jiotv/live/play?Ten_3/Ten_3_800.m3u8
-#EXTINF:0, group-title="English",Sony Ten 3 HD
-http://thoptv.stream/jiotv/live/play?Ten3_HD/Ten3_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten Golf HD
-http://thoptv.stream/jiotv/live/play?Ten_Golf_HD/Ten_Golf_HD_1200.m3u8
-#EXTINF:0, group-title="English",Times Now
-http://thoptv.stream/jiotv/live/play?Times_NOW/Times_NOW_800.m3u8
-#EXTINF:0, group-title="English",Times Now HD
-http://thoptv.stream/jiotv/live/play?Times_Now_HD/Times_Now_HD_1200.m3u8
-#EXTINF:0, group-title="English",TLC
-http://thoptv.stream/jiotv/live/play?TLC_English/TLC_English_800.m3u8
-#EXTINF:0, group-title="English",TLC HD World
-http://thoptv.stream/jiotv/live/play?TLC_HD_World/TLC_HD_World_1200.m3u8
-#EXTINF:0, group-title="English",Toonami
-http://thoptv.stream/jiotv/live/play?Toonami/Toonami_800.m3u8
-#EXTINF:0, group-title="English",Travel XP HD
-http://thoptv.stream/jiotv/live/play?Travel_XP_HD/Travel_XP_HD_1200.m3u8
-#EXTINF:0, group-title="English",TV 5 Monde Asie
-http://thoptv.stream/jiotv/live/play?TV_5_Monde/TV_5_Monde_800.m3u8
-#EXTINF:0, group-title="English",WB
-http://thoptv.stream/jiotv/live/play?WB/WB_800.m3u8
-#EXTINF:0, group-title="Hindi",& Pictures HD
-http://thoptv.stream/jiotv/live/play?And_Pictures_HD/And_Pictures_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",& TV HD
-http://thoptv.stream/jiotv/live/play?And_TV_HD/And_TV_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",9X Jalwa
-http://thoptv.stream/jiotv/live/play?9X_Jalwa/9X_Jalwa_800.m3u8
-#EXTINF:0, group-title="Hindi",9XM
-http://thoptv.stream/jiotv/live/play?9XM/9XM_800.m3u8
-#EXTINF:0, group-title="Hindi",A1 TV
-http://thoptv.stream/jiotv/live/play?A1_TV_Rajasthan/A1_TV_Rajasthan_800.m3u8
-#EXTINF:0, group-title="Hindi",Aaj Tak
-http://thoptv.stream/jiotv/live/play?Aaj_Tak/Aaj_Tak_800.m3u8
-#EXTINF:0, group-title="Hindi",Aastha
-http://thoptv.stream/jiotv/live/play?Aastha/Aastha_800.m3u8
-#EXTINF:0, group-title="Hindi",Aastha Bhajan
-http://thoptv.stream/jiotv/live/play?Aastha_Bhajan/Aastha_Bhajan_800.m3u8
-#EXTINF:0, group-title="Hindi",ABP News India
-http://thoptv.stream/jiotv/live/play?ABP_News_India/ABP_News_India_800.m3u8
-#EXTINF:0, group-title="Hindi",Adhyatam
-http://thoptv.stream/jiotv/live/play?Adhyatam/Adhyatam_800.m3u8
-#EXTINF:0, group-title="Hindi",Animal Planet (Hindi)
-http://thoptv.stream/jiotv/live/play?Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",APN News
-http://thoptv.stream/jiotv/live/play?APN_News/APN_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Arihant
-http://thoptv.stream/jiotv/live/play?Arihant_TV/Arihant_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",B4U Movies
-http://thoptv.stream/jiotv/live/play?B4U_Movies/B4U_Movies_800.m3u8
-#EXTINF:0, group-title="Hindi",B4U Music
-http://thoptv.stream/jiotv/live/play?B4U_Music/B4U_Music_800.m3u8
-#EXTINF:0, group-title="Hindi",Bhakti Sagar
-http://thoptv.stream/jiotv/live/play?Bhaktisagar_2/Bhaktisagar_2_800.m3u8
-#EXTINF:0, group-title="Hindi",Bharat Samachar
-http://thoptv.stream/jiotv/live/play?Bharat_Samachar/Bharat_Samachar_800.m3u8
-#EXTINF:0, group-title="Hindi",Brilliant Living TV
-http://thoptv.stream/jiotv/live/play?Brilliant_TV_Hindi/Brilliant_TV_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Care World
-http://thoptv.stream/jiotv/live/play?Care_World/Care_World_800.m3u8
-#EXTINF:0, group-title="Hindi",Cartoon Network (Hindi)
-http://thoptv.stream/jiotv/live/play?Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Channel One News
-http://thoptv.stream/jiotv/live/play?Channel_One_News/Channel_One_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Channel V HD
-http://thoptv.stream/jiotv/live/play?Channel_V/Channel_V_800.m3u8
-#EXTINF:0, group-title="Hindi",CNBC Awaaz
-http://thoptv.stream/jiotv/live/play?CNBC_Awaaz/CNBC_Awaaz_800.m3u8
-#EXTINF:0, group-title="Hindi",Colors HD
-http://thoptv.stream/jiotv/live/play?Colors_HD/Colors_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Dabangg
-http://thoptv.stream/jiotv/live/play?Dabangg/Dabangg_800.m3u8
-#EXTINF:0, group-title="Hindi",Darshan 24
-http://thoptv.stream/jiotv/live/play?Darshan_24/Darshan_24_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Bharati
-http://thoptv.stream/jiotv/live/play?DD_bharati/DD_bharati_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Bihar
-http://thoptv.stream/jiotv/live/play?DD_Bihar/DD_Bihar_800.m3u8
-#EXTINF:0, group-title="Hindi",DD India
-http://thoptv.stream/jiotv/live/play?DD_India/DD_India_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Kisan
-http://thoptv.stream/jiotv/live/play?DD_Kisan/DD_Kisan_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Lok Sabha
-http://thoptv.stream/jiotv/live/play?Loksabha_TV/Loksabha_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",DD MP
-http://thoptv.stream/jiotv/live/play?DD_Madhya_Pradesh/DD_Madhya_Pradesh_800.m3u8
-#EXTINF:0, group-title="Hindi",DD National
-http://thoptv.stream/jiotv/live/play?DD_National/DD_National_800.m3u8
-#EXTINF:0, group-title="Hindi",DD News
-http://thoptv.stream/jiotv/live/play?DD_News/DD_News_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Raj 
-http://thoptv.stream/jiotv/live/play?DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Rajya Sabha
-http://thoptv.stream/jiotv/live/play?DD_Rajyasabha/DD_Rajyasabha_800.m3u8
-#EXTINF:0, group-title="Hindi",DD Sports
-http://thoptv.stream/jiotv/live/play?DD_Sports/DD_Sports_800.m3u8
-#EXTINF:0, group-title="Hindi",DD UP
-http://thoptv.stream/jiotv/live/play?DD_Uttar_Pradesh/DD_Uttar_Pradesh_800.m3u8
-#EXTINF:0, group-title="Hindi",Delhi Aaj Tak
-http://thoptv.stream/jiotv/live/play?Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
-#EXTINF:0, group-title="Hindi",Dhamaal TV
-http://thoptv.stream/jiotv/live/play?Dhamaal_TV/Dhamaal_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Dillagi TV
-http://thoptv.stream/jiotv/live/play?Dillagi_TV/Dillagi_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Discovery Channel (Hindi)
-http://thoptv.stream/jiotv/live/play?Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Discovery Kids 2
-http://thoptv.stream/jiotv/live/play?Discovery_Kids_2/Discovery_Kids_2_800.m3u8
-#EXTINF:0, group-title="Hindi",Disha TV
-http://thoptv.stream/jiotv/live/play?Disha_tv/Disha_tv_800.m3u8
-#EXTINF:0, group-title="Hindi",Divya TV
-http://thoptv.stream/jiotv/live/play?Divya_TV/Divya_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",DNN
-http://thoptv.stream/jiotv/live/play?DNN/DNN_800.m3u8
-#EXTINF:0, group-title="Hindi",E 24
-http://thoptv.stream/jiotv/live/play?E_24/E_24_800.m3u8
-#EXTINF:0, group-title="Hindi",Enterr 10
-http://thoptv.stream/jiotv/live/play?Enterr_10/Enterr_10_800.m3u8
-#EXTINF:0, group-title="Hindi",Epic HD
-http://thoptv.stream/jiotv/live/play?Epic_HD/Epic_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",News18 PB HR HP
-http://thoptv.stream/jiotv/live/play?ETV_Haryana_and_HP_News/ETV_Haryana_and_HP_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Etv MP
-http://thoptv.stream/jiotv/live/play?ETV_MP/ETV_MP_800.m3u8
-#EXTINF:0, group-title="Hindi",Etv Raj
-http://thoptv.stream/jiotv/live/play?ETV_RAJASTHAN/ETV_RAJASTHAN_800.m3u8
-#EXTINF:0, group-title="Hindi",Etv UP UK
-http://thoptv.stream/jiotv/live/play?ETV_UP/ETV_UP_800.m3u8
-#EXTINF:0, group-title="Hindi",Ist India Raj
-http://thoptv.stream/jiotv/live/play?First_India_News/First_India_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Food Food
-http://thoptv.stream/jiotv/live/play?Food_Food/Food_Food_800.m3u8
-#EXTINF:0, group-title="Hindi",Green TV
-http://thoptv.stream/jiotv/live/play?Green_TV/Green_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Hare krsna
-http://thoptv.stream/jiotv/live/play?Harekrsna/Harekrsna_800.m3u8
-#EXTINF:0, group-title="Hindi",Hindi Khabar
-http://thoptv.stream/jiotv/live/play?Hindi_Khabar/Hindi_Khabar_800.m3u8
-#EXTINF:0, group-title="Hindi",History HD (Hindi)
-http://thoptv.stream/jiotv/live/play?History_18_Hindi/History_18_Hindi_1200.m3u8
-#EXTINF:0, group-title="Hindi",Home Shop 18
-http://thoptv.stream/jiotv/live/play?home_shop_18/home_shop_18_800.m3u8
-#EXTINF:0, group-title="Hindi",Housefull Action
-http://thoptv.stream/jiotv/live/play?Housefull_Action/Housefull_Action_800.m3u8
-#EXTINF:0, group-title="Hindi",Housefull Movies
-http://thoptv.stream/jiotv/live/play?Housefull_Movies/Housefull_Movies_800.m3u8
-#EXTINF:0, group-title="Hindi",IBC 24
-http://thoptv.stream/jiotv/live/play?IBC-24/IBC-24_800.m3u8
-#EXTINF:0, group-title="Hindi",ID
-http://thoptv.stream/jiotv/live/play?ID/ID_800.m3u8
-#EXTINF:0, group-title="Hindi",India News
-http://thoptv.stream/jiotv/live/play?India_news/India_news_800.m3u8
-#EXTINF:0, group-title="Hindi",India News HR
-http://thoptv.stream/jiotv/live/play?India_News_Haryana/India_News_Haryana_800.m3u8
-#EXTINF:0, group-title="Hindi",India News MP
-http://thoptv.stream/jiotv/live/play?India_News_MP/India_News_MP_800.m3u8
-#EXTINF:0, group-title="Hindi",India News Raj
-http://thoptv.stream/jiotv/live/play?India_News_Rajasthan/India_News_Rajasthan_800.m3u8
-#EXTINF:0, group-title="Hindi",India News UP
-http://thoptv.stream/jiotv/live/play?India_News_UP/India_News_UP_800.m3u8
-#EXTINF:0, group-title="Hindi",India TV
-http://thoptv.stream/jiotv/live/play?India_TV/India_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",India Voice
-http://thoptv.stream/jiotv/live/play?India_Voice/India_Voice_800.m3u8
-#EXTINF:0, group-title="Hindi",inh 24x7
-http://thoptv.stream/jiotv/live/play?INH_24x7/INH_24x7_800.m3u8
-#EXTINF:0, group-title="Hindi",Ishwar 
-http://thoptv.stream/jiotv/live/play?Ishwar_TV/Ishwar_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Jan TV
-http://thoptv.stream/jiotv/live/play?Jan_TV/Jan_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Janta TV
-http://thoptv.stream/jiotv/live/play?Janta_TV/Janta_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Jinvani
-http://thoptv.stream/jiotv/live/play?Jinvani_TV/Jinvani_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",JK 24x7 News
-http://thoptv.stream/jiotv/live/play?JK_24x7_News/JK_24x7_News_800.m3u8
-#EXTINF:0, group-title="Hindi",K News
-http://thoptv.stream/jiotv/live/play?K_News_India/K_News_India_800.m3u8
-#EXTINF:0, group-title="Hindi",Kashish News
-http://thoptv.stream/jiotv/live/play?Kashish_News/Kashish_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Katyayani
-http://thoptv.stream/jiotv/live/play?Katyayani/Katyayani_800.m3u8
-#EXTINF:0, group-title="Hindi",Khabar Fast
-http://thoptv.stream/jiotv/live/play?Khabar_Fast/Khabar_Fast_800.m3u8
-#EXTINF:0, group-title="Hindi",Live Today
-http://thoptv.stream/jiotv/live/play?Live_Today/Live_Today_800.m3u8
-#EXTINF:0, group-title="Hindi",Living India News
-http://thoptv.stream/jiotv/live/play?Living_India_News/Living_India_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Maha Cartoon TV
-http://thoptv.stream/jiotv/live/play?Maha_Cartoon/Maha_Cartoon_800.m3u8
-#EXTINF:0, group-title="Hindi",Maha Movie
-http://thoptv.stream/jiotv/live/play?Maha_Movies/Maha_Movies_800.m3u8
-#EXTINF:0, group-title="Hindi",Mastiii
-http://thoptv.stream/jiotv/live/play?Mastiii/Mastiii_800.m3u8
-#EXTINF:0, group-title="Hindi",mh1 News
-http://thoptv.stream/jiotv/live/play?Mh_One_News/Mh_One_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Movies OK HD
-http://thoptv.stream/jiotv/live/play?Movies_OK/Movies_OK_800.m3u8
-#EXTINF:0, group-title="Hindi",MTV
-http://thoptv.stream/jiotv/live/play?MTV/MTV_800.m3u8
-#EXTINF:0, group-title="Hindi",MTV Beats HD
-http://thoptv.stream/jiotv/live/play?MTV_Beats_HD/MTV_Beats_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Music India
-http://thoptv.stream/jiotv/live/play?Music_India/Music_India_800.m3u8
-#EXTINF:0, group-title="Hindi",Nation Live
-http://thoptv.stream/jiotv/live/play?Nation_Live_News/Nation_Live_News_800.m3u8
-#EXTINF:0, group-title="Hindi",National Voice UP UK
-http://thoptv.stream/jiotv/live/play?National_Voice/National_Voice_800.m3u8
-#EXTINF:0, group-title="Hindi",Navagraha
-http://thoptv.stream/jiotv/live/play?Navagraha/Navagraha_800.m3u8
-#EXTINF:0, group-title="Hindi",NDTV India
-http://thoptv.stream/jiotv/live/play?NDTV_India/NDTV_India_800.m3u8
-#EXTINF:0, group-title="Hindi",News 1 India
-http://thoptv.stream/jiotv/live/play?News_1_India/News_1_India_800.m3u8
-#EXTINF:0, group-title="Hindi",News 11
-http://thoptv.stream/jiotv/live/play?News11/News11_800.m3u8
-#EXTINF:0, group-title="Hindi",News 18 India
-http://thoptv.stream/jiotv/live/play?IBN_7/IBN_7_800.m3u8
-#EXTINF:0, group-title="Hindi",News 24
-http://thoptv.stream/jiotv/live/play?News_24/News_24_800.m3u8
-#EXTINF:0, group-title="Hindi",News India 24x7
-http://thoptv.stream/jiotv/live/play?News_India_24_X_7/News_India_24_X_7_800.m3u8
-#EXTINF:0, group-title="Hindi",News Nation
-http://thoptv.stream/jiotv/live/play?News_Nation/News_Nation_800.m3u8
-#EXTINF:0, group-title="Hindi",News State UK UP
-http://thoptv.stream/jiotv/live/play?News_State_UK_UP/News_State_UK_UP_800.m3u8
-#EXTINF:0, group-title="Hindi",News World India
-http://thoptv.stream/jiotv/live/play?News_World_India/News_World_India_800.m3u8
-#EXTINF:0, group-title="Hindi",Nick (Hindi)
-http://thoptv.stream/jiotv/live/play?Nick_Hindi/Nick_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Nick Jr (Hindi)
-http://thoptv.stream/jiotv/live/play?Nick_Junior/Nick_Junior_800.m3u8
-#EXTINF:0, group-title="Hindi",Om Shanti
-http://thoptv.stream/jiotv/live/play?Om_Shanti/Om_Shanti_800.m3u8
-#EXTINF:0, group-title="Hindi",Paras TV
-http://thoptv.stream/jiotv/live/play?Paras_tv/Paras_tv_800.m3u8
-#EXTINF:0, group-title="Hindi",Peace of Mind
-http://thoptv.stream/jiotv/live/play?Peace_of_Mind/Peace_of_Mind_800.m3u8
-#EXTINF:0, group-title="Hindi",Play My Play
-http://thoptv.stream/jiotv/live/play?PlayMyPlay/PlayMyPlay_800.m3u8
-#EXTINF:0, group-title="Hindi",Pogo (Hindi)
-http://thoptv.stream/jiotv/live/play?Pogo_Hindi/Pogo_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Prime News
-http://thoptv.stream/jiotv/live/play?Prime_News/Prime_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Prudent
-http://thoptv.stream/jiotv/live/play?PrudentHD/PrudentHD_800.m3u8
-#EXTINF:0, group-title="Hindi",Raj Pariwar TV
-http://thoptv.stream/jiotv/live/play?Raj_Pariwar/Raj_Pariwar_800.m3u8
-#EXTINF:0, group-title="Hindi",Rishtey
-http://thoptv.stream/jiotv/live/play?Rishtey/Rishtey_800.m3u8
-#EXTINF:0, group-title="Hindi",Rishtey Cineplex
-http://thoptv.stream/jiotv/live/play?Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
-#EXTINF:0, group-title="Hindi",Sadhna
-http://thoptv.stream/jiotv/live/play?Sadhna/Sadhna_800.m3u8
-#EXTINF:0, group-title="Hindi",Sadhna News Plus
-http://thoptv.stream/jiotv/live/play?Sadhna_News_Plus/Sadhna_News_Plus_800.m3u8
-#EXTINF:0, group-title="Hindi",Samay Bihar JH
-http://thoptv.stream/jiotv/live/play?Sahara_Samay_Bihar/Sahara_Samay_Bihar_800.m3u8
-#EXTINF:0, group-title="Hindi",Samay MP CG
-http://thoptv.stream/jiotv/live/play?SAHARA_SAMAY_MP/SAHARA_SAMAY_MP_800.m3u8
-#EXTINF:0, group-title="Hindi",Samay MH GJ
-http://thoptv.stream/jiotv/live/play?Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8
-#EXTINF:0, group-title="Hindi",Samay Rastriya
-http://thoptv.stream/jiotv/live/play?Sahara_Samay_Rastriya/Sahara_Samay_Rastriya_800.m3u8
-#EXTINF:0, group-title="Hindi",Samay UP UK
-http://thoptv.stream/jiotv/live/play?SAHARA_SAMAY_UP/SAHARA_SAMAY_UP_800.m3u8
-#EXTINF:0, group-title="Hindi",Samachar Plus UP UK
-http://thoptv.stream/jiotv/live/play?Samachar_Plus/Samachar_Plus_800.m3u8
-#EXTINF:0, group-title="Hindi",Samachar Plus Raj
-http://thoptv.stream/jiotv/live/play?Samachar_Plus_Rajasthan/Samachar_Plus_Rajasthan_800.m3u8
-#EXTINF:0, group-title="Hindi",Samay Raj HR NCR
-http://thoptv.stream/jiotv/live/play?Samay_Rajasthan/Samay_Rajasthan_800.m3u8
-#EXTINF:0, group-title="Hindi",Sanatan
-http://thoptv.stream/jiotv/live/play?Sanatan_TV/Sanatan_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Sanskar
-http://thoptv.stream/jiotv/live/play?Sanskar/Sanskar_800.m3u8
-#EXTINF:0, group-title="Hindi",Satsang
-http://thoptv.stream/jiotv/live/play?Satsang_TV/Satsang_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Shubhsanesh TV
-http://thoptv.stream/jiotv/live/play?Shubh_TV/Shubh_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Shubhsandesh
-http://thoptv.stream/jiotv/live/play?Shubhsandesh_TV/Shubhsandesh_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Nick Sonic (Hindi)
-http://thoptv.stream/jiotv/live/play?sonic_Hindi/sonic_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Sony BBC Earth HD
-http://thoptv.stream/jiotv/live/play?Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Sony TV HD
-http://thoptv.stream/jiotv/live/play?Sony_HD/Sony_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Sony MAX 2
-http://thoptv.stream/jiotv/live/play?Sony_MAX2/Sony_MAX2_800.m3u8
-#EXTINF:0, group-title="Hindi",Sony Max HD
-http://thoptv.stream/jiotv/live/play?Sony_Max_HD/Sony_Max_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Sony Mix
-http://thoptv.stream/jiotv/live/play?Sony_Mix/Sony_Mix_800.m3u8
-#EXTINF:0, group-title="Hindi",Sony Pal
-http://thoptv.stream/jiotv/live/play?Sony_Pal/Sony_Pal_800.m3u8
-#EXTINF:0, group-title="Hindi",Sony Rox HD
-http://thoptv.stream/jiotv/live/play?Sony_Rox_HD/Sony_Rox_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Sony Sab
-http://thoptv.stream/jiotv/live/play?Sony_SAB/Sony_SAB_800.m3u8
-#EXTINF:0, group-title="Hindi",Sony Sab HD
-http://thoptv.stream/jiotv/live/play?Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Sony Yay!
-http://thoptv.stream/jiotv/live/play?Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Star Bharat HD
-http://thoptv.stream/jiotv/live/play?Star_Bharat_HD/Star_Bharat_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Star Gold HD
-http://thoptv.stream/jiotv/live/play?Star_Gold_HD/Star_Gold_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Star Plus HD
-http://thoptv.stream/jiotv/live/play?Star_Plus_HD/Star_Plus_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Star Sports HD 3
-http://thoptv.stream/jiotv/live/play?Star_Sports_3/Star_Sports_3_1200.m3u8
-#EXTINF:0, group-title="Hindi",Star Utsav
-http://thoptv.stream/jiotv/live/play?Star_Utsav/Star_Utsav_800.m3u8
-#EXTINF:0, group-title="Hindi",Sudarshan TV
-http://thoptv.stream/jiotv/live/play?Sudarshan/Sudarshan_800.m3u8
-#EXTINF:0, group-title="Hindi",Swaraj Express
-http://thoptv.stream/jiotv/live/play?SMBC_TV/SMBC_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Taaza TV
-http://thoptv.stream/jiotv/live/play?Taaza_TV/Taaza_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Tez
-http://thoptv.stream/jiotv/live/play?Tez/Tez_800.m3u8
-#EXTINF:0, group-title="Hindi",TLC Hindi
-http://thoptv.stream/jiotv/live/play?TLC_Hindi/TLC_Hindi_800.m3u8
-#EXTINF:0, group-title="Hindi",Total TV
-http://thoptv.stream/jiotv/live/play?Total_TV/Total_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",Travel XP HD
-http://thoptv.stream/jiotv/live/play?Travel_XP_HD/Travel_XP_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",TV 100
-http://thoptv.stream/jiotv/live/play?TV_100/TV_100_800.m3u8
-#EXTINF:0, group-title="Hindi",Vedic
-http://thoptv.stream/jiotv/live/play?Vedic_TV/Vedic_TV_800.m3u8
-#EXTINF:0, group-title="Hindi",VIP News
-http://thoptv.stream/jiotv/live/play?VIP_News/VIP_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Action
-http://thoptv.stream/jiotv/live/play?Zee_Action/Zee_Action_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Anmol
-http://thoptv.stream/jiotv/live/play?Zee_Anmol/Zee_Anmol_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Business
-http://thoptv.stream/jiotv/live/play?Zee_Business/Zee_Business_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Cinema
-http://thoptv.stream/jiotv/live/play?Zee_Cinema/Zee_Cinema_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Cinema HD
-http://thoptv.stream/jiotv/live/play?Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Zee Classic
-http://thoptv.stream/jiotv/live/play?Zee_Classic/Zee_Classic_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee etc
-http://thoptv.stream/jiotv/live/play?etc/etc_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Hindustan
-http://thoptv.stream/jiotv/live/play?Zee_SANGAM/Zee_SANGAM_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee News
-http://thoptv.stream/jiotv/live/play?Zee_News/Zee_News_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee MP CG
-http://thoptv.stream/jiotv/live/play?Zee_News_MP_Chattisgarh/Zee_News_MP_Chattisgarh_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee Raj
-http://thoptv.stream/jiotv/live/play?Zee_Rajasthan/Zee_Rajasthan_800.m3u8
-#EXTINF:0, group-title="Hindi",Zee TV HD
-http://thoptv.stream/jiotv/live/play?Zee_TV_HD/Zee_TV_HD_1200.m3u8
-#EXTINF:0, group-title="Hindi",Zing
-http://thoptv.stream/jiotv/live/play?Zing/Zing_800.m3u8
-#EXTINF:0, group-title="Hindi",Zoom
-http://thoptv.stream/jiotv/live/play?ZOOM/ZOOM_800.m3u8
-#EXTINF:0, group-title="Punjabi",9X Tashan
-http://thoptv.stream/jiotv/live/play?9X_Tashan/9X_Tashan_800.m3u8
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood
-http://thoptv.stream/jiotv/live/play?Boogle_Bollywood/Boogle_Bollywood_800.m3u8
-#EXTINF:0, group-title="Punjabi",Chardikla Time TV
-http://thoptv.stream/jiotv/live/play?Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
-#EXTINF:0, group-title="Punjabi",DD Punjabi
-http://thoptv.stream/jiotv/live/play?DD_Punjabi/DD_Punjabi_800.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Channel
-http://thoptv.stream/jiotv/live/play?Desi_Channel/Desi_Channel_800.m3u8
-#EXTINF:0, group-title="Punjabi",Garv Punjab
-http://thoptv.stream/jiotv/live/play?Garv_Punjabi/Garv_Punjabi_800.m3u8
-#EXTINF:0, group-title="Punjabi",Garv Punjab Gurbani
-http://thoptv.stream/jiotv/live/play?Garv_Gurbani/Garv_Gurbani_800.m3u8
-#EXTINF:0, group-title="Punjabi",jus 24x7
-http://thoptv.stream/jiotv/live/play?JUS24x7/JUS24x7_800.m3u8
-#EXTINF:0, group-title="Punjabi",jus One
-http://thoptv.stream/jiotv/live/play?JUSOne/JUSOne_800.m3u8
-#EXTINF:0, group-title="Punjabi",jus Punjabi
-http://thoptv.stream/jiotv/live/play?JUSPunjabi/JUSPunjabi_800.m3u8
-#EXTINF:0, group-title="Punjabi",mh1 Music
-http://thoptv.stream/jiotv/live/play?mh1_Music/mh1_Music_800.m3u8
-#EXTINF:0, group-title="Punjabi",mh1 Shraddha
-http://thoptv.stream/jiotv/live/play?mh1_Shraddha/mh1_Shraddha_800.m3u8
-#EXTINF:0, group-title="Punjabi",Only Music
-http://thoptv.stream/jiotv/live/play?Only_Music/Only_Music_800.m3u8
-#EXTINF:0, group-title="Punjabi",PBN Music
-http://thoptv.stream/jiotv/live/play?PBN_Music/PBN_Music_800.m3u8
-#EXTINF:0, group-title="Punjabi",Pitaara
-http://thoptv.stream/jiotv/live/play?Pitaara/Pitaara_800.m3u8
-#EXTINF:0, group-title="Punjabi",Sanjha TV
-http://thoptv.stream/jiotv/live/play?Sanjha_TV/Sanjha_TV_800.m3u8
-#EXTINF:0, group-title="Punjabi",Zee PB HP HR
-http://thoptv.stream/jiotv/live/play?Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8
-#EXTINF:0, group-title="Tamil",Adithya TV
-http://thoptv.stream/jiotv/live/play?Adithya_TV/Adithya_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Angel TV HD
-http://thoptv.stream/jiotv/live/play?Angel_TV_HD/Angel_TV_HD_1200.m3u8
-#EXTINF:0, group-title="Tamil",Captain News
-http://thoptv.stream/jiotv/live/play?Captain_News/Captain_News_800.m3u8
-#EXTINF:0, group-title="Tamil",Captain TV
-http://thoptv.stream/jiotv/live/play?Captain_tv/Captain_tv_800.m3u8
-#EXTINF:0, group-title="Tamil",Cartoon Network (Tamil)
-http://thoptv.stream/jiotv/live/play?Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Cauvery News
-http://thoptv.stream/jiotv/live/play?Cauvery_News/Cauvery_News_800.m3u8
-#EXTINF:0, group-title="Tamil",Chutti TV
-http://thoptv.stream/jiotv/live/play?Chutti_TV/Chutti_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",DD Podhigai
-http://thoptv.stream/jiotv/live/play?DD5_Podhigai/DD5_Podhigai_800.m3u8
-#EXTINF:0, group-title="Tamil",Discovery Channel (Tamil)
-http://thoptv.stream/jiotv/live/play?Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Discovery Kids (Tamil)
-http://thoptv.stream/jiotv/live/play?Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",History  HD (Tamil)
-http://thoptv.stream/jiotv/live/play?History_18_Tamil/History_18_Tamil_1200.m3u8
-#EXTINF:0, group-title="Tamil",K TV
-http://thoptv.stream/jiotv/live/play?K1_TV/K1_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",KTV HD
-http://thoptv.stream/jiotv/live/play?KTV_HD/KTV_HD_1200.m3u8
-#EXTINF:0, group-title="Tamil",Lotus News
-http://thoptv.stream/jiotv/live/play?Lotus_News/Lotus_News_800.m3u8
-#EXTINF:0, group-title="Tamil",Madhimugam TV
-http://thoptv.stream/jiotv/live/play?Madhimugam_TV/Madhimugam_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Makkal TV
-http://thoptv.stream/jiotv/live/play?Makkal_TV/Makkal_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Malai Murasu
-http://thoptv.stream/jiotv/live/play?Malai_Murasu/Malai_Murasu_800.m3u8
-#EXTINF:0, group-title="Tamil",MK Mtunes
-http://thoptv.stream/jiotv/live/play?MK_Music/MK_Music_800.m3u8
-#EXTINF:0, group-title="Tamil",MK TV
-http://thoptv.stream/jiotv/live/play?MK_TV/MK_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Nambikkai
-http://thoptv.stream/jiotv/live/play?Nambikkai/Nambikkai_800.m3u8
-#EXTINF:0, group-title="Tamil",News 18 TN
-http://thoptv.stream/jiotv/live/play?News_18_Tamilnadu/News_18_Tamilnadu_800.m3u8
-#EXTINF:0, group-title="Tamil",News 7
-http://thoptv.stream/jiotv/live/play?News7_Tamil/News7_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Nick (Tamil)
-http://thoptv.stream/jiotv/live/play?Nick_Tamil/Nick_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Peppers TV
-http://thoptv.stream/jiotv/live/play?Peppers_TV/Peppers_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Pogo (Tamil)
-http://thoptv.stream/jiotv/live/play?Pogo_Tamil/Pogo_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Polimer News
-http://thoptv.stream/jiotv/live/play?Polimer_News/Polimer_News_800.m3u8
-#EXTINF:0, group-title="Tamil",Polimer
-http://thoptv.stream/jiotv/live/play?Polimer_TV/Polimer_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Puthiya Thalimurai
-http://thoptv.stream/jiotv/live/play?Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8
-#EXTINF:0, group-title="Tamil",Puthu Yugam
-http://thoptv.stream/jiotv/live/play?Puthu_Yugam/Puthu_Yugam_800.m3u8
-#EXTINF:0, group-title="Tamil",Raj Digital Plus
-http://thoptv.stream/jiotv/live/play?Raj_Digital_Plus/Raj_Digital_Plus_800.m3u8
-#EXTINF:0, group-title="Tamil",Raj Musix
-http://thoptv.stream/jiotv/live/play?Raj_Musix/Raj_Musix_800.m3u8
-#EXTINF:0, group-title="Tamil",Raj News 24x7
-http://thoptv.stream/jiotv/live/play?Raj_News_24x7/Raj_News_24x7_800.m3u8
-#EXTINF:0, group-title="Tamil",Raj
-http://thoptv.stream/jiotv/live/play?Raj_TV/Raj_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Sahana
-http://thoptv.stream/jiotv/live/play?Sahana_Music/Sahana_Music_800.m3u8
-#EXTINF:0, group-title="Tamil",Sai TV
-http://thoptv.stream/jiotv/live/play?SaiTV/SaiTV_800.m3u8
-#EXTINF:0, group-title="Tamil",Sathiyam
-http://thoptv.stream/jiotv/live/play?Sathiyam/Sathiyam_800.m3u8
-#EXTINF:0, group-title="Tamil",Shalini Plus
-http://thoptv.stream/jiotv/live/play?MK_News/MK_News_800.m3u8
-#EXTINF:0, group-title="Tamil",Sonic (Tamil)
-http://thoptv.stream/jiotv/live/play?sonic_Tamil/sonic_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Sony BBC Earth HD (Tamil)
-http://thoptv.stream/jiotv/live/play?Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8
-#EXTINF:0, group-title="Tamil",Sony Yay (Tamil)
-http://thoptv.stream/jiotv/live/play?Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Star Vijay HD
-http://thoptv.stream/jiotv/live/play?Star_Vijay/Star_Vijay_1200.m3u8
-#EXTINF:0, group-title="Tamil",Sun Life
-http://thoptv.stream/jiotv/live/play?Sun_Life/Sun_Life_800.m3u8
-#EXTINF:0, group-title="Tamil",Sun Music
-http://thoptv.stream/jiotv/live/play?Sun_Music/Sun_Music_800.m3u8
-#EXTINF:0, group-title="Tamil",Sun Music HD
-http://thoptv.stream/jiotv/live/play?Sun_Music_HD/Sun_Music_HD_1200.m3u8
-#EXTINF:0, group-title="Tamil",Sun News
-http://thoptv.stream/jiotv/live/play?Sun_News/Sun_News_800.m3u8
-#EXTINF:0, group-title="Tamil",Sun TV
-http://thoptv.stream/jiotv/live/play?Sun_TV/Sun_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Sun TV HD
-http://thoptv.stream/jiotv/live/play?Sun_TV_HD/Sun_TV_HD_1200.m3u8
-#EXTINF:0, group-title="Tamil",Thanthi TV
-http://thoptv.stream/jiotv/live/play?Thanthi_TV/Thanthi_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Travel XP (Tamil)
-http://thoptv.stream/jiotv/live/play?Travel_XP_Tamil/Travel_XP_Tamil_800.m3u8
-#EXTINF:0, group-title="Tamil",Tunes 6 Music
-http://thoptv.stream/jiotv/live/play?Tunes_6/Tunes_6_800.m3u8
-#EXTINF:0, group-title="Tamil",Vasanth
-http://thoptv.stream/jiotv/live/play?Vasanth_TV/Vasanth_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Vendhar TV
-http://thoptv.stream/jiotv/live/play?Vendhar_TV/Vendhar_TV_800.m3u8
-#EXTINF:0, group-title="Tamil",Zee Tamil
-http://thoptv.stream/jiotv/live/play?Zee_Tamil/Zee_Tamil_800.m3u8
-#EXTINF:0, group-title="Telugu",10 TV
-http://thoptv.stream/jiotv/live/play?10_TV/10_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",ABN Andhra Jyothi
-http://thoptv.stream/jiotv/live/play?ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
-#EXTINF:0, group-title="Telugu",Aradhana
-http://thoptv.stream/jiotv/live/play?Aradhana_TV/Aradhana_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Bhakti TV
-http://thoptv.stream/jiotv/live/play?Bhakti_TV/Bhakti_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Cartoon Network (Telugu)
-http://thoptv.stream/jiotv/live/play?Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",CVR Health
-http://thoptv.stream/jiotv/live/play?CVR_Health/CVR_Health_800.m3u8
-#EXTINF:0, group-title="Telugu",CVR News
-http://thoptv.stream/jiotv/live/play?CVR_News/CVR_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Om CVR Spiritual
-http://thoptv.stream/jiotv/live/play?CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8
-#EXTINF:0, group-title="Telugu",DD Saptagiri
-http://thoptv.stream/jiotv/live/play?DD_Saptagiri/DD_Saptagiri_800.m3u8
-#EXTINF:0, group-title="Telugu",Discovery Channel (Telugu)
-http://thoptv.stream/jiotv/live/play?Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Abhiruchi
-http://thoptv.stream/jiotv/live/play?ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv AP
-http://thoptv.stream/jiotv/live/play?ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Cinema
-http://thoptv.stream/jiotv/live/play?ETV_Cinema/ETV_Cinema_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Life
-http://thoptv.stream/jiotv/live/play?ETV_Life/ETV_Life_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Plus
-http://thoptv.stream/jiotv/live/play?ETV_Plus/ETV_Plus_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Telangana
-http://thoptv.stream/jiotv/live/play?ETV_Telangana/ETV_Telangana_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Telugu
-http://thoptv.stream/jiotv/live/play?ETV_Telugu/ETV_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Comedy
-http://thoptv.stream/jiotv/live/play?Gemini_Comedy/Gemini_Comedy_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Life
-http://thoptv.stream/jiotv/live/play?Gemini_Life/Gemini_Life_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Movies
-http://thoptv.stream/jiotv/live/play?Gemini_Movies/Gemini_Movies_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Movies HD
-http://thoptv.stream/jiotv/live/play?Gemini_Movies_HD/Gemini_Movies_HD_1200.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Music
-http://thoptv.stream/jiotv/live/play?Gemini_Music/Gemini_Music_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Music HD
-http://thoptv.stream/jiotv/live/play?Gemini_Music_HD/Gemini_Music_HD_1200.m3u8
-#EXTINF:0, group-title="Telugu",Gemini News
-http://thoptv.stream/jiotv/live/play?Gemini_News/Gemini_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini
-http://thoptv.stream/jiotv/live/play?Gemini_TV/Gemini_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini HD
-http://thoptv.stream/jiotv/live/play?Gemini_TV_HD/Gemini_TV_HD_1200.m3u8
-#EXTINF:0, group-title="Telugu",Gyana Yogi
-http://thoptv.stream/jiotv/live/play?Gyana_Yogi/Gyana_Yogi_800.m3u8
-#EXTINF:0, group-title="Telugu",Hindu Dharmam
-http://thoptv.stream/jiotv/live/play?Hindu_Dharmam/Hindu_Dharmam_800.m3u8
-#EXTINF:0, group-title="Telugu",History HD (Telugu)
-http://thoptv.stream/jiotv/live/play?History_18_Telugu/History_18_Telugu_1200.m3u8
-#EXTINF:0, group-title="Telugu",hmtv
-http://thoptv.stream/jiotv/live/play?HM_TV/HM_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",i News
-http://thoptv.stream/jiotv/live/play?I_News/I_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Jaya Jaya Shankara TV
-http://thoptv.stream/jiotv/live/play?Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Kushi TV
-http://thoptv.stream/jiotv/live/play?Kushi_TV/Kushi_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Maa Gold HD
-http://thoptv.stream/jiotv/live/play?Maa_Gold/Maa_Gold_1200.m3u8
-#EXTINF:0, group-title="Telugu",Maa Movies HD
-http://thoptv.stream/jiotv/live/play?Maa_Movies/Maa_Movies_1200.m3u8
-#EXTINF:0, group-title="Telugu",Maa TV HD
-http://thoptv.stream/jiotv/live/play?Maa_TV/Maa_TV_1200.m3u8
-#EXTINF:0, group-title="Telugu",Maha News
-http://thoptv.stream/jiotv/live/play?Maha_News/Maha_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Nick (Telugu)
-http://thoptv.stream/jiotv/live/play?Nick_Telugu/Nick_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",NTV
-http://thoptv.stream/jiotv/live/play?NTV/NTV_800.m3u8
-#EXTINF:0, group-title="Telugu",Raj Musix (Telugu)
-http://thoptv.stream/jiotv/live/play?Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Raj News (Telugu)
-http://thoptv.stream/jiotv/live/play?Raj_News_Telugu/Raj_News_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Rujumargam TV
-http://thoptv.stream/jiotv/live/play?Rujumargam_TV/Rujumargam_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Sakshi TV
-http://thoptv.stream/jiotv/live/play?Sakshi_tv/Sakshi_tv_800.m3u8
-#EXTINF:0, group-title="Telugu",Shiva Shakti Sai TV
-http://thoptv.stream/jiotv/live/play?Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Sony BBC Earth HD (Telugu)
-http://thoptv.stream/jiotv/live/play?Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_1200.m3u8
-#EXTINF:0, group-title="Telugu",Sony Yay (Telugu)
-http://thoptv.stream/jiotv/live/play?Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Sri Venkateshwar Bhakti
-http://thoptv.stream/jiotv/live/play?Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8
-#EXTINF:0, group-title="Telugu",Studio N News
-http://thoptv.stream/jiotv/live/play?Studio_n/Studio_n_800.m3u8
-#EXTINF:0, group-title="Telugu",Subhavartha
-http://thoptv.stream/jiotv/live/play?Subhavartha_TV/Subhavartha_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Swara Sagar
-http://thoptv.stream/jiotv/live/play?Divya_Vani/Divya_Vani_800.m3u8
-#EXTINF:0, group-title="Telugu",T News
-http://thoptv.stream/jiotv/live/play?T_News/T_News_800.m3u8
-#EXTINF:0, group-title="Telugu",TV 5 News
-http://thoptv.stream/jiotv/live/play?TV_5_News/TV_5_News_800.m3u8
-#EXTINF:0, group-title="Telugu",TV1
-http://thoptv.stream/jiotv/live/play?TV1/TV1_800.m3u8
-#EXTINF:0, group-title="Telugu",TV9 Telugu
-http://thoptv.stream/jiotv/live/play?TV9_Telugu_News/TV9_Telugu_News_800.m3u8
-#EXTINF:0, group-title="Telugu",V6 News
-http://thoptv.stream/jiotv/live/play?V6_News/V6_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Vanitha
-http://thoptv.stream/jiotv/live/play?Vanitha/Vanitha_800.m3u8
-#EXTINF:0, group-title="Telugu",Vissa TV
-http://thoptv.stream/jiotv/live/play?Vissa_TV/Vissa_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Zee Telugu
-http://thoptv.stream/jiotv/live/play?Zee_Telugu/Zee_Telugu_800.m3u8
-#EXTINF:0, group-title="Malayalam",Amrita
-http://thoptv.stream/jiotv/live/play?Amrita_TV/Amrita_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Asianet HD
-http://thoptv.stream/jiotv/live/play?Asianet/Asianet_1200.m3u8
-#EXTINF:0, group-title="Malayalam",Asianet Movies HD
-http://thoptv.stream/jiotv/live/play?Asianet_Movies_HD/Asianet_Movies_HD_1200.m3u8
-#EXTINF:0, group-title="Malayalam",Asianet News
-http://thoptv.stream/jiotv/live/play?Asianet_News/Asianet_News_800.m3u8
-#EXTINF:0, group-title="Malayalam",Asianet Plus HD
-http://thoptv.stream/jiotv/live/play?Asianet_Plus/Asianet_Plus_1200.m3u8
-#EXTINF:0, group-title="Malayalam",Channel D
-http://thoptv.stream/jiotv/live/play?ChannelDHD/ChannelDHD_800.m3u8
-#EXTINF:0, group-title="Malayalam",DD Malayalam
-http://thoptv.stream/jiotv/live/play?DD_Malayalam/DD_Malayalam_800.m3u8
-#EXTINF:0, group-title="Malayalam",Flower TV
-http://thoptv.stream/jiotv/live/play?Flower_TV/Flower_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Jai Hind
-http://thoptv.stream/jiotv/live/play?Jaihind_tv/Jaihind_tv_800.m3u8
-#EXTINF:0, group-title="Malayalam",Janam TV
-http://thoptv.stream/jiotv/live/play?Janam_TV/Janam_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Jeevan
-http://thoptv.stream/jiotv/live/play?Jeevan_TV/Jeevan_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kairali People
-http://thoptv.stream/jiotv/live/play?Kairali_People_TV/Kairali_People_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kairali
-http://thoptv.stream/jiotv/live/play?Kairali_TV/Kairali_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kairali We
-http://thoptv.stream/jiotv/live/play?Kairali_WE_TV/Kairali_WE_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kappa TV
-http://thoptv.stream/jiotv/live/play?Kappa_TV/Kappa_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kaumudy
-http://thoptv.stream/jiotv/live/play?Kaumudy_TV/Kaumudy_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kiran TV
-http://thoptv.stream/jiotv/live/play?Kiran_TV/Kiran_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Kochu TV
-http://thoptv.stream/jiotv/live/play?Kochu_TV/Kochu_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Manorama News
-http://thoptv.stream/jiotv/live/play?Manorama_News/Manorama_News_800.m3u8
-#EXTINF:0, group-title="Malayalam",Mathrubhumi News
-http://thoptv.stream/jiotv/live/play?Mathrubhumi_News/Mathrubhumi_News_800.m3u8
-#EXTINF:0, group-title="Malayalam",Manorama HD
-http://thoptv.stream/jiotv/live/play?Mazavali_Manorama_HD/Mazavali_Manorama_HD_1200.m3u8
-#EXTINF:0, group-title="Malayalam",Manorama
-http://thoptv.stream/jiotv/live/play?Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
-#EXTINF:0, group-title="Malayalam",Media One
-http://thoptv.stream/jiotv/live/play?Media_One_TV/Media_One_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",News 18 Kerala
-http://thoptv.stream/jiotv/live/play?News_18_Kerala/News_18_Kerala_800.m3u8
-#EXTINF:0, group-title="Malayalam",Propex TV
-http://thoptv.stream/jiotv/live/play?Propex_TV/Propex_TV_800.m3u8
-#EXTINF:0, group-title="Malayalam",Raj Music (Malayalam)
-http://thoptv.stream/jiotv/live/play?Raj_Music_Malayalam/Raj_Music_Malayalam_800.m3u8
-#EXTINF:0, group-title="Malayalam",Raj News (Malayalam)
-http://thoptv.stream/jiotv/live/play?Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8
-#EXTINF:0, group-title="Malayalam",Shalom
-http://thoptv.stream/jiotv/live/play?Shalom/Shalom_800.m3u8
-#EXTINF:0, group-title="Malayalam",Surya HD
-http://thoptv.stream/jiotv/live/play?Surya_HD/Surya_HD_1200.m3u8
-#EXTINF:0, group-title="Malayalam",Surya Music
-http://thoptv.stream/jiotv/live/play?Surya_Music/Surya_Music_800.m3u8
-#EXTINF:0, group-title="Malayalam",Surya TV
-http://thoptv.stream/jiotv/live/play?Surya_TV/Surya_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",BTV
-http://thoptv.stream/jiotv/live/play?BTV/BTV_800.m3u8
-#EXTINF:0, group-title="Kannada",Chintu TV
-http://thoptv.stream/jiotv/live/play?Chintu_TV/Chintu_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",Colors Kannada HD
-http://thoptv.stream/jiotv/live/play?Colors_Kannada_HD/Colors_Kannada_HD_1200.m3u8
-#EXTINF:0, group-title="Kannada",Colors Super
-http://thoptv.stream/jiotv/live/play?Colors_Super/Colors_Super_800.m3u8
-#EXTINF:0, group-title="Kannada",DD Kannada
-http://thoptv.stream/jiotv/live/play?DD9_chandana_kannada/DD9_chandana_kannada_800.m3u8
-#EXTINF:0, group-title="Kannada",Dighvijay
-http://thoptv.stream/jiotv/live/play?Dighvijay_TV/Dighvijay_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",News 18 Kannada
-http://thoptv.stream/jiotv/live/play?ETV_Kannada_News/ETV_Kannada_News_800.m3u8
-#EXTINF:0, group-title="Kannada",Janasri News
-http://thoptv.stream/jiotv/live/play?Janasri_News/Janasri_News_800.m3u8
-#EXTINF:0, group-title="Kannada",Janataa TV
-http://thoptv.stream/jiotv/live/play?Janataa_TV/Janataa_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",Kasturi
-http://thoptv.stream/jiotv/live/play?Kasturi/Kasturi_800.m3u8
-#EXTINF:0, group-title="Kannada",Prajaa TV
-http://thoptv.stream/jiotv/live/play?Prajaa_TV/Prajaa_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",Public Music
-http://thoptv.stream/jiotv/live/play?Public_Music/Public_Music_800.m3u8
-#EXTINF:0, group-title="Kannada",Public TV
-http://thoptv.stream/jiotv/live/play?Public_TV/Public_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",Raj Music (Kannada)
-http://thoptv.stream/jiotv/live/play?Raj_Music_Kannada/Raj_Music_Kannada_800.m3u8
-#EXTINF:0, group-title="Kannada",Raj News (Kannada)
-http://thoptv.stream/jiotv/live/play?Raj_News_Kannada/Raj_News_Kannada_800.m3u8
-#EXTINF:0, group-title="Kannada",Saral Jeevan
-http://thoptv.stream/jiotv/live/play?Saral_Jeevan/Saral_Jeevan_800.m3u8
-#EXTINF:0, group-title="Kannada",Sri Sankara
-http://thoptv.stream/jiotv/live/play?Sri_Sankara/Sri_Sankara_800.m3u8
-#EXTINF:0, group-title="Kannada",Suddi TV
-http://thoptv.stream/jiotv/live/play?Suddi_TV/Suddi_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",Suvarna HD
-http://thoptv.stream/jiotv/live/play?Suvarna/Suvarna_800.m3u8
-#EXTINF:0, group-title="Kannada",Suvarna News
-http://thoptv.stream/jiotv/live/play?Suvarna_News/Suvarna_News_800.m3u8
-#EXTINF:0, group-title="Kannada",Suvarna Plus HD
-http://thoptv.stream/jiotv/live/play?Asianet_Suvarna_HD/Asianet_Suvarna_HD_1200.m3u8
-#EXTINF:0, group-title="Kannada",TV 5 Kannada
-http://thoptv.stream/jiotv/live/play?TV_5_Kannada/TV_5_Kannada_800.m3u8
-#EXTINF:0, group-title="Kannada",TV9 Karnataka
-http://thoptv.stream/jiotv/live/play?TV9_Karnataka/TV9_Karnataka_800.m3u8
-#EXTINF:0, group-title="Kannada",Udaya Comedy
-http://thoptv.stream/jiotv/live/play?Udaya_Comedy/Udaya_Comedy_800.m3u8
-#EXTINF:0, group-title="Kannada",Udaya HD
-http://thoptv.stream/jiotv/live/play?Udaya_HD/Udaya_HD_1200.m3u8
-#EXTINF:0, group-title="Kannada",Udaya Movies
-http://thoptv.stream/jiotv/live/play?Udaya_Movies/Udaya_Movies_800.m3u8
-#EXTINF:0, group-title="Kannada",Udaya Music
-http://thoptv.stream/jiotv/live/play?Udaya_Music/Udaya_Music_800.m3u8
-#EXTINF:0, group-title="Kannada",Udaya News
-http://thoptv.stream/jiotv/live/play?Udaya_News/Udaya_News_800.m3u8
-#EXTINF:0, group-title="Kannada",Udaya TV
-http://thoptv.stream/jiotv/live/play?Udaya_TV/Udaya_TV_800.m3u8
-#EXTINF:0, group-title="Kannada",Zee Kannada
-http://thoptv.stream/jiotv/live/play?Zee_Kannada/Zee_Kannada_800.m3u8
-#EXTINF:0, group-title="Gujarati",ABP Asmita
-http://thoptv.stream/jiotv/live/play?ABP_Asmita/ABP_Asmita_800.m3u8
-#EXTINF:0, group-title="Gujarati",CNBC Bazaar
-http://thoptv.stream/jiotv/live/play?CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_800.m3u8
-#EXTINF:0, group-title="Gujarati",Colors Gujarati
-http://thoptv.stream/jiotv/live/play?Colors_Gujarati/Colors_Gujarati_800.m3u8
-#EXTINF:0, group-title="Gujarati",DD Girnar
-http://thoptv.stream/jiotv/live/play?DD_Girnar/DD_Girnar_800.m3u8
-#EXTINF:0, group-title="Gujarati",Etv News Gujarati
-http://thoptv.stream/jiotv/live/play?ETV_News_Gujarati/ETV_News_Gujarati_800.m3u8
-#EXTINF:0, group-title="Gujarati",Garv Shree Swaminarayan
-http://thoptv.stream/jiotv/live/play?Garv/Garv_800.m3u8
-#EXTINF:0, group-title="Gujarati",GS TV
-http://thoptv.stream/jiotv/live/play?GS_TV/GS_TV_800.m3u8
-#EXTINF:0, group-title="Gujarati",Lakshya TV
-http://thoptv.stream/jiotv/live/play?Lakshya_TV/Lakshya_TV_800.m3u8
-#EXTINF:0, group-title="Gujarati",Mantavya News
-http://thoptv.stream/jiotv/live/play?Mantavya_News/Mantavya_News_800.m3u8
-#EXTINF:0, group-title="Gujarati",Sandesh News
-http://thoptv.stream/jiotv/live/play?Sandesh_News/Sandesh_News_800.m3u8
-#EXTINF:0, group-title="Gujarati",TV9 Gujarat
-http://thoptv.stream/jiotv/live/play?Tv_9_Gujarat/Tv_9_Gujarat_800.m3u8
-#EXTINF:0, group-title="Gujarati",VTV News
-http://thoptv.stream/jiotv/live/play?VTV_Gujarati/VTV_Gujarati_800.m3u8
-#EXTINF:0, group-title="Gujarati",Zee 24 Kalak
-http://thoptv.stream/jiotv/live/play?Zee_24_Kalak/Zee_24_Kalak_800.m3u8
-#EXTINF:0, group-title="Marathi",9X Jhakaas
-http://thoptv.stream/jiotv/live/play?9x_Jhakaas/9x_Jhakaas_800.m3u8
-#EXTINF:0, group-title="Marathi",ABP Majha
-http://thoptv.stream/jiotv/live/play?ABP_Majha/ABP_Majha_800.m3u8
-#EXTINF:0, group-title="Marathi",Colors Marathi
-http://thoptv.stream/jiotv/live/play?Colors_Marathi/Colors_Marathi_800.m3u8
-#EXTINF:0, group-title="Marathi",Colors Marathi HD
-http://thoptv.stream/jiotv/live/play?Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8
-#EXTINF:0, group-title="Marathi",DD Marathi
-http://thoptv.stream/jiotv/live/play?DD_Sahayadri/DD_Sahayadri_800.m3u8
-#EXTINF:0, group-title="Marathi",Fakt Marathi
-http://thoptv.stream/jiotv/live/play?Fakt_Marathi/Fakt_Marathi_800.m3u8
-#EXTINF:0, group-title="Marathi",News 18 Lokmat
-http://thoptv.stream/jiotv/live/play?IBN_Lokmat/IBN_Lokmat_800.m3u8
-#EXTINF:0, group-title="Marathi",Maharashtra 1
-http://thoptv.stream/jiotv/live/play?Maharashtra1/Maharashtra1_800.m3u8
-#EXTINF:0, group-title="Marathi",Mai Boli
-http://thoptv.stream/jiotv/live/play?Maiboli/Maiboli_800.m3u8
-#EXTINF:0, group-title="Marathi",Saam TV
-http://thoptv.stream/jiotv/live/play?Saam_Tv/Saam_Tv_800.m3u8
-#EXTINF:0, group-title="Marathi",Sangeet Marathi
-http://thoptv.stream/jiotv/live/play?Sangeet_Marathi/Sangeet_Marathi_800.m3u8
-#EXTINF:0, group-title="Marathi",Star Pravah HD
-http://thoptv.stream/jiotv/live/play?Star_Pravah/Star_Pravah_1200.m3u8
-#EXTINF:0, group-title="Marathi",TV9 Maharashtra
-http://thoptv.stream/jiotv/live/play?TV9_Maharashtra/TV9_Maharashtra_800.m3u8
-#EXTINF:0, group-title="Marathi",Zee 24 Taas
-http://thoptv.stream/jiotv/live/play?Zee_24_Taas/Zee_24_Taas_800.m3u8
-#EXTINF:0, group-title="Marathi",Zee Marathi
-http://thoptv.stream/jiotv/live/play?Zee_Marathi/Zee_Marathi_800.m3u8
-#EXTINF:0, group-title="Marathi",Zee Talkies
-http://thoptv.stream/jiotv/live/play?Zee_Talkies/Zee_Talkies_800.m3u8
-#EXTINF:0, group-title="Bangla",24 Ghanta TV
-http://thoptv.stream/jiotv/live/play?24_Ghanta_TV/24_Ghanta_TV_800.m3u8
-#EXTINF:0, group-title="Bangla",Aakaash
-http://thoptv.stream/jiotv/live/play?Aakaash_bangla/Aakaash_bangla_800.m3u8
-#EXTINF:0, group-title="Bangla",ABP Ananda
-http://thoptv.stream/jiotv/live/play?ABP_Ananda/ABP_Ananda_800.m3u8
-#EXTINF:0, group-title="Bangla",ANM News
-http://thoptv.stream/jiotv/live/play?ANM_News/ANM_News_800.m3u8
-#EXTINF:0, group-title="Bangla",Artage News
-http://thoptv.stream/jiotv/live/play?Artage_News/Artage_News_800.m3u8
-#EXTINF:0, group-title="Bangla",Colors Bangla HD
-http://thoptv.stream/jiotv/live/play?Colors_Bengali_HD/Colors_Bengali_HD_1200.m3u8
-#EXTINF:0, group-title="Bangla",DD Bangla
-http://thoptv.stream/jiotv/live/play?DD_Bangla/DD_Bangla_800.m3u8
-#EXTINF:0, group-title="Bangla",Discovery Channel (Bangla)
-http://thoptv.stream/jiotv/live/play?Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8
-#EXTINF:0, group-title="Bangla",Etv Bangla News
-http://thoptv.stream/jiotv/live/play?ETV_Bangla_News/ETV_Bangla_News_800.m3u8
-#EXTINF:0, group-title="Bangla",Jalsha Movies HD
-http://thoptv.stream/jiotv/live/play?Jalsa_Movies_HD/Jalsa_Movies_HD_1200.m3u8
-#EXTINF:0, group-title="Bangla",Music Fatafati
-http://thoptv.stream/jiotv/live/play?Music_Fatafati/Music_Fatafati_800.m3u8
-#EXTINF:0, group-title="Bangla",Nepal One
-http://thoptv.stream/jiotv/live/play?Nepal_one/Nepal_one_800.m3u8
-#EXTINF:0, group-title="Bangla",News Time
-http://thoptv.stream/jiotv/live/play?News_Time_TV/News_Time_TV_800.m3u8
-#EXTINF:0, group-title="Bangla",R Plus
-http://thoptv.stream/jiotv/live/play?RPLUS/RPLUS_800.m3u8
-#EXTINF:0, group-title="Bangla",Sangeet Bangla
-http://thoptv.stream/jiotv/live/play?Sangeet_Bangla/Sangeet_Bangla_800.m3u8
-#EXTINF:0, group-title="Bangla",Sony Aath
-http://thoptv.stream/jiotv/live/play?Sony_aath/Sony_aath_800.m3u8
-#EXTINF:0, group-title="Bangla",Star Jalsha HD
-http://thoptv.stream/jiotv/live/play?Star_Jalsha/Star_Jalsha_1200.m3u8
-#EXTINF:0, group-title="Bangla",Zee Bangla
-http://thoptv.stream/jiotv/live/play?Zee_Bangla/Zee_Bangla_800.m3u8
-#EXTINF:0, group-title="Bangla",Zee Bangla Cinema
-http://thoptv.stream/jiotv/live/play?Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8
-#EXTINF:0, group-title="Assamese",Assam Talks
-http://thoptv.stream/jiotv/live/play?Assam_Talks/Assam_Talks_800.m3u8
-#EXTINF:0, group-title="Assamese",DD Guwahati NE
-http://thoptv.stream/jiotv/live/play?DD13_Guwahati_NE/DD13_Guwahati_NE_800.m3u8
-#EXTINF:0, group-title="Assamese",DY 365
-http://thoptv.stream/jiotv/live/play?DY_365/DY_365_800.m3u8
-#EXTINF:0, group-title="Assamese",Indradhanu
-http://thoptv.stream/jiotv/live/play?Indradhanu/Indradhanu_800.m3u8
-#EXTINF:0, group-title="Assamese",Jonack
-http://thoptv.stream/jiotv/live/play?Jonack/Jonack_800.m3u8
-#EXTINF:0, group-title="Assamese",News 18 Assam
-http://thoptv.stream/jiotv/live/play?News_18_Assam/News_18_Assam_800.m3u8
-#EXTINF:0, group-title="Assamese",News Live
-http://thoptv.stream/jiotv/live/play?Newslive/Newslive_800.m3u8
-#EXTINF:0, group-title="Assamese",North East Live
-http://thoptv.stream/jiotv/live/play?North_East_Live/North_East_Live_800.m3u8
-#EXTINF:0, group-title="Assamese",Prag News
-http://thoptv.stream/jiotv/live/play?Prag_News/Prag_News_800.m3u8
-#EXTINF:0, group-title="Assamese",Pratidin Time
-http://thoptv.stream/jiotv/live/play?Pratidin_News/Pratidin_News_800.m3u8
-#EXTINF:0, group-title="Assamese",Ramdhenu
-http://thoptv.stream/jiotv/live/play?Ramdhenu/Ramdhenu_800.m3u8
-#EXTINF:0, group-title="Assamese",Rang
-http://thoptv.stream/jiotv/live/play?Rang/Rang_800.m3u8
-#EXTINF:0, group-title="Assamese",Rengoni
-http://thoptv.stream/jiotv/live/play?Rengoni/Rengoni_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Anjan
-http://thoptv.stream/jiotv/live/play?Anjan_TV/Anjan_TV_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Bhojpuri Cinema
-http://thoptv.stream/jiotv/live/play?Bhojpuri_Cinema/Bhojpuri_Cinema_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Dangal
-http://thoptv.stream/jiotv/live/play?Dangal/Dangal_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Etv Bihar
-http://thoptv.stream/jiotv/live/play?ETV_BIHAR/ETV_BIHAR_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Mahua +
-http://thoptv.stream/jiotv/live/play?Mahua_Plus/Mahua_Plus_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Oscar Movies
-http://thoptv.stream/jiotv/live/play?Osar_Movies/Osar_Movies_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Sangeet Bhojpuri
-http://thoptv.stream/jiotv/live/play?Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8
-#EXTINF:0, group-title="Bhojpuri",Zee Bihar JH
-http://thoptv.stream/jiotv/live/play?Zee_Purvaiya/Zee_Purvaiya_800.m3u8
-#EXTINF:0, group-title="Oriya",Alankar
-http://thoptv.stream/jiotv/live/play?Alankar_TV/Alankar_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",Colors Odiya
-http://thoptv.stream/jiotv/live/play?Colors_Oriya/Colors_Oriya_800.m3u8
-#EXTINF:0, group-title="Oriya",DD Odiya
-http://thoptv.stream/jiotv/live/play?DD_Oriya/DD_Oriya_800.m3u8
-#EXTINF:0, group-title="Oriya",News 18 OR
-http://thoptv.stream/jiotv/live/play?ETV_News_Oriya/ETV_News_Oriya_800.m3u8
-#EXTINF:0, group-title="Oriya",Kalinga TV
-http://thoptv.stream/jiotv/live/play?Kalinga_TV/Kalinga_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",Kanak News
-http://thoptv.stream/jiotv/live/play?Kanak_TV/Kanak_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",MBC TV
-http://thoptv.stream/jiotv/live/play?MBC/MBC_800.m3u8
-#EXTINF:0, group-title="Oriya",Naxatra News
-http://thoptv.stream/jiotv/live/play?Naxatra_News/Naxatra_News_800.m3u8
-#EXTINF:0, group-title="Oriya",News World Odia
-http://thoptv.stream/jiotv/live/play?News_World_Odisha/News_World_Odisha_800.m3u8
-#EXTINF:0, group-title="Oriya",OTV
-http://thoptv.stream/jiotv/live/play?OTV_Odisha_TV/OTV_Odisha_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",Prameya News 7
-http://thoptv.stream/jiotv/live/play?Prameya_News_7/Prameya_News_7_800.m3u8
-#EXTINF:0, group-title="Oriya",Prathana TV
-http://thoptv.stream/jiotv/live/play?Prathana_TV/Prathana_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",Sarthak TV
-http://thoptv.stream/jiotv/live/play?Sarthak_TV/Sarthak_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",Tarang Music
-http://thoptv.stream/jiotv/live/play?Tarang_Music/Tarang_Music_800.m3u8
-#EXTINF:0, group-title="Oriya",Tarang TV
-http://thoptv.stream/jiotv/live/play?Tarang_TV/Tarang_TV_800.m3u8
-#EXTINF:0, group-title="Oriya",Zee Kalinga
-http://thoptv.stream/jiotv/live/play?Zee_Kalinga/Zee_Kalinga_800.m3u8
-#EXTINF:0, group-title="Urdu",4tv News
-http://thoptv.stream/jiotv/live/play?4_TV/4_TV_800.m3u8
-#EXTINF:0, group-title="Urdu",Channel Win
-http://thoptv.stream/jiotv/live/play?Channel_Win/Channel_Win_800.m3u8
-#EXTINF:0, group-title="Urdu",DD Kashir
-http://thoptv.stream/jiotv/live/play?DD_Kashir/DD_Kashir_800.m3u8
-#EXTINF:0, group-title="Urdu",DD Urdu
-http://thoptv.stream/jiotv/live/play?DD_urdu/DD_urdu_800.m3u8
-#EXTINF:0, group-title="Urdu",Etv Urdu
-http://thoptv.stream/jiotv/live/play?ETV_Urdu/ETV_Urdu_800.m3u8
-#EXTINF:0, group-title="Urdu",Gulistan News
-http://thoptv.stream/jiotv/live/play?Gulistan_News/Gulistan_News_800.m3u8
-#EXTINF:0, group-title="Urdu",I Plus
-http://thoptv.stream/jiotv/live/play?I_Plus_News/I_Plus_News_800.m3u8
-#EXTINF:0, group-title="Urdu",Zee Salaam
-http://thoptv.stream/jiotv/live/play?Zee_Salaam/Zee_Salaam_800.m3u8
 
+#EXTINF:0, group-title="Indian",& Picture HD
+http://130.185.144.63:8000/live/indian/indian/823.ts
+#EXTINF:0, group-title="Indian",& Pictures HD
+http://streamxcode.ddns.net:25461/live/data/ask/4537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",& TV ME
+http://130.185.144.63:8000/live/indian/indian/494.ts
+#EXTINF:0, group-title="Indian",& TV HD
+http://130.185.144.63:8000/live/indian/indian/141.ts
+#EXTINF:0, group-title="Indian",& TV UK
+http://streamxcode.ddns.net:25461/live/data/ask/4486.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",1st India News
+http://130.185.144.63:8000/live/indian/indian/1122.ts
+#EXTINF:0, group-title="Indian",8xm
+http://130.185.144.63:8000/live/indian/indian/165.ts
+#EXTINF:0, group-title="Indian",9X Jalwa
+http://streamxcode.ddns.net:25461/live/data/ask/4575.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",9x Jalwa
+http://130.185.144.63:8000/live/indian/indian/159.ts
+#EXTINF:0, group-title="Indian",9x Jhakass
+http://130.185.144.63:8000/live/indian/indian/158.ts
+#EXTINF:0, group-title="Indian",9xm
+http://130.185.144.63:8000/live/indian/indian/157.ts
+#EXTINF:0, group-title="Indian",Aaj Tak
+http://130.185.144.63:8000/live/indian/indian/134.ts
+#EXTINF:0, group-title="Indian",Delhi Aajtak
+http://streamxcode.ddns.net:25461/live/data/ask/4594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Pakistani",Aaj News UK
+http://streamxcode.ddns.net:25461/live/data/ask/4600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Aastha Bhajan
+http://130.185.144.63:8000/live/indian/indian/167.ts
+#EXTINF:0, group-title="Indian",Aastha TV
+http://130.185.144.63:8000/live/indian/indian/1123.ts
+#EXTINF:0, group-title="Indian",Abp News
+http://130.185.144.63:8000/live/indian/indian/186.ts
+#EXTINF:0, group-title="Indian",ABP News UK
+http://streamxcode.ddns.net:25461/live/data/ask/4598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Animal Planet
+http://130.185.144.63:8000/live/indian/indian/143.ts
+#EXTINF:0, group-title="Indian",Animal Planet Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",APN News
+http://streamxcode.ddns.net:25461/live/data/ask/4597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Arihant Bhakti
+http://streamxcode.ddns.net:25461/live/data/ask/4621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",B4u Movies
+http://130.185.144.63:8000/live/indian/indian/140.ts
+#EXTINF:0, group-title="Indian",B4U Music
+http://130.185.144.63:8000/live/indian/indian/156.ts
+#EXTINF:0, group-title="Indian",BBO HD
+http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Bharat Samachar News
+http://streamxcode.ddns.net:25461/live/data/ask/4596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Bhojpuri Cinema
+http://130.185.144.63:8000/live/indian/indian/1125.ts
+#EXTINF:0, group-title="Indian",Big Magic
+http://streamxcode.ddns.net:25461/live/data/ask/4560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Bindass Play
+http://130.185.144.63:8000/live/indian/indian/155.ts
+#EXTINF:0, group-title="Indian",Cartoon Network
+http://130.185.144.63:8000/live/indian/indian/163.ts
+#EXTINF:0, group-title="Indian",Channel V
+http://130.185.144.63:8000/live/indian/indian/756.ts
+#EXTINF:0, group-title="Indian",Cinema TV
+http://streamxcode.ddns.net:25461/live/data/ask/4550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",CNBC Awaaz
+http://130.185.144.63:8000/live/indian/indian/1126.ts
+#EXTINF:0, group-title="Indian",CNBC TV18
+http://130.185.144.63:8000/live/indian/indian/1128.ts
+#EXTINF:0, group-title="Indian",CNBC TV18 Prime HD
+http://streamxcode.ddns.net:25461/live/data/ask/5090.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",CNN IBN News
+http://130.185.144.63:8000/live/indian/indian/1129.ts
+#EXTINF:0, group-title="Indian",Aap Ka Colors
+http://streamxcode.ddns.net:25461/live/data/ask/4564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Colors
+http://130.185.144.63:8000/live/indian/indian/121.ts
+#EXTINF:0, group-title="Indian",Colors Apac
+http://130.185.144.63:8000/live/indian/indian/124.ts
+#EXTINF:0, group-title="Indian",Colors EU
+http://130.185.144.63:8000/live/indian/indian/123.ts
+#EXTINF:0, group-title="Indian",Colors TV
+http://streamxcode.ddns.net:25461/live/data/ask/4460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Colors TV AUS
+http://130.185.144.63:8000/live/indian/indian/1130.ts
+#EXTINF:0, group-title="Indian",Colors TV HD
+http://130.185.144.63:8000/live/indian/indian/122.ts
+#EXTINF:0, group-title="Indian",Colors TV UK
+http://130.185.144.63:8000/live/indian/indian/1132.ts
+#EXTINF:0, group-title="Indian",Dabangg TV
+http://streamxcode.ddns.net:25461/live/data/ask/4555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Dangaal TV
+http://streamxcode.ddns.net:25461/live/data/ask/4557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Darshan 24
+http://streamxcode.ddns.net:25461/live/data/ask/5113.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD Girnar
+http://streamxcode.ddns.net:25461/live/data/ask/4634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD India
+http://streamxcode.ddns.net:25461/live/data/ask/4561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD National
+http://streamxcode.ddns.net:25461/live/data/ask/4635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD News
+http://streamxcode.ddns.net:25461/live/data/ask/4636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD Sports
+http://streamxcode.ddns.net:25461/live/data/ask/5046.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD UP
+http://streamxcode.ddns.net:25461/live/data/ask/4562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",DD Urdu
+http://streamxcode.ddns.net:25461/live/data/ask/4637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Dhamaal TV
+http://streamxcode.ddns.net:25461/live/data/ask/4556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Dillagi
+http://streamxcode.ddns.net:25461/live/data/ask/4558.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Discovery Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Discovery Science Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Disha TV
+http://streamxcode.ddns.net:25461/live/data/ask/4641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Disney
+http://130.185.144.63:8000/live/indian/indian/144.ts
+#EXTINF:0, group-title="Indian",Divya TV
+http://streamxcode.ddns.net:25461/live/data/ask/5112.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",D Sports HD
+http://streamxcode.ddns.net:25461/live/data/ask/5047.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",E24
+http://130.185.144.63:8000/live/indian/indian/1136.ts
+#EXTINF:0, group-title="Indian",Enter 10
+http://130.185.144.63:8000/live/indian/indian/142.ts
+#EXTINF:0, group-title="Indian",Et Now
+http://130.185.144.63:8000/live/indian/indian/1137.ts
+#EXTINF:0, group-title="Indian",Et Now News
+http://streamxcode.ddns.net:25461/live/data/ask/4613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Etv  Raj
+http://130.185.144.63:8000/live/indian/indian/1140.ts
+#EXTINF:0, group-title="Indian",Etv Bihar
+http://130.185.144.63:8000/live/indian/indian/1138.ts
+#EXTINF:0, group-title="Indian",Etv Haryana
+http://streamxcode.ddns.net:25461/live/data/ask/4579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Etv AP
+http://130.185.144.63:8000/live/indian/indian/1139.ts
+#EXTINF:0, group-title="Indian",Etv MP News
+http://streamxcode.ddns.net:25461/live/data/ask/4578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",ET Now
+http://130.185.144.63:8000/live/indian/indian/497.ts
+#EXTINF:0, group-title="Indian",Etv Rajasthan
+http://streamxcode.ddns.net:25461/live/data/ask/4577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Etv UP
+http://130.185.144.63:8000/live/indian/indian/1141.ts
+#EXTINF:0, group-title="Indian",Etv UP News
+http://streamxcode.ddns.net:25461/live/data/ask/4576.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Etv Urdu
+http://130.185.144.63:8000/live/indian/indian/1142.ts
+#EXTINF:0, group-title="Indian",Food Food
+http://130.185.144.63:8000/live/indian/indian/166.ts
+#EXTINF:0, group-title="Indian",Fyi TV18 HD
+http://streamxcode.ddns.net:25461/live/data/ask/4625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Green TV
+http://streamxcode.ddns.net:25461/live/data/ask/5107.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",History HD
+http://streamxcode.ddns.net:25461/live/data/ask/5091.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",History HD (Hindi)
+http://streamxcode.ddns.net:25461/live/data/ask/4643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Home Shop 18
+http://streamxcode.ddns.net:25461/live/data/ask/5108.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Housefull Action
+http://streamxcode.ddns.net:25461/live/data/ask/4645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Housefull Movies
+http://streamxcode.ddns.net:25461/live/data/ask/4646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",News 18 India
+http://130.185.144.63:8000/live/indian/indian/499.ts
+#EXTINF:0, group-title="Indian",News 18 Lokmat
+http://130.185.144.63:8000/live/indian/indian/498.ts
+#EXTINF:0, group-title="Indian",India Today
+http://130.185.144.63:8000/live/indian/indian/496.ts
+#EXTINF:0, group-title="Indian",India TV
+http://130.185.144.63:8000/live/indian/indian/184.ts
+#EXTINF:0, group-title="Indian",Invest Discovery Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Ishwar TV
+http://streamxcode.ddns.net:25461/live/data/ask/5111.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Jinvani TV
+http://streamxcode.ddns.net:25461/live/data/ask/5110.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",KatYay!ani Bhakti
+http://streamxcode.ddns.net:25461/live/data/ask/5109.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Life Ok
+http://130.185.144.63:8000/live/indian/indian/135.ts
+#EXTINF:0, group-title="Indian",Life Ok 
+http://130.185.144.63:8000/live/indian/indian/136.ts
+#EXTINF:0, group-title="Indian",Life Ok MEna
+http://130.185.144.63:8000/live/indian/indian/1146.ts
+#EXTINF:0, group-title="Indian",Life Ok Star
+http://130.185.144.63:8000/live/indian/indian/1147.ts
+#EXTINF:0, group-title="Indian",Life Ok USA
+http://130.185.144.63:8000/live/indian/indian/1148.ts
+#EXTINF:0, group-title="Indian",Living Food
+http://130.185.144.63:8000/live/indian/indian/99.ts
+#EXTINF:0, group-title="Indian",Living Foodz
+http://streamxcode.ddns.net:25461/live/data/ask/4496.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Living Foodz USA
+http://streamxcode.ddns.net:25461/live/data/ask/4650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Maha Movies
+http://streamxcode.ddns.net:25461/live/data/ask/4651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Manorangan Movies
+http://streamxcode.ddns.net:25461/live/data/ask/4548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Manorangan TV
+http://streamxcode.ddns.net:25461/live/data/ask/4554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Masti TV
+http://streamxcode.ddns.net:25461/live/data/ask/4553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Movies House
+http://streamxcode.ddns.net:25461/live/data/ask/5042.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Movies Ok
+http://streamxcode.ddns.net:25461/live/data/ask/4544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",MTV Beats
+http://streamxcode.ddns.net:25461/live/data/ask/4661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",MTV Beats HD
+http://streamxcode.ddns.net:25461/live/data/ask/5089.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",MTV India
+http://130.185.144.63:8000/live/indian/indian/153.ts
+#EXTINF:0, group-title="Indian",Music India
+http://streamxcode.ddns.net:25461/live/data/ask/4571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Music India-1
+http://130.185.144.63:8000/live/indian/indian/152.ts
+#EXTINF:0, group-title="Indian",Music India-2
+http://130.185.144.63:8000/live/indian/indian/489.ts
+#EXTINF:0, group-title="Indian",Music Xpress
+http://130.185.144.63:8000/live/indian/indian/151.ts
+#EXTINF:0, group-title="Indian",Nat Geo Wild Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4490.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV
+http://130.185.144.63:8000/live/indian/indian/147.ts
+#EXTINF:0, group-title="Indian",NDTV 24x7
+http://130.185.144.63:8000/live/indian/indian/1149.ts
+#EXTINF:0, group-title="Indian",NDTV 24X7 News
+http://streamxcode.ddns.net:25461/live/data/ask/4610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV 24X7 UK News
+http://streamxcode.ddns.net:25461/live/data/ask/4611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV Goodtimes News
+http://streamxcode.ddns.net:25461/live/data/ask/4607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV India News
+http://streamxcode.ddns.net:25461/live/data/ask/4609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV Prime News
+http://streamxcode.ddns.net:25461/live/data/ask/4608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV Profit
+http://130.185.144.63:8000/live/indian/indian/1150.ts
+#EXTINF:0, group-title="Indian",NDTV Profit News
+http://streamxcode.ddns.net:25461/live/data/ask/4606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",NDTV TV Profit
+http://130.185.144.63:8000/live/indian/indian/185.ts
+#EXTINF:0, group-title="Indian",News 24
+http://130.185.144.63:8000/live/indian/indian/1151.ts
+#EXTINF:0, group-title="Indian",News 24 News
+http://streamxcode.ddns.net:25461/live/data/ask/4588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",News 9
+http://130.185.144.63:8000/live/indian/indian/1171.ts
+#EXTINF:0, group-title="Indian",News 9 Eng
+http://130.185.144.63:8000/live/indian/indian/1153.ts
+#EXTINF:0, group-title="Indian",News Nation
+http://streamxcode.ddns.net:25461/live/data/ask/5092.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",News X
+http://130.185.144.63:8000/live/indian/indian/1152.ts
+#EXTINF:0, group-title="Indian",Only Music HD
+http://streamxcode.ddns.net:25461/live/data/ask/4656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Oscar Movies Bhojpuri
+http://streamxcode.ddns.net:25461/live/data/ask/5106.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Paras TV 
+http://streamxcode.ddns.net:25461/live/data/ask/5105.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Peace Of MIND
+http://streamxcode.ddns.net:25461/live/data/ask/5104.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Peace TV
+http://130.185.144.63:8000/live/indian/indian/145.ts
+#EXTINF:0, group-title="Indian",Republic News TV
+http://streamxcode.ddns.net:25461/live/data/ask/4627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Rishtay America
+http://streamxcode.ddns.net:25461/live/data/ask/4480.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Rishtay Asia
+http://130.185.144.63:8000/live/indian/indian/1172.ts
+#EXTINF:0, group-title="Indian",Rishtay Cineplex
+http://streamxcode.ddns.net:25461/live/data/ask/4539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Rishtay Cineplex UK
+http://streamxcode.ddns.net:25461/live/data/ask/4540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Rishtay EU
+http://130.185.144.63:8000/live/indian/indian/1155.ts
+#EXTINF:0, group-title="Indian",Rishtey
+http://130.185.144.63:8000/live/indian/indian/138.ts
+#EXTINF:0, group-title="Indian",Rishtey Asia
+http://130.185.144.63:8000/live/indian/indian/1154.ts
+#EXTINF:0, group-title="Indian",Rishtey UK
+http://130.185.144.63:8000/live/indian/indian/139.ts
+#EXTINF:0, group-title="Indian",Sab TV UK
+http://130.185.144.63:8000/live/indian/indian/481.ts
+#EXTINF:0, group-title="Indian",Sab TV-1
+http://130.185.144.63:8000/live/indian/indian/129.ts
+#EXTINF:0, group-title="Indian",Sab TV-2
+http://130.185.144.63:8000/live/indian/indian/130.ts
+#EXTINF:0, group-title="Indian",Sadhna TV
+http://streamxcode.ddns.net:25461/live/data/ask/5103.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sahara Samay
+http://130.185.144.63:8000/live/indian/indian/1156.ts
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami
+http://130.185.144.63:8000/live/indian/indian/1157.ts
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami News
+http://streamxcode.ddns.net:25461/live/data/ask/4585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sahara Samay Bihar
+http://130.185.144.63:8000/live/indian/indian/1158.ts
+#EXTINF:0, group-title="Indian",Sahara Samay Bihar News
+http://streamxcode.ddns.net:25461/live/data/ask/4584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sahara Samay MP
+http://130.185.144.63:8000/live/indian/indian/1159.ts
+#EXTINF:0, group-title="Indian",Sahara Samay MP News
+http://streamxcode.ddns.net:25461/live/data/ask/4583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sahara Samay News
+http://streamxcode.ddns.net:25461/live/data/ask/4586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sahara Samay Raj
+http://130.185.144.63:8000/live/indian/indian/1160.ts
+#EXTINF:0, group-title="Indian",Sahara Samay Raj News
+http://streamxcode.ddns.net:25461/live/data/ask/4582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sahara Samay UP
+http://130.185.144.63:8000/live/indian/indian/1161.ts
+#EXTINF:0, group-title="Indian",Sahib TV
+http://130.185.144.63:8000/live/indian/indian/1100.ts
+#EXTINF:0, group-title="Indian",Sanatantv Bhakti
+http://streamxcode.ddns.net:25461/live/data/ask/5102.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sangeet Bhojpori
+http://streamxcode.ddns.net:25461/live/data/ask/5101.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sanskar TV
+http://streamxcode.ddns.net:25461/live/data/ask/4655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Satsang TV
+http://streamxcode.ddns.net:25461/live/data/ask/4603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Set MAX
+http://130.185.144.63:8000/live/indian/indian/125.ts
+#EXTINF:0, group-title="Indian",Set MAX AUS
+http://130.185.144.63:8000/live/indian/indian/1162.ts
+#EXTINF:0, group-title="Indian",Set MAX UK
+http://130.185.144.63:8000/live/indian/indian/484.ts
+#EXTINF:0, group-title="Indian",Setmax
+http://streamxcode.ddns.net:25461/live/data/ask/4533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Setmax Aus
+http://streamxcode.ddns.net:25461/live/data/ask/4532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Shubhsandesh TV
+http://streamxcode.ddns.net:25461/live/data/ask/5044.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Solid Classic Movies
+http://streamxcode.ddns.net:25461/live/data/ask/4541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Solid News
+http://streamxcode.ddns.net:25461/live/data/ask/4542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Earth Hindi HD
+http://streamxcode.ddns.net:25461/live/data/ask/5088.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Max
+http://streamxcode.ddns.net:25461/live/data/ask/4531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Max 2
+http://streamxcode.ddns.net:25461/live/data/ask/4535.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony MAX HD (Jio)
+http://130.185.144.63:8000/live/indian/indian/536.ts
+#EXTINF:0, group-title="Indian",Sony MAX2
+http://130.185.144.63:8000/live/indian/indian/1163.ts
+#EXTINF:0, group-title="Indian",Sony Mix
+http://streamxcode.ddns.net:25461/live/data/ask/5041.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Pal
+http://streamxcode.ddns.net:25461/live/data/ask/4662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Rox HD
+http://streamxcode.ddns.net:25461/live/data/ask/4664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Sab Asia
+http://streamxcode.ddns.net:25461/live/data/ask/4467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Sab HD
+http://streamxcode.ddns.net:25461/live/data/ask/5040.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Sab TV
+http://streamxcode.ddns.net:25461/live/data/ask/4466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Sab UK
+http://streamxcode.ddns.net:25461/live/data/ask/4469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Setmax HD
+http://streamxcode.ddns.net:25461/live/data/ask/5038.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony Setmax UK
+http://streamxcode.ddns.net:25461/live/data/ask/4534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony TV
+http://streamxcode.ddns.net:25461/live/data/ask/4665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony TV Asia
+http://streamxcode.ddns.net:25461/live/data/ask/4442.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony TV AUS
+http://130.185.144.63:8000/live/indian/indian/128.ts
+#EXTINF:0, group-title="Indian",Sony TV HD
+http://130.185.144.63:8000/live/indian/indian/127.ts
+#EXTINF:0, group-title="Indian",Sony TV HD USA
+http://streamxcode.ddns.net:25461/live/data/ask/4444.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sony TV UK
+http://130.185.144.63:8000/live/indian/indian/126.ts
+#EXTINF:0, group-title="Indian",Sri Venkateshwar
+http://streamxcode.ddns.net:25461/live/data/ask/4626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Bharat
+http://streamxcode.ddns.net:25461/live/data/ask/4658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Bharat HD
+http://streamxcode.ddns.net:25461/live/data/ask/5043.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Bharat Mena
+http://streamxcode.ddns.net:25461/live/data/ask/4474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Bharat UK
+http://streamxcode.ddns.net:25461/live/data/ask/4473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Gold
+http://streamxcode.ddns.net:25461/live/data/ask/4529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Gold 
+http://130.185.144.63:8000/live/indian/indian/133.ts
+#EXTINF:0, group-title="Indian",Star Gold HD
+http://130.185.144.63:8000/live/indian/indian/191.ts
+#EXTINF:0, group-title="Indian",Star Gold UK
+http://streamxcode.ddns.net:25461/live/data/ask/4530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Movies
+http://130.185.144.63:8000/live/indian/indian/137.ts
+#EXTINF:0, group-title="Indian",Star Plus
+http://streamxcode.ddns.net:25461/live/data/ask/4448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Plus HD
+http://130.185.144.63:8000/live/indian/indian/131.ts
+#EXTINF:0, group-title="Indian",Star Plus ME
+http://130.185.144.63:8000/live/indian/indian/1164.ts
+#EXTINF:0, group-title="Indian",Star Plus UK
+http://130.185.144.63:8000/live/indian/indian/479.ts
+#EXTINF:0, group-title="Indian",Star Plus USA
+http://130.185.144.63:8000/live/indian/indian/480.ts
+#EXTINF:0, group-title="Indian",Star Plus-1
+http://130.185.144.63:8000/live/indian/indian/132.ts
+#EXTINF:0, group-title="Indian",Star Plus-2
+http://130.185.144.63:8000/live/indian/indian/188.ts
+#EXTINF:0, group-title="Indian",Star Utsav
+http://streamxcode.ddns.net:25461/live/data/ask/4551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Utsav Movies
+http://streamxcode.ddns.net:25461/live/data/ask/4657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Star Utsav UK
+http://streamxcode.ddns.net:25461/live/data/ask/4638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Sudarshan News
+http://130.185.144.63:8000/live/indian/indian/1165.ts
+#EXTINF:0, group-title="Indian",Taaza TV News
+http://streamxcode.ddns.net:25461/live/data/ask/4631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Tez TV
+http://streamxcode.ddns.net:25461/live/data/ask/4488.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Time Now
+http://130.185.144.63:8000/live/indian/indian/187.ts
+#EXTINF:0, group-title="Indian",Times Now News
+http://streamxcode.ddns.net:25461/live/data/ask/4605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",TLC Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4493.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Travel XP Hindi
+http://streamxcode.ddns.net:25461/live/data/ask/4628.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Ump Movies
+http://130.185.144.63:8000/live/indian/indian/485.ts
+#EXTINF:0, group-title="Indian",UTV Action
+http://130.185.144.63:8000/live/indian/indian/700.ts
+#EXTINF:0, group-title="Indian",UTV Bindas
+http://streamxcode.ddns.net:25461/live/data/ask/4552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",UTV Bindass
+http://130.185.144.63:8000/live/indian/indian/161.ts
+#EXTINF:0, group-title="Indian",UTV Movies INternational
+http://streamxcode.ddns.net:25461/live/data/ask/4546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",UTV Movies-1
+http://130.185.144.63:8000/live/indian/indian/160.ts
+#EXTINF:0, group-title="Indian",UTV Movies-2
+http://130.185.144.63:8000/live/indian/indian/162.ts
+#EXTINF:0, group-title="Indian",Vaa Movies
+http://130.185.144.63:8000/live/indian/indian/1143.ts
+#EXTINF:0, group-title="Indian",Vip News
+http://streamxcode.ddns.net:25461/live/data/ask/4491.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Wow Cinema
+http://streamxcode.ddns.net:25461/live/data/ask/4547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Action
+http://130.185.144.63:8000/live/indian/indian/112.ts
+#EXTINF:0, group-title="Indian",Zee Anmol
+http://130.185.144.63:8000/live/indian/indian/102.ts
+#EXTINF:0, group-title="Indian",Zee Anmol Cinema
+http://streamxcode.ddns.net:25461/live/data/ask/4487.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Business
+http://130.185.144.63:8000/live/indian/indian/116.ts
+#EXTINF:0, group-title="Indian",Zee Business News
+http://streamxcode.ddns.net:25461/live/data/ask/4590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Cinema
+http://streamxcode.ddns.net:25461/live/data/ask/4500.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Cinema Apac
+http://130.185.144.63:8000/live/indian/indian/488.ts
+#EXTINF:0, group-title="Indian",Zee Cinema HD
+http://130.185.144.63:8000/live/indian/indian/503.ts
+#EXTINF:0, group-title="Indian",Zee Cinema ME
+http://130.185.144.63:8000/live/indian/indian/1167.ts
+#EXTINF:0, group-title="Indian",Zee Cinema UK
+http://streamxcode.ddns.net:25461/live/data/ask/4502.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Cinema-1
+http://130.185.144.63:8000/live/indian/indian/117.ts
+#EXTINF:0, group-title="Indian",Zee Cinema-2
+http://130.185.144.63:8000/live/indian/indian/487.ts
+#EXTINF:0, group-title="Indian",Zee Classic
+http://130.185.144.63:8000/live/indian/indian/111.ts
+#EXTINF:0, group-title="Indian",Zee Etc
+http://130.185.144.63:8000/live/indian/indian/100.ts
+#EXTINF:0, group-title="Indian",Zee Etc Bollywood
+http://130.185.144.63:8000/live/indian/indian/1168.ts
+#EXTINF:0, group-title="Indian",Zee Living
+http://streamxcode.ddns.net:25461/live/data/ask/4497.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Living HD
+http://130.185.144.63:8000/live/indian/indian/120.ts
+#EXTINF:0, group-title="Indian",Zee MP
+http://130.185.144.63:8000/live/indian/indian/500.ts
+#EXTINF:0, group-title="Indian",Zee News
+http://130.185.144.63:8000/live/indian/indian/119.ts
+#EXTINF:0, group-title="Indian",Zee Puraiya
+http://streamxcode.ddns.net:25461/live/data/ask/4492.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Purvaiya
+http://130.185.144.63:8000/live/indian/indian/108.ts
+#EXTINF:0, group-title="Indian",Zee Rajasthan News
+http://streamxcode.ddns.net:25461/live/data/ask/4495.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Rishtay
+http://130.185.144.63:8000/live/indian/indian/501.ts
+#EXTINF:0, group-title="Indian",Zee Salaam
+http://streamxcode.ddns.net:25461/live/data/ask/4489.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee Salam
+http://130.185.144.63:8000/live/indian/indian/110.ts
+#EXTINF:0, group-title="Indian",Zee Smile
+http://130.185.144.63:8000/live/indian/indian/113.ts
+#EXTINF:0, group-title="Indian",Zee Talkies
+http://130.185.144.63:8000/live/indian/indian/101.ts
+#EXTINF:0, group-title="Indian",Zee TV HD
+http://130.185.144.63:8000/live/indian/indian/115.ts
+#EXTINF:0, group-title="Indian",Zee TV HD USA
+http://streamxcode.ddns.net:25461/live/data/ask/4436.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zee TV ME
+http://130.185.144.63:8000/live/indian/indian/1169.ts
+#EXTINF:0, group-title="Indian",Zing
+http://130.185.144.63:8000/live/indian/indian/150.ts
+#EXTINF:0, group-title="Indian",Zing India
+http://streamxcode.ddns.net:25461/live/data/ask/4568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zing UK
+http://130.185.144.63:8000/live/indian/indian/493.ts
+#EXTINF:0, group-title="Indian",Zoom
+http://130.185.144.63:8000/live/indian/indian/149.ts
+#EXTINF:0, group-title="Indian",Zoom TV
+http://streamxcode.ddns.net:25461/live/data/ask/4538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+#EXTINF:0, group-title="Indian",Zoom TV UK
 http://streamxcode.ddns.net:25461/live/data/ask/4566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Pakistani",24 Channel HD
 http://streamxcode.ddns.net:25461/live/data/ask/4350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
@@ -1311,7 +780,7 @@ http://streamxcode.ddns.net:25461/live/data/ask/5141.ts|refferer=http://solidstr
 http://130.185.144.63:8000/live/indian/indian/171.ts
 #EXTINF:0, group-title="Punjabi",Fateh TV
 http://streamxcode.ddns.net:25461/live/data/ask/5155.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
-#EXTINF:0, group-title="Punjabi",Garv Punjab
+#EXTINF:0, group-title="Punjabi",Garv Punjabi
 http://streamxcode.ddns.net:25461/live/data/ask/5161.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="Punjabi",BBC Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
