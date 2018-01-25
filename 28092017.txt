@@ -634,12 +634,8 @@ http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sanjha_TV/Sanjha_TV_800.m3u8
 #EXTINF:0, group-title="Punjabi",Sikh Channel
 http://130.185.144.63:8000/live/punjabi/punjabi/181.ts
-#EXTINF:0, group-title="Punjabi",Steelbird  Music
-http://streamxcode.ddns.net:25461/live/data2/ask132/5140.ts|refferer=http://solidstreamz.com/&user-agent=ucho
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Steelbird Music (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD343L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",TV 84
