@@ -1,1062 +1,2427 @@
 #EXTM3U
 
 #EXTINF:0, group-title="English",Al Jazeera
-http://ruhutv.com/ipo/?cid=/AL_Jazeera/AL_Jazeera_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/AL_Jazeera/AL_Jazeera_800.m3u8
 #EXTINF:0, group-title="English",Animal Planet (Eng)
-http://ruhutv.com/ipo/?cid=/Animal_Planet_English/Animal_Planet_English_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Animal_Planet_English/Animal_Planet_English_800.m3u8
 #EXTINF:0, group-title="English",Animal Planet HD World
-http://ruhutv.com/ipo/?cid=/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Animal_Planet_HD/Animal_Planet_HD_800.m3u8
 #EXTINF:0, group-title="English",Arre
-http://ruhutv.com/ipo/?cid=/Arre/Arre_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Arre/Arre_800.m3u8
 #EXTINF:0, group-title="English",AXN HD
-http://ruhutv.com/ipo/?cid=/AXN_HD/AXN_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/AXN_HD/AXN_HD_800.m3u8
 #EXTINF:0, group-title="English",BBC World News
-http://ruhutv.com/ipo/?cid=/BBC_World_News/BBC_World_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/BBC_World_News/BBC_World_News_800.m3u8
 #EXTINF:0, group-title="English",Brilliant Living TV
-http://ruhutv.com/ipo/?cid=/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
 #EXTINF:0, group-title="English",BTVi
-http://ruhutv.com/ipo/?cid=/BTVi/BTVi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/BTVi/BTVi_800.m3u8
 #EXTINF:0, group-title="English",CNBC TV18
-http://ruhutv.com/ipo/?cid=/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
 #EXTINF:0, group-title="English",CNBC TV18 Prime HD
-http://ruhutv.com/ipo/?cid=/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_800.m3u8
 #EXTINF:0, group-title="English",CNN
-http://ruhutv.com/ipo/?cid=/CNN/CNN_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CNN/CNN_800.m3u8
 #EXTINF:0, group-title="English",CNN News 18
-http://ruhutv.com/ipo/?cid=/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
 #EXTINF:0, group-title="English",CVR
-http://ruhutv.com/ipo/?cid=/CVR_English/CVR_English_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CVR_English/CVR_English_800.m3u8
 #EXTINF:0, group-title="English",Deutshe Welle
-http://ruhutv.com/ipo/?cid=/dw/dw_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/dw/dw_800.m3u8
 #EXTINF:0, group-title="English",Discovery
-http://ruhutv.com/ipo/?cid=/Discovery/Discovery_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery/Discovery_800.m3u8
 #EXTINF:0, group-title="English",Discovery HD World
-http://ruhutv.com/ipo/?cid=/Discovery_HD_World/Discovery_HD_World_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_HD_World/Discovery_HD_World_800.m3u8
 #EXTINF:0, group-title="English",Discovery Kids 1
-http://ruhutv.com/ipo/?cid=/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
 #EXTINF:0, group-title="English",Discovery Science
-http://ruhutv.com/ipo/?cid=/Discovery_Science/Discovery_Science_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Science/Discovery_Science_800.m3u8
 #EXTINF:0, group-title="English",Discovery Turbo
-http://ruhutv.com/ipo/?cid=/Discovery_Turbo/Discovery_Turbo_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Turbo/Discovery_Turbo_800.m3u8
 #EXTINF:0, group-title="English",DSports HD
-http://ruhutv.com/ipo/?cid=/Dsports_HD/Dsports_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0, group-title="English",ET Now
-http://ruhutv.com/ipo/?cid=/ET_Now/ET_Now_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ET_Now/ET_Now_800.m3u8
 #EXTINF:0, group-title="English",Euro News
-http://ruhutv.com/ipo/?cid=/Euro_News/Euro_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Euro_News/Euro_News_800.m3u8
 #EXTINF:0, group-title="English",France 24
-http://ruhutv.com/ipo/?cid=/France_24/France_24_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/France_24/France_24_800.m3u8
 #EXTINF:0, group-title="English",fyi, TV18 HD
-http://ruhutv.com/ipo/?cid=/FYI_TV18/FYI_TV18_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/FYI_TV18/FYI_TV18_800.m3u8
 #EXTINF:0, group-title="English",Good News Channel
-http://ruhutv.com/ipo/?cid=/GoodNews_Channel/GoodNews_Channel_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/GoodNews_Channel/GoodNews_Channel_800.m3u8
 #EXTINF:0, group-title="English",HBO HD
-http://ruhutv.com/ipo/?cid=/HBO_HD/HBO_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0, group-title="English",History HD
-http://ruhutv.com/ipo/?cid=/History_HD/History_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/History_HD/History_HD_800.m3u8
 #EXTINF:0, group-title="English",India Today
-http://ruhutv.com/ipo/?cid=/India_Today/India_Today_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_Today/India_Today_800.m3u8
 #EXTINF:0, group-title="English",Insight
-http://ruhutv.com/ipo/?cid=/Insight/Insight_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Insight/Insight_800.m3u8
 #EXTINF:0, group-title="English",Jio Events
-http://ruhutv.com/ipo/?cid=/Jio_Events/Jio_Events_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jio_Events/Jio_Events_800.m3u8
 #EXTINF:0, group-title="English",Jio Sports
-http://ruhutv.com/ipo/?cid=/Jio_Sports/Jio_Sports_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jio_Sports/Jio_Sports_800.m3u8
 #EXTINF:0, group-title="English",Living Foodz
-http://ruhutv.com/ipo/?cid=/Living_Foodz/Living_Foodz_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Living_Foodz/Living_Foodz_800.m3u8
 #EXTINF:0, group-title="English",Millionlights
-http://ruhutv.com/ipo/?cid=/Millionlights/Millionlights_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Millionlights/Millionlights_800.m3u8
 #EXTINF:0, group-title="English",Mirror Now
-http://ruhutv.com/ipo/?cid=/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
 #EXTINF:0, group-title="English",MN+
-http://ruhutv.com/ipo/?cid=/MNPLUS/MNPLUS_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MNPLUS/MNPLUS_800.m3u8
 #EXTINF:0, group-title="English",MNX
-http://ruhutv.com/ipo/?cid=/Movies_Now2/Movies_Now2_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Movies_Now2/Movies_Now2_800.m3u8
 #EXTINF:0, group-title="English",MNX HD
-http://ruhutv.com/ipo/?cid=/Movies_Now2_HD/Movies_Now2_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
 #EXTINF:0, group-title="English",Movies Now HD
-http://ruhutv.com/ipo/?cid=/Movies_Now_HD/Movies_Now_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Movies_Now_HD/Movies_Now_HD_800.m3u8
 #EXTINF:0, group-title="English",NDTV 24x7
-http://ruhutv.com/ipo/?cid=/NDTV_24x7/NDTV_24x7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/NDTV_24x7/NDTV_24x7_800.m3u8
 #EXTINF:0, group-title="English",NDTV Good Times
-http://ruhutv.com/ipo/?cid=/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
 #EXTINF:0, group-title="English",NDTV Profit
-http://ruhutv.com/ipo/?cid=/NDTV_Profit/NDTV_Profit_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/NDTV_Profit/NDTV_Profit_800.m3u8
 #EXTINF:0, group-title="English",Neo Prime
-http://ruhutv.com/ipo/?cid=/Neo_Prime/Neo_Prime_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Neo_Prime/Neo_Prime_800.m3u8
 #EXTINF:0, group-title="English",Neo Sports
-http://ruhutv.com/ipo/?cid=/Neo_Sports/Neo_Sports_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Neo_Sports/Neo_Sports_800.m3u8
 #EXTINF:0, group-title="English",News 9
-http://ruhutv.com/ipo/?cid=/News_9/News_9_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_9/News_9_800.m3u8
 #EXTINF:0, group-title="English",News Asia 
-http://ruhutv.com/ipo/?cid=/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
 #EXTINF:0, group-title="English",News X
-http://ruhutv.com/ipo/?cid=/News_X/News_X_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_X/News_X_800.m3u8
 #EXTINF:0, group-title="English",Nick (Eng)
-http://ruhutv.com/ipo/?cid=/Nickelodeon/Nickelodeon_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nickelodeon/Nickelodeon_800.m3u8
 #EXTINF:0, group-title="English",Nick Jr.
-http://ruhutv.com/ipo/?cid=/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
 #EXTINF:0, group-title="English",Republic TV
-http://ruhutv.com/ipo/?cid=/Republic_TV/Republic_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Republic_TV/Republic_TV_800.m3u8
 #EXTINF:0, group-title="English",Romedy Now HD
-http://ruhutv.com/ipo/?cid=/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Romedy_Now_HD/Romedy_Now_HD_800.m3u8
 #EXTINF:0, group-title="English",Nick Sonic
-http://ruhutv.com/ipo/?cid=/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
 #EXTINF:0, group-title="English",Sony BBC Earth 
-http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
 #EXTINF:0, group-title="English",Sony BBC Earth HD (Eng)
-http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
 #EXTINF:0, group-title="English",Sony ESPN
-http://ruhutv.com/ipo/?cid=/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
 #EXTINF:0, group-title="English",Sony ESPN HD
-http://ruhutv.com/ipo/?cid=/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_ESPN_HD/Sony_ESPN_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Le PLEX HD
-http://ruhutv.com/ipo/?cid=/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Pix HD
-http://ruhutv.com/ipo/?cid=/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Pix_HD/Sony_Pix_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Six (Hindi)
-http://ruhutv.com/ipo/?cid=/Sony_Six_SD/Sony_Six_SD_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Six_SD/Sony_Six_SD_800.m3u8
 #EXTINF:0, group-title="English",Sony Six HD
-http://ruhutv.com/ipo/?cid=/Six_HD/Six_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Six_HD/Six_HD_800.m3u8
 #EXTINF:0, group-title="English",Star Sports HD 1
-http://ruhutv.com/ipo/?cid=/Star_Sports_HD_1/Star_Sports_HD_1_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
 #EXTINF:0, group-title="English",Star Sports HD 2
-http://ruhutv.com/ipo/?cid=/Star_Sports_HD_2/Star_Sports_HD_2_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
 #EXTINF:0, group-title="English",Star Sports Select HD 1
-http://ruhutv.com/ipo/?cid=/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_800.m3u8
 #EXTINF:0, group-title="English",Star Sports Select HD 2
-http://ruhutv.com/ipo/?cid=/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 1
-http://ruhutv.com/ipo/?cid=/Ten_1/Ten_1_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten_1/Ten_1_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 1 HD
-http://ruhutv.com/ipo/?cid=/Ten_HD/Ten_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten_HD/Ten_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 2
-http://ruhutv.com/ipo/?cid=/Ten_2/Ten_2_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten_2/Ten_2_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 2 HD
-http://ruhutv.com/ipo/?cid=/Ten2_HD/Ten2_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten2_HD/Ten2_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 3
-http://ruhutv.com/ipo/?cid=/Ten_3/Ten_3_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten_3/Ten_3_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 3 HD
-http://ruhutv.com/ipo/?cid=/Ten3_HD/Ten3_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten3_HD/Ten3_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten Golf HD
-http://ruhutv.com/ipo/?cid=/Ten_Golf_HD/Ten_Golf_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
 #EXTINF:0, group-title="English",Times Now
-http://ruhutv.com/ipo/?cid=/Times_NOW/Times_NOW_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Times_NOW/Times_NOW_800.m3u8
 #EXTINF:0, group-title="English",Times Now HD
-http://ruhutv.com/ipo/?cid=/Times_Now_HD/Times_Now_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Times_Now_HD/Times_Now_HD_800.m3u8
 #EXTINF:0, group-title="English",TLC
-http://ruhutv.com/ipo/?cid=/TLC_English/TLC_English_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TLC_English/TLC_English_800.m3u8
 #EXTINF:0, group-title="English",TLC HD World
-http://ruhutv.com/ipo/?cid=/TLC_HD_World/TLC_HD_World_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TLC_HD_World/TLC_HD_World_800.m3u8
 #EXTINF:0, group-title="English",Toonami
-http://ruhutv.com/ipo/?cid=/Toonami/Toonami_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Toonami/Toonami_800.m3u8
 #EXTINF:0, group-title="English",Travel XP HD
-http://ruhutv.com/ipo/?cid=/Travel_XP_HD/Travel_XP_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Travel_XP_HD/Travel_XP_HD_800.m3u8
 #EXTINF:0, group-title="English",TV 5 Monde Asie
-http://ruhutv.com/ipo/?cid=/TV_5_Monde/TV_5_Monde_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV_5_Monde/TV_5_Monde_800.m3u8
 #EXTINF:0, group-title="English",WB
-http://ruhutv.com/ipo/?cid=/WB/WB_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/WB/WB_800.m3u8
 #EXTINF:0, group-title="Hindi",& Pictures HD
-http://ruhutv.com/ipo/?cid=/And_Pictures_HD/And_Pictures_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/And_Pictures_HD/And_Pictures_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",& TV HD
-http://ruhutv.com/ipo/?cid=/And_TV_HD/And_TV_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/And_TV_HD/And_TV_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",9X Jalwa
-http://ruhutv.com/ipo/?cid=/9X_Jalwa/9X_Jalwa_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/9X_Jalwa/9X_Jalwa_800.m3u8
 #EXTINF:0, group-title="Hindi",9XM
-http://ruhutv.com/ipo/?cid=/9XM/9XM_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/9XM/9XM_800.m3u8
 #EXTINF:0, group-title="Hindi",A1 TV
-http://ruhutv.com/ipo/?cid=/A1_TV_Rajasthan/A1_TV_Rajasthan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/A1_TV_Rajasthan/A1_TV_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Aaj Tak
-http://ruhutv.com/ipo/?cid=/Aaj_Tak/Aaj_Tak_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Aaj_Tak/Aaj_Tak_800.m3u8
 #EXTINF:0, group-title="Hindi",Aastha
-http://ruhutv.com/ipo/?cid=/Aastha/Aastha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Aastha/Aastha_800.m3u8
 #EXTINF:0, group-title="Hindi",Aastha Bhajan
-http://ruhutv.com/ipo/?cid=/Aastha_Bhajan/Aastha_Bhajan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Aastha_Bhajan/Aastha_Bhajan_800.m3u8
 #EXTINF:0, group-title="Hindi",ABP News India
-http://ruhutv.com/ipo/?cid=/ABP_News_India/ABP_News_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ABP_News_India/ABP_News_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Adhyatam
-http://ruhutv.com/ipo/?cid=/Adhyatam/Adhyatam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Adhyatam/Adhyatam_800.m3u8
 #EXTINF:0, group-title="Hindi",Animal Planet (Hindi)
-http://ruhutv.com/ipo/?cid=/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",APN News
-http://ruhutv.com/ipo/?cid=/APN_News/APN_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/APN_News/APN_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Arihant
-http://ruhutv.com/ipo/?cid=/Arihant_TV/Arihant_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Arihant_TV/Arihant_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",B4U Movies
-http://ruhutv.com/ipo/?cid=/B4U_Movies/B4U_Movies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/B4U_Movies/B4U_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",B4U Music
-http://ruhutv.com/ipo/?cid=/B4U_Music/B4U_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/B4U_Music/B4U_Music_800.m3u8
 #EXTINF:0, group-title="Hindi",Bhakti Sagar
-http://ruhutv.com/ipo/?cid=/Bhaktisagar_2/Bhaktisagar_2_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Bhaktisagar_2/Bhaktisagar_2_800.m3u8
 #EXTINF:0, group-title="Hindi",Bharat Samachar
-http://ruhutv.com/ipo/?cid=/Bharat_Samachar/Bharat_Samachar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Bharat_Samachar/Bharat_Samachar_800.m3u8
 #EXTINF:0, group-title="Hindi",Brilliant Living TV
-http://ruhutv.com/ipo/?cid=/Brilliant_TV_Hindi/Brilliant_TV_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Brilliant_TV_Hindi/Brilliant_TV_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Care World
-http://ruhutv.com/ipo/?cid=/Care_World/Care_World_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Care_World/Care_World_800.m3u8
 #EXTINF:0, group-title="Hindi",Cartoon Network (Hindi)
-http://ruhutv.com/ipo/?cid=/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Channel One News
-http://ruhutv.com/ipo/?cid=/Channel_One_News/Channel_One_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Channel_One_News/Channel_One_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Channel V HD
-http://ruhutv.com/ipo/?cid=/Channel_V/Channel_V_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Channel_V/Channel_V_800.m3u8
 #EXTINF:0, group-title="Hindi",CNBC Awaaz
-http://ruhutv.com/ipo/?cid=/CNBC_Awaaz/CNBC_Awaaz_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CNBC_Awaaz/CNBC_Awaaz_800.m3u8
 #EXTINF:0, group-title="Hindi",Colors HD
-http://ruhutv.com/ipo/?cid=/Colors_HD/Colors_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_HD/Colors_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Dabangg
-http://ruhutv.com/ipo/?cid=/Dabangg/Dabangg_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Dabangg/Dabangg_800.m3u8
 #EXTINF:0, group-title="Hindi",Darshan 24
-http://ruhutv.com/ipo/?cid=/Darshan_24/Darshan_24_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Darshan_24/Darshan_24_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Bharati
-http://ruhutv.com/ipo/?cid=/DD_bharati/DD_bharati_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_bharati/DD_bharati_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Bihar
-http://ruhutv.com/ipo/?cid=/DD_Bihar/DD_Bihar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Bihar/DD_Bihar_800.m3u8
 #EXTINF:0, group-title="Hindi",DD India
-http://ruhutv.com/ipo/?cid=/DD_India/DD_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_India/DD_India_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Kisan
-http://ruhutv.com/ipo/?cid=/DD_Kisan/DD_Kisan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Kisan/DD_Kisan_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Lok Sabha
-http://ruhutv.com/ipo/?cid=/Loksabha_TV/Loksabha_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Loksabha_TV/Loksabha_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",DD MP
-http://ruhutv.com/ipo/?cid=/DD_Madhya_Pradesh/DD_Madhya_Pradesh_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Madhya_Pradesh/DD_Madhya_Pradesh_800.m3u8
 #EXTINF:0, group-title="Hindi",DD National
-http://ruhutv.com/ipo/?cid=/DD_National/DD_National_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_National/DD_National_800.m3u8
 #EXTINF:0, group-title="Hindi",DD News
-http://ruhutv.com/ipo/?cid=/DD_News/DD_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_News/DD_News_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Raj 
-http://ruhutv.com/ipo/?cid=/DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Rajya Sabha
-http://ruhutv.com/ipo/?cid=/DD_Rajyasabha/DD_Rajyasabha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Rajyasabha/DD_Rajyasabha_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Sports
-http://ruhutv.com/ipo/?cid=/DD_Sports/DD_Sports_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Sports/DD_Sports_800.m3u8
 #EXTINF:0, group-title="Hindi",DD UP
-http://ruhutv.com/ipo/?cid=/DD_Uttar_Pradesh/DD_Uttar_Pradesh_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Uttar_Pradesh/DD_Uttar_Pradesh_800.m3u8
 #EXTINF:0, group-title="Hindi",Delhi Aaj Tak
-http://ruhutv.com/ipo/?cid=/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
 #EXTINF:0, group-title="Hindi",Dhamaal TV
-http://ruhutv.com/ipo/?cid=/Dhamaal_TV/Dhamaal_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Dhamaal_TV/Dhamaal_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Dillagi TV
-http://ruhutv.com/ipo/?cid=/Dillagi_TV/Dillagi_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Dillagi_TV/Dillagi_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Discovery Channel (Hindi)
-http://ruhutv.com/ipo/?cid=/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Discovery Kids 2
-http://ruhutv.com/ipo/?cid=/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
 #EXTINF:0, group-title="Hindi",Disha TV
-http://ruhutv.com/ipo/?cid=/Disha_tv/Disha_tv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Disha_tv/Disha_tv_800.m3u8
 #EXTINF:0, group-title="Hindi",Divya TV
-http://ruhutv.com/ipo/?cid=/Divya_TV/Divya_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Divya_TV/Divya_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",DNN
-http://ruhutv.com/ipo/?cid=/DNN/DNN_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DNN/DNN_800.m3u8
 #EXTINF:0, group-title="Hindi",E 24
-http://ruhutv.com/ipo/?cid=/E_24/E_24_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/E_24/E_24_800.m3u8
 #EXTINF:0, group-title="Hindi",Enterr 10
-http://ruhutv.com/ipo/?cid=/Enterr_10/Enterr_10_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Enterr_10/Enterr_10_800.m3u8
 #EXTINF:0, group-title="Hindi",Epic HD
-http://ruhutv.com/ipo/?cid=/Epic_HD/Epic_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Epic_HD/Epic_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",News18 PB HR HP
-http://ruhutv.com/ipo/?cid=/ETV_Haryana_and_HP_News/ETV_Haryana_and_HP_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Haryana_and_HP_News/ETV_Haryana_and_HP_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Etv MP
-http://ruhutv.com/ipo/?cid=/ETV_MP/ETV_MP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_MP/ETV_MP_800.m3u8
 #EXTINF:0, group-title="Hindi",Etv Raj
-http://ruhutv.com/ipo/?cid=/ETV_RAJASTHAN/ETV_RAJASTHAN_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_RAJASTHAN/ETV_RAJASTHAN_800.m3u8
 #EXTINF:0, group-title="Hindi",Etv UP UK
-http://ruhutv.com/ipo/?cid=/ETV_UP/ETV_UP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_UP/ETV_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",Ist India Raj
-http://ruhutv.com/ipo/?cid=/First_India_News/First_India_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/First_India_News/First_India_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Food Food
-http://ruhutv.com/ipo/?cid=/Food_Food/Food_Food_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Food_Food/Food_Food_800.m3u8
 #EXTINF:0, group-title="Hindi",Green TV
-http://ruhutv.com/ipo/?cid=/Green_TV/Green_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Green_TV/Green_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Hare krsna
-http://ruhutv.com/ipo/?cid=/Harekrsna/Harekrsna_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Harekrsna/Harekrsna_800.m3u8
 #EXTINF:0, group-title="Hindi",Hindi Khabar
-http://ruhutv.com/ipo/?cid=/Hindi_Khabar/Hindi_Khabar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Hindi_Khabar/Hindi_Khabar_800.m3u8
 #EXTINF:0, group-title="Hindi",History HD (Hindi)
-http://ruhutv.com/ipo/?cid=/History_18_Hindi/History_18_Hindi_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/History_18_Hindi/History_18_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Home Shop 18
-http://ruhutv.com/ipo/?cid=/home_shop_18/home_shop_18_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/home_shop_18/home_shop_18_800.m3u8
 #EXTINF:0, group-title="Hindi",Housefull Action
-http://ruhutv.com/ipo/?cid=/Housefull_Action/Housefull_Action_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Housefull_Action/Housefull_Action_800.m3u8
 #EXTINF:0, group-title="Hindi",Housefull Movies
-http://ruhutv.com/ipo/?cid=/Housefull_Movies/Housefull_Movies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Housefull_Movies/Housefull_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",IBC 24
-http://ruhutv.com/ipo/?cid=/IBC-24/IBC-24_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/IBC-24/IBC-24_800.m3u8
 #EXTINF:0, group-title="Hindi",ID
-http://ruhutv.com/ipo/?cid=/ID/ID_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ID/ID_800.m3u8
 #EXTINF:0, group-title="Hindi",India News
-http://ruhutv.com/ipo/?cid=/India_news/India_news_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_news/India_news_800.m3u8
 #EXTINF:0, group-title="Hindi",India News HR
-http://ruhutv.com/ipo/?cid=/India_News_Haryana/India_News_Haryana_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_News_Haryana/India_News_Haryana_800.m3u8
 #EXTINF:0, group-title="Hindi",India News MP
-http://ruhutv.com/ipo/?cid=/India_News_MP/India_News_MP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_News_MP/India_News_MP_800.m3u8
 #EXTINF:0, group-title="Hindi",India News Raj
-http://ruhutv.com/ipo/?cid=/India_News_Rajasthan/India_News_Rajasthan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_News_Rajasthan/India_News_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",India News UP
-http://ruhutv.com/ipo/?cid=/India_News_UP/India_News_UP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_News_UP/India_News_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",India TV
-http://ruhutv.com/ipo/?cid=/India_TV/India_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_TV/India_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",India Voice
-http://ruhutv.com/ipo/?cid=/India_Voice/India_Voice_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/India_Voice/India_Voice_800.m3u8
 #EXTINF:0, group-title="Hindi",inh 24x7
-http://ruhutv.com/ipo/?cid=/INH_24x7/INH_24x7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/INH_24x7/INH_24x7_800.m3u8
 #EXTINF:0, group-title="Hindi",Ishwar 
-http://ruhutv.com/ipo/?cid=/Ishwar_TV/Ishwar_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ishwar_TV/Ishwar_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Jan TV
-http://ruhutv.com/ipo/?cid=/Jan_TV/Jan_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jan_TV/Jan_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Janta TV
-http://ruhutv.com/ipo/?cid=/Janta_TV/Janta_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Janta_TV/Janta_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Jinvani
-http://ruhutv.com/ipo/?cid=/Jinvani_TV/Jinvani_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jinvani_TV/Jinvani_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",JK 24x7 News
-http://ruhutv.com/ipo/?cid=/JK_24x7_News/JK_24x7_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/JK_24x7_News/JK_24x7_News_800.m3u8
 #EXTINF:0, group-title="Hindi",K News
-http://ruhutv.com/ipo/?cid=/K_News_India/K_News_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/K_News_India/K_News_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Kashish News
-http://ruhutv.com/ipo/?cid=/Kashish_News/Kashish_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kashish_News/Kashish_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Katyayani
-http://ruhutv.com/ipo/?cid=/Katyayani/Katyayani_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Katyayani/Katyayani_800.m3u8
 #EXTINF:0, group-title="Hindi",Khabar Fast
-http://ruhutv.com/ipo/?cid=/Khabar_Fast/Khabar_Fast_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Khabar_Fast/Khabar_Fast_800.m3u8
 #EXTINF:0, group-title="Hindi",Live Today
-http://ruhutv.com/ipo/?cid=/Live_Today/Live_Today_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Live_Today/Live_Today_800.m3u8
 #EXTINF:0, group-title="Hindi",Living India News
-http://ruhutv.com/ipo/?cid=/Living_India_News/Living_India_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Living_India_News/Living_India_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Maha Cartoon TV
-http://ruhutv.com/ipo/?cid=/Maha_Cartoon/Maha_Cartoon_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maha_Cartoon/Maha_Cartoon_800.m3u8
 #EXTINF:0, group-title="Hindi",Maha Movie
-http://ruhutv.com/ipo/?cid=/Maha_Movies/Maha_Movies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maha_Movies/Maha_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",Mastiii
-http://ruhutv.com/ipo/?cid=/Mastiii/Mastiii_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mastiii/Mastiii_800.m3u8
 #EXTINF:0, group-title="Hindi",mh1 News
-http://ruhutv.com/ipo/?cid=/Mh_One_News/Mh_One_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mh_One_News/Mh_One_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Movies OK HD
-http://ruhutv.com/ipo/?cid=/Movies_OK/Movies_OK_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Movies_OK/Movies_OK_800.m3u8
 #EXTINF:0, group-title="Hindi",MTV
-http://ruhutv.com/ipo/?cid=/MTV/MTV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MTV/MTV_800.m3u8
 #EXTINF:0, group-title="Hindi",MTV Beats HD
-http://ruhutv.com/ipo/?cid=/MTV_Beats_HD/MTV_Beats_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MTV_Beats_HD/MTV_Beats_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Music India
-http://ruhutv.com/ipo/?cid=/Music_India/Music_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Music_India/Music_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Nation Live
-http://ruhutv.com/ipo/?cid=/Nation_Live_News/Nation_Live_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nation_Live_News/Nation_Live_News_800.m3u8
 #EXTINF:0, group-title="Hindi",National Voice UP UK
-http://ruhutv.com/ipo/?cid=/National_Voice/National_Voice_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/National_Voice/National_Voice_800.m3u8
 #EXTINF:0, group-title="Hindi",Navagraha
-http://ruhutv.com/ipo/?cid=/Navagraha/Navagraha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Navagraha/Navagraha_800.m3u8
 #EXTINF:0, group-title="Hindi",NDTV India
-http://ruhutv.com/ipo/?cid=/NDTV_India/NDTV_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/NDTV_India/NDTV_India_800.m3u8
 #EXTINF:0, group-title="Hindi",News 1 India
-http://ruhutv.com/ipo/?cid=/News_1_India/News_1_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_1_India/News_1_India_800.m3u8
 #EXTINF:0, group-title="Hindi",News 11
-http://ruhutv.com/ipo/?cid=/News11/News11_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News11/News11_800.m3u8
 #EXTINF:0, group-title="Hindi",News 18 India
-http://ruhutv.com/ipo/?cid=/IBN_7/IBN_7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/IBN_7/IBN_7_800.m3u8
 #EXTINF:0, group-title="Hindi",News 24
-http://ruhutv.com/ipo/?cid=/News_24/News_24_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_24/News_24_800.m3u8
 #EXTINF:0, group-title="Hindi",News India 24x7
-http://ruhutv.com/ipo/?cid=/News_India_24_X_7/News_India_24_X_7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_India_24_X_7/News_India_24_X_7_800.m3u8
 #EXTINF:0, group-title="Hindi",News Nation
-http://ruhutv.com/ipo/?cid=/News_Nation/News_Nation_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_Nation/News_Nation_800.m3u8
 #EXTINF:0, group-title="Hindi",News State UK UP
-http://ruhutv.com/ipo/?cid=/News_State_UK_UP/News_State_UK_UP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_State_UK_UP/News_State_UK_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",News World India
-http://ruhutv.com/ipo/?cid=/News_World_India/News_World_India_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_World_India/News_World_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Nick (Hindi)
-http://ruhutv.com/ipo/?cid=/Nick_Hindi/Nick_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nick_Hindi/Nick_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Nick Jr (Hindi)
-http://ruhutv.com/ipo/?cid=/Nick_Junior/Nick_Junior_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nick_Junior/Nick_Junior_800.m3u8
 #EXTINF:0, group-title="Hindi",Om Shanti
-http://ruhutv.com/ipo/?cid=/Om_Shanti/Om_Shanti_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Om_Shanti/Om_Shanti_800.m3u8
 #EXTINF:0, group-title="Hindi",Paras TV
-http://ruhutv.com/ipo/?cid=/Paras_tv/Paras_tv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Paras_tv/Paras_tv_800.m3u8
 #EXTINF:0, group-title="Hindi",Peace of Mind
-http://ruhutv.com/ipo/?cid=/Peace_of_Mind/Peace_of_Mind_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Peace_of_Mind/Peace_of_Mind_800.m3u8
 #EXTINF:0, group-title="Hindi",Play My Play
-http://ruhutv.com/ipo/?cid=/PlayMyPlay/PlayMyPlay_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/PlayMyPlay/PlayMyPlay_800.m3u8
 #EXTINF:0, group-title="Hindi",Pogo (Hindi)
-http://ruhutv.com/ipo/?cid=/Pogo_Hindi/Pogo_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Pogo_Hindi/Pogo_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Prime News
-http://ruhutv.com/ipo/?cid=/Prime_News/Prime_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Prime_News/Prime_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Prudent
-http://ruhutv.com/ipo/?cid=/PrudentHD/PrudentHD_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/PrudentHD/PrudentHD_800.m3u8
 #EXTINF:0, group-title="Hindi",Raj Pariwar TV
-http://ruhutv.com/ipo/?cid=/Raj_Pariwar/Raj_Pariwar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_Pariwar/Raj_Pariwar_800.m3u8
 #EXTINF:0, group-title="Hindi",Rishtey
-http://ruhutv.com/ipo/?cid=/Rishtey/Rishtey_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Rishtey/Rishtey_800.m3u8
 #EXTINF:0, group-title="Hindi",Rishtey Cineplex
-http://ruhutv.com/ipo/?cid=/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
 #EXTINF:0, group-title="Hindi",Sadhna
-http://ruhutv.com/ipo/?cid=/Sadhna/Sadhna_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sadhna/Sadhna_800.m3u8
 #EXTINF:0, group-title="Hindi",Sadhna News Plus
-http://ruhutv.com/ipo/?cid=/Sadhna_News_Plus/Sadhna_News_Plus_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sadhna_News_Plus/Sadhna_News_Plus_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay Bihar JH
-http://ruhutv.com/ipo/?cid=/Sahara_Samay_Bihar/Sahara_Samay_Bihar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sahara_Samay_Bihar/Sahara_Samay_Bihar_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay MP CG
-http://ruhutv.com/ipo/?cid=/SAHARA_SAMAY_MP/SAHARA_SAMAY_MP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/SAHARA_SAMAY_MP/SAHARA_SAMAY_MP_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay MH GJ
-http://ruhutv.com/ipo/?cid=/Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay Rastriya
-http://ruhutv.com/ipo/?cid=/Sahara_Samay_Rastriya/Sahara_Samay_Rastriya_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sahara_Samay_Rastriya/Sahara_Samay_Rastriya_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay UP UK
-http://ruhutv.com/ipo/?cid=/SAHARA_SAMAY_UP/SAHARA_SAMAY_UP_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/SAHARA_SAMAY_UP/SAHARA_SAMAY_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",Samachar Plus UP UK
-http://ruhutv.com/ipo/?cid=/Samachar_Plus/Samachar_Plus_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Samachar_Plus/Samachar_Plus_800.m3u8
 #EXTINF:0, group-title="Hindi",Samachar Plus Raj
-http://ruhutv.com/ipo/?cid=/Samachar_Plus_Rajasthan/Samachar_Plus_Rajasthan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Samachar_Plus_Rajasthan/Samachar_Plus_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay Raj HR NCR
-http://ruhutv.com/ipo/?cid=/Samay_Rajasthan/Samay_Rajasthan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Samay_Rajasthan/Samay_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Sanatan
-http://ruhutv.com/ipo/?cid=/Sanatan_TV/Sanatan_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sanatan_TV/Sanatan_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Sanskar
-http://ruhutv.com/ipo/?cid=/Sanskar/Sanskar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sanskar/Sanskar_800.m3u8
 #EXTINF:0, group-title="Hindi",Satsang
-http://ruhutv.com/ipo/?cid=/Satsang_TV/Satsang_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Satsang_TV/Satsang_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Shubhsanesh TV
-http://ruhutv.com/ipo/?cid=/Shubh_TV/Shubh_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Shubh_TV/Shubh_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Shubhsandesh
-http://ruhutv.com/ipo/?cid=/Shubhsandesh_TV/Shubhsandesh_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Shubhsandesh_TV/Shubhsandesh_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Nick Sonic (Hindi)
-http://ruhutv.com/ipo/?cid=/sonic_Hindi/sonic_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/sonic_Hindi/sonic_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony BBC Earth HD
-http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony TV HD
-http://ruhutv.com/ipo/?cid=/Sony_HD/Sony_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_HD/Sony_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony MAX 2
-http://ruhutv.com/ipo/?cid=/Sony_MAX2/Sony_MAX2_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Max HD
-http://ruhutv.com/ipo/?cid=/Sony_Max_HD/Sony_Max_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Max_HD/Sony_Max_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Mix
-http://ruhutv.com/ipo/?cid=/Sony_Mix/Sony_Mix_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Mix/Sony_Mix_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Pal
-http://ruhutv.com/ipo/?cid=/Sony_Pal/Sony_Pal_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Pal/Sony_Pal_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Rox HD
-http://ruhutv.com/ipo/?cid=/Sony_Rox_HD/Sony_Rox_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Rox_HD/Sony_Rox_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Sab
-http://ruhutv.com/ipo/?cid=/Sony_SAB/Sony_SAB_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_SAB/Sony_SAB_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Sab HD
-http://ruhutv.com/ipo/?cid=/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_SAB_HD/Sony_SAB_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Yay!
-http://ruhutv.com/ipo/?cid=/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Bharat HD
-http://ruhutv.com/ipo/?cid=/Star_Bharat_HD/Star_Bharat_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Bharat_HD/Star_Bharat_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Gold HD
-http://ruhutv.com/ipo/?cid=/Star_Gold_HD/Star_Gold_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Gold_HD/Star_Gold_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Plus HD
-http://ruhutv.com/ipo/?cid=/Star_Plus_HD/Star_Plus_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Plus_HD/Star_Plus_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Sports HD 3
-http://ruhutv.com/ipo/?cid=/Star_Sports_3/Star_Sports_3_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Sports_3/Star_Sports_3_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Utsav
-http://ruhutv.com/ipo/?cid=/Star_Utsav/Star_Utsav_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Utsav/Star_Utsav_800.m3u8
 #EXTINF:0, group-title="Hindi",Sudarshan TV
-http://ruhutv.com/ipo/?cid=/Sudarshan/Sudarshan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sudarshan/Sudarshan_800.m3u8
 #EXTINF:0, group-title="Hindi",Swaraj Express
-http://ruhutv.com/ipo/?cid=/SMBC_TV/SMBC_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/SMBC_TV/SMBC_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Taaza TV
-http://ruhutv.com/ipo/?cid=/Taaza_TV/Taaza_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Taaza_TV/Taaza_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Tez
-http://ruhutv.com/ipo/?cid=/Tez/Tez_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Tez/Tez_800.m3u8
 #EXTINF:0, group-title="Hindi",TLC Hindi
-http://ruhutv.com/ipo/?cid=/TLC_Hindi/TLC_Hindi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TLC_Hindi/TLC_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Total TV
-http://ruhutv.com/ipo/?cid=/Total_TV/Total_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Total_TV/Total_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Travel XP HD
-http://ruhutv.com/ipo/?cid=/Travel_XP_HD/Travel_XP_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Travel_XP_HD/Travel_XP_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",TV 100
-http://ruhutv.com/ipo/?cid=/TV_100/TV_100_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV_100/TV_100_800.m3u8
 #EXTINF:0, group-title="Hindi",Vedic
-http://ruhutv.com/ipo/?cid=/Vedic_TV/Vedic_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Vedic_TV/Vedic_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",VIP News
-http://ruhutv.com/ipo/?cid=/VIP_News/VIP_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/VIP_News/VIP_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Action
-http://ruhutv.com/ipo/?cid=/Zee_Action/Zee_Action_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Action/Zee_Action_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Anmol
-http://ruhutv.com/ipo/?cid=/Zee_Anmol/Zee_Anmol_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Anmol/Zee_Anmol_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Business
-http://ruhutv.com/ipo/?cid=/Zee_Business/Zee_Business_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Business/Zee_Business_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Cinema
-http://ruhutv.com/ipo/?cid=/Zee_Cinema/Zee_Cinema_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Cinema/Zee_Cinema_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Cinema HD
-http://ruhutv.com/ipo/?cid=/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Classic
-http://ruhutv.com/ipo/?cid=/Zee_Classic/Zee_Classic_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Classic/Zee_Classic_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee etc
-http://ruhutv.com/ipo/?cid=/etc/etc_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/etc/etc_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Hindustan
-http://ruhutv.com/ipo/?cid=/Zee_SANGAM/Zee_SANGAM_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_SANGAM/Zee_SANGAM_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee News
-http://ruhutv.com/ipo/?cid=/Zee_News/Zee_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_News/Zee_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee MP CG
-http://ruhutv.com/ipo/?cid=/Zee_News_MP_Chattisgarh/Zee_News_MP_Chattisgarh_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_News_MP_Chattisgarh/Zee_News_MP_Chattisgarh_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Raj
-http://ruhutv.com/ipo/?cid=/Zee_Rajasthan/Zee_Rajasthan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Rajasthan/Zee_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee TV HD
-http://ruhutv.com/ipo/?cid=/Zee_TV_HD/Zee_TV_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_TV_HD/Zee_TV_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Zing
-http://ruhutv.com/ipo/?cid=/Zing/Zing_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zing/Zing_800.m3u8
 #EXTINF:0, group-title="Hindi",Zoom
-http://ruhutv.com/ipo/?cid=/ZOOM/ZOOM_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ZOOM/ZOOM_800.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",9X Tashan
-http://ruhutv.com/ipo/?cid=/9X_Tashan/9X_Tashan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/9X_Tashan/9X_Tashan_800.m3u8
+#EXTINF:0, group-title="Punjabi",Akaal
+http://130.185.144.63:8000/live/punjabi/punjabi/183.ts
+#EXTINF:0, group-title="Punjabi",Ankhila Punjab
+http://streamxcode.ddns.net:25461/live/chec/checked/5119.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Punjabi
+http://live.wmncdn.net/abr/797ce155156c55b75be98e9a764cefb7.m3u8
+#EXTINF:0, group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",BnB
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood
-http://ruhutv.com/ipo/?cid=/Boogle_Bollywood/Boogle_Bollywood_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Boogle_Bollywood/Boogle_Bollywood_800.m3u8
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood 
+http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Brit Asia
+http://130.185.144.63:8000/live/punjabi/punjabi/169.ts
+#EXTINF:0, group-title="Punjabi",BritAsia
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://209.153.233.92:7000/chakde/index.m3u8
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://streamxcode.ddns.net:25461/live/chec/checked/5157.ts|refferer=http://solidstreamz.com/&user-agent=ed
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
-http://ruhutv.com/ipo/?cid=/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
+#EXTINF:0, group-title="Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
-http://ruhutv.com/ipo/?cid=/DD_Punjabi/DD_Punjabi_800.m3u8
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Channel
-http://ruhutv.com/ipo/?cid=/Desi_Channel/Desi_Channel_800.m3u8
+http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Dhur Ki Baani
+http://streamxcode.ddns.net:25461/live/chec/checked/5172.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",DPD Punjabi HD
+http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",E9 Punjabi
+http://streamxcode.ddns.net:25461/live/chec/checked/5141.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Etc Punjabi
+http://130.185.144.63:8000/live/punjabi/punjabi/171.ts
+#EXTINF:0, group-title="Punjabi",Fateh TV
+http://streamxcode.ddns.net:25461/live/chec/checked/5155.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Fateh TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD324L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Garv Gurbani TV
+http://streamxcode.ddns.net:25461/live/chec/checked/5169.ts|refferer=http://solidstreamz.com/&user-agent=ed
 #EXTINF:0, group-title="Punjabi",Garv Punjab
-http://ruhutv.com/ipo/?cid=/Garv_Punjabi/Garv_Punjabi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Garv_Punjabi/Garv_Punjabi_800.m3u8
 #EXTINF:0, group-title="Punjabi",Garv Punjab Gurbani
-http://ruhutv.com/ipo/?cid=/Garv_Gurbani/Garv_Gurbani_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Garv_Gurbani/Garv_Gurbani_800.m3u8
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab
+http://streamxcode.ddns.net:25461/live/chec/checked/5147.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Global Punjab
+http://104.237.59.106/live/Global_punjab.m3u8
+#EXTINF:0, group-title="Punjabi",Global Sanjh
+http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani TV
+http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Gurmit Channel
+http://streamxcode.ddns.net:25461/live/chec/checked/5134.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Hamdard TV
+http://130.185.144.63:8000/live/punjabi/punjabi/1115.ts
+#EXTINF:0, group-title="Punjabi",Jhanjar HD
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi",jus 24x7
-http://ruhutv.com/ipo/?cid=/JUS24x7/JUS24x7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/JUS24x7/JUS24x7_800.m3u8
 #EXTINF:0, group-title="Punjabi",jus One
-http://ruhutv.com/ipo/?cid=/JUSOne/JUSOne_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/JUSOne/JUSOne_800.m3u8
+#EXTINF:0, group-title="Punjabi",Jus One TV
+http://130.185.144.63:8000/live/punjabi/punjabi/180.ts
 #EXTINF:0, group-title="Punjabi",jus Punjabi
-http://ruhutv.com/ipo/?cid=/JUSPunjabi/JUSPunjabi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/JUSPunjabi/JUSPunjabi_800.m3u8
+#EXTINF:0, group-title="Punjabi",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Manjhe Te Speaker
+http://streamxcode.ddns.net:25461/live/chec/checked/5160.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Mh 1
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
+#EXTINF:0, group-title="Punjabi",Mh1
+http://130.185.144.63:8000/live/punjabi/punjabi/177.ts
 #EXTINF:0, group-title="Punjabi",mh1 Music
-http://ruhutv.com/ipo/?cid=/mh1_Music/mh1_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/mh1_Music/mh1_Music_800.m3u8
+#EXTINF:0, group-title="Punjabi",Mh1 News
+http://130.185.144.63:8000/live/punjabi/punjabi/1117.ts
 #EXTINF:0, group-title="Punjabi",mh1 Shraddha
-http://ruhutv.com/ipo/?cid=/mh1_Shraddha/mh1_Shraddha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/mh1_Shraddha/mh1_Shraddha_800.m3u8
+#EXTINF:0, group-title="Punjabi",Mirror Punjab
+http://streamxcode.ddns.net:25461/live/chec/checked/5132.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",NDA Channel
+http://streamxcode.ddns.net:25461/live/chec/checked/5117.ts|refferer=http://solidstreamz.com/&user-agent=ed
 #EXTINF:0, group-title="Punjabi",Only Music
-http://ruhutv.com/ipo/?cid=/Only_Music/Only_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Only_Music/Only_Music_800.m3u8
+#EXTINF:0, group-title="Punjabi",Only Music HD
+http://130.185.144.63:8000/live/punjabi/punjabi/154.ts
+#EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",OZ TV Channel
+http://streamxcode.ddns.net:25461/live/chec/checked/51648.ts|refferer=http://solidstreamz.com/&user-agent=ed
 #EXTINF:0, group-title="Punjabi",PBN Music
-http://ruhutv.com/ipo/?cid=/PBN_Music/PBN_Music_800.m3u8
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
-http://ruhutv.com/ipo/?cid=/Pitaara/Pitaara_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Pitaara/Pitaara_800.m3u8
+#EXTINF:0, group-title="Punjabi",Prime Asia
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Chakde
+http://130.185.144.63:8000/live/punjabi/punjabi/173.ts
+#EXTINF:0, group-title="Punjabi",PTC News
+http://streamxcode.ddns.net:25461/live/chec/checked/5135.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",PTC News UK
+http://streamxcode.ddns.net:25461/live/chec/checked/5136.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://130.185.144.63:8000/live/punjabi/punjabi/172.ts
+#EXTINF:0, group-title="Punjabi",PTC Punjabi UK
+http://streamxcode.ddns.net:25461/live/chec/checked/5126.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",PTN 24
+http://streamxcode.ddns.net:25461/live/chec/checked/5115.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Punjab TV
+http://130.185.144.63:8000/live/punjabi/punjabi/170.ts
+#EXTINF:0, group-title="Punjabi",RTV HD
+http://streamxcode.ddns.net:25461/live/chec/checked/5122.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Sahib TV
+http://streamxcode.ddns.net:25461/live/chec/checked/5178.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Sangat TV
+http://130.185.144.63:8000/live/punjabi/punjabi/182.ts
+#EXTINF:0, group-title="Punjabi",Sanjh TV
+http://130.185.144.63:8000/live/punjabi/punjabi/1120.ts
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha TV
-http://ruhutv.com/ipo/?cid=/Sanjha_TV/Sanjha_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sanjha_TV/Sanjha_TV_800.m3u8
+#EXTINF:0, group-title="Punjabi",Sikh Channel
+http://130.185.144.63:8000/live/punjabi/punjabi/181.ts
+#EXTINF:0, group-title="Punjabi",Steelbird  Music
+http://streamxcode.ddns.net:25461/live/chec/checked/5140.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Steelbird Music (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD343L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Punjabi",Tag TV
+http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",TV 84
+http://streamxcode.ddns.net:25461/live/chec/checked/5156.ts|refferer=http://solidstreamz.com/&user-agent=ed
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
-http://ruhutv.com/ipo/?cid=/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8
+#EXTINF:0, group-title="Punjabi",ZEE PUNJAB HARYANA HIMACHAL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225923/01.m3u8
+#EXTINF:0, group-title="Punjabi",Zee Punjabi
+http://130.185.144.63:8000/live/punjabi/punjabi/118.ts
+#EXTINF:0, group-title="Punjabi",Zee Punjabi UK
+http://streamxcode.ddns.net:25461/live/chec/checked/5121.ts|refferer=http://solidstreamz.com/&user-agent=ed
 #EXTINF:0, group-title="Tamil",Adithya TV
-http://ruhutv.com/ipo/?cid=/Adithya_TV/Adithya_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Adithya_TV/Adithya_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Angel TV HD
-http://ruhutv.com/ipo/?cid=/Angel_TV_HD/Angel_TV_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Angel_TV_HD/Angel_TV_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Captain News
-http://ruhutv.com/ipo/?cid=/Captain_News/Captain_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Captain_News/Captain_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Captain TV
-http://ruhutv.com/ipo/?cid=/Captain_tv/Captain_tv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Captain_tv/Captain_tv_800.m3u8
 #EXTINF:0, group-title="Tamil",Cartoon Network (Tamil)
-http://ruhutv.com/ipo/?cid=/Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Cauvery News
-http://ruhutv.com/ipo/?cid=/Cauvery_News/Cauvery_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Cauvery_News/Cauvery_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Chutti TV
-http://ruhutv.com/ipo/?cid=/Chutti_TV/Chutti_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Chutti_TV/Chutti_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",DD Podhigai
-http://ruhutv.com/ipo/?cid=/DD5_Podhigai/DD5_Podhigai_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD5_Podhigai/DD5_Podhigai_800.m3u8
 #EXTINF:0, group-title="Tamil",Discovery Channel (Tamil)
-http://ruhutv.com/ipo/?cid=/Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Discovery Kids (Tamil)
-http://ruhutv.com/ipo/?cid=/Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",History  HD (Tamil)
-http://ruhutv.com/ipo/?cid=/History_18_Tamil/History_18_Tamil_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/History_18_Tamil/History_18_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",K TV
-http://ruhutv.com/ipo/?cid=/K1_TV/K1_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/K1_TV/K1_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",KTV HD
-http://ruhutv.com/ipo/?cid=/KTV_HD/KTV_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/KTV_HD/KTV_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Lotus News
-http://ruhutv.com/ipo/?cid=/Lotus_News/Lotus_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Lotus_News/Lotus_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Madhimugam TV
-http://ruhutv.com/ipo/?cid=/Madhimugam_TV/Madhimugam_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Madhimugam_TV/Madhimugam_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Makkal TV
-http://ruhutv.com/ipo/?cid=/Makkal_TV/Makkal_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Makkal_TV/Makkal_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Malai Murasu
-http://ruhutv.com/ipo/?cid=/Malai_Murasu/Malai_Murasu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Malai_Murasu/Malai_Murasu_800.m3u8
 #EXTINF:0, group-title="Tamil",MK Mtunes
-http://ruhutv.com/ipo/?cid=/MK_Music/MK_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MK_Music/MK_Music_800.m3u8
 #EXTINF:0, group-title="Tamil",MK TV
-http://ruhutv.com/ipo/?cid=/MK_TV/MK_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MK_TV/MK_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Nambikkai
-http://ruhutv.com/ipo/?cid=/Nambikkai/Nambikkai_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nambikkai/Nambikkai_800.m3u8
 #EXTINF:0, group-title="Tamil",News 18 TN
-http://ruhutv.com/ipo/?cid=/News_18_Tamilnadu/News_18_Tamilnadu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_18_Tamilnadu/News_18_Tamilnadu_800.m3u8
 #EXTINF:0, group-title="Tamil",News 7
-http://ruhutv.com/ipo/?cid=/News7_Tamil/News7_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News7_Tamil/News7_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Nick (Tamil)
-http://ruhutv.com/ipo/?cid=/Nick_Tamil/Nick_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nick_Tamil/Nick_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Peppers TV
-http://ruhutv.com/ipo/?cid=/Peppers_TV/Peppers_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Peppers_TV/Peppers_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Pogo (Tamil)
-http://ruhutv.com/ipo/?cid=/Pogo_Tamil/Pogo_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Pogo_Tamil/Pogo_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Polimer News
-http://ruhutv.com/ipo/?cid=/Polimer_News/Polimer_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Polimer_News/Polimer_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Polimer
-http://ruhutv.com/ipo/?cid=/Polimer_TV/Polimer_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Polimer_TV/Polimer_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Puthiya Thalimurai
-http://ruhutv.com/ipo/?cid=/Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8
 #EXTINF:0, group-title="Tamil",Puthu Yugam
-http://ruhutv.com/ipo/?cid=/Puthu_Yugam/Puthu_Yugam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Puthu_Yugam/Puthu_Yugam_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj Digital Plus
-http://ruhutv.com/ipo/?cid=/Raj_Digital_Plus/Raj_Digital_Plus_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_Digital_Plus/Raj_Digital_Plus_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj Musix
-http://ruhutv.com/ipo/?cid=/Raj_Musix/Raj_Musix_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_Musix/Raj_Musix_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj News 24x7
-http://ruhutv.com/ipo/?cid=/Raj_News_24x7/Raj_News_24x7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_News_24x7/Raj_News_24x7_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj
-http://ruhutv.com/ipo/?cid=/Raj_TV/Raj_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_TV/Raj_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Sahana
-http://ruhutv.com/ipo/?cid=/Sahana_Music/Sahana_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sahana_Music/Sahana_Music_800.m3u8
 #EXTINF:0, group-title="Tamil",Sai TV
-http://ruhutv.com/ipo/?cid=/SaiTV/SaiTV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/SaiTV/SaiTV_800.m3u8
 #EXTINF:0, group-title="Tamil",Sathiyam
-http://ruhutv.com/ipo/?cid=/Sathiyam/Sathiyam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sathiyam/Sathiyam_800.m3u8
 #EXTINF:0, group-title="Tamil",Shalini Plus
-http://ruhutv.com/ipo/?cid=/MK_News/MK_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MK_News/MK_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Sonic (Tamil)
-http://ruhutv.com/ipo/?cid=/sonic_Tamil/sonic_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/sonic_Tamil/sonic_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Sony BBC Earth HD (Tamil)
-http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Sony Yay (Tamil)
-http://ruhutv.com/ipo/?cid=/Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Star Vijay HD
-http://ruhutv.com/ipo/?cid=/Star_Vijay/Star_Vijay_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Vijay/Star_Vijay_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun Life
-http://ruhutv.com/ipo/?cid=/Sun_Life/Sun_Life_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sun_Life/Sun_Life_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun Music
-http://ruhutv.com/ipo/?cid=/Sun_Music/Sun_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sun_Music/Sun_Music_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun Music HD
-http://ruhutv.com/ipo/?cid=/Sun_Music_HD/Sun_Music_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sun_Music_HD/Sun_Music_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun News
-http://ruhutv.com/ipo/?cid=/Sun_News/Sun_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sun_News/Sun_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun TV
-http://ruhutv.com/ipo/?cid=/Sun_TV/Sun_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sun_TV/Sun_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun TV HD
-http://ruhutv.com/ipo/?cid=/Sun_TV_HD/Sun_TV_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sun_TV_HD/Sun_TV_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Thanthi TV
-http://ruhutv.com/ipo/?cid=/Thanthi_TV/Thanthi_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Thanthi_TV/Thanthi_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Travel XP (Tamil)
-http://ruhutv.com/ipo/?cid=/Travel_XP_Tamil/Travel_XP_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Travel_XP_Tamil/Travel_XP_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Tunes 6 Music
-http://ruhutv.com/ipo/?cid=/Tunes_6/Tunes_6_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Tunes_6/Tunes_6_800.m3u8
 #EXTINF:0, group-title="Tamil",Vasanth
-http://ruhutv.com/ipo/?cid=/Vasanth_TV/Vasanth_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Vasanth_TV/Vasanth_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Vendhar TV
-http://ruhutv.com/ipo/?cid=/Vendhar_TV/Vendhar_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Vendhar_TV/Vendhar_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Zee Tamil
-http://ruhutv.com/ipo/?cid=/Zee_Tamil/Zee_Tamil_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Tamil/Zee_Tamil_800.m3u8
 #EXTINF:0, group-title="Telugu",10 TV
-http://ruhutv.com/ipo/?cid=/10_TV/10_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/10_TV/10_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",ABN Andhra Jyothi
-http://ruhutv.com/ipo/?cid=/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
 #EXTINF:0, group-title="Telugu",Aradhana
-http://ruhutv.com/ipo/?cid=/Aradhana_TV/Aradhana_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Aradhana_TV/Aradhana_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Bhakti TV
-http://ruhutv.com/ipo/?cid=/Bhakti_TV/Bhakti_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Bhakti_TV/Bhakti_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Cartoon Network (Telugu)
-http://ruhutv.com/ipo/?cid=/Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",CVR Health
-http://ruhutv.com/ipo/?cid=/CVR_Health/CVR_Health_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CVR_Health/CVR_Health_800.m3u8
 #EXTINF:0, group-title="Telugu",CVR News
-http://ruhutv.com/ipo/?cid=/CVR_News/CVR_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CVR_News/CVR_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Om CVR Spiritual
-http://ruhutv.com/ipo/?cid=/CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8
 #EXTINF:0, group-title="Telugu",DD Saptagiri
-http://ruhutv.com/ipo/?cid=/DD_Saptagiri/DD_Saptagiri_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Saptagiri/DD_Saptagiri_800.m3u8
 #EXTINF:0, group-title="Telugu",Discovery Channel (Telugu)
-http://ruhutv.com/ipo/?cid=/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Abhiruchi
-http://ruhutv.com/ipo/?cid=/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv AP
-http://ruhutv.com/ipo/?cid=/ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Cinema
-http://ruhutv.com/ipo/?cid=/ETV_Cinema/ETV_Cinema_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Cinema/ETV_Cinema_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Life
-http://ruhutv.com/ipo/?cid=/ETV_Life/ETV_Life_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Life/ETV_Life_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Plus
-http://ruhutv.com/ipo/?cid=/ETV_Plus/ETV_Plus_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Plus/ETV_Plus_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Telangana
-http://ruhutv.com/ipo/?cid=/ETV_Telangana/ETV_Telangana_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Telangana/ETV_Telangana_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Telugu
-http://ruhutv.com/ipo/?cid=/ETV_Telugu/ETV_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Telugu/ETV_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Comedy
-http://ruhutv.com/ipo/?cid=/Gemini_Comedy/Gemini_Comedy_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_Comedy/Gemini_Comedy_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Life
-http://ruhutv.com/ipo/?cid=/Gemini_Life/Gemini_Life_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_Life/Gemini_Life_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Movies
-http://ruhutv.com/ipo/?cid=/Gemini_Movies/Gemini_Movies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_Movies/Gemini_Movies_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Movies HD
-http://ruhutv.com/ipo/?cid=/Gemini_Movies_HD/Gemini_Movies_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_Movies_HD/Gemini_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Music
-http://ruhutv.com/ipo/?cid=/Gemini_Music/Gemini_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_Music/Gemini_Music_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Music HD
-http://ruhutv.com/ipo/?cid=/Gemini_Music_HD/Gemini_Music_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_Music_HD/Gemini_Music_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini News
-http://ruhutv.com/ipo/?cid=/Gemini_News/Gemini_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_News/Gemini_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini
-http://ruhutv.com/ipo/?cid=/Gemini_TV/Gemini_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_TV/Gemini_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini HD
-http://ruhutv.com/ipo/?cid=/Gemini_TV_HD/Gemini_TV_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gemini_TV_HD/Gemini_TV_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Gyana Yogi
-http://ruhutv.com/ipo/?cid=/Gyana_Yogi/Gyana_Yogi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gyana_Yogi/Gyana_Yogi_800.m3u8
 #EXTINF:0, group-title="Telugu",Hindu Dharmam
-http://ruhutv.com/ipo/?cid=/Hindu_Dharmam/Hindu_Dharmam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Hindu_Dharmam/Hindu_Dharmam_800.m3u8
 #EXTINF:0, group-title="Telugu",History HD (Telugu)
-http://ruhutv.com/ipo/?cid=/History_18_Telugu/History_18_Telugu_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/History_18_Telugu/History_18_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",hmtv
-http://ruhutv.com/ipo/?cid=/HM_TV/HM_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/HM_TV/HM_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",i News
-http://ruhutv.com/ipo/?cid=/I_News/I_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/I_News/I_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Jaya Shankara TV
-http://ruhutv.com/ipo/?cid=/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Kushi TV
-http://ruhutv.com/ipo/?cid=/Kushi_TV/Kushi_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kushi_TV/Kushi_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Maa Gold HD
-http://ruhutv.com/ipo/?cid=/Maa_Gold/Maa_Gold_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maa_Gold/Maa_Gold_800.m3u8
 #EXTINF:0, group-title="Telugu",Maa Movies HD
-http://ruhutv.com/ipo/?cid=/Maa_Movies/Maa_Movies_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maa_Movies/Maa_Movies_800.m3u8
 #EXTINF:0, group-title="Telugu",Maa TV HD
-http://ruhutv.com/ipo/?cid=/Maa_TV/Maa_TV_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maa_TV/Maa_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Maha News
-http://ruhutv.com/ipo/?cid=/Maha_News/Maha_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maha_News/Maha_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Nick (Telugu)
-http://ruhutv.com/ipo/?cid=/Nick_Telugu/Nick_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nick_Telugu/Nick_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",NTV
-http://ruhutv.com/ipo/?cid=/NTV/NTV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/NTV/NTV_800.m3u8
 #EXTINF:0, group-title="Telugu",Raj Musix (Telugu)
-http://ruhutv.com/ipo/?cid=/Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Raj News (Telugu)
-http://ruhutv.com/ipo/?cid=/Raj_News_Telugu/Raj_News_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_News_Telugu/Raj_News_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Rujumargam TV
-http://ruhutv.com/ipo/?cid=/Rujumargam_TV/Rujumargam_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Rujumargam_TV/Rujumargam_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Sakshi TV
-http://ruhutv.com/ipo/?cid=/Sakshi_tv/Sakshi_tv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sakshi_tv/Sakshi_tv_800.m3u8
 #EXTINF:0, group-title="Telugu",Shiva Shakti Sai TV
-http://ruhutv.com/ipo/?cid=/Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Sony BBC Earth HD (Telugu)
-http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Sony Yay (Telugu)
-http://ruhutv.com/ipo/?cid=/Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Sri Venkateshwar Bhakti
-http://ruhutv.com/ipo/?cid=/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8
 #EXTINF:0, group-title="Telugu",Studio N News
-http://ruhutv.com/ipo/?cid=/Studio_n/Studio_n_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Studio_n/Studio_n_800.m3u8
 #EXTINF:0, group-title="Telugu",Subhavartha
-http://ruhutv.com/ipo/?cid=/Subhavartha_TV/Subhavartha_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Subhavartha_TV/Subhavartha_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Swara Sagar
-http://ruhutv.com/ipo/?cid=/Divya_Vani/Divya_Vani_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Divya_Vani/Divya_Vani_800.m3u8
 #EXTINF:0, group-title="Telugu",T News
-http://ruhutv.com/ipo/?cid=/T_News/T_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/T_News/T_News_800.m3u8
 #EXTINF:0, group-title="Telugu",TV 5 News
-http://ruhutv.com/ipo/?cid=/TV_5_News/TV_5_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV_5_News/TV_5_News_800.m3u8
 #EXTINF:0, group-title="Telugu",TV1
-http://ruhutv.com/ipo/?cid=/TV1/TV1_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV1/TV1_800.m3u8
 #EXTINF:0, group-title="Telugu",TV9 Telugu
-http://ruhutv.com/ipo/?cid=/TV9_Telugu_News/TV9_Telugu_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV9_Telugu_News/TV9_Telugu_News_800.m3u8
 #EXTINF:0, group-title="Telugu",V6 News
-http://ruhutv.com/ipo/?cid=/V6_News/V6_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/V6_News/V6_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Vanitha
-http://ruhutv.com/ipo/?cid=/Vanitha/Vanitha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Vanitha/Vanitha_800.m3u8
 #EXTINF:0, group-title="Telugu",Vissa TV
-http://ruhutv.com/ipo/?cid=/Vissa_TV/Vissa_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Vissa_TV/Vissa_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Zee Telugu
-http://ruhutv.com/ipo/?cid=/Zee_Telugu/Zee_Telugu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Telugu/Zee_Telugu_800.m3u8
 #EXTINF:0, group-title="Malayalam",Amrita
-http://ruhutv.com/ipo/?cid=/Amrita_TV/Amrita_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Amrita_TV/Amrita_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet HD
-http://ruhutv.com/ipo/?cid=/Asianet/Asianet_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Asianet/Asianet_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Movies HD
-http://ruhutv.com/ipo/?cid=/Asianet_Movies_HD/Asianet_Movies_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Asianet_Movies_HD/Asianet_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet News
-http://ruhutv.com/ipo/?cid=/Asianet_News/Asianet_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Asianet_News/Asianet_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Plus HD
-http://ruhutv.com/ipo/?cid=/Asianet_Plus/Asianet_Plus_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Asianet_Plus/Asianet_Plus_800.m3u8
 #EXTINF:0, group-title="Malayalam",Channel D
-http://ruhutv.com/ipo/?cid=/ChannelDHD/ChannelDHD_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ChannelDHD/ChannelDHD_800.m3u8
 #EXTINF:0, group-title="Malayalam",DD Malayalam
-http://ruhutv.com/ipo/?cid=/DD_Malayalam/DD_Malayalam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Malayalam/DD_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Flower TV
-http://ruhutv.com/ipo/?cid=/Flower_TV/Flower_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Flower_TV/Flower_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Jai Hind
-http://ruhutv.com/ipo/?cid=/Jaihind_tv/Jaihind_tv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jaihind_tv/Jaihind_tv_800.m3u8
 #EXTINF:0, group-title="Malayalam",Janam TV
-http://ruhutv.com/ipo/?cid=/Janam_TV/Janam_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Janam_TV/Janam_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Jeevan
-http://ruhutv.com/ipo/?cid=/Jeevan_TV/Jeevan_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jeevan_TV/Jeevan_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kairali People
-http://ruhutv.com/ipo/?cid=/Kairali_People_TV/Kairali_People_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kairali_People_TV/Kairali_People_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kairali
-http://ruhutv.com/ipo/?cid=/Kairali_TV/Kairali_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kairali_TV/Kairali_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kairali We
-http://ruhutv.com/ipo/?cid=/Kairali_WE_TV/Kairali_WE_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kairali_WE_TV/Kairali_WE_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kappa TV
-http://ruhutv.com/ipo/?cid=/Kappa_TV/Kappa_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kappa_TV/Kappa_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kaumudy
-http://ruhutv.com/ipo/?cid=/Kaumudy_TV/Kaumudy_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kaumudy_TV/Kaumudy_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kiran TV
-http://ruhutv.com/ipo/?cid=/Kiran_TV/Kiran_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kiran_TV/Kiran_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kochu TV
-http://ruhutv.com/ipo/?cid=/Kochu_TV/Kochu_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kochu_TV/Kochu_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Manorama News
-http://ruhutv.com/ipo/?cid=/Manorama_News/Manorama_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Manorama_News/Manorama_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Mathrubhumi News
-http://ruhutv.com/ipo/?cid=/Mathrubhumi_News/Mathrubhumi_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mathrubhumi_News/Mathrubhumi_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Manorama HD
-http://ruhutv.com/ipo/?cid=/Mazavali_Manorama_HD/Mazavali_Manorama_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mazavali_Manorama_HD/Mazavali_Manorama_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Manorama
-http://ruhutv.com/ipo/?cid=/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
 #EXTINF:0, group-title="Malayalam",Media One
-http://ruhutv.com/ipo/?cid=/Media_One_TV/Media_One_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Media_One_TV/Media_One_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",News 18 Kerala
-http://ruhutv.com/ipo/?cid=/News_18_Kerala/News_18_Kerala_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_18_Kerala/News_18_Kerala_800.m3u8
 #EXTINF:0, group-title="Malayalam",Propex TV
-http://ruhutv.com/ipo/?cid=/Propex_TV/Propex_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Propex_TV/Propex_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Raj Music (Malayalam)
-http://ruhutv.com/ipo/?cid=/Raj_Music_Malayalam/Raj_Music_Malayalam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_Music_Malayalam/Raj_Music_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Raj News (Malayalam)
-http://ruhutv.com/ipo/?cid=/Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Shalom
-http://ruhutv.com/ipo/?cid=/Shalom/Shalom_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Shalom/Shalom_800.m3u8
 #EXTINF:0, group-title="Malayalam",Surya HD
-http://ruhutv.com/ipo/?cid=/Surya_HD/Surya_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Surya_HD/Surya_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Surya Music
-http://ruhutv.com/ipo/?cid=/Surya_Music/Surya_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Surya_Music/Surya_Music_800.m3u8
 #EXTINF:0, group-title="Malayalam",Surya TV
-http://ruhutv.com/ipo/?cid=/Surya_TV/Surya_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Surya_TV/Surya_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",BTV
-http://ruhutv.com/ipo/?cid=/BTV/BTV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/BTV/BTV_800.m3u8
 #EXTINF:0, group-title="Kannada",Chintu TV
-http://ruhutv.com/ipo/?cid=/Chintu_TV/Chintu_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Chintu_TV/Chintu_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Colors Kannada HD
-http://ruhutv.com/ipo/?cid=/Colors_Kannada_HD/Colors_Kannada_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Kannada_HD/Colors_Kannada_HD_800.m3u8
 #EXTINF:0, group-title="Kannada",Colors Super
-http://ruhutv.com/ipo/?cid=/Colors_Super/Colors_Super_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Super/Colors_Super_800.m3u8
 #EXTINF:0, group-title="Kannada",DD Kannada
-http://ruhutv.com/ipo/?cid=/DD9_chandana_kannada/DD9_chandana_kannada_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD9_chandana_kannada/DD9_chandana_kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",Dighvijay
-http://ruhutv.com/ipo/?cid=/Dighvijay_TV/Dighvijay_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Dighvijay_TV/Dighvijay_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",News 18 Kannada
-http://ruhutv.com/ipo/?cid=/ETV_Kannada_News/ETV_Kannada_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Kannada_News/ETV_Kannada_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Janasri News
-http://ruhutv.com/ipo/?cid=/Janasri_News/Janasri_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Janasri_News/Janasri_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Janataa TV
-http://ruhutv.com/ipo/?cid=/Janataa_TV/Janataa_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Janataa_TV/Janataa_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Kasturi
-http://ruhutv.com/ipo/?cid=/Kasturi/Kasturi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kasturi/Kasturi_800.m3u8
 #EXTINF:0, group-title="Kannada",Prajaa TV
-http://ruhutv.com/ipo/?cid=/Prajaa_TV/Prajaa_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Prajaa_TV/Prajaa_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Public Music
-http://ruhutv.com/ipo/?cid=/Public_Music/Public_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Public_Music/Public_Music_800.m3u8
 #EXTINF:0, group-title="Kannada",Public TV
-http://ruhutv.com/ipo/?cid=/Public_TV/Public_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Public_TV/Public_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Raj Music (Kannada)
-http://ruhutv.com/ipo/?cid=/Raj_Music_Kannada/Raj_Music_Kannada_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_Music_Kannada/Raj_Music_Kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",Raj News (Kannada)
-http://ruhutv.com/ipo/?cid=/Raj_News_Kannada/Raj_News_Kannada_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Raj_News_Kannada/Raj_News_Kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",Saral Jeevan
-http://ruhutv.com/ipo/?cid=/Saral_Jeevan/Saral_Jeevan_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Saral_Jeevan/Saral_Jeevan_800.m3u8
 #EXTINF:0, group-title="Kannada",Sri Sankara
-http://ruhutv.com/ipo/?cid=/Sri_Sankara/Sri_Sankara_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sri_Sankara/Sri_Sankara_800.m3u8
 #EXTINF:0, group-title="Kannada",Suddi TV
-http://ruhutv.com/ipo/?cid=/Suddi_TV/Suddi_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Suddi_TV/Suddi_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Suvarna HD
-http://ruhutv.com/ipo/?cid=/Suvarna/Suvarna_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Suvarna/Suvarna_800.m3u8
 #EXTINF:0, group-title="Kannada",Suvarna News
-http://ruhutv.com/ipo/?cid=/Suvarna_News/Suvarna_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Suvarna_News/Suvarna_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Suvarna Plus HD
-http://ruhutv.com/ipo/?cid=/Asianet_Suvarna_HD/Asianet_Suvarna_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Asianet_Suvarna_HD/Asianet_Suvarna_HD_800.m3u8
 #EXTINF:0, group-title="Kannada",TV 5 Kannada
-http://ruhutv.com/ipo/?cid=/TV_5_Kannada/TV_5_Kannada_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV_5_Kannada/TV_5_Kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",TV9 Karnataka
-http://ruhutv.com/ipo/?cid=/TV9_Karnataka/TV9_Karnataka_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV9_Karnataka/TV9_Karnataka_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya Comedy
-http://ruhutv.com/ipo/?cid=/Udaya_Comedy/Udaya_Comedy_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Udaya_Comedy/Udaya_Comedy_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya HD
-http://ruhutv.com/ipo/?cid=/Udaya_HD/Udaya_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Udaya_HD/Udaya_HD_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya Movies
-http://ruhutv.com/ipo/?cid=/Udaya_Movies/Udaya_Movies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Udaya_Movies/Udaya_Movies_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya Music
-http://ruhutv.com/ipo/?cid=/Udaya_Music/Udaya_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Udaya_Music/Udaya_Music_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya News
-http://ruhutv.com/ipo/?cid=/Udaya_News/Udaya_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Udaya_News/Udaya_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya TV
-http://ruhutv.com/ipo/?cid=/Udaya_TV/Udaya_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Udaya_TV/Udaya_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Zee Kannada
-http://ruhutv.com/ipo/?cid=/Zee_Kannada/Zee_Kannada_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Kannada/Zee_Kannada_800.m3u8
 #EXTINF:0, group-title="Gujarati",ABP Asmita
-http://ruhutv.com/ipo/?cid=/ABP_Asmita/ABP_Asmita_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ABP_Asmita/ABP_Asmita_800.m3u8
 #EXTINF:0, group-title="Gujarati",CNBC Bazaar
-http://ruhutv.com/ipo/?cid=/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_800.m3u8
 #EXTINF:0, group-title="Gujarati",Colors Gujarati
-http://ruhutv.com/ipo/?cid=/Colors_Gujarati/Colors_Gujarati_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Gujarati/Colors_Gujarati_800.m3u8
 #EXTINF:0, group-title="Gujarati",DD Girnar
-http://ruhutv.com/ipo/?cid=/DD_Girnar/DD_Girnar_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Girnar/DD_Girnar_800.m3u8
 #EXTINF:0, group-title="Gujarati",Etv News Gujarati
-http://ruhutv.com/ipo/?cid=/ETV_News_Gujarati/ETV_News_Gujarati_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_News_Gujarati/ETV_News_Gujarati_800.m3u8
 #EXTINF:0, group-title="Gujarati",Garv Shree Swaminarayan
-http://ruhutv.com/ipo/?cid=/Garv/Garv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Garv/Garv_800.m3u8
 #EXTINF:0, group-title="Gujarati",GS TV
-http://ruhutv.com/ipo/?cid=/GS_TV/GS_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/GS_TV/GS_TV_800.m3u8
 #EXTINF:0, group-title="Gujarati",Lakshya TV
-http://ruhutv.com/ipo/?cid=/Lakshya_TV/Lakshya_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Lakshya_TV/Lakshya_TV_800.m3u8
 #EXTINF:0, group-title="Gujarati",Mantavya News
-http://ruhutv.com/ipo/?cid=/Mantavya_News/Mantavya_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mantavya_News/Mantavya_News_800.m3u8
 #EXTINF:0, group-title="Gujarati",Sandesh News
-http://ruhutv.com/ipo/?cid=/Sandesh_News/Sandesh_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sandesh_News/Sandesh_News_800.m3u8
 #EXTINF:0, group-title="Gujarati",TV9 Gujarat
-http://ruhutv.com/ipo/?cid=/Tv_9_Gujarat/Tv_9_Gujarat_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Tv_9_Gujarat/Tv_9_Gujarat_800.m3u8
 #EXTINF:0, group-title="Gujarati",VTV News
-http://ruhutv.com/ipo/?cid=/VTV_Gujarati/VTV_Gujarati_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/VTV_Gujarati/VTV_Gujarati_800.m3u8
 #EXTINF:0, group-title="Gujarati",Zee 24 Kalak
-http://ruhutv.com/ipo/?cid=/Zee_24_Kalak/Zee_24_Kalak_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_24_Kalak/Zee_24_Kalak_800.m3u8
 #EXTINF:0, group-title="Marathi",9X Jhakaas
-http://ruhutv.com/ipo/?cid=/9x_Jhakaas/9x_Jhakaas_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/9x_Jhakaas/9x_Jhakaas_800.m3u8
 #EXTINF:0, group-title="Marathi",ABP Majha
-http://ruhutv.com/ipo/?cid=/ABP_Majha/ABP_Majha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ABP_Majha/ABP_Majha_800.m3u8
 #EXTINF:0, group-title="Marathi",Colors Marathi
-http://ruhutv.com/ipo/?cid=/Colors_Marathi/Colors_Marathi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Marathi/Colors_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Colors Marathi HD
-http://ruhutv.com/ipo/?cid=/Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Marathi_HD/Colors_Marathi_HD_800.m3u8
 #EXTINF:0, group-title="Marathi",DD Marathi
-http://ruhutv.com/ipo/?cid=/DD_Sahayadri/DD_Sahayadri_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Sahayadri/DD_Sahayadri_800.m3u8
 #EXTINF:0, group-title="Marathi",Fakt Marathi
-http://ruhutv.com/ipo/?cid=/Fakt_Marathi/Fakt_Marathi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Fakt_Marathi/Fakt_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",News 18 Lokmat
-http://ruhutv.com/ipo/?cid=/IBN_Lokmat/IBN_Lokmat_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/IBN_Lokmat/IBN_Lokmat_800.m3u8
 #EXTINF:0, group-title="Marathi",Maharashtra 1
-http://ruhutv.com/ipo/?cid=/Maharashtra1/Maharashtra1_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maharashtra1/Maharashtra1_800.m3u8
 #EXTINF:0, group-title="Marathi",Mai Boli
-http://ruhutv.com/ipo/?cid=/Maiboli/Maiboli_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Maiboli/Maiboli_800.m3u8
 #EXTINF:0, group-title="Marathi",Saam TV
-http://ruhutv.com/ipo/?cid=/Saam_Tv/Saam_Tv_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Saam_Tv/Saam_Tv_800.m3u8
 #EXTINF:0, group-title="Marathi",Sangeet Marathi
-http://ruhutv.com/ipo/?cid=/Sangeet_Marathi/Sangeet_Marathi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sangeet_Marathi/Sangeet_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Star Pravah HD
-http://ruhutv.com/ipo/?cid=/Star_Pravah/Star_Pravah_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Pravah/Star_Pravah_800.m3u8
 #EXTINF:0, group-title="Marathi",TV9 Maharashtra
-http://ruhutv.com/ipo/?cid=/TV9_Maharashtra/TV9_Maharashtra_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/TV9_Maharashtra/TV9_Maharashtra_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee 24 Taas
-http://ruhutv.com/ipo/?cid=/Zee_24_Taas/Zee_24_Taas_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_24_Taas/Zee_24_Taas_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee Marathi
-http://ruhutv.com/ipo/?cid=/Zee_Marathi/Zee_Marathi_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Marathi/Zee_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee Talkies
-http://ruhutv.com/ipo/?cid=/Zee_Talkies/Zee_Talkies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Talkies/Zee_Talkies_800.m3u8
 #EXTINF:0, group-title="Bangla",24 Ghanta TV
-http://ruhutv.com/ipo/?cid=/24_Ghanta_TV/24_Ghanta_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/24_Ghanta_TV/24_Ghanta_TV_800.m3u8
 #EXTINF:0, group-title="Bangla",Aakaash
-http://ruhutv.com/ipo/?cid=/Aakaash_bangla/Aakaash_bangla_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Aakaash_bangla/Aakaash_bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",ABP Ananda
-http://ruhutv.com/ipo/?cid=/ABP_Ananda/ABP_Ananda_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ABP_Ananda/ABP_Ananda_800.m3u8
 #EXTINF:0, group-title="Bangla",ANM News
-http://ruhutv.com/ipo/?cid=/ANM_News/ANM_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ANM_News/ANM_News_800.m3u8
 #EXTINF:0, group-title="Bangla",Artage News
-http://ruhutv.com/ipo/?cid=/Artage_News/Artage_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Artage_News/Artage_News_800.m3u8
 #EXTINF:0, group-title="Bangla",Colors Bangla HD
-http://ruhutv.com/ipo/?cid=/Colors_Bengali_HD/Colors_Bengali_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Bengali_HD/Colors_Bengali_HD_800.m3u8
 #EXTINF:0, group-title="Bangla",DD Bangla
-http://ruhutv.com/ipo/?cid=/DD_Bangla/DD_Bangla_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Bangla/DD_Bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",Discovery Channel (Bangla)
-http://ruhutv.com/ipo/?cid=/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8
 #EXTINF:0, group-title="Bangla",Etv Bangla News
-http://ruhutv.com/ipo/?cid=/ETV_Bangla_News/ETV_Bangla_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Bangla_News/ETV_Bangla_News_800.m3u8
 #EXTINF:0, group-title="Bangla",Jalsha Movies HD
-http://ruhutv.com/ipo/?cid=/Jalsa_Movies_HD/Jalsa_Movies_HD_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jalsa_Movies_HD/Jalsa_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Bangla",Music Fatafati
-http://ruhutv.com/ipo/?cid=/Music_Fatafati/Music_Fatafati_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Music_Fatafati/Music_Fatafati_800.m3u8
 #EXTINF:0, group-title="Bangla",Nepal One
-http://ruhutv.com/ipo/?cid=/Nepal_one/Nepal_one_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Nepal_one/Nepal_one_800.m3u8
 #EXTINF:0, group-title="Bangla",News Time
-http://ruhutv.com/ipo/?cid=/News_Time_TV/News_Time_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_Time_TV/News_Time_TV_800.m3u8
 #EXTINF:0, group-title="Bangla",R Plus
-http://ruhutv.com/ipo/?cid=/RPLUS/RPLUS_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/RPLUS/RPLUS_800.m3u8
 #EXTINF:0, group-title="Bangla",Sangeet Bangla
-http://ruhutv.com/ipo/?cid=/Sangeet_Bangla/Sangeet_Bangla_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sangeet_Bangla/Sangeet_Bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",Sony Aath
-http://ruhutv.com/ipo/?cid=/Sony_aath/Sony_aath_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sony_aath/Sony_aath_800.m3u8
 #EXTINF:0, group-title="Bangla",Star Jalsha HD
-http://ruhutv.com/ipo/?cid=/Star_Jalsha/Star_Jalsha_1200.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Star_Jalsha/Star_Jalsha_800.m3u8
 #EXTINF:0, group-title="Bangla",Zee Bangla
-http://ruhutv.com/ipo/?cid=/Zee_Bangla/Zee_Bangla_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Bangla/Zee_Bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",Zee Bangla Cinema
-http://ruhutv.com/ipo/?cid=/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8
 #EXTINF:0, group-title="Assamese",Assam Talks
-http://ruhutv.com/ipo/?cid=/Assam_Talks/Assam_Talks_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Assam_Talks/Assam_Talks_800.m3u8
 #EXTINF:0, group-title="Assamese",DD Guwahati NE
-http://ruhutv.com/ipo/?cid=/DD13_Guwahati_NE/DD13_Guwahati_NE_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD13_Guwahati_NE/DD13_Guwahati_NE_800.m3u8
 #EXTINF:0, group-title="Assamese",DY 365
-http://ruhutv.com/ipo/?cid=/DY_365/DY_365_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DY_365/DY_365_800.m3u8
 #EXTINF:0, group-title="Assamese",Indradhanu
-http://ruhutv.com/ipo/?cid=/Indradhanu/Indradhanu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Indradhanu/Indradhanu_800.m3u8
 #EXTINF:0, group-title="Assamese",Jonack
-http://ruhutv.com/ipo/?cid=/Jonack/Jonack_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Jonack/Jonack_800.m3u8
 #EXTINF:0, group-title="Assamese",News 18 Assam
-http://ruhutv.com/ipo/?cid=/News_18_Assam/News_18_Assam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_18_Assam/News_18_Assam_800.m3u8
 #EXTINF:0, group-title="Assamese",News Live
-http://ruhutv.com/ipo/?cid=/Newslive/Newslive_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Newslive/Newslive_800.m3u8
 #EXTINF:0, group-title="Assamese",North East Live
-http://ruhutv.com/ipo/?cid=/North_East_Live/North_East_Live_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/North_East_Live/North_East_Live_800.m3u8
 #EXTINF:0, group-title="Assamese",Prag News
-http://ruhutv.com/ipo/?cid=/Prag_News/Prag_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Prag_News/Prag_News_800.m3u8
 #EXTINF:0, group-title="Assamese",Pratidin Time
-http://ruhutv.com/ipo/?cid=/Pratidin_News/Pratidin_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Pratidin_News/Pratidin_News_800.m3u8
 #EXTINF:0, group-title="Assamese",Ramdhenu
-http://ruhutv.com/ipo/?cid=/Ramdhenu/Ramdhenu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Ramdhenu/Ramdhenu_800.m3u8
 #EXTINF:0, group-title="Assamese",Rang
-http://ruhutv.com/ipo/?cid=/Rang/Rang_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Rang/Rang_800.m3u8
 #EXTINF:0, group-title="Assamese",Rengoni
-http://ruhutv.com/ipo/?cid=/Rengoni/Rengoni_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Rengoni/Rengoni_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Anjan
-http://ruhutv.com/ipo/?cid=/Anjan_TV/Anjan_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Anjan_TV/Anjan_TV_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Bhojpuri Cinema
-http://ruhutv.com/ipo/?cid=/Bhojpuri_Cinema/Bhojpuri_Cinema_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Bhojpuri_Cinema/Bhojpuri_Cinema_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Dangal
-http://ruhutv.com/ipo/?cid=/Dangal/Dangal_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Dangal/Dangal_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Etv Bihar
-http://ruhutv.com/ipo/?cid=/ETV_BIHAR/ETV_BIHAR_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_BIHAR/ETV_BIHAR_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Mahua +
-http://ruhutv.com/ipo/?cid=/Mahua_Plus/Mahua_Plus_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Mahua_Plus/Mahua_Plus_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Oscar Movies
-http://ruhutv.com/ipo/?cid=/Osar_Movies/Osar_Movies_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Osar_Movies/Osar_Movies_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Sangeet Bhojpuri
-http://ruhutv.com/ipo/?cid=/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Zee Bihar JH
-http://ruhutv.com/ipo/?cid=/Zee_Purvaiya/Zee_Purvaiya_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Purvaiya/Zee_Purvaiya_800.m3u8
 #EXTINF:0, group-title="Oriya",Alankar
-http://ruhutv.com/ipo/?cid=/Alankar_TV/Alankar_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Alankar_TV/Alankar_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Colors Odiya
-http://ruhutv.com/ipo/?cid=/Colors_Oriya/Colors_Oriya_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Colors_Oriya/Colors_Oriya_800.m3u8
 #EXTINF:0, group-title="Oriya",DD Odiya
-http://ruhutv.com/ipo/?cid=/DD_Oriya/DD_Oriya_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Oriya/DD_Oriya_800.m3u8
 #EXTINF:0, group-title="Oriya",News 18 OR
-http://ruhutv.com/ipo/?cid=/ETV_News_Oriya/ETV_News_Oriya_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_News_Oriya/ETV_News_Oriya_800.m3u8
 #EXTINF:0, group-title="Oriya",Kalinga TV
-http://ruhutv.com/ipo/?cid=/Kalinga_TV/Kalinga_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kalinga_TV/Kalinga_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Kanak News
-http://ruhutv.com/ipo/?cid=/Kanak_TV/Kanak_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Kanak_TV/Kanak_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",MBC TV
-http://ruhutv.com/ipo/?cid=/MBC/MBC_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/MBC/MBC_800.m3u8
 #EXTINF:0, group-title="Oriya",Naxatra News
-http://ruhutv.com/ipo/?cid=/Naxatra_News/Naxatra_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Naxatra_News/Naxatra_News_800.m3u8
 #EXTINF:0, group-title="Oriya",News World Odia
-http://ruhutv.com/ipo/?cid=/News_World_Odisha/News_World_Odisha_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/News_World_Odisha/News_World_Odisha_800.m3u8
 #EXTINF:0, group-title="Oriya",OTV
-http://ruhutv.com/ipo/?cid=/OTV_Odisha_TV/OTV_Odisha_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/OTV_Odisha_TV/OTV_Odisha_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Prameya News 7
-http://ruhutv.com/ipo/?cid=/Prameya_News_7/Prameya_News_7_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Prameya_News_7/Prameya_News_7_800.m3u8
 #EXTINF:0, group-title="Oriya",Prathana TV
-http://ruhutv.com/ipo/?cid=/Prathana_TV/Prathana_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Prathana_TV/Prathana_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Sarthak TV
-http://ruhutv.com/ipo/?cid=/Sarthak_TV/Sarthak_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Sarthak_TV/Sarthak_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Tarang Music
-http://ruhutv.com/ipo/?cid=/Tarang_Music/Tarang_Music_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Tarang_Music/Tarang_Music_800.m3u8
 #EXTINF:0, group-title="Oriya",Tarang TV
-http://ruhutv.com/ipo/?cid=/Tarang_TV/Tarang_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Tarang_TV/Tarang_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Zee Kalinga
-http://ruhutv.com/ipo/?cid=/Zee_Kalinga/Zee_Kalinga_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Kalinga/Zee_Kalinga_800.m3u8
 #EXTINF:0, group-title="Urdu",4tv News
-http://ruhutv.com/ipo/?cid=/4_TV/4_TV_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/4_TV/4_TV_800.m3u8
 #EXTINF:0, group-title="Urdu",Channel Win
-http://ruhutv.com/ipo/?cid=/Channel_Win/Channel_Win_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Channel_Win/Channel_Win_800.m3u8
 #EXTINF:0, group-title="Urdu",DD Kashir
-http://ruhutv.com/ipo/?cid=/DD_Kashir/DD_Kashir_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_Kashir/DD_Kashir_800.m3u8
 #EXTINF:0, group-title="Urdu",DD Urdu
-http://ruhutv.com/ipo/?cid=/DD_urdu/DD_urdu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/DD_urdu/DD_urdu_800.m3u8
 #EXTINF:0, group-title="Urdu",Etv Urdu
-http://ruhutv.com/ipo/?cid=/ETV_Urdu/ETV_Urdu_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/ETV_Urdu/ETV_Urdu_800.m3u8
 #EXTINF:0, group-title="Urdu",Gulistan News
-http://ruhutv.com/ipo/?cid=/Gulistan_News/Gulistan_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Gulistan_News/Gulistan_News_800.m3u8
 #EXTINF:0, group-title="Urdu",I Plus
-http://ruhutv.com/ipo/?cid=/I_Plus_News/I_Plus_News_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/I_Plus_News/I_Plus_News_800.m3u8
 #EXTINF:0, group-title="Urdu",Zee Salaam
-http://ruhutv.com/ipo/?cid=/Zee_Salaam/Zee_Salaam_800.m3u8
+http://ruhutv.com/2w7y5wyqco54ehc/?id=/Zee_Salaam/Zee_Salaam_800.m3u8
+#EXTINF:0, group-title="Bangla",Aakash Aath
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
+#EXTINF:0, group-title="Bangla",Arijan
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
+#EXTINF:0, group-title="Bangla",MUSIC FATAFATI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/01.m3u8
+#EXTINF:0, group-title="Bangla",NAAPTOL BANGLA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/01.m3u8
+#EXTINF:0, group-title="Bangla",Rang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
+#EXTINF:0, group-title="Bangla",RUPOSHI BANGLA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/01.m3u8
+#EXTINF:0, group-title="Bangla",SAAM TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226366/01.m3u8
+#EXTINF:0, group-title="Bangla",SANDESH NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225852/01.m3u8
+#EXTINF:0, group-title="Bangla",SANGEET BANGLA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226333/01.m3u8
+#EXTINF:0, group-title="Bangla",SONY AATH
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:0, group-title="Bangla",Sony Bangla
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:0, group-title="Bangla",Z ETC BOLLYWOOD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226353/01.m3u8
+#EXTINF:0, group-title="Bangla",ZEE 24 GHANTA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225925/01.m3u8
+#EXTINF:0, group-title="Bangla",ZEE 24 KALAK
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226116/01.m3u8
+#EXTINF:0, group-title="Bangla",Zee 24 Taas
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
+#EXTINF:0, group-title="Bangla",ZEE ANMOL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226199/01.m3u8
+#EXTINF:0, group-title="Bangla",ZEE BANGLA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225882/01.m3u8
+#EXTINF:0, group-title="Bangla",ZEE BANGLA CINEMA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225889/01.m3u8
+#EXTINF:0, group-title="Bangla",ZEE BANGLA HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8
+#EXTINF:0, group-title="Canada",Property Buzz TV
+http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
+#EXTINF:0, group-title="Canada",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Canada",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0, group-title="Indian",& Pictures
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:0, group-title="Indian",& PICTURES HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/01.m3u8
+#EXTINF:0, group-title="Indian",& TV
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="Indian",&PICTURES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:0, group-title="Indian",&TV HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226084/01.m3u8
+#EXTINF:0, group-title="Indian",9X JALWA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:0, group-title="Indian",9X JHAKAAS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226026/01.m3u8
+#EXTINF:0, group-title="Indian",9x Music
+http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
+#EXTINF:0, group-title="Indian",9X TASHAN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226017/01.m3u8
+#EXTINF:0, group-title="Indian",9XM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/01.m3u8
+#EXTINF:0, group-title="Indian",9XO
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:0, group-title="Indian",Aaj Tak (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD500L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",AajTak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",AASTHA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/01.m3u8
+#EXTINF:0, group-title="Indian",ABP MAJHA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226020/01.m3u8
+#EXTINF:0, group-title="Indian",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="Indian",ASSAM TALKS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226339/01.m3u8
+#EXTINF:0, group-title="Indian",B4U Movies
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:0, group-title="Indian",B4U Music
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8
+#EXTINF:0, group-title="Indian",BANSAL NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/01.m3u8
+#EXTINF:0, group-title="Indian",BHAKTI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/01.m3u8
+#EXTINF:0, group-title="Indian",BHARAT SAMACHAR
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226268/01.m3u8
+#EXTINF:0, group-title="Indian",BHOJPURI CINEMA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226056/01.m3u8
+#EXTINF:0, group-title="Indian",BIG GANGA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226088/01.m3u8
+#EXTINF:0, group-title="Indian",BIG MAGIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225745/01.m3u8
+#EXTINF:0, group-title="Indian",Bloomberg Quint (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD355L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Bollywood Masala (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",BTV NEWS 24X7
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226341/01.m3u8
+#EXTINF:0, group-title="Indian",BTVI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/01.m3u8
+#EXTINF:0, group-title="Indian",Cartoon Network (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",CINEMA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226246/01.m3u8
+#EXTINF:0, group-title="Indian",CNN News 18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+#EXTINF:0, group-title="Indian",Dabang
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226097/01.m3u8
+#EXTINF:0, group-title="Indian",DANGAL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226029/01.m3u8
+#EXTINF:0, group-title="Indian",DD Bharti (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD251L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",DD Lok Sabha
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0, group-title="Indian",DD Rajya Sabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:0, group-title="Indian",DD Sports
+http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",Delhi Aaj Tak (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD68L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="Indian",DHOOM MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/01.m3u8
+#EXTINF:0, group-title="Indian",DIGHVIJAY 24X7 NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/01.m3u8
+#EXTINF:0, group-title="Indian",Discovery Turbo
+http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
+#EXTINF:0, group-title="Indian",DISHUM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226269/01.m3u8
+#EXTINF:0, group-title="Indian",DIVYA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226211/01.m3u8
+#EXTINF:0, group-title="Indian",DIVYAVANI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226230/01.m3u8
+#EXTINF:0, group-title="Indian",E24
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:0, group-title="Indian",ENTERR 10 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/01.m3u8
+#EXTINF:0, group-title="Indian",ET Now
+http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+#EXTINF:0, group-title="Indian",ET Now (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD97L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",ETV MP
+http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",ETV Raj
+http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
+#EXTINF:0, group-title="Indian",ETV UP
+http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
+#EXTINF:0, group-title="Indian",ETV Urdu
+http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",FAKT MARATHI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226305/01.m3u8
+#EXTINF:0, group-title="Indian",Food Food
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:0, group-title="Indian",Food Food (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD139L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",FTV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226086/01.m3u8
+#EXTINF:0, group-title="Indian",GOODNEWS TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226231/01.m3u8
+#EXTINF:0, group-title="Indian",GREEN TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226232/01.m3u8
+#EXTINF:0, group-title="Indian",Gulistan News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/01.m3u8
+#EXTINF:0, group-title="Indian",HINDI KHABAR
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226249/01.m3u8
+#EXTINF:0, group-title="Indian",HOMESHOP 18
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226354/01.m3u8
+#EXTINF:0, group-title="Indian",IBN Lokmat-1
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:0, group-title="Indian",IBN Lokmat-2
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:0, group-title="Indian",IBN7 News
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+#EXTINF:0, group-title="Indian",INDIA NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226085/01.m3u8
+#EXTINF:0, group-title="Indian",India News
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD148L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News Haryana
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News MP (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD141L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News MP CG
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News Raj
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News Raj (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD143L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India News UP
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",India News UP (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD144L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="Indian",India Voice (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD321L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",IndiaToday (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD72L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Ishwar TV
+http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0, group-title="Indian",JINVANI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226326/01.m3u8
+#EXTINF:0, group-title="Indian",JONACK
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226367/01.m3u8
+#EXTINF:0, group-title="Indian",KHABREIN ABHI TAK
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226252/01.m3u8
+#EXTINF:0, group-title="Indian",LIVING FOODZ
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225886/01.m3u8
+#EXTINF:0, group-title="Indian",LIVING FOODZ HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226329/01.m3u8
+#EXTINF:0, group-title="Indian",Madha
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",MADHA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226327/01.m3u8
+#EXTINF:0, group-title="Indian",MAHA CARTOON TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226237/01.m3u8
+#EXTINF:0, group-title="Indian",MAHA MOVIE
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/01.m3u8
+#EXTINF:0, group-title="Indian",Mahua Plus
+http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",MAIBOLI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226332/01.m3u8
+#EXTINF:0, group-title="Indian",MAKKAL TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226362/01.m3u8
+#EXTINF:0, group-title="Indian",Mangalmay (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD107L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",MANORANJAN MOVIES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226226/01.m3u8
+#EXTINF:0, group-title="Indian",MANORANJAN TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/01.m3u8
+#EXTINF:0, group-title="Indian",MASTIII
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226021/01.m3u8
+#EXTINF:0, group-title="Indian",Mastiii (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD254L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",MBC TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226335/01.m3u8
+#EXTINF:0, group-title="Indian",MEDIAONE
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226368/01.m3u8
+#EXTINF:0, group-title="Indian",MEGA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226365/01.m3u8
+#EXTINF:0, group-title="Indian",MH ONE SHRADDHA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226089/01.m3u8
+#EXTINF:0, group-title="Indian",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+#EXTINF:0, group-title="Indian",MULTIPLEX
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226209/01.m3u8
+#EXTINF:0, group-title="Indian",MUNSIF TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226267/01.m3u8
+#EXTINF:0, group-title="Indian",Music India
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8
+#EXTINF:0, group-title="Indian",NAAPTOL GREEN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226265/01.m3u8
+#EXTINF:0, group-title="Indian",NDTV 24X7
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225771/01.m3u8
+#EXTINF:0, group-title="Indian",NDTV 24x7
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
+#EXTINF:0, group-title="Indian",NDTV GOOD TIMES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/01.m3u8
+#EXTINF:0, group-title="Indian",NDTV India
+http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
+#EXTINF:0, group-title="Indian",NDTV Profit
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",NDTV PROFIT PRIME
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225781/01.m3u8
+#EXTINF:0, group-title="Indian",Neo Prime
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:0, group-title="Indian",Neo Sports
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:0, group-title="Indian",New X
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
+#EXTINF:0, group-title="Indian",News 18
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",News 18-2
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+#EXTINF:0, group-title="Indian",NEWS NATION
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/01.m3u8
+#EXTINF:0, group-title="Indian",NEWS TIME
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/01.m3u8
+#EXTINF:0, group-title="Indian",NEWS WORLD INDIA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226210/01.m3u8
+#EXTINF:0, group-title="Indian",NEWS WORLD ODISHA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226034/01.m3u8
+#EXTINF:0, group-title="Indian",News X HD
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",NEWS24
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/01.m3u8
+#EXTINF:0, group-title="Indian",NEWSX
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225796/01.m3u8
+#EXTINF:0, group-title="Indian",NTV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/01.m3u8
+#EXTINF:0, group-title="Indian",OK INDIA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/01.m3u8
+#EXTINF:0, group-title="Indian",Only Music HD
+http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:0, group-title="Indian",OSCAR MOVIES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226212/01.m3u8
+#EXTINF:0, group-title="Indian",OTV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226024/01.m3u8
+#EXTINF:0, group-title="Indian",OTV News
+http://otvdigitalhd.in:1935/unevent/otvsmil.smil/chunklist.m3u8
+#EXTINF:0, group-title="Indian",PARAS TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226289/01.m3u8
+#EXTINF:0, group-title="Indian",PATRIKA TV RAJASTHAN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226389/01.m3u8
+#EXTINF:0, group-title="Indian",PEOPLE
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226359/01.m3u8
+#EXTINF:0, group-title="Indian",Pogo-2 (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",RAMDHENU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226358/01.m3u8
+#EXTINF:0, group-title="Indian",RENGONI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226364/01.m3u8
+#EXTINF:0, group-title="Indian",REPUBLIC TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/01.m3u8
+#EXTINF:0, group-title="Indian",RT Movies (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD258L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",SAB
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:0, group-title="Indian",SAB HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8
+#EXTINF:0, group-title="Indian",Sadhana News
+http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",Sadhana Plus News
+http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",Sadhana TV
+http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
+#EXTINF:0, group-title="Indian",SADHNA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226328/01.m3u8
+#EXTINF:0, group-title="Indian",SAFARI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225854/01.m3u8
+#EXTINF:0, group-title="Indian",SAKSHI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226306/01.m3u8
+#EXTINF:0, group-title="Indian",SANGEET BHOJPURI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/01.m3u8
+#EXTINF:0, group-title="Indian",SANGEET MARATHI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/01.m3u8
+#EXTINF:0, group-title="Indian",Sanjeev Kapoor- Wonder Chef (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD266L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",SANSKAR
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226070/01.m3u8
+#EXTINF:0, group-title="Indian",SARTHI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226284/01.m3u8
+#EXTINF:0, group-title="Indian",SET
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Indian",SHOP CJ
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226266/01.m3u8
+#EXTINF:0, group-title="Indian",SHUBH TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226235/01.m3u8
+#EXTINF:0, group-title="Indian",SHUBHSANDESH TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226228/01.m3u8
+#EXTINF:0, group-title="Indian",SKYSTAR MOVIES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226215/01.m3u8
+#EXTINF:0, group-title="Indian",SONY BBC EARTH
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226068/01.m3u8
+#EXTINF:0, group-title="Indian",SONY BBC EARTH HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/01.m3u8
+#EXTINF:0, group-title="Indian",SONY ESPN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:0, group-title="Indian",SONY ESPN HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:0, group-title="Indian",SONY MAX
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225811/01.m3u8
+#EXTINF:0, group-title="Indian",SONY MAX 2
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Max HD
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8
+#EXTINF:0, group-title="Indian",Sony Max2
+http://125.17.129.4/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:0, group-title="Indian",SONY MIX
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:0, group-title="Indian",SONY PAL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/01.m3u8
+#EXTINF:0, group-title="Indian",SONY ROX HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/01.m3u8
+#EXTINF:0, group-title="Indian",Sony SAB
+http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:0, group-title="Indian",Sony Six
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:0, group-title="Indian",SONY SIX HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:0, group-title="Indian",SONY TEN 1
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:0, group-title="Indian",SONY TEN 1 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:0, group-title="Indian",SONY TEN 2
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:0, group-title="Indian",SONY TEN 2 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:0, group-title="Indian",SONY TEN 3
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:0, group-title="Indian",SONY TEN 3 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226330/01.m3u8
+#EXTINF:0, group-title="Indian",Sony TV
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Indian",Sony TV HD
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
+#EXTINF:0, group-title="Indian",Sony Yay
+http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
+#EXTINF:0, group-title="Indian",Sristi 35mm (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD87L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Swasthik TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD341L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",Taaza TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",TARANG MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226023/01.m3u8
+#EXTINF:0, group-title="Indian",TARANG TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226032/01.m3u8
+#EXTINF:0, group-title="Indian",Tez (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD79L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",THANTHI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226219/01.m3u8
+#EXTINF:0, group-title="Indian",Times Now
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
+#EXTINF:0, group-title="Indian",Times Now (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",TLC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225819/01.m3u8
+#EXTINF:0, group-title="Indian",TLC HD WORLD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:0, group-title="Indian",Toonami (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",TRAVEL XP
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
+#EXTINF:0, group-title="Indian",TV 9 MARATHI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226370/01.m3u8
+#EXTINF:0, group-title="Indian",TV9 Gujarati
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226113/01.m3u8
+#EXTINF:0, group-title="Indian",Vaani (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="Indian",VISSA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226255/01.m3u8
+#EXTINF:0, group-title="Indian",VTV GUJARATI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226112/01.m3u8
+#EXTINF:0, group-title="Indian",WION
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226363/01.m3u8
+#EXTINF:0, group-title="Indian",WOW CINEMA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226263/01.m3u8
+#EXTINF:0, group-title="Indian",Yoga TV -Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Indian",ZEE ACTION
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226331/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE BIHAR JHARKHAND
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226241/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE BUSINESS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225930/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE CINEMA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE CINEMA HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226083/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE CLASSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226067/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE HINDUSTAN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226074/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE KALINGA NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225937/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE KANNADA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225883/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE MADHYA PRADESH CHHATTISGARH
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225927/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE MARATHI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225881/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE MARATHI HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226278/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225922/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE RAJASTHAN NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225928/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE SALAAM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226355/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE TALKIES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225921/01.m3u8
+#EXTINF:0, group-title="Indian",ZEE TALKIES HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/01.m3u8
+#EXTINF:0, group-title="Indian",Zee TV
+http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:0, group-title="Indian",Zee TV HD
+http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
+#EXTINF:0, group-title="Indian",Zee Yuva
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
+#EXTINF:0, group-title="Indian",ZING
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226080/01.m3u8
+#EXTINF:0, group-title="Indian",ZINGAAT
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226371/01.m3u8
+#EXTINF:0, group-title="Indian",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="Indian",Zoom (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD160L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",360 TV (Chona)
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w2073057097_b364000.m3u8
+#EXTINF:0, group-title="International",Al Jazeera
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
+#EXTINF:0, group-title="International",Al Jazeera-1
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, group-title="International",Animal Planet HD
+http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:0, group-title="International",BBC WORLD NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
+#EXTINF:0, group-title="International",BLOOMBERG
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226082/01.m3u8
+#EXTINF:0, group-title="International",Bloomberg TV (Chona)
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Bloomberg US
+https:///mediauseast.akamaized.net/us/us1_live.m3u8
+#EXTINF:0, group-title="International",Channel News Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0, group-title="International",Channel Win 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="International",Chasseet Pache TV (Chona)
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, group-title="International",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
+#EXTINF:0, group-title="International",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0, group-title="International",Deutshe Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
+#EXTINF:0, group-title="International",DISCOVERY CHANNEL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:0, group-title="International",DISCOVERY HD WORLD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:0, group-title="International",DISCOVERY KIDS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225775/01.m3u8
+#EXTINF:0, group-title="International",DISCOVERY SCIENCE
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:0, group-title="International",DW Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, group-title="International",DW TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226323/01.m3u8
+#EXTINF:0, group-title="International",France24 News
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0, group-title="International",Gem Life TV (Chona)
+http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:0, group-title="International",Gem Travel TV (Chona)
+http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:0, group-title="International",Grand Lille TV	rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:0, group-title="International",Headlines Today
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0, group-title="International",ID
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225808/01.m3u8
+#EXTINF:0, group-title="International",Imaan TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD338L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Indies Music HD
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, group-title="International",Irib TV 3 (Chona)
+http://irib-live.arvancloud.com/tv3hd/tv3hd.m3u8
+#EXTINF:0, group-title="International",iTV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD195L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Kanal 24 TV (Chona)
+http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w246985525.m3u8
+#EXTINF:0, group-title="International",Kanal 3 TV (Chona)
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/chunklist_w1696095007_b750000.m3u8
+#EXTINF:0, group-title="International",Kanal D Turk (Chona)
+http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:0, group-title="International",Kurdistan TV (Chona)
+http://84.244.187.12:1935/live/livestream/chunklist_w1501586204.m3u8
+#EXTINF:0, group-title="International",Kurdmax TV
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
+#EXTINF:0, group-title="International",La Chaine Normande TV (Chona)
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:0, group-title="International",MBC Bollywood HD
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0, group-title="International",Mello TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+#EXTINF:0, group-title="International",Movies Now
+http://my2.videodb.in:8081/ENGLISH/MOVIESNOW/playlist.m3u8
+#EXTINF:0, group-title="International",MTA Bangla
+http://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8?secure_ios_token=RWM5a3pJM3U0NTlQWUFHb1BUd1JTMUZDZU5RMzJZdkx6K1p2SjlQNWdKWTlrZU1WZU5JcjY2S3VYbDZ5CnB6b1pQUGhmZk9BTmVLN3crSUw4aVh4TVBnPT0K" preload="none" crossorigin="anonymous"></video>
+#EXTINF:0, group-title="International",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8?secure_ios_token=L2VVcTlpQjJySEx3cVdLcFpOL0NTcnVNRE52UkNyU2tJakFZOUp3ei9MZGg0Z3JKVFJvY3JlZGFqSFFSCnY2WjFEekwxNUF6eGdsMjh2Y0hMZVdMT2VBPT0K
+#EXTINF:0, group-title="International",MTA Original
+http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8?secure_ios_token=Ky92RWptb3U3TmZkOUUxemx1YXZIZXBMYXg4MWNUZnVwUXFiZ055bllLbHl5b3FrZmp3UCthWnNOckdNCkNrVWFzR3hDbnBpWWdteExwSVE4WFp5a25nPT0K
+#EXTINF:0, group-title="International",MTA Urdu
+http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
+#EXTINF:0, group-title="International",Nassim TV
+http://s3.telewebion.com:1935/devices/_definst_/nasim-500k.stream/chunklist_w2127445813.m3u8
+#EXTINF:0, group-title="International",New TV (Chona)
+http://kurd-live.com:1935/live/new/playlist.m3u8
+#EXTINF:0, group-title="International",News Asia (Zenga)
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",Peace Asia TV	rtmp://peace.fms.visionip.tv/live//b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace UK TV	rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",Peace USA TV	rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
+#EXTINF:0, group-title="International",QH on TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="International",RA Documentary (Chona)
+https:///secure-streams.akamaized.net/rt-doc/index800.m3u8
+#EXTINF:0, group-title="International",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
+#EXTINF:0, group-title="International",Rega TV (Chona)
+http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
+#EXTINF:0, group-title="International",Ronahi TV
+http://bein.website/ZonaLiveTV1/Ronahi.m3u8
+#EXTINF:0, group-title="International",RT
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226334/01.m3u8
+#EXTINF:0, group-title="International",RT Documentary
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:0, group-title="International",RT Documentary HD
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0, group-title="International",Rudaw Live TV (Chona)
+https:///svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0, group-title="International",Science & Vie TV (Chona)
+http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, group-title="International",Sky  TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0, group-title="International",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0, group-title="International",TRT 1 HD (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0, group-title="International",TRT Arabic (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0, group-title="International",TRT Avaz (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0, group-title="International",TRT Diyanet TV (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Haber TV (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Kurd TV (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Okul TV (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT Turk TV (Chona)
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="International",TV5 MONDE ASIA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226322/01.m3u8
+#EXTINF:0, group-title="International",TV5 Monde Info (Chona)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0, group-title="International",TV5 Monde-Latin (Chona)
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:0, group-title="International",TV7 Bordeaux (Chona)	rtsp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:0, group-title="International",Ushuaia TV (Chona)
+http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
+#EXTINF:0, group-title="Pakistani",8XM HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/54.m3u8
+#EXTINF:0, group-title="Pakistani",A Plus
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/27.m3u8
+#EXTINF:0, group-title="Pakistani",Aab Tak TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/58.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj Entertainment
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/41.m3u8
+#EXTINF:0, group-title="Pakistani",Aaj News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/39.m3u8
+#EXTINF:0, group-title="Pakistani",Apna Channel
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/60.m3u8
+#EXTINF:0, group-title="Pakistani",Aruj
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/25.m3u8
+#EXTINF:0, group-title="Pakistani",ATV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/37.m3u8
+#EXTINF:0, group-title="Pakistani",Awaz
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/31.m3u8
+#EXTINF:0, group-title="Pakistani",Dunya TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/17.m3u8
+#EXTINF:0, group-title="Pakistani",Film World
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/42.m3u8
+#EXTINF:0, group-title="Pakistani",Filmax
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/67.m3u8
+#EXTINF:0, group-title="Pakistani",Filmazia HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/69.m3u8
+#EXTINF:0, group-title="Pakistani",Geo Entertainment
+http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
+#EXTINF:0, group-title="Pakistani",Jalwa
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/62.m3u8
+#EXTINF:0, group-title="Pakistani",K21 News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/23.m3u8
+#EXTINF:0, group-title="Pakistani",Kay2
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/07.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber News TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/51.m3u8
+#EXTINF:0, group-title="Pakistani",Khyber TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/19.m3u8
+#EXTINF:0, group-title="Pakistani",Lahore News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/21.m3u8
+#EXTINF:0, group-title="Pakistani",Macca TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/75.m3u8
+#EXTINF:0, group-title="Pakistani",Neo News HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/12.m3u8
+#EXTINF:0, group-title="Pakistani",News 7
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
+#EXTINF:0, group-title="Pakistani",News One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/45.m3u8
+#EXTINF:0, group-title="Pakistani",Oxygene
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/56.m3u8
+#EXTINF:0, group-title="Pakistani",Pashto 1
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/29.m3u8
+#EXTINF:0, group-title="Pakistani",Punjab TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/35.m3u8
+#EXTINF:0, group-title="Pakistani",Roze News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/82.m3u8
+#EXTINF:0, group-title="Pakistani",Saudi TV
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/77.m3u8
+#EXTINF:0, group-title="Pakistani",See TV HD
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/79.m3u8
+#EXTINF:0, group-title="Pakistani",Sindh News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/15.m3u8
+#EXTINF:0, group-title="Pakistani",Such
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/33.m3u8
+#EXTINF:0, group-title="Pakistani",TV One
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/47.m3u8
+#EXTINF:0, group-title="Pakistani",Waseb
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/49.m3u8
+#EXTINF:0, group-title="South Indian",10 TV TELUGU NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226351/01.m3u8
+#EXTINF:0, group-title="South Indian",7S MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/01.m3u8
+#EXTINF:0, group-title="South Indian",ABN TELUGU NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226140/01.m3u8
+#EXTINF:0, group-title="South Indian",ABP ANANDA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/01.m3u8
+#EXTINF:0, group-title="South Indian",ABP ASMITA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226264/01.m3u8
+#EXTINF:0, group-title="South Indian",ADITHYA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226132/01.m3u8
+#EXTINF:0, group-title="South Indian",ALANKAR
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226042/01.m3u8
+#EXTINF:0, group-title="South Indian",AMRITA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226310/01.m3u8
+#EXTINF:0, group-title="South Indian",Anand Media HD
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",ANJAN TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226115/01.m3u8
+#EXTINF:0, group-title="South Indian",APN NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226315/01.m3u8
+#EXTINF:0, group-title="South Indian",ARADANA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226229/01.m3u8
+#EXTINF:0, group-title="South Indian",ASEERVATHAM TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226324/01.m3u8
+#EXTINF:0, group-title="South Indian",Asianet  ME
+http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Bharat Today TV
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:0, group-title="South Indian",CAPTAIN TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226312/01.m3u8
+#EXTINF:0, group-title="South Indian",CAUVERY NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/01.m3u8
+#EXTINF:0, group-title="South Indian",CHANNEL WIN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226057/01.m3u8
+#EXTINF:0, group-title="South Indian",CN NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226285/01.m3u8
+#EXTINF:0, group-title="South Indian",CTVN AKD PLUS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226250/01.m3u8
+#EXTINF:0, group-title="South Indian",CVR ENGLISH NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226253/01.m3u8
+#EXTINF:0, group-title="South Indian",CVR HEALTH
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226248/01.m3u8
+#EXTINF:0, group-title="South Indian",CVR NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226247/01.m3u8
+#EXTINF:0, group-title="South Indian",Darshana TV ME
+http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8
+#EXTINF:0, group-title="South Indian",DD Podigai
+http://live-fs.wmncdn.net/ddpodigailive1/live1.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Dheeran TV
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",DISCOVERY TAMIL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226311/01.m3u8
+#EXTINF:0, group-title="South Indian",DY365
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226198/01.m3u8
+#EXTINF:0, group-title="South Indian",Eet TV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",FLOWERS TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225838/01.m3u8
+#EXTINF:0, group-title="South Indian",Garshom News
+http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Gemini Comedy
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226123/01.m3u8
+#EXTINF:0, group-title="South Indian",GEMINI MOVIES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226130/01.m3u8
+#EXTINF:0, group-title="South Indian",GEMINI MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226126/01.m3u8
+#EXTINF:0, group-title="South Indian",GEMINI NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226131/01.m3u8
+#EXTINF:0, group-title="South Indian",GEMINI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226129/01.m3u8
+#EXTINF:0, group-title="South Indian",GEMPORIA 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226337/01.m3u8
+#EXTINF:0, group-title="South Indian",GOD TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226325/01.m3u8
+#EXTINF:0, group-title="South Indian",GOODNESS TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226336/01.m3u8
+#EXTINF:0, group-title="South Indian",GYANA YOGI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226245/01.m3u8
+#EXTINF:0, group-title="South Indian",HARVEST TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226233/01.m3u8
+#EXTINF:0, group-title="South Indian",IBC 24
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226102/01.m3u8
+#EXTINF:0, group-title="South Indian",ISAI ARUVI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226303/01.m3u8
+#EXTINF:0, group-title="South Indian",Janam TV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226111/01.m3u8
+#EXTINF:0, group-title="South Indian",Janan TV 
+http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
+#EXTINF:0, group-title="South Indian",Jaya Max
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226101/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya Movie
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226095/01.m3u8
+#EXTINF:0, group-title="South Indian",JAYA PLUS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226282/01.m3u8
+#EXTINF:0, group-title="South Indian",Jaya TV HD
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226092/01.m3u8
+#EXTINF:0, group-title="South Indian",KAATYAYANI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226270/01.m3u8
+#EXTINF:0, group-title="South Indian",Kairali
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226093/01.m3u8
+#EXTINF:0, group-title="South Indian",KAIRALI WE
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226019/01.m3u8
+#EXTINF:0, group-title="South Indian",Kalaignar TV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226091/01.m3u8
+#EXTINF:0, group-title="South Indian",KALINGA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226016/01.m3u8
+#EXTINF:0, group-title="South Indian",KANAK NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226224/01.m3u8
+#EXTINF:0, group-title="South Indian",KAPPA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226319/01.m3u8
+#EXTINF:0, group-title="South Indian",Kaumudi TV
+http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Kaumudy
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226100/01.m3u8
+#EXTINF:0, group-title="South Indian",KTN
+http://103.24.96.74/ktn/ktn/chunklist.m3u8
+#EXTINF:0, group-title="South Indian",KTV
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226121/01.m3u8
+#EXTINF:0, group-title="South Indian",MATHRUBHUMI NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226314/01.m3u8
+#EXTINF:0, group-title="South Indian",Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:0, group-title="South Indian",MK SIX
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226239/01.m3u8
+#EXTINF:0, group-title="South Indian",MK TUNES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/01.m3u8
+#EXTINF:0, group-title="South Indian",MK TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226196/01.m3u8
+#EXTINF:0, group-title="South Indian",MK TV
+http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",MURASU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226290/01.m3u8
+#EXTINF:0, group-title="South Indian",NAAPTOL KANNADA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226272/01.m3u8
+#EXTINF:0, group-title="South Indian",NAAPTOL TAMIL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226274/01.m3u8
+#EXTINF:0, group-title="South Indian",NAAPTOL TELUGU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226275/01.m3u8
+#EXTINF:0, group-title="South Indian",NAMBIKKAI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/01.m3u8
+#EXTINF:0, group-title="South Indian",NATIONAL VOICE
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/01.m3u8
+#EXTINF:0, group-title="South Indian",NEWS 7 TAMIL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226308/01.m3u8
+#EXTINF:0, group-title="South Indian",News Live
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/01.m3u8
+#EXTINF:0, group-title="South Indian",NTV HD
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Onkar TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD174L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",OTV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD93L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",Polimer Music
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/01.m3u8
+#EXTINF:0, group-title="South Indian",POLIMER NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226283/01.m3u8
+#EXTINF:0, group-title="South Indian",POWERVISION
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226258/01.m3u8
+#EXTINF:0, group-title="South Indian",Prag News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/01.m3u8
+#EXTINF:0, group-title="South Indian",PRAJAA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226234/01.m3u8
+#EXTINF:0, group-title="South Indian",PRARTHANA BHAWAN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226223/01.m3u8
+#EXTINF:0, group-title="South Indian",PRARTHANA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226033/01.m3u8
+#EXTINF:0, group-title="South Indian",Prarthana TV (Zenga)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD94L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
+#EXTINF:0, group-title="South Indian",PRATIDIN TIME
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226288/01.m3u8
+#EXTINF:0, group-title="South Indian",PUBLIC TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226139/01.m3u8
+#EXTINF:0, group-title="South Indian",PUTHIYA THALAIMURAI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226304/01.m3u8
+#EXTINF:0, group-title="South Indian",PUTHU YUGAM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ DIGITAL PLUS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226316/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ MUSIX KANNADA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226317/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ MUSIX MALAYALAM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226257/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ MUSIX TAMIL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226238/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ MUSIX TELUGU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226256/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ NEWS KANNADA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226243/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ NEWS MALAYALAM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226259/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ NEWS TAMIL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226260/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ NEWS TELUGU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226254/01.m3u8
+#EXTINF:0, group-title="South Indian",RAJ TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226220/01.m3u8
+#EXTINF:0, group-title="South Indian",SARV DHARAM SANGAM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226338/01.m3u8
+#EXTINF:0, group-title="South Indian",SATHIYAM TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226340/01.m3u8
+#EXTINF:0, group-title="South Indian",SEITHIGAL 24X7
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/01.m3u8
+#EXTINF:0, group-title="South Indian",SHIVA SHAKTHI SAI TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226382/01.m3u8
+#EXTINF:0, group-title="South Indian",SIRIPPOLI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226221/01.m3u8
+#EXTINF:0, group-title="South Indian",SRI SANKARA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226320/01.m3u8
+#EXTINF:0, group-title="South Indian",SUBHAVAARTHA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226352/01.m3u8
+#EXTINF:0, group-title="South Indian",SUDARSHAN NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226380/01.m3u8
+#EXTINF:0, group-title="South Indian",SUN MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226137/01.m3u8
+#EXTINF:0, group-title="South Indian",SUN TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226135/01.m3u8
+#EXTINF:0, group-title="South Indian",Super TV
+http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
+#EXTINF:0, group-title="South Indian",SURYA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226127/01.m3u8
+#EXTINF:0, group-title="South Indian",T NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226307/01.m3u8
+#EXTINF:0, group-title="South Indian",TAMILIAN TELEVISION
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226342/01.m3u8
+#EXTINF:0, group-title="South Indian",TOTAL TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226242/01.m3u8
+#EXTINF:0, group-title="South Indian",TV5 TELUGU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226350/01.m3u8
+#EXTINF:0, group-title="South Indian",TV9 Kannada
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8
+#EXTINF:0, group-title="South Indian",TV9 TELUGU NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/01.m3u8
+#EXTINF:0, group-title="South Indian",UDAYA COMEDY
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226136/01.m3u8
+#EXTINF:0, group-title="South Indian",UDAYA MOVIES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226128/01.m3u8
+#EXTINF:0, group-title="South Indian",UDAYA MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226133/01.m3u8
+#EXTINF:0, group-title="South Indian",UDAYA TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226134/01.m3u8
+#EXTINF:0, group-title="South Indian",Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:0, group-title="South Indian",V News
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/01.m3u8
+#EXTINF:0, group-title="South Indian",V6 NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226197/01.m3u8
+#EXTINF:0, group-title="South Indian",VAANAVIL TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226244/01.m3u8
+#EXTINF:0, group-title="South Indian",VASANTH TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226321/01.m3u8
+#EXTINF:0, group-title="South Indian",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0, group-title="South Indian",Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+#EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
+http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:0, group-title="South Indian",ZEE CINEMALU
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226098/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Sarthak
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/01.m3u8
+#EXTINF:0, group-title="South Indian",ZEE TAMIL 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225929/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Telugu
+http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
+#EXTINF:0, group-title="South Indian",Zee Telugu Cinema
+http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8
+#EXTINF:0, group-title="South Indian",Win TV
+http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8
+#EXTINF:0, group-title="Afgani",1TV AFGHAN
+http://130.185.144.63:8000/live/afghan/afghan/1076.ts
+#EXTINF:0, group-title="Afgani",24 HD
+http://130.185.144.63:8000/live/afghan/afghan/93.ts
+#EXTINF:0, group-title="Afgani",RTA
+http://130.185.144.63:8000/live/afghan/afghan/1053.ts
+#EXTINF:0, group-title="Afgani",RAH E FARDA
+http://130.185.144.63:8000/live/afghan/afghan/1054.ts
+#EXTINF:0, group-title="Afgani",PAYAM E AFGHAN
+http://130.185.144.63:8000/live/afghan/afghan/1055.ts
+#EXTINF:0, group-title="Afgani",PARLIMENT TV
+http://130.185.144.63:8000/live/afghan/afghan/1056.ts
+#EXTINF:0, group-title="Afgani",NOORIN TV
+http://130.185.144.63:8000/live/afghan/afghan/1057.ts
+#EXTINF:0, group-title="Afgani",MITRA
+http://130.185.144.63:8000/live/afghan/afghan/1058.ts
+#EXTINF:0, group-title="Afgani",KHAWAR TV
+http://130.185.144.63:8000/live/afghan/afghan/1059.ts
+#EXTINF:0, group-title="Afgani",KTN NEWS
+http://130.185.144.63:8000/live/afghan/afghan/88.ts
+#EXTINF:0, group-title="Afgani",KABUL NEWS
+http://130.185.144.63:8000/live/afghan/afghan/1061.ts
+#EXTINF:0, group-title="Afgani",AFGHAN JAVAN
+http://130.185.144.63:8000/live/afghan/afghan/1074.ts
+#EXTINF:0, group-title="Afgani",IMAN TV
+http://130.185.144.63:8000/live/afghan/afghan/1063.ts
+#EXTINF:0, group-title="Afgani",AMCA
+http://130.185.144.63:8000/live/afghan/afghan/1072.ts
+#EXTINF:0, group-title="Afgani",BATUR
+http://130.185.144.63:8000/live/afghan/afghan/1065.ts
+#EXTINF:0, group-title="Afgani",A TV
+http://130.185.144.63:8000/live/afghan/afghan/1066.ts
+#EXTINF:0, group-title="Afgani",RTA NEWS
+http://130.185.144.63:8000/live/afghan/afghan/1052.ts
+#EXTINF:0, group-title="Afgani",ATN NEWS
+http://130.185.144.63:8000/live/afghan/afghan/1068.ts
+#EXTINF:0, group-title="Afgani",TUTI TV
+http://130.185.144.63:8000/live/afghan/afghan/1051.ts
+#EXTINF:0, group-title="Afgani",AFGHAN 24
+http://130.185.144.63:8000/live/afghan/afghan/1073.ts
+#EXTINF:0, group-title="Afgani",KAYHAN TV
+http://130.185.144.63:8000/live/afghan/afghan/1060.ts
+#EXTINF:0, group-title="Afgani", ARZU
+http://130.185.144.63:8000/live/afghan/afghan/81.ts
+#EXTINF:0, group-title="Afgani",ZARIN TV
+http://130.185.144.63:8000/live/afghan/afghan/1050.ts
+#EXTINF:0, group-title="Afgani",JAHAN TV
+http://130.185.144.63:8000/live/afghan/afghan/1062.ts
+#EXTINF:0, group-title="Afgani",KHURSED
+http://130.185.144.63:8000/live/afghan/afghan/92.ts
+#EXTINF:0, group-title="Afgani",KTNNEWS
+http://130.185.144.63:8000/live/afghan/afghan/89.ts
+#EXTINF:0, group-title="Afgani",LEMAR
+http://130.185.144.63:8000/live/afghan/afghan/83.ts
+#EXTINF:0, group-title="Afgani",HEWAD TV
+http://130.185.144.63:8000/live/afghan/afghan/95.ts
+#EXTINF:0, group-title="Afgani",DARI 24
+http://130.185.144.63:8000/live/afghan/afghan/1064.ts
+#EXTINF:0, group-title="Afgani",NIGHA
+http://130.185.144.63:8000/live/afghan/afghan/82.ts
+#EXTINF:0, group-title="Afgani",NOOR TV
+http://130.185.144.63:8000/live/afghan/afghan/84.ts
+#EXTINF:0, group-title="Afgani",ONE TV
+http://130.185.144.63:8000/live/afghan/afghan/85.ts
+#EXTINF:0, group-title="Afgani",MAIWAND TV
+http://130.185.144.63:8000/live/afghan/afghan/96.ts
+#EXTINF:0, group-title="Afgani",ATN USA
+http://130.185.144.63:8000/live/afghan/afghan/1067.ts
+#EXTINF:0, group-title="Afgani",TAMDON
+http://130.185.144.63:8000/live/afghan/afghan/90.ts
+#EXTINF:0, group-title="Afgani",TOLO
+http://130.185.144.63:8000/live/afghan/afghan/86.ts
+#EXTINF:0, group-title="Afgani",SHAMSHAD
+http://130.185.144.63:8000/live/afghan/afghan/98.ts
+#EXTINF:0, group-title="Afgani",ATN AFGHAN
+http://130.185.144.63:8000/live/afghan/afghan/1069.ts
+#EXTINF:0, group-title="Afgani",WATAN
+http://130.185.144.63:8000/live/afghan/afghan/91.ts
+#EXTINF:0, group-title="Afgani",TOLO NEWS
+http://130.185.144.63:8000/live/afghan/afghan/87.ts
+#EXTINF:0, group-title="Afgani",ARIANA INTERNATIONAL
+http://130.185.144.63:8000/live/afghan/afghan/1070.ts
+#EXTINF:0, group-title="Afgani",ZWANDOON
+http://130.185.144.63:8000/live/afghan/afghan/97.ts
+#EXTINF:0, group-title="Afgani",ARIA MUSIC
+http://130.185.144.63:8000/live/afghan/afghan/1071.ts
+#EXTINF:0, group-title="Bangla",ZEE BANGLA CINEMA
+http://130.185.144.63:8000/live/bangla/bangla/79.ts
+#EXTINF:0, group-title="Bangla",ZEE BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/80.ts
+#EXTINF:0, group-title="Bangla",STAR JALSA
+http://130.185.144.63:8000/live/bangla/bangla/73.ts
+#EXTINF:0, group-title="Bangla",SOMOY
+http://130.185.144.63:8000/live/bangla/bangla/65.ts
+#EXTINF:0, group-title="Bangla",SKTV
+http://130.185.144.63:8000/live/bangla/bangla/72.ts
+#EXTINF:0, group-title="Bangla",SATV
+http://130.185.144.63:8000/live/bangla/bangla/66.ts
+#EXTINF:0, group-title="Bangla",RUPOSHI BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/74.ts
+#EXTINF:0, group-title="Bangla",RTV
+http://130.185.144.63:8000/live/bangla/bangla/64.ts
+#EXTINF:0, group-title="Bangla",R PLUS NEWS
+http://130.185.144.63:8000/live/bangla/bangla/75.ts
+#EXTINF:0, group-title="Bangla",NTV
+http://130.185.144.63:8000/live/bangla/bangla/62.ts
+#EXTINF:0, group-title="Bangla",MOHONA TV
+http://130.185.144.63:8000/live/bangla/bangla/60.ts
+#EXTINF:0, group-title="Bangla",MAASARANGA
+http://130.185.144.63:8000/live/bangla/bangla/70.ts
+#EXTINF:0, group-title="Bangla",JAMUNA TV
+http://130.185.144.63:8000/live/bangla/bangla/76.ts
+#EXTINF:0, group-title="Bangla",INDEPENDENT
+http://130.185.144.63:8000/live/bangla/bangla/59.ts
+#EXTINF:0, group-title="Bangla",GAAN BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/69.ts
+#EXTINF:0, group-title="Bangla",ETV
+http://130.185.144.63:8000/live/bangla/bangla/58.ts
+#EXTINF:0, group-title="Bangla",EKATOOR TV
+http://130.185.144.63:8000/live/bangla/bangla/68.ts
+#EXTINF:0, group-title="Bangla",DHOOM MUSIC
+http://130.185.144.63:8000/live/bangla/bangla/77.ts
+#EXTINF:0, group-title="Bangla",DESH TV
+http://130.185.144.63:8000/live/bangla/bangla/57.ts
+#EXTINF:0, group-title="Bangla",CHANNELI
+http://130.185.144.63:8000/live/bangla/bangla/56.ts
+#EXTINF:0, group-title="Bangla",CHANNEL  24
+http://130.185.144.63:8000/live/bangla/bangla/54.ts
+#EXTINF:0, group-title="Bangla",BTV WORLD
+http://130.185.144.63:8000/live/bangla/bangla/71.ts
+#EXTINF:0, group-title="Bangla",BTV
+http://130.185.144.63:8000/live/bangla/bangla/53.ts
+#EXTINF:0, group-title="Bangla",BOISHAKHI
+http://130.185.144.63:8000/live/bangla/bangla/63.ts
+#EXTINF:0, group-title="Bangla",BIJOY
+http://130.185.144.63:8000/live/bangla/bangla/52.ts
+#EXTINF:0, group-title="Bangla",BANGLAVISION
+http://130.185.144.63:8000/live/bangla/bangla/51.ts
+#EXTINF:0, group-title="Bangla",MY BANGLA TV
+http://130.185.144.63:8000/live/bangla/bangla/61.ts
+#EXTINF:0, group-title="Bangla",ATN  NEWS
+http://130.185.144.63:8000/live/bangla/bangla/50.ts
+#EXTINF:0, group-title="Bangla",ATN BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/49.ts
+#EXTINF:0, group-title="Bangla",ASIAN TV
+http://130.185.144.63:8000/live/bangla/bangla/67.ts
+#EXTINF:0, group-title="Bangla",ABP ANANDA
+http://130.185.144.63:8000/live/bangla/bangla/78.ts
+#EXTINF:0, group-title="Bangla",AAKASH BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/1018.ts
+#EXTINF:0, group-title="Bangla",ATN BANGLA UK
+http://130.185.144.63:8000/live/bangla/bangla/1019.ts
+#EXTINF:0, group-title="Bangla",ATN MUSIC TV
+http://130.185.144.63:8000/live/bangla/bangla/1020.ts
+#EXTINF:0, group-title="Bangla",BANGLA TV UK
+http://130.185.144.63:8000/live/bangla/bangla/1021.ts
+#EXTINF:0, group-title="Bangla",CHANNEL 9
+http://130.185.144.63:8000/live/bangla/bangla/1023.ts
+#EXTINF:0, group-title="Bangla",CHANNEL I EU
+http://130.185.144.63:8000/live/bangla/bangla/1024.ts
+#EXTINF:0, group-title="Bangla",CHANNEL S
+http://130.185.144.63:8000/live/bangla/bangla/1025.ts
+#EXTINF:0, group-title="Bangla",COLORS BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/1026.ts
+#EXTINF:0, group-title="Bangla",DBC NEWS
+http://130.185.144.63:8000/live/bangla/bangla/1027.ts
+#EXTINF:0, group-title="Bangla",DD BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/1028.ts
+#EXTINF:0, group-title="Bangla",DEEPTO HD
+http://130.185.144.63:8000/live/bangla/bangla/1029.ts
+#EXTINF:0, group-title="Bangla",DESHE BIDESHE TV
+http://130.185.144.63:8000/live/bangla/bangla/1030.ts
+#EXTINF:0, group-title="Bangla",DESHI TV
+http://130.185.144.63:8000/live/bangla/bangla/1031.ts
+#EXTINF:0, group-title="Bangla",G TV
+http://130.185.144.63:8000/live/bangla/bangla/1033.ts
+#EXTINF:0, group-title="Bangla",ITV
+http://130.185.144.63:8000/live/bangla/bangla/1034.ts
+#EXTINF:0, group-title="Bangla",MASRANGA TV
+http://130.185.144.63:8000/live/bangla/bangla/1036.ts
+#EXTINF:0, group-title="Bangla",MILLENNIUM TV
+http://130.185.144.63:8000/live/bangla/bangla/1037.ts
+#EXTINF:0, group-title="Bangla",MOVIE BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/1038.ts
+#EXTINF:0, group-title="Bangla",NEWS 24 HD
+http://130.185.144.63:8000/live/bangla/bangla/1040.ts
+#EXTINF:0, group-title="Bangla",NRB TV
+http://130.185.144.63:8000/live/bangla/bangla/1042.ts
+#EXTINF:0, group-title="Bangla",NTV UK
+http://130.185.144.63:8000/live/bangla/bangla/1043.ts
+#EXTINF:0, group-title="Bangla",SANGEET BANGLA
+http://130.185.144.63:8000/live/bangla/bangla/1045.ts
+#EXTINF:0, group-title="Bangla",STAR JHALSA MOVIES
+http://130.185.144.63:8000/live/bangla/bangla/1047.ts
+#EXTINF:0, group-title="Bangla",TARA MUZIK
+http://130.185.144.63:8000/live/bangla/bangla/1048.ts
+#EXTINF:0, group-title="Indian",KTV HD Local
+http://130.185.144.63:8000/live/movies/movies/541.ts
+#EXTINF:0, group-title="Indian",JIO/STAR BAHARAT
+http://130.185.144.63:8000/live/movies/movies/540.ts
+#EXTINF:0, group-title="Indian",NEO PRIME HD
+http://130.185.144.63:8000/live/movies/movies/538.ts
+#EXTINF:0, group-title="Indian",NEO SPORTS HD
+http://130.185.144.63:8000/live/movies/movies/537.ts
+#EXTINF:0, group-title="Indian",PK - PTV GLOBAL
+http://130.185.144.63:8000/live/movies/movies/507.ts
+#EXTINF:0, group-title="Indian",SONY ESPN HD
+http://130.185.144.63:8000/live/movies/movies/533.ts
+#EXTINF:0, group-title="Indian",SONY SAB HD
+http://130.185.144.63:8000/live/movies/movies/502.ts
+#EXTINF:0, group-title="Indian",STAR SELECT 1 HD
+http://130.185.144.63:8000/live/movies/movies/530.ts
+#EXTINF:0, group-title="Indian",STAR SPORTS 1 HD
+http://130.185.144.63:8000/live/movies/movies/529.ts
+#EXTINF:0, group-title="Indian",STAR SPORTS 2 HD
+http://130.185.144.63:8000/live/movies/movies/528.ts
+#EXTINF:0, group-title="Indian",STAR WORLD HD
+http://130.185.144.63:8000/live/movies/movies/525.ts
+#EXTINF:0, group-title="Indian",STAR SELECT 2 HD
+http://130.185.144.63:8000/live/movies/movies/524.ts
+#EXTINF:0, group-title="Indian",STAR VIJAY HD
+http://130.185.144.63:8000/live/movies/movies/523.ts
+#EXTINF:0, group-title="Indian",AND PICTURE HD
+http://130.185.144.63:8000/live/movies/movies/823.ts
+#EXTINF:0, group-title="Indian",AND TV HD
+http://130.185.144.63:8000/live/movies/movies/141.ts
+#EXTINF:0, group-title="Indian",HD COLORS TV HD
+http://130.185.144.63:8000/live/movies/movies/122.ts
+#EXTINF:0, group-title="Indian",MTUNES HD
+http://130.185.144.63:8000/live/movies/movies/154.ts
+#EXTINF:0, group-title="Indian",JIO/SONYMAXHD
+http://130.185.144.63:8000/live/movies/movies/536.ts
+#EXTINF:0, group-title="Indian",SONY TV HD
+http://130.185.144.63:8000/live/movies/movies/127.ts
+#EXTINF:0, group-title="Indian",STAR GOLD HD
+http://130.185.144.63:8000/live/movies/movies/191.ts
+#EXTINF:0, group-title="Indian",STAR PLUS HD
+http://130.185.144.63:8000/live/movies/movies/131.ts
+#EXTINF:0, group-title="Indian",ZEE CINEMA HD
+http://130.185.144.63:8000/live/movies/movies/503.ts
+#EXTINF:0, group-title="Indian",ZEE LIVING HD
+http://130.185.144.63:8000/live/movies/movies/120.ts
+#EXTINF:0, group-title="Indian",ZEE TV HD
+http://130.185.144.63:8000/live/movies/movies/115.ts
+#EXTINF:0, group-title="Indian",IPL HD
+http://130.185.144.63:8000/live/movies/movies/1247.ts
+#EXTINF:0, group-title="Indian",Vox Hollywood
+http://130.185.144.63:8000/live/movies/movies/1261.ts
+#EXTINF:0, group-title="Indian",Vox Series
+http://130.185.144.63:8000/live/movies/movies/1260.ts
+#EXTINF:0, group-title="Indian",Vox Cenima
+http://130.185.144.63:8000/live/movies/movies/1262.ts
+#EXTINF:0, group-title="Indian",Vox Hindi
+http://130.185.144.63:8000/live/movies/movies/1266.ts
+#EXTINF:0, group-title="Indian",Vox Punjabi
+http://130.185.144.63:8000/live/movies/movies/1263.ts
+#EXTINF:0, group-title="Indian",PTC PUNJABI
+http://130.185.144.63:8000/live/punjabi/punjabi/172.ts
+#EXTINF:0, group-title="Indian",TIME TELEVISION
+http://130.185.144.63:8000/live/bangla/bangla/1049.ts
+#EXTINF:0, group-title="Indian",???
+http://130.185.144.63:8000/live/afghan/afghan/1075.ts
+#EXTINF:0, group-title="Pakistani",ARY ZAIQA
+http://130.185.144.63:8000/live/movies/movies/511.ts
