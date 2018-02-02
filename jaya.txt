@@ -579,11 +579,10 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood 
 http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
-
 #EXTINF:0, group-title="Punjabi",BritAsia
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
+http://streamxcode.ddns.net:25461/live/chec123/checked123/5146.ts|refferer=http://solidstreamz.com/&user-agent=123
 #EXTINF:0, group-title="Punjabi",Chakde TV
-http://209.153.233.92:7000/chakde/index.m3u8
+http://streamxcode.ddns.net:25461/live/chec123/checked123/5153.ts|refferer=http://solidstreamz.com/&user-agent=123
 #EXTINF:0, group-title="Punjabi",Channel Y
 http://streamxcode.ddns.net:25461/live/chec123/checked123/5157.ts|refferer=http://solidstreamz.com/&user-agent=123
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
