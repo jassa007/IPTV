@@ -568,7 +568,7 @@ http://ruhutv.com/tRXnDiJPF3RO4DR//9X_Tashan/9X_Tashan_800.m3u8
 #EXTINF:0, group-title="Punjabi",Akaal
 http://130.185.144.63:8000/live/punjabi/punjabi/183.ts
 #EXTINF:0, group-title="Punjabi",Ankhila Punjab
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5119.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5119.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi
@@ -580,11 +580,11 @@ http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood 
 http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",BritAsia
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5146.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5146.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Chakde TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5153.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5153.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Channel Y
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5157.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5157.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
 http://ruhutv.com/tRXnDiJPF3RO4DR//Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
 #EXTINF:0, group-title="Punjabi",Cine Voice
@@ -596,22 +596,22 @@ http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5f
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Dhur Ki Baani
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5172.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5172.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",E9 Punjabi
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5141.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5141.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Etc Punjabi
 http://130.185.144.63:8000/live/punjabi/punjabi/171.ts
 #EXTINF:0, group-title="Punjabi",Fateh TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5155.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5155.ts|refferer=http://solidstreamz.com/&user-agent=token
 player.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Garv Gurbani TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5169.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5169.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Garv Punjab Gurbani
 http://ruhutv.com/tRXnDiJPF3RO4DR//Garv_Gurbani/Garv_Gurbani_800.m3u8
 #EXTINF:0, group-title="Punjabi",Gaunda Punjab
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5147.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5147.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_punjab.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
@@ -619,7 +619,7 @@ http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Gurbaani TV
 http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Gurmit Channel
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5134.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5134.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Hamdard TV
 http://130.185.144.63:8000/live/punjabi/punjabi/1115.ts
 #EXTINF:0, group-title="Punjabi",Jhanjar HD
@@ -633,7 +633,7 @@ http://ruhutv.com/tRXnDiJPF3RO4DR//JUSPunjabi/JUSPunjabi_800.m3u8
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Manjhe Te Speaker
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5160.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5160.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Mh 1
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Music
@@ -643,15 +643,15 @@ http://130.185.144.63:8000/live/punjabi/punjabi/1117.ts
 #EXTINF:0, group-title="Punjabi",mh1 Shraddha
 http://ruhutv.com/tRXnDiJPF3RO4DR//mh1_Shraddha/mh1_Shraddha_800.m3u8
 #EXTINF:0, group-title="Punjabi",Mirror Punjab
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5132.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5132.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",NDA Channel
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5117.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5117.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Only Music
 http://ruhutv.com/tRXnDiJPF3RO4DR//Only_Music/Only_Music_800.m3u8
 #EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",OZ TV Channel
-http://streamxcode.ddns.net:25461/live/chec123/checked123/51648.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/51648.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
@@ -661,21 +661,21 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTC Chakde
 http://130.185.144.63:8000/live/punjabi/punjabi/173.ts
 #EXTINF:0, group-title="Punjabi",PTC News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5135.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5135.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",PTC News UK
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5136.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5136.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",PTC Punjabi
 http://130.185.144.63:8000/live/punjabi/punjabi/172.ts
 #EXTINF:0, group-title="Punjabi",PTC Punjabi UK
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5126.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5126.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",PTN 24
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5115.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5115.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Punjab TV
 http://130.185.144.63:8000/live/punjabi/punjabi/170.ts
 #EXTINF:0, group-title="Punjabi",RTV HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5122.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5122.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Sahib TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5178.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5178.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Sangat TV
 http://130.185.144.63:8000/live/punjabi/punjabi/182.ts
 #EXTINF:0, group-title="Punjabi",Global Sanjh TV
@@ -691,7 +691,7 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",TV 84
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5156.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5156.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
@@ -701,7 +701,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
 http://130.185.144.63:8000/live/punjabi/punjabi/118.ts
 #EXTINF:0, group-title="Punjabi",Zee Punjabi UK
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5121.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5121.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Tamil",Adithya TV
 http://ruhutv.com/tRXnDiJPF3RO4DR//Adithya_TV/Adithya_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Angel TV HD
@@ -1866,231 +1866,231 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 #EXTINF:0, group-title="International",Ushuaia TV (Chona)
 http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
 #EXTINF:0, group-title="Pakistani",24 Channel HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4350.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4350.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",7 News HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4383.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4383.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",8xM HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4372.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4372.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",92 News HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4352.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4352.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",A Plus
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4326.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4326.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Aaj Entertainment
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4329.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4329.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Aaj News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4354.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4354.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Aaj News UK
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4600.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4600.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Abb Tak
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4353.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4353.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Apna Channel
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5095.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5095.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Aruj TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4402.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4402.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary Digital
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4316.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4316.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary Digital
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4320.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4320.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary Digital World
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4321.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4321.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary Music
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4371.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4371.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4343.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4343.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary News World
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4342.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4342.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary Zauq
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4378.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4378.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ary Zindagi
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4323.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4323.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",As Movies
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4431.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4431.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",ATV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4328.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4328.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Awami Awaz TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4413.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4413.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Awaz TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4399.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4399.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Barkat TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4430.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4430.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Bol News HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4338.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4338.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Business Plus
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4356.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4356.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Canada One
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4660.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4660.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Channel 5
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4348.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4348.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",City 41 News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4426.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4426.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",City 42 News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4427.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4427.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Desi TV USA
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4385.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4385.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Dhanak TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4376.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4376.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Dhanka TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4386.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4386.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Dharti TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5096.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5096.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Din News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4384.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4384.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Dtv News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4401.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4401.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Dunya News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4340.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4340.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ehtesab News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4407.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4407.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Express Entertainment
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4324.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4324.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Express News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4433.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4433.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Falak TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4408.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4408.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Filmasia
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4428.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4428.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Filmax
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4367.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4367.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Filmazia
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4366.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4366.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Filmworld
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4364.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4364.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Filmy Rhythm
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4429.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4429.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo Kahani
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4315.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4315.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo Kahani EU
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5097.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5097.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4344.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4344.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4345.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4345.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo Super
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4806.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4806.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo Tezz
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4346.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4346.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo Tezz
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4347.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4347.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4313.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4313.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Geo TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4314.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4314.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Hamara TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5098.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5098.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Hum News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4359.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4359.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Hum TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4309.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4309.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Hum TV EU
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4311.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4311.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Hum TV Sitary
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4312.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4312.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Hum TV World
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4310.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4310.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Humsab TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4358.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4358.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Joo Music
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4374.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4374.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Kashish TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4409.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4409.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Kawish TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4389.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4389.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Kay 2
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4415.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4415.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Khyber TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4417.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4417.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Kohenoor
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4370.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4370.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ktn
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4411.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4411.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Ktn News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4412.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4412.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Lahore News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4339.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4339.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Lahore News HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4351.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4351.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Masala TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4377.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4377.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Mashriq TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4414.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4414.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Mehran TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4419.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4419.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Metro 1 News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4400.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4400.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Mujra Masti
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4332.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4332.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Neo News HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4381.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4381.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",News One
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4382.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4382.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",News Pakistan
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4420.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4420.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Noor Jahan Songs
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4369.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4369.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Oxygen HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4421.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4421.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Pashto 1
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4416.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4416.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Play Entertainment
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4422.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4422.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Prime TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4335.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4335.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",PTV Global
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4336.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4336.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",PTV Home
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5100.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5100.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",PTV National
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4395.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4395.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",PTV News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4396.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4396.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",PTV World
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4397.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4397.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Punjab TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/5099.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/5099.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Raavi TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4404.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4404.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Roze News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4398.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4398.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Samaa TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4349.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4349.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",See TV HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4334.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4334.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Silver Screen
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4423.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4423.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Star Asia News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4380.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4380.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Starlite
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4368.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4368.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Tag TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4393.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4393.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Times TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4432.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4432.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Toronto 360 HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4327.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4327.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",TV One
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4331.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4331.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",UK 44
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4424.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4424.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Urdu 1 EU
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4410.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4410.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Urdu 1 HD
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4325.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4325.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Urdu TV Toronto
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4666.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4666.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Venus TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4434.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4434.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Vibe TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4425.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4425.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Vsh News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4405.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4405.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Waqt News
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4357.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4357.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Waseeb TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4337.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4337.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Zaiqa
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4379.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4379.ts|refferer=http://solidstreamz.com/&user-agent=token
 #EXTINF:0, group-title="Pakistani",Zindagi TV
-http://streamxcode.ddns.net:25461/live/chec123/checked123/4403.ts|refferer=http://solidstreamz.com/&user-agent=123
+http://streamxcode.ddns.net:25461/live/newap/streamz/4403.ts|refferer=http://solidstreamz.com/&user-agent=token
 
 
 #EXTINF:0, group-title="South Indian",10 TV TELUGU NEWS
