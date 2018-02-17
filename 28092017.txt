@@ -143,69 +143,69 @@ http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten3_HD/Ten3_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten Golf HD
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 1
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_01/Swayam_Prabha_01_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_01/Swayam_Prabha_01_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 2
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_02/Swayam_Prabha_02_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_02/Swayam_Prabha_02_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 3
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_03/Swayam_Prabha_03_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_03/Swayam_Prabha_03_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 4
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_04/Swayam_Prabha_04_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_04/Swayam_Prabha_04_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 5
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_05/Swayam_Prabha_05_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_05/Swayam_Prabha_05_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 6
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_06/Swayam_Prabha_06_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_06/Swayam_Prabha_06_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 7
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_07/Swayam_Prabha_07_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_07/Swayam_Prabha_07_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 8
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_08/Swayam_Prabha_08_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_08/Swayam_Prabha_08_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 9
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_09/Swayam_Prabha_09_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_09/Swayam_Prabha_09_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 10
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_10/Swayam_Prabha_10_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_10/Swayam_Prabha_10_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 11
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_11/Swayam_Prabha_11_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_11/Swayam_Prabha_11_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 12
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_12/Swayam_Prabha_12_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_12/Swayam_Prabha_12_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 13
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_13/Swayam_Prabha_13_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_13/Swayam_Prabha_13_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 14
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_14/Swayam_Prabha_14_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_14/Swayam_Prabha_14_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 15
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_15/Swayam_Prabha_15_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_15/Swayam_Prabha_15_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 16
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_16/Swayam_Prabha_16_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_16/Swayam_Prabha_16_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 17
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_17/Swayam_Prabha_17_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_17/Swayam_Prabha_17_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 18
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_19/Swayam_Prabha_99_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_19/Swayam_Prabha_99_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 19
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_19/Swayam_Prabha_19_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_19/Swayam_Prabha_19_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 20
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_20/Swayam_Prabha_20_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_20/Swayam_Prabha_20_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 21
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_21/Swayam_Prabha_21_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_21/Swayam_Prabha_21_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 22
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_22/Swayam_Prabha_22_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_22/Swayam_Prabha_22_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 23
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 24
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 25
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 26
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 27
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 28
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 29
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 30
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 31
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 32
-http://yuphdtv.net/2w7y5wyqco54ehc/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8
 #EXTINF:0, group-title="English",Times Now
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Times_NOW/Times_NOW_800.m3u8
 #EXTINF:0, group-title="English",Times Now HD
@@ -548,6 +548,8 @@ http://yuphdtv.net/tRXnDiJPF3RO4DR/VIP_News/VIP_News_800.m3u8
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Action/Zee_Action_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Anmol
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Anmol/Zee_Anmol_800.m3u8
+#EXTINF:0, group-title="Hindi",Zee Anmol Cinema
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Business
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Business/Zee_Business_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Cinema
@@ -881,6 +883,8 @@ http://yuphdtv.net/tRXnDiJPF3RO4DR/I_News/I_News_800.m3u8
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Max
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_Max/Jaya_Max_800.m3u8
+#EXTINF:0, group-title="Telugu",Jaya Movie
+http://yuphdtv.net/tRXnDiJPF3RO4DR/J_Movies/J_Movies_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya TV HD
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_TV_HD/Jaya_TV_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Kushi TV
@@ -1117,6 +1121,8 @@ http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_24_Taas/Zee_24_Taas_800.m3u8
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Marathi/Zee_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee Talkies
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Talkies/Zee_Talkies_800.m3u8
+#EXTINF:0, group-title="Marathi	",Zee Yuva
+http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Yuva/Zee_Yuva_800.m3u8
 #EXTINF:0, group-title="Bangla",24 Ghanta TV
 http://yuphdtv.net/tRXnDiJPF3RO4DR/24_Ghanta_TV/24_Ghanta_TV_800.m3u8
 #EXTINF:0, group-title="Bangla",Aakaash
