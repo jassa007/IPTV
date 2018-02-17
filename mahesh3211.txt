@@ -885,6 +885,8 @@ http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_8
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_Max/Jaya_Max_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Movie
 http://yuphdtv.net/tRXnDiJPF3RO4DR/J_Movies/J_Movies_800.m3u8
+#EXTINF:0, group-title="Telugu",Jaya Plus
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Jaya_Plus/Jaya_Plus_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya TV HD
 http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_TV_HD/Jaya_TV_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Kushi TV
