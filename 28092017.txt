@@ -1,587 +1,587 @@
 #EXTM3U
 
 #EXTINF:0, group-title="English",Al Jazeera
-http://yuphdtv.net/tRXnDiJPF3RO4DR/AL_Jazeera/AL_Jazeera_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AL_Jazeera/AL_Jazeera_800.m3u8
 #EXTINF:0, group-title="English",Animal Planet (Eng)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Animal_Planet_English/Animal_Planet_English_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_English/Animal_Planet_English_800.m3u8
 #EXTINF:0, group-title="English",Animal Planet HD World
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Animal_Planet_HD/Animal_Planet_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_HD/Animal_Planet_HD_800.m3u8
 #EXTINF:0, group-title="English",Arre
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Arre/Arre_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Arre/Arre_800.m3u8
 #EXTINF:0, group-title="English",AXN HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/AXN_HD/AXN_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
 #EXTINF:0, group-title="English",BBC World News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/BBC_World_News/BBC_World_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BBC_World_News/BBC_World_News_800.m3u8
 #EXTINF:0, group-title="English",Brilliant Living TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
 #EXTINF:0, group-title="English",BTVi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/BTVi/BTVi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BTVi/BTVi_800.m3u8
 #EXTINF:0, group-title="English",CNBC TV18
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
 #EXTINF:0, group-title="English",CNBC TV18 Prime HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_800.m3u8
 #EXTINF:0, group-title="English",CNN
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CNN/CNN_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNN/CNN_800.m3u8
 #EXTINF:0, group-title="English",CNN News 18
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
 #EXTINF:0, group-title="English",CVR
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CVR_English/CVR_English_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CVR_English/CVR_English_800.m3u8
 #EXTINF:0, group-title="English",Deutshe Welle
-http://yuphdtv.net/tRXnDiJPF3RO4DR/dw/dw_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/dw/dw_800.m3u8
 #EXTINF:0, group-title="English",Discovery
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery/Discovery_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery/Discovery_800.m3u8
 #EXTINF:0, group-title="English",Discovery HD World
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_HD_World/Discovery_HD_World_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_HD_World/Discovery_HD_World_800.m3u8
 #EXTINF:0, group-title="English",Discovery Kids 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
 #EXTINF:0, group-title="English",Discovery Science
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Science/Discovery_Science_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Science/Discovery_Science_800.m3u8
 #EXTINF:0, group-title="English",Discovery Turbo
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Turbo/Discovery_Turbo_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Turbo/Discovery_Turbo_800.m3u8
 #EXTINF:0, group-title="English",DSports HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Dsports_HD/Dsports_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0, group-title="English",ET Now
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ET_Now/ET_Now_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ET_Now/ET_Now_800.m3u8
 #EXTINF:0, group-title="English",Euro News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Euro_News/Euro_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Euro_News/Euro_News_800.m3u8
 #EXTINF:0, group-title="English",France 24
-http://yuphdtv.net/tRXnDiJPF3RO4DR/France_24/France_24_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/France_24/France_24_800.m3u8
 #EXTINF:0, group-title="English",Goa 365
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Goa365/Goa365_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Goa365/Goa365_800.m3u8
 #EXTINF:0, group-title="English",fyi, TV18 HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/FYI_TV18/FYI_TV18_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/FYI_TV18/FYI_TV18_800.m3u8
 #EXTINF:0, group-title="English",Good News Channel
-http://yuphdtv.net/tRXnDiJPF3RO4DR/GoodNews_Channel/GoodNews_Channel_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/GoodNews_Channel/GoodNews_Channel_800.m3u8
 #EXTINF:0, group-title="English",HBO HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/HBO_HD/HBO_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0, group-title="English",History HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/History_HD/History_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
 #EXTINF:0, group-title="English",India Today
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_Today/India_Today_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_Today/India_Today_800.m3u8
 #EXTINF:0, group-title="English",Insight
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Insight/Insight_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Insight/Insight_800.m3u8
 #EXTINF:0, group-title="English",Jio Events
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jio_Events/Jio_Events_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jio_Events/Jio_Events_800.m3u8
 #EXTINF:0, group-title="English",Jio Sports
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jio_Sports/Jio_Sports_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jio_Sports/Jio_Sports_800.m3u8
 #EXTINF:0, group-title="English",Living Foodz
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Living_Foodz/Living_Foodz_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Living_Foodz/Living_Foodz_800.m3u8
 #EXTINF:0, group-title="English",Millionlights
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Millionlights/Millionlights_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Millionlights/Millionlights_800.m3u8
 #EXTINF:0, group-title="English",Mirror Now
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
 #EXTINF:0, group-title="English",MN+
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MNPLUS/MNPLUS_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MNPLUS/MNPLUS_800.m3u8
 #EXTINF:0, group-title="English",MNX
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Movies_Now2/Movies_Now2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_Now2/Movies_Now2_800.m3u8
 #EXTINF:0, group-title="English",MNX HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
 #EXTINF:0, group-title="English",Movies Now HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Movies_Now_HD/Movies_Now_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_Now_HD/Movies_Now_HD_800.m3u8
 #EXTINF:0, group-title="English",NDTV 24x7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/NDTV_24x7/NDTV_24x7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_24x7/NDTV_24x7_800.m3u8
 #EXTINF:0, group-title="English",NDTV Good Times
-http://yuphdtv.net/tRXnDiJPF3RO4DR/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
 #EXTINF:0, group-title="English",NDTV Profit
-http://yuphdtv.net/tRXnDiJPF3RO4DR/NDTV_Profit/NDTV_Profit_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_Profit/NDTV_Profit_800.m3u8
 #EXTINF:0, group-title="English",Neo Prime
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Neo_Prime/Neo_Prime_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Neo_Prime/Neo_Prime_800.m3u8
 #EXTINF:0, group-title="English",Neo Sports
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Neo_Sports/Neo_Sports_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Neo_Sports/Neo_Sports_800.m3u8
 #EXTINF:0, group-title="English",News 9
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_9/News_9_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_9/News_9_800.m3u8
 #EXTINF:0, group-title="English",News Asia 
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
 #EXTINF:0, group-title="English",News X
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_X/News_X_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_X/News_X_800.m3u8
 #EXTINF:0, group-title="English",Nick (Eng)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nickelodeon/Nickelodeon_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nickelodeon/Nickelodeon_800.m3u8
 #EXTINF:0, group-title="English",Nick Jr.
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
 #EXTINF:0, group-title="English",Republic TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Republic_TV/Republic_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Republic_TV/Republic_TV_800.m3u8
 #EXTINF:0, group-title="English",Romedy Now HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Romedy_Now_HD/Romedy_Now_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Romedy_Now_HD/Romedy_Now_HD_800.m3u8
 #EXTINF:0, group-title="English",Nick Sonic
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
 #EXTINF:0, group-title="English",Sony BBC Earth 
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
 #EXTINF:0, group-title="English",Sony BBC Earth HD (Eng)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
 #EXTINF:0, group-title="English",Sony ESPN
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
 #EXTINF:0, group-title="English",Sony ESPN HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_ESPN_HD/Sony_ESPN_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_ESPN_HD/Sony_ESPN_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Le PLEX HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Pix HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Pix_HD/Sony_Pix_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Pix_HD/Sony_Pix_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Six (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Six_SD/Sony_Six_SD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Six_SD/Sony_Six_SD_800.m3u8
 #EXTINF:0, group-title="English",Sony Six HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Six_HD/Six_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Six_HD/Six_HD_800.m3u8
 #EXTINF:0, group-title="English",Star Sports HD 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
 #EXTINF:0, group-title="English",Star Sports HD 2
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
 #EXTINF:0, group-title="English",Star Sports Select HD 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_800.m3u8
 #EXTINF:0, group-title="English",Star Sports Select HD 2
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten_1/Ten_1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_1/Ten_1_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 1 HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten_HD/Ten_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_HD/Ten_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 2
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten_2/Ten_2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_2/Ten_2_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 2 HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten2_HD/Ten2_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten2_HD/Ten2_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 3
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten_3/Ten_3_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_3/Ten_3_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten 3 HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten3_HD/Ten3_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten3_HD/Ten3_HD_800.m3u8
 #EXTINF:0, group-title="English",Sony Ten Golf HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_01/Swayam_Prabha_01_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_01/Swayam_Prabha_01_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 2
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_02/Swayam_Prabha_02_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_02/Swayam_Prabha_02_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 3
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_03/Swayam_Prabha_03_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_03/Swayam_Prabha_03_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 4
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_04/Swayam_Prabha_04_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_04/Swayam_Prabha_04_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 5
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_05/Swayam_Prabha_05_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_05/Swayam_Prabha_05_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 6
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_06/Swayam_Prabha_06_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_06/Swayam_Prabha_06_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_07/Swayam_Prabha_07_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_07/Swayam_Prabha_07_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 8
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_08/Swayam_Prabha_08_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_08/Swayam_Prabha_08_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 9
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_09/Swayam_Prabha_09_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_09/Swayam_Prabha_09_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 10
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_10/Swayam_Prabha_10_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_10/Swayam_Prabha_10_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 11
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_11/Swayam_Prabha_11_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_11/Swayam_Prabha_11_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 12
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_12/Swayam_Prabha_12_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_12/Swayam_Prabha_12_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 13
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_13/Swayam_Prabha_13_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_13/Swayam_Prabha_13_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 14
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_14/Swayam_Prabha_14_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_14/Swayam_Prabha_14_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 15
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_15/Swayam_Prabha_15_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_15/Swayam_Prabha_15_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 16
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_16/Swayam_Prabha_16_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_16/Swayam_Prabha_16_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 17
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_17/Swayam_Prabha_17_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_17/Swayam_Prabha_17_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 18
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_19/Swayam_Prabha_99_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_19/Swayam_Prabha_99_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 19
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_19/Swayam_Prabha_19_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_19/Swayam_Prabha_19_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 20
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_20/Swayam_Prabha_20_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_20/Swayam_Prabha_20_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 21
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_21/Swayam_Prabha_21_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_21/Swayam_Prabha_21_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 22
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_22/Swayam_Prabha_22_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_22/Swayam_Prabha_22_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 23
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 24
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 25
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 26
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 27
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 28
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 29
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 30
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 31
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8
 #EXTINF:0, group-title="English",Swayam Prabha 32
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8
 #EXTINF:0, group-title="English",Times Now
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Times_NOW/Times_NOW_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Times_NOW/Times_NOW_800.m3u8
 #EXTINF:0, group-title="English",Times Now HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Times_Now_HD/Times_Now_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Times_Now_HD/Times_Now_HD_800.m3u8
 #EXTINF:0, group-title="English",TLC
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TLC_English/TLC_English_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TLC_English/TLC_English_800.m3u8
 #EXTINF:0, group-title="English",TLC HD World
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TLC_HD_World/TLC_HD_World_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TLC_HD_World/TLC_HD_World_800.m3u8
 #EXTINF:0, group-title="English",Toonami
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Toonami/Toonami_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Toonami/Toonami_800.m3u8
 #EXTINF:0, group-title="English",Travel XP HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Travel_XP_HD/Travel_XP_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Travel_XP_HD/Travel_XP_HD_800.m3u8
 #EXTINF:0, group-title="English",TV 5 Monde Asie
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV_5_Monde/TV_5_Monde_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV_5_Monde/TV_5_Monde_800.m3u8
 #EXTINF:0, group-title="English",WB
-http://yuphdtv.net/tRXnDiJPF3RO4DR/WB/WB_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/WB/WB_800.m3u8
 #EXTINF:0, group-title="English",Winter Olympics Ch 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Winter_Olympic_Ch1/Winter_Olympic_Ch1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch1/Winter_Olympic_Ch1_800.m3u8
 #EXTINF:0, group-title="English",Winter Olympics Ch 2	
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Winter_Olympic_Ch2/Winter_Olympic_Ch2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch2/Winter_Olympic_Ch2_800.m3u8
 #EXTINF:0, group-title="English",Winter Olympics Ch 3
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Winter_Olympic_Ch3/Winter_Olympic_Ch3_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch3/Winter_Olympic_Ch3_800.m3u8
 #EXTINF:0, group-title="English",Winter Olympics Ch 4
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Winter_Olympic_Ch4/Winter_Olympic_Ch4_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch4/Winter_Olympic_Ch4_800.m3u8
 #EXTINF:0, group-title="English",WION
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Wion/Wion_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Wion/Wion_800.m3u8
 #EXTINF:0, group-title="Hindi",& Pictures HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/And_Pictures_HD/And_Pictures_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/And_Pictures_HD/And_Pictures_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",& TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/And_TV_HD/And_TV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/And_TV_HD/And_TV_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",9X Jalwa
-http://yuphdtv.net/tRXnDiJPF3RO4DR/9X_Jalwa/9X_Jalwa_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9X_Jalwa/9X_Jalwa_800.m3u8
 #EXTINF:0, group-title="Hindi",9XM
-http://yuphdtv.net/tRXnDiJPF3RO4DR/9XM/9XM_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9XM/9XM_800.m3u8
 #EXTINF:0, group-title="Hindi",A1 TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/A1_TV_Rajasthan/A1_TV_Rajasthan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/A1_TV_Rajasthan/A1_TV_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Aaj Tak
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Aaj_Tak/Aaj_Tak_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aaj_Tak/Aaj_Tak_800.m3u8
 #EXTINF:0, group-title="Hindi",Aastha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Aastha/Aastha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aastha/Aastha_800.m3u8
 #EXTINF:0, group-title="Hindi",Aastha Bhajan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Aastha_Bhajan/Aastha_Bhajan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aastha_Bhajan/Aastha_Bhajan_800.m3u8
 #EXTINF:0, group-title="Hindi",ABP News India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ABP_News_India/ABP_News_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ABP_News_India/ABP_News_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Adhyatam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Adhyatam/Adhyatam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Adhyatam/Adhyatam_800.m3u8
 #EXTINF:0, group-title="Hindi",Animal Planet (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",APN News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/APN_News/APN_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/APN_News/APN_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Arihant
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Arihant_TV/Arihant_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Arihant_TV/Arihant_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",B4U Movies
-http://yuphdtv.net/tRXnDiJPF3RO4DR/B4U_Movies/B4U_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/B4U_Movies/B4U_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",B4U Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/B4U_Music/B4U_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/B4U_Music/B4U_Music_800.m3u8
 #EXTINF:0, group-title="Hindi",Bhakti Sagar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Bhaktisagar_2/Bhaktisagar_2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Bhaktisagar_2/Bhaktisagar_2_800.m3u8
 #EXTINF:0, group-title="Hindi",Bharat Samachar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Bharat_Samachar/Bharat_Samachar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Bharat_Samachar/Bharat_Samachar_800.m3u8
 #EXTINF:0, group-title="Hindi",Brilliant Living TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Brilliant_TV_Hindi/Brilliant_TV_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Brilliant_TV_Hindi/Brilliant_TV_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Care World
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Care_World/Care_World_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Care_World/Care_World_800.m3u8
 #EXTINF:0, group-title="Hindi",Cartoon Network (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Channel One News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Channel_One_News/Channel_One_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Channel_One_News/Channel_One_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Channel V HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Channel_V/Channel_V_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Channel_V/Channel_V_800.m3u8
 #EXTINF:0, group-title="Hindi",CNBC Awaaz
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CNBC_Awaaz/CNBC_Awaaz_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNBC_Awaaz/CNBC_Awaaz_800.m3u8
 #EXTINF:0, group-title="Hindi",Colors HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_HD/Colors_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_HD/Colors_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Dabangg
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Dabangg/Dabangg_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dabangg/Dabangg_800.m3u8
 #EXTINF:0, group-title="Hindi",Darshan 24
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Darshan_24/Darshan_24_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Darshan_24/Darshan_24_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Bharati
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_bharati/DD_bharati_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_bharati/DD_bharati_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Bihar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Bihar/DD_Bihar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Bihar/DD_Bihar_800.m3u8
 #EXTINF:0, group-title="Hindi",DD India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_India/DD_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_India/DD_India_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Kisan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Kisan/DD_Kisan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Kisan/DD_Kisan_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Lok Sabha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Loksabha_TV/Loksabha_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Loksabha_TV/Loksabha_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",DD MP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Madhya_Pradesh/DD_Madhya_Pradesh_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Madhya_Pradesh/DD_Madhya_Pradesh_800.m3u8
 #EXTINF:0, group-title="Hindi",DD National
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_National/DD_National_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_National/DD_National_800.m3u8
 #EXTINF:0, group-title="Hindi",DD News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_News/DD_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_News/DD_News_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Raj 
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Rajya Sabha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Rajyasabha/DD_Rajyasabha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Rajyasabha/DD_Rajyasabha_800.m3u8
 #EXTINF:0, group-title="Hindi",DD Sports
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Sports/DD_Sports_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Sports/DD_Sports_800.m3u8
 #EXTINF:0, group-title="Hindi",DD UP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Uttar_Pradesh/DD_Uttar_Pradesh_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Uttar_Pradesh/DD_Uttar_Pradesh_800.m3u8
 #EXTINF:0, group-title="Hindi",Delhi Aaj Tak
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
 #EXTINF:0, group-title="Hindi",Dhamaal TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Dhamaal_TV/Dhamaal_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dhamaal_TV/Dhamaal_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Dillagi TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Dillagi_TV/Dillagi_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dillagi_TV/Dillagi_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Discovery Channel (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Discovery Kids 2
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
 #EXTINF:0, group-title="Hindi",Disha TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Disha_tv/Disha_tv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Disha_tv/Disha_tv_800.m3u8
 #EXTINF:0, group-title="Hindi",Divya TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Divya_TV/Divya_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Divya_TV/Divya_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",DNN
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DNN/DNN_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DNN/DNN_800.m3u8
 #EXTINF:0, group-title="Hindi",E 24
-http://yuphdtv.net/tRXnDiJPF3RO4DR/E_24/E_24_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/E_24/E_24_800.m3u8
 #EXTINF:0, group-title="Hindi",Enterr 10
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Enterr_10/Enterr_10_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Enterr_10/Enterr_10_800.m3u8
 #EXTINF:0, group-title="Hindi",Epic HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Epic_HD/Epic_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Epic_HD/Epic_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",News18 PB HR HP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Haryana_and_HP_News/ETV_Haryana_and_HP_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Haryana_and_HP_News/ETV_Haryana_and_HP_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Etv MP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_MP/ETV_MP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_MP/ETV_MP_800.m3u8
 #EXTINF:0, group-title="Hindi",Etv Raj
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_RAJASTHAN/ETV_RAJASTHAN_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_RAJASTHAN/ETV_RAJASTHAN_800.m3u8
 #EXTINF:0, group-title="Hindi",Etv UP UK
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_UP/ETV_UP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_UP/ETV_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",Ist India Raj
-http://yuphdtv.net/tRXnDiJPF3RO4DR/First_India_News/First_India_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/First_India_News/First_India_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Food Food
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Food_Food/Food_Food_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Food_Food/Food_Food_800.m3u8
 #EXTINF:0, group-title="Hindi",Green TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Green_TV/Green_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Green_TV/Green_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Hare krsna
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Harekrsna/Harekrsna_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Harekrsna/Harekrsna_800.m3u8
 #EXTINF:0, group-title="Hindi",Hindi Khabar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Hindi_Khabar/Hindi_Khabar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Hindi_Khabar/Hindi_Khabar_800.m3u8
 #EXTINF:0, group-title="Hindi",History HD (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/History_18_Hindi/History_18_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_18_Hindi/History_18_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Home Shop 18
-http://yuphdtv.net/tRXnDiJPF3RO4DR/home_shop_18/home_shop_18_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/home_shop_18/home_shop_18_800.m3u8
 #EXTINF:0, group-title="Hindi",Housefull Action
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Housefull_Action/Housefull_Action_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Housefull_Action/Housefull_Action_800.m3u8
 #EXTINF:0, group-title="Hindi",Housefull Movies
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Housefull_Movies/Housefull_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Housefull_Movies/Housefull_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",IBC 24
-http://yuphdtv.net/tRXnDiJPF3RO4DR/IBC-24/IBC-24_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/IBC-24/IBC-24_800.m3u8
 #EXTINF:0, group-title="Hindi",ID
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ID/ID_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ID/ID_800.m3u8
 #EXTINF:0, group-title="Hindi",India News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_news/India_news_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_news/India_news_800.m3u8
 #EXTINF:0, group-title="Hindi",India News HR
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_News_Haryana/India_News_Haryana_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_News_Haryana/India_News_Haryana_800.m3u8
 #EXTINF:0, group-title="Hindi",India News MP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_News_MP/India_News_MP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_News_MP/India_News_MP_800.m3u8
 #EXTINF:0, group-title="Hindi",India News Raj
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_News_Rajasthan/India_News_Rajasthan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_News_Rajasthan/India_News_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",India News UP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_News_UP/India_News_UP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_News_UP/India_News_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",India TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_TV/India_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_TV/India_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",India Voice
-http://yuphdtv.net/tRXnDiJPF3RO4DR/India_Voice/India_Voice_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_Voice/India_Voice_800.m3u8
 #EXTINF:0, group-title="Hindi",inh 24x7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/INH_24x7/INH_24x7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/INH_24x7/INH_24x7_800.m3u8
 #EXTINF:0, group-title="Hindi",Ishwar 
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ishwar_TV/Ishwar_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ishwar_TV/Ishwar_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Jan TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jan_TV/Jan_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jan_TV/Jan_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Janta TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Janta_TV/Janta_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Janta_TV/Janta_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Jinvani
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jinvani_TV/Jinvani_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jinvani_TV/Jinvani_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",JK 24x7 News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/JK_24x7_News/JK_24x7_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JK_24x7_News/JK_24x7_News_800.m3u8
 #EXTINF:0, group-title="Hindi",K News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/K_News_India/K_News_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/K_News_India/K_News_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Kashish News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kashish_News/Kashish_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kashish_News/Kashish_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Katyayani
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Katyayani/Katyayani_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Katyayani/Katyayani_800.m3u8
 #EXTINF:0, group-title="Hindi",Khabar Fast
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Khabar_Fast/Khabar_Fast_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Khabar_Fast/Khabar_Fast_800.m3u8
 #EXTINF:0, group-title="Hindi",Live Today
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Live_Today/Live_Today_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Live_Today/Live_Today_800.m3u8
 #EXTINF:0, group-title="Hindi",Living India News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Living_India_News/Living_India_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Living_India_News/Living_India_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Maha Cartoon TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maha_Cartoon/Maha_Cartoon_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maha_Cartoon/Maha_Cartoon_800.m3u8
 #EXTINF:0, group-title="Hindi",Maha Movie
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maha_Movies/Maha_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maha_Movies/Maha_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",Mastiii
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mastiii/Mastiii_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mastiii/Mastiii_800.m3u8
 #EXTINF:0, group-title="Hindi",mh1 News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mh_One_News/Mh_One_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mh_One_News/Mh_One_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Movies OK HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Movies_OK/Movies_OK_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_OK/Movies_OK_800.m3u8
 #EXTINF:0, group-title="Hindi",MTV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MTV/MTV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MTV/MTV_800.m3u8
 #EXTINF:0, group-title="Hindi",MTV Beats HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MTV_Beats_HD/MTV_Beats_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MTV_Beats_HD/MTV_Beats_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Music India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Music_India/Music_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Music_India/Music_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Nation Live
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nation_Live_News/Nation_Live_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nation_Live_News/Nation_Live_News_800.m3u8
 #EXTINF:0, group-title="Hindi",National Voice UP UK
-http://yuphdtv.net/tRXnDiJPF3RO4DR/National_Voice/National_Voice_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/National_Voice/National_Voice_800.m3u8
 #EXTINF:0, group-title="Hindi",Navagraha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Navagraha/Navagraha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Navagraha/Navagraha_800.m3u8
 #EXTINF:0, group-title="Hindi",NDTV India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/NDTV_India/NDTV_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_India/NDTV_India_800.m3u8
 #EXTINF:0, group-title="Hindi",News 1 India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_1_India/News_1_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_1_India/News_1_India_800.m3u8
 #EXTINF:0, group-title="Hindi",News 11
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News11/News11_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News11/News11_800.m3u8
 #EXTINF:0, group-title="Hindi",News 18 India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/IBN_7/IBN_7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/IBN_7/IBN_7_800.m3u8
 #EXTINF:0, group-title="Hindi",News 24
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_24/News_24_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_24/News_24_800.m3u8
 #EXTINF:0, group-title="Hindi",News India 24x7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_India_24_X_7/News_India_24_X_7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_India_24_X_7/News_India_24_X_7_800.m3u8
 #EXTINF:0, group-title="Hindi",News Nation
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_Nation/News_Nation_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_Nation/News_Nation_800.m3u8
 #EXTINF:0, group-title="Hindi",News State UK UP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_State_UK_UP/News_State_UK_UP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_State_UK_UP/News_State_UK_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",News World India
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_World_India/News_World_India_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_World_India/News_World_India_800.m3u8
 #EXTINF:0, group-title="Hindi",Nick (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nick_Hindi/Nick_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nick_Hindi/Nick_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Nick Jr (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nick_Junior/Nick_Junior_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nick_Junior/Nick_Junior_800.m3u8
 #EXTINF:0, group-title="Hindi",Om Shanti
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Om_Shanti/Om_Shanti_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Om_Shanti/Om_Shanti_800.m3u8
 #EXTINF:0, group-title="Hindi",Paras TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Paras_tv/Paras_tv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Paras_tv/Paras_tv_800.m3u8
 #EXTINF:0, group-title="Hindi",Peace of Mind
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Peace_of_Mind/Peace_of_Mind_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Peace_of_Mind/Peace_of_Mind_800.m3u8
 #EXTINF:0, group-title="Hindi",Play My Play
-http://yuphdtv.net/tRXnDiJPF3RO4DR/PlayMyPlay/PlayMyPlay_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/PlayMyPlay/PlayMyPlay_800.m3u8
 #EXTINF:0, group-title="Hindi",Pogo (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Pogo_Hindi/Pogo_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pogo_Hindi/Pogo_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Prime News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Prime_News/Prime_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Prime_News/Prime_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Prudent
-http://yuphdtv.net/tRXnDiJPF3RO4DR/PrudentHD/PrudentHD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/PrudentHD/PrudentHD_800.m3u8
 #EXTINF:0, group-title="Hindi",Raj Pariwar TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Pariwar/Raj_Pariwar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_Pariwar/Raj_Pariwar_800.m3u8
 #EXTINF:0, group-title="Hindi",Rishtey
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Rishtey/Rishtey_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Rishtey/Rishtey_800.m3u8
 #EXTINF:0, group-title="Hindi",Rishtey Cineplex
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
 #EXTINF:0, group-title="Hindi",Sadhna
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sadhna/Sadhna_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sadhna/Sadhna_800.m3u8
 #EXTINF:0, group-title="Hindi",Sadhna News Plus
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sadhna_News_Plus/Sadhna_News_Plus_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sadhna_News_Plus/Sadhna_News_Plus_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay Bihar JH
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sahara_Samay_Bihar/Sahara_Samay_Bihar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sahara_Samay_Bihar/Sahara_Samay_Bihar_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay MP CG
-http://yuphdtv.net/tRXnDiJPF3RO4DR/SAHARA_SAMAY_MP/SAHARA_SAMAY_MP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/SAHARA_SAMAY_MP/SAHARA_SAMAY_MP_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay MH GJ
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay Rastriya
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sahara_Samay_Rastriya/Sahara_Samay_Rastriya_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sahara_Samay_Rastriya/Sahara_Samay_Rastriya_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay UP UK
-http://yuphdtv.net/tRXnDiJPF3RO4DR/SAHARA_SAMAY_UP/SAHARA_SAMAY_UP_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/SAHARA_SAMAY_UP/SAHARA_SAMAY_UP_800.m3u8
 #EXTINF:0, group-title="Hindi",Samachar Plus UP UK
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Samachar_Plus/Samachar_Plus_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Samachar_Plus/Samachar_Plus_800.m3u8
 #EXTINF:0, group-title="Hindi",Samachar Plus Raj
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Samachar_Plus_Rajasthan/Samachar_Plus_Rajasthan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Samachar_Plus_Rajasthan/Samachar_Plus_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Samay Raj HR NCR
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Samay_Rajasthan/Samay_Rajasthan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Samay_Rajasthan/Samay_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Sanatan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sanatan_TV/Sanatan_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sanatan_TV/Sanatan_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Sanskar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sanskar/Sanskar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sanskar/Sanskar_800.m3u8
 #EXTINF:0, group-title="Hindi",Satsang
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Satsang_TV/Satsang_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Satsang_TV/Satsang_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Shubhsanesh TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Shubh_TV/Shubh_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Shubh_TV/Shubh_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Shubhsandesh
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Shubhsandesh_TV/Shubhsandesh_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Shubhsandesh_TV/Shubhsandesh_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Nick Sonic (Hindi)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/sonic_Hindi/sonic_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/sonic_Hindi/sonic_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony BBC Earth HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_HD/Sony_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_HD/Sony_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony MAX 2
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_MAX2/Sony_MAX2_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Max HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Max_HD/Sony_Max_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Max_HD/Sony_Max_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Mix
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Mix/Sony_Mix_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Mix/Sony_Mix_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Pal
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Pal/Sony_Pal_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Pal/Sony_Pal_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Rox HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Rox_HD/Sony_Rox_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Rox_HD/Sony_Rox_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Sab
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_SAB/Sony_SAB_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_SAB/Sony_SAB_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Sab HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_SAB_HD/Sony_SAB_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_SAB_HD/Sony_SAB_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Sony Yay!
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Bharat HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Bharat_HD/Star_Bharat_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Bharat_HD/Star_Bharat_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Gold HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Gold_HD/Star_Gold_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Gold_HD/Star_Gold_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Plus HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Plus_HD/Star_Plus_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Plus_HD/Star_Plus_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Sports HD 3
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Sports_3/Star_Sports_3_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_3/Star_Sports_3_800.m3u8
 #EXTINF:0, group-title="Hindi",Star Utsav
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Utsav/Star_Utsav_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Utsav/Star_Utsav_800.m3u8
 #EXTINF:0, group-title="Hindi",Sudarshan TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sudarshan/Sudarshan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sudarshan/Sudarshan_800.m3u8
 #EXTINF:0, group-title="Hindi",Swaraj Express
-http://yuphdtv.net/tRXnDiJPF3RO4DR/SMBC_TV/SMBC_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/SMBC_TV/SMBC_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Taaza TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Taaza_TV/Taaza_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Taaza_TV/Taaza_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Tez
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Tez/Tez_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Tez/Tez_800.m3u8
 #EXTINF:0, group-title="Hindi",TLC Hindi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TLC_Hindi/TLC_Hindi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TLC_Hindi/TLC_Hindi_800.m3u8
 #EXTINF:0, group-title="Hindi",Total TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Total_TV/Total_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Total_TV/Total_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",Travel XP HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Travel_XP_HD/Travel_XP_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Travel_XP_HD/Travel_XP_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",TV 100
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV_100/TV_100_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV_100/TV_100_800.m3u8
 #EXTINF:0, group-title="Hindi",Vedic
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Vedic_TV/Vedic_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vedic_TV/Vedic_TV_800.m3u8
 #EXTINF:0, group-title="Hindi",VIP News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/VIP_News/VIP_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/VIP_News/VIP_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Action
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Action/Zee_Action_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Action/Zee_Action_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Anmol
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Anmol/Zee_Anmol_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Anmol/Zee_Anmol_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Anmol Cinema
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Business
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Business/Zee_Business_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Business/Zee_Business_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Cinema
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Cinema/Zee_Cinema_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Cinema/Zee_Cinema_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Cinema HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Classic
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Classic/Zee_Classic_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Classic/Zee_Classic_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee etc
-http://yuphdtv.net/tRXnDiJPF3RO4DR/etc/etc_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/etc/etc_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Hindustan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_SANGAM/Zee_SANGAM_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_SANGAM/Zee_SANGAM_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_News/Zee_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_News/Zee_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee MP CG
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_News_MP_Chattisgarh/Zee_News_MP_Chattisgarh_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_News_MP_Chattisgarh/Zee_News_MP_Chattisgarh_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee Raj
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Rajasthan/Zee_Rajasthan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Rajasthan/Zee_Rajasthan_800.m3u8
 #EXTINF:0, group-title="Hindi",Zee TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_TV_HD/Zee_TV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_TV_HD/Zee_TV_HD_800.m3u8
 #EXTINF:0, group-title="Hindi",Zing
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zing/Zing_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zing/Zing_800.m3u8
 #EXTINF:0, group-title="Hindi",Zoom
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ZOOM/ZOOM_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ZOOM/ZOOM_800.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",9X Tashan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/9X_Tashan/9X_Tashan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9X_Tashan/9X_Tashan_800.m3u8
 #EXTINF:0, group-title="Punjabi",Akaal
-http://streamxcode.ddns.net:25461/live/newap/streamz/5164.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5164.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Ankhila Punjab
-http://streamxcode.ddns.net:25461/live/newap/streamz/5119.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5119.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi
@@ -593,13 +593,13 @@ http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood 
 http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",BritAsia
-http://streamxcode.ddns.net:25461/live/newap/streamz/5146.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5146.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Chakde TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5153.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5153.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Channel Y
-http://streamxcode.ddns.net:25461/live/newap/streamz/5157.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5157.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
@@ -609,22 +609,22 @@ http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5f
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Dhur Ki Baani
-http://streamxcode.ddns.net:25461/live/newap/streamz/5172.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5172.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",E9 Punjabi
-http://streamxcode.ddns.net:25461/live/newap/streamz/5141.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5141.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Etc Punjabi
-http://streamxcode.ddns.net:25461/live/newap/streamz/5151.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5151.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Fateh TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5155.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 player.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",Garv Gurbani TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5169.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5169.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Garv Punjab Gurbani
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Garv_Gurbani/Garv_Gurbani_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Garv_Gurbani/Garv_Gurbani_800.m3u8
 #EXTINF:0, group-title="Punjabi",Gaunda Punjab
-http://streamxcode.ddns.net:25461/live/newap/streamz/5147.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5147.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_punjab.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
@@ -632,627 +632,627 @@ http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Gurbaani TV
 http://live.wmncdn.net/gurbanitv/eb1d601208d6d1ca58106ce1f24f9d43.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Gurmit Channel
-http://streamxcode.ddns.net:25461/live/newap/streamz/5134.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5134.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Hamdard TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5148.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5148.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Jhanjar HD
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi",jus 24x7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/JUS24x7/JUS24x7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JUS24x7/JUS24x7_800.m3u8
 #EXTINF:0, group-title="Punjabi",jus One
-http://yuphdtv.net/tRXnDiJPF3RO4DR/JUSOne/JUSOne_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JUSOne/JUSOne_800.m3u8
 #EXTINF:0, group-title="Punjabi",jus Punjabi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/JUSPunjabi/JUSPunjabi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JUSPunjabi/JUSPunjabi_800.m3u8
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Manjhe Te Speaker
-http://streamxcode.ddns.net:25461/live/newap/streamz/5160.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5160.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Mh 1
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/mh1_Music/mh1_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/mh1_Music/mh1_Music_800.m3u8
 #EXTINF:0, group-title="Punjabi",Mh1 News
-http://streamxcode.ddns.net:25461/live/newap/streamz/5137.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5137.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",mh1 Shraddha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/mh1_Shraddha/mh1_Shraddha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/mh1_Shraddha/mh1_Shraddha_800.m3u8
 #EXTINF:0, group-title="Punjabi",Mirror Punjab
-http://streamxcode.ddns.net:25461/live/newap/streamz/5132.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5132.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",NDA Channel
-http://streamxcode.ddns.net:25461/live/newap/streamz/5117.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5117.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Only Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Only_Music/Only_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Only_Music/Only_Music_800.m3u8
 #EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="Punjabi",OZ TV Channel
-http://streamxcode.ddns.net:25461/live/newap/streamz/51648.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/51648.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Pitaara/Pitaara_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pitaara/Pitaara_800.m3u8
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTC Chakde
-http://streamxcode.ddns.net:25461/live/newap/streamz/5128.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5128.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",PTC News
-http://streamxcode.ddns.net:25461/live/newap/streamz/5135.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5135.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",PTC News UK
-http://streamxcode.ddns.net:25461/live/newap/streamz/5136.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5136.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",PTC Punjabi
-http://streamxcode.ddns.net:25461/live/newap/streamz/5125.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5125.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",PTC Punjabi UK
-http://streamxcode.ddns.net:25461/live/newap/streamz/5126.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5126.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",PTN 24
-http://streamxcode.ddns.net:25461/live/newap/streamz/5115.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5115.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",RTV HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/5122.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5122.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Sahib TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5178.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5178.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Global Sanjh TV
 http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sanjha_TV/Sanjha_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sanjha_TV/Sanjha_TV_800.m3u8
 #EXTINF:0, group-title="Punjabi",Sikh Channel
-http://streamxcode.ddns.net:25461/live/newap/streamz/5159.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5159.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",TV 84
-http://streamxcode.ddns.net:25461/live/newap/streamz/5156.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
 http://125.17.105.168/PLTV/88888888/224/3221225923/01.m3u8
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
-http://streamxcode.ddns.net:25461/live/newap/streamz/5120.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5120.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Zee Punjabi UK
-http://streamxcode.ddns.net:25461/live/newap/streamz/5121.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5121.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Tamil",Adithya TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Adithya_TV/Adithya_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Adithya_TV/Adithya_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Angel TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Angel_TV_HD/Angel_TV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Angel_TV_HD/Angel_TV_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Captain News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Captain_News/Captain_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Captain_News/Captain_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Captain TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Captain_tv/Captain_tv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Captain_tv/Captain_tv_800.m3u8
 #EXTINF:0, group-title="Tamil",Cartoon Network (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Cauvery News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Cauvery_News/Cauvery_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Cauvery_News/Cauvery_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Chutti TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Chutti_TV/Chutti_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Chutti_TV/Chutti_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",DD Podhigai
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD5_Podhigai/DD5_Podhigai_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD5_Podhigai/DD5_Podhigai_800.m3u8
 #EXTINF:0, group-title="Tamil",Discovery Channel (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Discovery Kids (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",History  HD (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/History_18_Tamil/History_18_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_18_Tamil/History_18_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",K TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/K1_TV/K1_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/K1_TV/K1_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",KTV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/KTV_HD/KTV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/KTV_HD/KTV_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Lotus News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Lotus_News/Lotus_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Lotus_News/Lotus_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Madhimugam TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Madhimugam_TV/Madhimugam_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Madhimugam_TV/Madhimugam_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Makkal TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Makkal_TV/Makkal_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Makkal_TV/Makkal_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Malai Murasu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Malai_Murasu/Malai_Murasu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Malai_Murasu/Malai_Murasu_800.m3u8
 #EXTINF:0, group-title="Tamil",MK Mtunes
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MK_Music/MK_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MK_Music/MK_Music_800.m3u8
 #EXTINF:0, group-title="Tamil",MK TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MK_TV/MK_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MK_TV/MK_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Nambikkai
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nambikkai/Nambikkai_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nambikkai/Nambikkai_800.m3u8
 #EXTINF:0, group-title="Tamil",News 18 TN
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_18_Tamilnadu/News_18_Tamilnadu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_18_Tamilnadu/News_18_Tamilnadu_800.m3u8
 #EXTINF:0, group-title="Tamil",News 7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News7_Tamil/News7_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News7_Tamil/News7_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Nick (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nick_Tamil/Nick_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nick_Tamil/Nick_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Peppers TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Peppers_TV/Peppers_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Peppers_TV/Peppers_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Pogo (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Pogo_Tamil/Pogo_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pogo_Tamil/Pogo_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Polimer News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Polimer_News/Polimer_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Polimer_News/Polimer_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Polimer
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Polimer_TV/Polimer_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Polimer_TV/Polimer_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Puthiya Thalimurai
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8
 #EXTINF:0, group-title="Tamil",Puthu Yugam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Puthu_Yugam/Puthu_Yugam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Puthu_Yugam/Puthu_Yugam_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj Digital Plus
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Digital_Plus/Raj_Digital_Plus_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_Digital_Plus/Raj_Digital_Plus_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj Musix
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Musix/Raj_Musix_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_Musix/Raj_Musix_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj News 24x7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_News_24x7/Raj_News_24x7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_24x7/Raj_News_24x7_800.m3u8
 #EXTINF:0, group-title="Tamil",Raj
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_TV/Raj_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_TV/Raj_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Sahana
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sahana_Music/Sahana_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sahana_Music/Sahana_Music_800.m3u8
 #EXTINF:0, group-title="Tamil",Sai TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/SaiTV/SaiTV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/SaiTV/SaiTV_800.m3u8
 #EXTINF:0, group-title="Tamil",Sathiyam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sathiyam/Sathiyam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sathiyam/Sathiyam_800.m3u8
 #EXTINF:0, group-title="Tamil",Shalini Plus
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MK_News/MK_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MK_News/MK_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Sonic (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/sonic_Tamil/sonic_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/sonic_Tamil/sonic_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Sony BBC Earth HD (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Sony Yay (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Star Vijay HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Vijay/Star_Vijay_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Vijay/Star_Vijay_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun Life
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sun_Life/Sun_Life_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sun_Life/Sun_Life_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sun_Music/Sun_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sun_Music/Sun_Music_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun Music HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sun_Music_HD/Sun_Music_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sun_Music_HD/Sun_Music_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sun_News/Sun_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sun_News/Sun_News_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sun_TV/Sun_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sun_TV/Sun_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Sun TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sun_TV_HD/Sun_TV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sun_TV_HD/Sun_TV_HD_800.m3u8
 #EXTINF:0, group-title="Tamil",Thanthi TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Thanthi_TV/Thanthi_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Thanthi_TV/Thanthi_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Travel XP (Tamil)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Travel_XP_Tamil/Travel_XP_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Travel_XP_Tamil/Travel_XP_Tamil_800.m3u8
 #EXTINF:0, group-title="Tamil",Tunes 6 Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Tunes_6/Tunes_6_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Tunes_6/Tunes_6_800.m3u8
 #EXTINF:0, group-title="Tamil",Vasanth
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Vasanth_TV/Vasanth_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vasanth_TV/Vasanth_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Vendhar TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Vendhar_TV/Vendhar_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vendhar_TV/Vendhar_TV_800.m3u8
 #EXTINF:0, group-title="Tamil",Zee Tamil
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Tamil/Zee_Tamil_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Tamil/Zee_Tamil_800.m3u8
 #EXTINF:0, group-title="Telugu",10 TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/10_TV/10_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/10_TV/10_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",ABN Andhra Jyothi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
 #EXTINF:0, group-title="Telugu",Aradhana
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Aradhana_TV/Aradhana_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aradhana_TV/Aradhana_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Bhakti TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Bhakti_TV/Bhakti_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Bhakti_TV/Bhakti_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Cartoon Network (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",CVR Health
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CVR_Health/CVR_Health_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CVR_Health/CVR_Health_800.m3u8
 #EXTINF:0, group-title="Telugu",CVR News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CVR_News/CVR_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CVR_News/CVR_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Om CVR Spiritual
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8
 #EXTINF:0, group-title="Telugu",DD Saptagiri
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Saptagiri/DD_Saptagiri_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Saptagiri/DD_Saptagiri_800.m3u8
 #EXTINF:0, group-title="Telugu",Discovery Channel (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Abhiruchi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv AP
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Cinema
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Cinema/ETV_Cinema_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Cinema/ETV_Cinema_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Life
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Life/ETV_Life_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Life/ETV_Life_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Plus
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Plus/ETV_Plus_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Plus/ETV_Plus_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Telangana
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Telangana/ETV_Telangana_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Telangana/ETV_Telangana_800.m3u8
 #EXTINF:0, group-title="Telugu",Etv Telugu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Telugu/ETV_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Telugu/ETV_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Comedy
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_Comedy/Gemini_Comedy_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Comedy/Gemini_Comedy_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Life
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_Life/Gemini_Life_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Life/Gemini_Life_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Movies
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_Movies/Gemini_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Movies/Gemini_Movies_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Movies HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_Movies_HD/Gemini_Movies_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Movies_HD/Gemini_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_Music/Gemini_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Music/Gemini_Music_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini Music HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_Music_HD/Gemini_Music_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Music_HD/Gemini_Music_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_News/Gemini_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_News/Gemini_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_TV/Gemini_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_TV/Gemini_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Gemini HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gemini_TV_HD/Gemini_TV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_TV_HD/Gemini_TV_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Gyana Yogi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gyana_Yogi/Gyana_Yogi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gyana_Yogi/Gyana_Yogi_800.m3u8
 #EXTINF:0, group-title="Telugu",Hindu Dharmam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Hindu_Dharmam/Hindu_Dharmam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Hindu_Dharmam/Hindu_Dharmam_800.m3u8
 #EXTINF:0, group-title="Telugu",History HD (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/History_18_Telugu/History_18_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_18_Telugu/History_18_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",hmtv
-http://yuphdtv.net/tRXnDiJPF3RO4DR/HM_TV/HM_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/HM_TV/HM_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",i News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/I_News/I_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/I_News/I_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Jaya Shankara TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Max
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_Max/Jaya_Max_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jaya_Max/Jaya_Max_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Movie
-http://yuphdtv.net/tRXnDiJPF3RO4DR/J_Movies/J_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/J_Movies/J_Movies_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya Plus
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Jaya_Plus/Jaya_Plus_800.m3u8
 #EXTINF:0, group-title="Telugu",Jaya TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaya_TV_HD/Jaya_TV_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jaya_TV_HD/Jaya_TV_HD_800.m3u8
 #EXTINF:0, group-title="Telugu",Kushi TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kushi_TV/Kushi_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kushi_TV/Kushi_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Maa Gold HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maa_Gold/Maa_Gold_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maa_Gold/Maa_Gold_800.m3u8
 #EXTINF:0, group-title="Telugu",Maa Movies HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maa_Movies/Maa_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maa_Movies/Maa_Movies_800.m3u8
 #EXTINF:0, group-title="Telugu",Maa TV HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maa_TV/Maa_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maa_TV/Maa_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Maha News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maha_News/Maha_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maha_News/Maha_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Nick (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nick_Telugu/Nick_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nick_Telugu/Nick_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",NTV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/NTV/NTV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NTV/NTV_800.m3u8
 #EXTINF:0, group-title="Telugu",Raj Musix (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Raj News (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_News_Telugu/Raj_News_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_Telugu/Raj_News_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Rujumargam TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Rujumargam_TV/Rujumargam_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Rujumargam_TV/Rujumargam_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Sakshi TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sakshi_tv/Sakshi_tv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sakshi_tv/Sakshi_tv_800.m3u8
 #EXTINF:0, group-title="Telugu",Shiva Shakti Sai TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Sony BBC Earth HD (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Sony Yay (Telugu)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
 #EXTINF:0, group-title="Telugu",Sri Venkateshwar Bhakti
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8
 #EXTINF:0, group-title="Telugu",Studio N News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Studio_n/Studio_n_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Studio_n/Studio_n_800.m3u8
 #EXTINF:0, group-title="Telugu",Subhavartha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Subhavartha_TV/Subhavartha_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Subhavartha_TV/Subhavartha_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Swara Sagar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Divya_Vani/Divya_Vani_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Divya_Vani/Divya_Vani_800.m3u8
 #EXTINF:0, group-title="Telugu",T News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/T_News/T_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/T_News/T_News_800.m3u8
 #EXTINF:0, group-title="Telugu",TV 5 News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV_5_News/TV_5_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV_5_News/TV_5_News_800.m3u8
 #EXTINF:0, group-title="Telugu",TV1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV1/TV1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV1/TV1_800.m3u8
 #EXTINF:0, group-title="Telugu",TV9 Telugu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV9_Telugu_News/TV9_Telugu_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV9_Telugu_News/TV9_Telugu_News_800.m3u8
 #EXTINF:0, group-title="Telugu",V6 News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/V6_News/V6_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/V6_News/V6_News_800.m3u8
 #EXTINF:0, group-title="Telugu",Vanitha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Vanitha/Vanitha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vanitha/Vanitha_800.m3u8
 #EXTINF:0, group-title="Telugu",Vissa TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Vissa_TV/Vissa_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vissa_TV/Vissa_TV_800.m3u8
 #EXTINF:0, group-title="Telugu",Zee Cinemalu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Cinemalu/Zee_Cinemalu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Cinemalu/Zee_Cinemalu_800.m3u8
 #EXTINF:0, group-title="Telugu",Zee Telugu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Telugu/Zee_Telugu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Telugu/Zee_Telugu_800.m3u8
 #EXTINF:0, group-title="Malayalam",Amrita
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Amrita_TV/Amrita_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Amrita_TV/Amrita_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Asianet/Asianet_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Asianet/Asianet_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Movies HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Asianet_Movies_HD/Asianet_Movies_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Asianet_Movies_HD/Asianet_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Asianet_News/Asianet_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Asianet_News/Asianet_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Plus HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Asianet_Plus/Asianet_Plus_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Asianet_Plus/Asianet_Plus_800.m3u8
 #EXTINF:0, group-title="Malayalam",Channel D
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ChannelDHD/ChannelDHD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ChannelDHD/ChannelDHD_800.m3u8
 #EXTINF:0, group-title="Malayalam",DD Malayalam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Malayalam/DD_Malayalam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Malayalam/DD_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Flower TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Flower_TV/Flower_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Flower_TV/Flower_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Jai Hind
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jaihind_tv/Jaihind_tv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jaihind_tv/Jaihind_tv_800.m3u8
 #EXTINF:0, group-title="Malayalam",Janam TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Janam_TV/Janam_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Janam_TV/Janam_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Jeevan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jeevan_TV/Jeevan_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jeevan_TV/Jeevan_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kairali People
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kairali_People_TV/Kairali_People_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kairali_People_TV/Kairali_People_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kairali
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kairali_TV/Kairali_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kairali_TV/Kairali_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kairali We
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kairali_WE_TV/Kairali_WE_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kairali_WE_TV/Kairali_WE_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kappa TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kappa_TV/Kappa_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kappa_TV/Kappa_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kaumudy
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kaumudy_TV/Kaumudy_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kaumudy_TV/Kaumudy_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kiran TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kiran_TV/Kiran_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kiran_TV/Kiran_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Kochu TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kochu_TV/Kochu_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kochu_TV/Kochu_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Manorama News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Manorama_News/Manorama_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Manorama_News/Manorama_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Mathrubhumi News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mathrubhumi_News/Mathrubhumi_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mathrubhumi_News/Mathrubhumi_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Manorama HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mazavali_Manorama_HD/Mazavali_Manorama_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mazavali_Manorama_HD/Mazavali_Manorama_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Manorama
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8
 #EXTINF:0, group-title="Malayalam",Media One
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Media_One_TV/Media_One_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Media_One_TV/Media_One_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",News 18 Kerala
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_18_Kerala/News_18_Kerala_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_18_Kerala/News_18_Kerala_800.m3u8
 #EXTINF:0, group-title="Malayalam",Propex TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Propex_TV/Propex_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Propex_TV/Propex_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Raj Music (Malayalam)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Music_Malayalam/Raj_Music_Malayalam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_Music_Malayalam/Raj_Music_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Raj News (Malayalam)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Shalom
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Shalom/Shalom_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Shalom/Shalom_800.m3u8
 #EXTINF:0, group-title="Malayalam",Surya HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Surya_HD/Surya_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Surya_HD/Surya_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Surya Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Surya_Music/Surya_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Surya_Music/Surya_Music_800.m3u8
 #EXTINF:0, group-title="Malayalam",Surya TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Surya_TV/Surya_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Surya_TV/Surya_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",BTV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/BTV/BTV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BTV/BTV_800.m3u8
 #EXTINF:0, group-title="Kannada",Chintu TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Chintu_TV/Chintu_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Chintu_TV/Chintu_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Colors Kannada HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Kannada_HD/Colors_Kannada_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Kannada_HD/Colors_Kannada_HD_800.m3u8
 #EXTINF:0, group-title="Kannada",Colors Super
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Super/Colors_Super_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Super/Colors_Super_800.m3u8
 #EXTINF:0, group-title="Kannada",DD Kannada
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD9_chandana_kannada/DD9_chandana_kannada_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD9_chandana_kannada/DD9_chandana_kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",Dighvijay
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Dighvijay_TV/Dighvijay_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dighvijay_TV/Dighvijay_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",News 18 Kannada
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Kannada_News/ETV_Kannada_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Kannada_News/ETV_Kannada_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Janasri News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Janasri_News/Janasri_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Janasri_News/Janasri_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Janataa TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Janataa_TV/Janataa_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Janataa_TV/Janataa_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Kasturi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kasturi/Kasturi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kasturi/Kasturi_800.m3u8
 #EXTINF:0, group-title="Kannada",Prajaa TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Prajaa_TV/Prajaa_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Prajaa_TV/Prajaa_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Public Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Public_Music/Public_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Public_Music/Public_Music_800.m3u8
 #EXTINF:0, group-title="Kannada",Public TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Public_TV/Public_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Public_TV/Public_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Raj Music (Kannada)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Music_Kannada/Raj_Music_Kannada_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_Music_Kannada/Raj_Music_Kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",Raj News (Kannada)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Raj_News_Kannada/Raj_News_Kannada_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_Kannada/Raj_News_Kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",Saral Jeevan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Saral_Jeevan/Saral_Jeevan_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Saral_Jeevan/Saral_Jeevan_800.m3u8
 #EXTINF:0, group-title="Kannada",Sri Sankara
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sri_Sankara/Sri_Sankara_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sri_Sankara/Sri_Sankara_800.m3u8
 #EXTINF:0, group-title="Kannada",Suddi TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Suddi_TV/Suddi_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Suddi_TV/Suddi_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Suvarna HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Suvarna/Suvarna_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Suvarna/Suvarna_800.m3u8
 #EXTINF:0, group-title="Kannada",Suvarna News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Suvarna_News/Suvarna_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Suvarna_News/Suvarna_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Suvarna Plus HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Asianet_Suvarna_HD/Asianet_Suvarna_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Asianet_Suvarna_HD/Asianet_Suvarna_HD_800.m3u8
 #EXTINF:0, group-title="Kannada",TV 5 Kannada
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV_5_Kannada/TV_5_Kannada_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV_5_Kannada/TV_5_Kannada_800.m3u8
 #EXTINF:0, group-title="Kannada",TV9 Karnataka
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV9_Karnataka/TV9_Karnataka_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV9_Karnataka/TV9_Karnataka_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya Comedy
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Udaya_Comedy/Udaya_Comedy_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Udaya_Comedy/Udaya_Comedy_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Udaya_HD/Udaya_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Udaya_HD/Udaya_HD_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya Movies
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Udaya_Movies/Udaya_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Udaya_Movies/Udaya_Movies_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Udaya_Music/Udaya_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Udaya_Music/Udaya_Music_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Udaya_News/Udaya_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Udaya_News/Udaya_News_800.m3u8
 #EXTINF:0, group-title="Kannada",Udaya TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Udaya_TV/Udaya_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Udaya_TV/Udaya_TV_800.m3u8
 #EXTINF:0, group-title="Kannada",Zee Kannada
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Kannada/Zee_Kannada_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Kannada/Zee_Kannada_800.m3u8
 #EXTINF:0, group-title="Gujarati",ABP Asmita
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ABP_Asmita/ABP_Asmita_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ABP_Asmita/ABP_Asmita_800.m3u8
 #EXTINF:0, group-title="Gujarati",CNBC Bazaar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_800.m3u8
 #EXTINF:0, group-title="Gujarati",Colors Gujarati
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Gujarati/Colors_Gujarati_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Gujarati/Colors_Gujarati_800.m3u8
 #EXTINF:0, group-title="Gujarati",DD Girnar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Girnar/DD_Girnar_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Girnar/DD_Girnar_800.m3u8
 #EXTINF:0, group-title="Gujarati",Etv News Gujarati
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_News_Gujarati/ETV_News_Gujarati_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_News_Gujarati/ETV_News_Gujarati_800.m3u8
 #EXTINF:0, group-title="Gujarati",Garv Shree Swaminarayan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Garv/Garv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Garv/Garv_800.m3u8
 #EXTINF:0, group-title="Gujarati",GS TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/GS_TV/GS_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/GS_TV/GS_TV_800.m3u8
 #EXTINF:0, group-title="Gujarati",Lakshya TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Lakshya_TV/Lakshya_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Lakshya_TV/Lakshya_TV_800.m3u8
 #EXTINF:0, group-title="Gujarati",Mantavya News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mantavya_News/Mantavya_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mantavya_News/Mantavya_News_800.m3u8
 #EXTINF:0, group-title="Gujarati",Sandesh News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sandesh_News/Sandesh_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sandesh_News/Sandesh_News_800.m3u8
 #EXTINF:0, group-title="Gujarati",TV9 Gujarat
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Tv_9_Gujarat/Tv_9_Gujarat_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Tv_9_Gujarat/Tv_9_Gujarat_800.m3u8
 #EXTINF:0, group-title="Gujarati",VTV News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/VTV_Gujarati/VTV_Gujarati_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/VTV_Gujarati/VTV_Gujarati_800.m3u8
 #EXTINF:0, group-title="Gujarati",Zee 24 Kalak
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_24_Kalak/Zee_24_Kalak_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_24_Kalak/Zee_24_Kalak_800.m3u8
 #EXTINF:0, group-title="Marathi",9X Jhakaas
-http://yuphdtv.net/tRXnDiJPF3RO4DR/9x_Jhakaas/9x_Jhakaas_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9x_Jhakaas/9x_Jhakaas_800.m3u8
 #EXTINF:0, group-title="Marathi",ABP Majha
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ABP_Majha/ABP_Majha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ABP_Majha/ABP_Majha_800.m3u8
 #EXTINF:0, group-title="Marathi",Colors Marathi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Marathi/Colors_Marathi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Marathi/Colors_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Colors Marathi HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Marathi_HD/Colors_Marathi_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Marathi_HD/Colors_Marathi_HD_800.m3u8
 #EXTINF:0, group-title="Marathi",DD Marathi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Sahayadri/DD_Sahayadri_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Sahayadri/DD_Sahayadri_800.m3u8
 #EXTINF:0, group-title="Marathi",Fakt Marathi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Fakt_Marathi/Fakt_Marathi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Fakt_Marathi/Fakt_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",News 18 Lokmat
-http://yuphdtv.net/tRXnDiJPF3RO4DR/IBN_Lokmat/IBN_Lokmat_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/IBN_Lokmat/IBN_Lokmat_800.m3u8
 #EXTINF:0, group-title="Marathi",Maharashtra 1
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maharashtra1/Maharashtra1_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maharashtra1/Maharashtra1_800.m3u8
 #EXTINF:0, group-title="Marathi",Mai Boli
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Maiboli/Maiboli_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maiboli/Maiboli_800.m3u8
 #EXTINF:0, group-title="Marathi",Saam TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Saam_Tv/Saam_Tv_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Saam_Tv/Saam_Tv_800.m3u8
 #EXTINF:0, group-title="Marathi",Sangeet Marathi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sangeet_Marathi/Sangeet_Marathi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sangeet_Marathi/Sangeet_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Star Pravah HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Pravah/Star_Pravah_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Pravah/Star_Pravah_800.m3u8
 #EXTINF:0, group-title="Marathi",TV9 Maharashtra
-http://yuphdtv.net/tRXnDiJPF3RO4DR/TV9_Maharashtra/TV9_Maharashtra_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/TV9_Maharashtra/TV9_Maharashtra_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee 24 Taas
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_24_Taas/Zee_24_Taas_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_24_Taas/Zee_24_Taas_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee Marathi
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Marathi/Zee_Marathi_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Marathi/Zee_Marathi_800.m3u8
 #EXTINF:0, group-title="Marathi",Zee Talkies
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Talkies/Zee_Talkies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Talkies/Zee_Talkies_800.m3u8
 #EXTINF:0, group-title="Marathi	",Zee Yuva
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Yuva/Zee_Yuva_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Yuva/Zee_Yuva_800.m3u8
 #EXTINF:0, group-title="Bangla",24 Ghanta TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/24_Ghanta_TV/24_Ghanta_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/24_Ghanta_TV/24_Ghanta_TV_800.m3u8
 #EXTINF:0, group-title="Bangla",Aakaash
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Aakaash_bangla/Aakaash_bangla_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aakaash_bangla/Aakaash_bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",ABP Ananda
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ABP_Ananda/ABP_Ananda_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ABP_Ananda/ABP_Ananda_800.m3u8
 #EXTINF:0, group-title="Bangla",ANM News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ANM_News/ANM_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ANM_News/ANM_News_800.m3u8
 #EXTINF:0, group-title="Bangla",Artage News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Artage_News/Artage_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Artage_News/Artage_News_800.m3u8
 #EXTINF:0, group-title="Bangla",Colors Bangla HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Bengali_HD/Colors_Bengali_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Bengali_HD/Colors_Bengali_HD_800.m3u8
 #EXTINF:0, group-title="Bangla",DD Bangla
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Bangla/DD_Bangla_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Bangla/DD_Bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",Discovery Channel (Bangla)
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8
 #EXTINF:0, group-title="Bangla",Etv Bangla News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Bangla_News/ETV_Bangla_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Bangla_News/ETV_Bangla_News_800.m3u8
 #EXTINF:0, group-title="Bangla",Jalsha Movies HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jalsa_Movies_HD/Jalsa_Movies_HD_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jalsa_Movies_HD/Jalsa_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Bangla",Music Fatafati
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Music_Fatafati/Music_Fatafati_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Music_Fatafati/Music_Fatafati_800.m3u8
 #EXTINF:0, group-title="Bangla",Nepal One
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Nepal_one/Nepal_one_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nepal_one/Nepal_one_800.m3u8
 #EXTINF:0, group-title="Bangla",News Time
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_Time_TV/News_Time_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_Time_TV/News_Time_TV_800.m3u8
 #EXTINF:0, group-title="Bangla",R Plus
-http://yuphdtv.net/tRXnDiJPF3RO4DR/RPLUS/RPLUS_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/RPLUS/RPLUS_800.m3u8
 #EXTINF:0, group-title="Bangla",Sangeet Bangla
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sangeet_Bangla/Sangeet_Bangla_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sangeet_Bangla/Sangeet_Bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",Sony Aath
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sony_aath/Sony_aath_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_aath/Sony_aath_800.m3u8
 #EXTINF:0, group-title="Bangla",Star Jalsha HD
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Star_Jalsha/Star_Jalsha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Jalsha/Star_Jalsha_800.m3u8
 #EXTINF:0, group-title="Bangla",Zee Bangla
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Bangla/Zee_Bangla_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Bangla/Zee_Bangla_800.m3u8
 #EXTINF:0, group-title="Bangla",Zee Bangla Cinema
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8
 #EXTINF:0, group-title="Assamese",Assam Talks
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Assam_Talks/Assam_Talks_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Assam_Talks/Assam_Talks_800.m3u8
 #EXTINF:0, group-title="Assamese",DD Guwahati NE
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD13_Guwahati_NE/DD13_Guwahati_NE_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD13_Guwahati_NE/DD13_Guwahati_NE_800.m3u8
 #EXTINF:0, group-title="Assamese",DY 365
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DY_365/DY_365_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DY_365/DY_365_800.m3u8
 #EXTINF:0, group-title="Assamese",Indradhanu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Indradhanu/Indradhanu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Indradhanu/Indradhanu_800.m3u8
 #EXTINF:0, group-title="Assamese",Jonack
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Jonack/Jonack_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jonack/Jonack_800.m3u8
 #EXTINF:0, group-title="Assamese",News 18 Assam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_18_Assam/News_18_Assam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_18_Assam/News_18_Assam_800.m3u8
 #EXTINF:0, group-title="Assamese",News Live
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Newslive/Newslive_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Newslive/Newslive_800.m3u8
 #EXTINF:0, group-title="Assamese",North East Live
-http://yuphdtv.net/tRXnDiJPF3RO4DR/North_East_Live/North_East_Live_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/North_East_Live/North_East_Live_800.m3u8
 #EXTINF:0, group-title="Assamese",Prag News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Prag_News/Prag_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Prag_News/Prag_News_800.m3u8
 #EXTINF:0, group-title="Assamese",Pratidin Time
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Pratidin_News/Pratidin_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pratidin_News/Pratidin_News_800.m3u8
 #EXTINF:0, group-title="Assamese",Ramdhenu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Ramdhenu/Ramdhenu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ramdhenu/Ramdhenu_800.m3u8
 #EXTINF:0, group-title="Assamese",Rang
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Rang/Rang_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Rang/Rang_800.m3u8
 #EXTINF:0, group-title="Assamese",Rengoni
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Rengoni/Rengoni_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Rengoni/Rengoni_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Anjan
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Anjan_TV/Anjan_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Anjan_TV/Anjan_TV_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Bhojpuri Cinema
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Bhojpuri_Cinema/Bhojpuri_Cinema_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Bhojpuri_Cinema/Bhojpuri_Cinema_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Dangal
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Dangal/Dangal_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dangal/Dangal_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Etv Bihar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_BIHAR/ETV_BIHAR_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_BIHAR/ETV_BIHAR_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Mahua +
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Mahua_Plus/Mahua_Plus_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mahua_Plus/Mahua_Plus_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Oscar Movies
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Osar_Movies/Osar_Movies_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Osar_Movies/Osar_Movies_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Sangeet Bhojpuri
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8
 #EXTINF:0, group-title="Bhojpuri",Zee Bihar JH
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Purvaiya/Zee_Purvaiya_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Purvaiya/Zee_Purvaiya_800.m3u8
 #EXTINF:0, group-title="Oriya",Alankar
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Alankar_TV/Alankar_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Alankar_TV/Alankar_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Colors Odiya
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Colors_Oriya/Colors_Oriya_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Colors_Oriya/Colors_Oriya_800.m3u8
 #EXTINF:0, group-title="Oriya",DD Odiya
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Oriya/DD_Oriya_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Oriya/DD_Oriya_800.m3u8
 #EXTINF:0, group-title="Oriya",News 18 OR
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_News_Oriya/ETV_News_Oriya_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_News_Oriya/ETV_News_Oriya_800.m3u8
 #EXTINF:0, group-title="Oriya",Kalinga TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kalinga_TV/Kalinga_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kalinga_TV/Kalinga_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Kanak News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Kanak_TV/Kanak_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kanak_TV/Kanak_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",MBC TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/MBC/MBC_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MBC/MBC_800.m3u8
 #EXTINF:0, group-title="Oriya",Naxatra News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Naxatra_News/Naxatra_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Naxatra_News/Naxatra_News_800.m3u8
 #EXTINF:0, group-title="Oriya",News World Odia
-http://yuphdtv.net/tRXnDiJPF3RO4DR/News_World_Odisha/News_World_Odisha_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_World_Odisha/News_World_Odisha_800.m3u8
 #EXTINF:0, group-title="Oriya",OTV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/OTV_Odisha_TV/OTV_Odisha_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/OTV_Odisha_TV/OTV_Odisha_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Prameya News 7
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Prameya_News_7/Prameya_News_7_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Prameya_News_7/Prameya_News_7_800.m3u8
 #EXTINF:0, group-title="Oriya",Prathana TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Prathana_TV/Prathana_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Prathana_TV/Prathana_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Sarthak TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Sarthak_TV/Sarthak_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sarthak_TV/Sarthak_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Tarang Music
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Tarang_Music/Tarang_Music_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Tarang_Music/Tarang_Music_800.m3u8
 #EXTINF:0, group-title="Oriya",Tarang TV
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Tarang_TV/Tarang_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Tarang_TV/Tarang_TV_800.m3u8
 #EXTINF:0, group-title="Oriya",Zee Kalinga
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Kalinga/Zee_Kalinga_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Kalinga/Zee_Kalinga_800.m3u8
 #EXTINF:0, group-title="Urdu",4tv News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/4_TV/4_TV_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/4_TV/4_TV_800.m3u8
 #EXTINF:0, group-title="Urdu",Channel Win
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Channel_Win/Channel_Win_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Channel_Win/Channel_Win_800.m3u8
 #EXTINF:0, group-title="Urdu",DD Kashir
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_Kashir/DD_Kashir_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_Kashir/DD_Kashir_800.m3u8
 #EXTINF:0, group-title="Urdu",DD Urdu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/DD_urdu/DD_urdu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/DD_urdu/DD_urdu_800.m3u8
 #EXTINF:0, group-title="Urdu",Etv Urdu
-http://yuphdtv.net/tRXnDiJPF3RO4DR/ETV_Urdu/ETV_Urdu_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Urdu/ETV_Urdu_800.m3u8
 #EXTINF:0, group-title="Urdu",Gulistan News
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Gulistan_News/Gulistan_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gulistan_News/Gulistan_News_800.m3u8
 #EXTINF:0, group-title="Urdu",I Plus
-http://yuphdtv.net/tRXnDiJPF3RO4DR/I_Plus_News/I_Plus_News_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/I_Plus_News/I_Plus_News_800.m3u8
 #EXTINF:0, group-title="Urdu",Zee Salaam
-http://yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Salaam/Zee_Salaam_800.m3u8
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Salaam/Zee_Salaam_800.m3u8
 #EXTINF:0, group-title="Bangla",Aakash Aath
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
 #EXTINF:0, group-title="Bangla",Arijan
@@ -1883,231 +1883,231 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 #EXTINF:0, group-title="International",Ushuaia TV (Chona)
 http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
 #EXTINF:0, group-title="Pakistani",24 Channel HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4350.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4350.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",7 News HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4383.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4383.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",8xM HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4372.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4372.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",92 News HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4352.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4352.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",A Plus
-http://streamxcode.ddns.net:25461/live/newap/streamz/4326.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4326.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Aaj Entertainment
-http://streamxcode.ddns.net:25461/live/newap/streamz/4329.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4329.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Aaj News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4354.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4354.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Aaj News UK
-http://streamxcode.ddns.net:25461/live/newap/streamz/4600.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4600.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Abb Tak
-http://streamxcode.ddns.net:25461/live/newap/streamz/4353.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4353.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Apna Channel
-http://streamxcode.ddns.net:25461/live/newap/streamz/5095.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5095.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Aruj TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4402.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4402.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary Digital
-http://streamxcode.ddns.net:25461/live/newap/streamz/4316.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4316.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary Digital
-http://streamxcode.ddns.net:25461/live/newap/streamz/4320.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4320.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary Digital World
-http://streamxcode.ddns.net:25461/live/newap/streamz/4321.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4321.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary Music
-http://streamxcode.ddns.net:25461/live/newap/streamz/4371.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4371.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4343.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4343.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary News World
-http://streamxcode.ddns.net:25461/live/newap/streamz/4342.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4342.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary Zauq
-http://streamxcode.ddns.net:25461/live/newap/streamz/4378.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4378.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ary Zindagi
-http://streamxcode.ddns.net:25461/live/newap/streamz/4323.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4323.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",As Movies
-http://streamxcode.ddns.net:25461/live/newap/streamz/4431.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4431.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",ATV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4328.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4328.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Awami Awaz TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4413.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4413.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Awaz TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4399.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4399.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Barkat TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4430.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4430.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Bol News HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4338.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4338.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Business Plus
-http://streamxcode.ddns.net:25461/live/newap/streamz/4356.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4356.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Canada One
-http://streamxcode.ddns.net:25461/live/newap/streamz/4660.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4660.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Channel 5
-http://streamxcode.ddns.net:25461/live/newap/streamz/4348.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4348.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",City 41 News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4426.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4426.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",City 42 News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4427.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4427.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Desi TV USA
-http://streamxcode.ddns.net:25461/live/newap/streamz/4385.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4385.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Dhanak TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4376.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4376.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Dhanka TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4386.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4386.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Dharti TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5096.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5096.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Din News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4384.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4384.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Dtv News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4401.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4401.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Dunya News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4340.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4340.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ehtesab News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4407.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4407.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Express Entertainment
-http://streamxcode.ddns.net:25461/live/newap/streamz/4324.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4324.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Express News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4433.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4433.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Falak TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4408.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4408.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Filmasia
-http://streamxcode.ddns.net:25461/live/newap/streamz/4428.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4428.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Filmax
-http://streamxcode.ddns.net:25461/live/newap/streamz/4367.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4367.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Filmazia
-http://streamxcode.ddns.net:25461/live/newap/streamz/4366.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4366.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Filmworld
-http://streamxcode.ddns.net:25461/live/newap/streamz/4364.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4364.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Filmy Rhythm
-http://streamxcode.ddns.net:25461/live/newap/streamz/4429.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4429.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo Kahani
-http://streamxcode.ddns.net:25461/live/newap/streamz/4315.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4315.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo Kahani EU
-http://streamxcode.ddns.net:25461/live/newap/streamz/5097.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5097.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4344.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4344.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4345.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4345.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo Super
-http://streamxcode.ddns.net:25461/live/newap/streamz/4806.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4806.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo Tezz
-http://streamxcode.ddns.net:25461/live/newap/streamz/4346.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4346.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo Tezz
-http://streamxcode.ddns.net:25461/live/newap/streamz/4347.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4347.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4313.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4313.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Geo TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4314.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4314.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Hamara TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5098.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5098.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Hum News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4359.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4359.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Hum TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4309.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4309.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Hum TV EU
-http://streamxcode.ddns.net:25461/live/newap/streamz/4311.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4311.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Hum TV Sitary
-http://streamxcode.ddns.net:25461/live/newap/streamz/4312.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4312.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Hum TV World
-http://streamxcode.ddns.net:25461/live/newap/streamz/4310.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4310.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Humsab TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4358.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4358.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Joo Music
-http://streamxcode.ddns.net:25461/live/newap/streamz/4374.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4374.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Kashish TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4409.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4409.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Kawish TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4389.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4389.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Kay 2
-http://streamxcode.ddns.net:25461/live/newap/streamz/4415.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4415.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Khyber TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4417.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4417.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Kohenoor
-http://streamxcode.ddns.net:25461/live/newap/streamz/4370.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4370.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ktn
-http://streamxcode.ddns.net:25461/live/newap/streamz/4411.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4411.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Ktn News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4412.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4412.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Lahore News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4339.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4339.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Lahore News HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4351.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4351.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Masala TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4377.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4377.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Mashriq TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4414.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4414.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Mehran TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4419.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4419.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Metro 1 News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4400.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4400.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Mujra Masti
-http://streamxcode.ddns.net:25461/live/newap/streamz/4332.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4332.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Neo News HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4381.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4381.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",News One
-http://streamxcode.ddns.net:25461/live/newap/streamz/4382.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4382.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",News Pakistan
-http://streamxcode.ddns.net:25461/live/newap/streamz/4420.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4420.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Noor Jahan Songs
-http://streamxcode.ddns.net:25461/live/newap/streamz/4369.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4369.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Oxygen HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4421.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4421.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Pashto 1
-http://streamxcode.ddns.net:25461/live/newap/streamz/4416.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4416.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Play Entertainment
-http://streamxcode.ddns.net:25461/live/newap/streamz/4422.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4422.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Prime TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4335.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4335.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",PTV Global
-http://streamxcode.ddns.net:25461/live/newap/streamz/4336.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4336.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",PTV Home
-http://streamxcode.ddns.net:25461/live/newap/streamz/5100.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5100.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",PTV National
-http://streamxcode.ddns.net:25461/live/newap/streamz/4395.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4395.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",PTV News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4396.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4396.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",PTV World
-http://streamxcode.ddns.net:25461/live/newap/streamz/4397.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4397.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Punjab TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/5099.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/5099.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Raavi TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4404.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4404.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Roze News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4398.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4398.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Samaa TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4349.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4349.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",See TV HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4334.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4334.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Silver Screen
-http://streamxcode.ddns.net:25461/live/newap/streamz/4423.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4423.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Star Asia News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4380.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4380.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Starlite
-http://streamxcode.ddns.net:25461/live/newap/streamz/4368.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4368.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Tag TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4393.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4393.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Times TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4432.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4432.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Toronto 360 HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4327.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4327.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",TV One
-http://streamxcode.ddns.net:25461/live/newap/streamz/4331.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4331.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",UK 44
-http://streamxcode.ddns.net:25461/live/newap/streamz/4424.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4424.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Urdu 1 EU
-http://streamxcode.ddns.net:25461/live/newap/streamz/4410.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4410.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Urdu 1 HD
-http://streamxcode.ddns.net:25461/live/newap/streamz/4325.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4325.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Urdu TV Toronto
-http://streamxcode.ddns.net:25461/live/newap/streamz/4666.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4666.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Venus TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4434.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4434.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Vibe TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4425.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4425.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Vsh News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4405.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4405.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Waqt News
-http://streamxcode.ddns.net:25461/live/newap/streamz/4357.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4357.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Waseeb TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4337.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4337.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Zaiqa
-http://streamxcode.ddns.net:25461/live/newap/streamz/4379.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4379.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Zindagi TV
-http://streamxcode.ddns.net:25461/live/newap/streamz/4403.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://streamxcode.ddns.net:25461/live/psl/match/4403.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 #EXTINF:0, group-title="South Indian",10 TV TELUGU NEWS
