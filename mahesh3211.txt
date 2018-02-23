@@ -404,8 +404,6 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maha_Cartoon/Maha_Cartoon_800.
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maha_Movies/Maha_Movies_800.m3u8
 #EXTINF:0, group-title="Hindi",Mastiii
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mastiii/Mastiii_800.m3u8
-#EXTINF:0, group-title="Hindi",mh1 News
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Mh_One_News/Mh_One_News_800.m3u8
 #EXTINF:0, group-title="Hindi",Movies OK HD
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_OK/Movies_OK_800.m3u8
 #EXTINF:0, group-title="Hindi",MTV
@@ -632,11 +630,11 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8							
 #EXTINF:0, group-title="Punjabi",Masti TV
 http://cdn.samtv.ca/mastitv/index.m3u8
-#EXTINF:0, group-title="Punjabi	",Mh1 Music
+#EXTINF:0, group-title="Punjabi",Mh1 Music
 http://capcobroadcaststream.in:1935/edge1/mhmusic.stream_aac/chunklist_w140119054.m3u8
-#EXTINF:0, group-title="Punjabi	",Mh1 News
+#EXTINF:0, group-title="Punjabi",Mh1 News
 http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
-#EXTINF:0, group-title="Punjabi	",Mh1 Sharda
+#EXTINF:0, group-title="Punjabi",Mh1 Sharda
 http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8					
 #EXTINF:0, group-title="Punjabi",NDA Channel
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8							
