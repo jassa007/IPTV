@@ -631,9 +631,13 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 #EXTINF:0, group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8							
 #EXTINF:0, group-title="Punjabi",Masti TV
-http://cdn.samtv.ca/mastitv/index.m3u8							
-#EXTINF:0, group-title="Punjabi",Mh 1
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8							
+http://cdn.samtv.ca/mastitv/index.m3u8
+#EXTINF:0, group-title="Punjabi	",Mh1 Music
+http://capcobroadcaststream.in:1935/edge1/mhmusic.stream_aac/chunklist_w140119054.m3u8
+#EXTINF:0, group-title="Punjabi	",Mh1 News
+http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
+#EXTINF:0, group-title="Punjabi	",Mh1 Sharda
+http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8					
 #EXTINF:0, group-title="Punjabi",NDA Channel
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8							
 #EXTINF:0, group-title="Punjabi",Only Music HD
@@ -665,7 +669,8 @@ http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793							
 #EXTINF:0, group-title="Punjabi",Virsa Live
-http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8																							#EXTINF:0, group-title="Punjabi",TV 84
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8																								
+#EXTINF:0, group-title="Punjabi",TV 84
 http://streamxcode.ddns.net:25461/live/psl/match/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 #EXTINF:0, group-title="Punjabi",9X Tashan
 http://streamxcode.ddns.net:25461/live/psl/match/5149.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
@@ -678,7 +683,7 @@ http://streamxcode.ddns.net:25461/live/psl/match/5146.ts|refferer=http://solidst
 #EXTINF:0, group-title="Punjabi",Channel Y
 http://streamxcode.ddns.net:25461/live/psl/match/5157.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 #EXTINF:0, group-title="Punjabi",Fateh TV
-http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl											
+http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl												
 #EXTINF:0, group-title="Punjabi",Jus 24X7
 http://streamxcode.ddns.net:25461/live/psl/match/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 #EXTINF:0, group-title="Punjabi",Jus One TV
@@ -1258,491 +1263,11 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gulistan_News/Gulistan_News_80
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/I_Plus_News/I_Plus_News_800.m3u8
 #EXTINF:0, group-title="Urdu",Zee Salaam
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Salaam/Zee_Salaam_800.m3u8
-#EXTINF:0, group-title="Bangla",Aakash Aath
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226090/01.m3u8
-#EXTINF:0, group-title="Bangla",Arijan
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
-#EXTINF:0, group-title="Bangla",MUSIC FATAFATI
-http://125.17.105.168/PLTV/88888888/224/3221226360/01.m3u8
-#EXTINF:0, group-title="Bangla",NAAPTOL BANGLA
-http://125.17.105.168/PLTV/88888888/224/3221226271/01.m3u8
-#EXTINF:0, group-title="Bangla",Rang
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/01.m3u8
-#EXTINF:0, group-title="Bangla",RUPOSHI BANGLA TV
-http://125.17.105.168/PLTV/88888888/224/3221226361/01.m3u8
-#EXTINF:0, group-title="Bangla",SAAM TV
-http://125.17.105.168/PLTV/88888888/224/3221226366/01.m3u8
-#EXTINF:0, group-title="Bangla",SANDESH NEWS
-http://125.17.105.168/PLTV/88888888/224/3221225852/01.m3u8
-#EXTINF:0, group-title="Bangla",SANGEET BANGLA
-http://125.17.105.168/PLTV/88888888/224/3221226333/01.m3u8
-#EXTINF:0, group-title="Bangla",Z ETC BOLLYWOOD
-http://125.17.105.168/PLTV/88888888/224/3221226353/01.m3u8
-#EXTINF:0, group-title="Bangla",ZEE 24 KALAK
-http://125.17.105.168/PLTV/88888888/224/3221226116/01.m3u8
-#EXTINF:0, group-title="Bangla",Zee 24 Taas
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/01.m3u8
-#EXTINF:0, group-title="Bangla",ZEE ANMOL
-http://125.17.105.168/PLTV/88888888/224/3221226199/01.m3u8
-#EXTINF:0, group-title="Bangla",ZEE BANGLA
-http://125.17.105.168/PLTV/88888888/224/3221225882/01.m3u8
-#EXTINF:0, group-title="Bangla",ZEE BANGLA CINEMA
-http://125.17.105.168/PLTV/88888888/224/3221225889/01.m3u8
-#EXTINF:0, group-title="Bangla",ZEE BANGLA HD
-http://125.17.105.168/PLTV/88888888/224/3221226277/01.m3u8
-#EXTINF:0, group-title="Canada",Property Buzz TV
+#EXTINF:0, group-title="Punjabi",Property Buzz TV
 http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
-#EXTINF:0, group-title="Canada",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Canada",Toronto 360
+#EXTINF:0, group-title="Punjabi",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:0, group-title="Indian",& Pictures
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226049/01.m3u8
-#EXTINF:0, group-title="Indian",& PICTURES HD
-http://125.17.105.168/PLTV/88888888/224/3221226203/01.m3u8
-#EXTINF:0, group-title="Indian",& TV
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
-#EXTINF:0, group-title="Indian",&PICTURES
-http://125.17.105.168/PLTV/88888888/224/3221226049/01.m3u8
-#EXTINF:0, group-title="Indian",&TV HD
-http://125.17.105.168/PLTV/88888888/224/3221226084/01.m3u8
-#EXTINF:0, group-title="Indian",9X JALWA
-http://125.17.105.168/PLTV/88888888/224/3221226011/01.m3u8
-#EXTINF:0, group-title="Indian",9X JHAKAAS
-http://125.17.105.168/PLTV/88888888/224/3221226026/01.m3u8
-#EXTINF:0, group-title="Indian",9x Music
-http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
-#EXTINF:0, group-title="Indian",9X TASHAN
-http://125.17.105.168/PLTV/88888888/224/3221226017/01.m3u8
-#EXTINF:0, group-title="Indian",9XM
-http://125.17.105.168/PLTV/88888888/224/3221226053/01.m3u8
-#EXTINF:0, group-title="Indian",9XO
-http://125.17.105.168/PLTV/88888888/224/3221226028/01.m3u8
-#EXTINF:0, group-title="Indian",AajTak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",AASTHA
-http://125.17.105.168/PLTV/88888888/224/3221226069/01.m3u8
-#EXTINF:0, group-title="Indian",ABP MAJHA
-http://125.17.105.168/PLTV/88888888/224/3221226020/01.m3u8
-#EXTINF:0, group-title="Indian",ABP News
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:0, group-title="Indian",ASSAM TALKS
-http://125.17.105.168/PLTV/88888888/224/3221226339/01.m3u8
-#EXTINF:0, group-title="Indian",B4U Movies
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/01.m3u8
-#EXTINF:0, group-title="Indian",B4U Music
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226055/01.m3u8
-#EXTINF:0, group-title="Indian",BANSAL NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226216/01.m3u8
-#EXTINF:0, group-title="Indian",BHAKTI TV
-http://125.17.105.168/PLTV/88888888/224/3221226357/01.m3u8
-#EXTINF:0, group-title="Indian",BHARAT SAMACHAR
-http://125.17.105.168/PLTV/88888888/224/3221226268/01.m3u8
-#EXTINF:0, group-title="Indian",BHOJPURI CINEMA
-http://125.17.105.168/PLTV/88888888/224/3221226056/01.m3u8
-#EXTINF:0, group-title="Indian",BIG GANGA
-http://125.17.105.168/PLTV/88888888/224/3221226088/01.m3u8
-#EXTINF:0, group-title="Indian",BIG MAGIC
-http://125.17.105.168/PLTV/88888888/224/3221225745/01.m3u8
-#EXTINF:0, group-title="Indian",Bloomberg Quint (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD355L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Bollywood Masala (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",BTV NEWS 24X7
-http://125.17.105.168/PLTV/88888888/224/3221226341/01.m3u8
-#EXTINF:0, group-title="Indian",BTVI
-http://125.17.105.168/PLTV/88888888/224/3221226009/01.m3u8
-#EXTINF:0, group-title="Indian",Cartoon Network (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",CINEMA TV
-http://125.17.105.168/PLTV/88888888/224/3221226246/01.m3u8
-#EXTINF:0, group-title="Indian",CNN News 18
-http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
-#EXTINF:0, group-title="Indian",Dabang
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226097/01.m3u8
-#EXTINF:0, group-title="Indian",DANGAL
-http://125.17.105.168/PLTV/88888888/224/3221226029/01.m3u8
-#EXTINF:0, group-title="Indian",DD Bharti (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD251L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",DD Lok Sabha
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:0, group-title="Indian",DD Rajya Sabha
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:0, group-title="Indian",DD Sports
-http://w2-open.llnw.cinesoft.net/cinehome/smil:ddsportscinehome.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",Delhi Aaj Tak (Zenga)
-http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD68L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Desi Beats HD
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:0, group-title="Indian",DHOOM MUSIC
-http://125.17.105.168/PLTV/88888888/224/3221226369/01.m3u8
-#EXTINF:0, group-title="Indian",DIGHVIJAY 24X7 NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226240/01.m3u8
-#EXTINF:0, group-title="Indian",Discovery Turbo
-http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
-#EXTINF:0, group-title="Indian",DISHUM
-http://125.17.105.168/PLTV/88888888/224/3221226269/01.m3u8
-#EXTINF:0, group-title="Indian",DIVYA TV
-http://125.17.105.168/PLTV/88888888/224/3221226211/01.m3u8
-#EXTINF:0, group-title="Indian",DIVYAVANI TV
-http://125.17.105.168/PLTV/88888888/224/3221226230/01.m3u8
-#EXTINF:0, group-title="Indian",E24
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
-#EXTINF:0, group-title="Indian",ENTERR 10 
-http://125.17.105.168/PLTV/88888888/224/3221226218/01.m3u8
-#EXTINF:0, group-title="Indian",ET Now
-http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
-#EXTINF:0, group-title="Indian",ET Now (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD97L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",ETV MP
-http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV Raj
-http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV UP
-http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
-#EXTINF:0, group-title="Indian",ETV Urdu
-http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",FAKT MARATHI
-http://125.17.105.168/PLTV/88888888/224/3221226305/01.m3u8
-#EXTINF:0, group-title="Indian",Food Food
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225836/01.m3u8
-#EXTINF:0, group-title="Indian",FTV
-http://125.17.105.168/PLTV/88888888/224/3221226086/01.m3u8
-#EXTINF:0, group-title="Indian",GOODNEWS TV
-http://125.17.105.168/PLTV/88888888/224/3221226231/01.m3u8
-#EXTINF:0, group-title="Indian",GREEN TV
-http://125.17.105.168/PLTV/88888888/224/3221226232/01.m3u8
-#EXTINF:0, group-title="Indian",Gulistan News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/01.m3u8
-#EXTINF:0, group-title="Indian",HINDI KHABAR
-http://125.17.105.168/PLTV/88888888/224/3221226249/01.m3u8
-#EXTINF:0, group-title="Indian",HOMESHOP 18
-http://125.17.105.168/PLTV/88888888/224/3221226354/01.m3u8
-#EXTINF:0, group-title="Indian",IBN Lokmat-1
-http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-#EXTINF:0, group-title="Indian",IBN Lokmat-2
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:0, group-title="Indian",IBN7 News
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
-#EXTINF:0, group-title="Indian",INDIA NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226085/01.m3u8
-#EXTINF:0, group-title="Indian",India News
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD148L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",India News Haryana
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News MP (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD141L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",India News MP CG
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News Raj
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News Raj (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD143L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",India News UP
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",India News UP (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD144L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",India TV
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
-#EXTINF:0, group-title="Indian",India Voice (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD321L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",IndiaToday (Zenga)
-http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD72L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Ishwar TV
-http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Janta TV
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:0, group-title="Indian",JINVANI TV
-http://125.17.105.168/PLTV/88888888/224/3221226326/01.m3u8
-#EXTINF:0, group-title="Indian",JONACK
-http://125.17.105.168/PLTV/88888888/224/3221226367/01.m3u8
-#EXTINF:0, group-title="Indian",KHABREIN ABHI TAK
-http://125.17.105.168/PLTV/88888888/224/3221226252/01.m3u8
-#EXTINF:0, group-title="Indian",LIVING FOODZ
-http://125.17.105.168/PLTV/88888888/224/3221225886/01.m3u8
-#EXTINF:0, group-title="Indian",LIVING FOODZ HD
-http://125.17.105.168/PLTV/88888888/224/3221226329/01.m3u8
-#EXTINF:0, group-title="Indian",Madha
-http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",MADHA TV
-http://125.17.105.168/PLTV/88888888/224/3221226327/01.m3u8
-#EXTINF:0, group-title="Indian",MAHA CARTOON TV
-http://125.17.105.168/PLTV/88888888/224/3221226237/01.m3u8
-#EXTINF:0, group-title="Indian",MAHA MOVIE
-http://125.17.105.168/PLTV/88888888/224/3221226225/01.m3u8
-#EXTINF:0, group-title="Indian",Mahua Plus
-http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",MAIBOLI
-http://125.17.105.168/PLTV/88888888/224/3221226332/01.m3u8
-#EXTINF:0, group-title="Indian",MAKKAL TV
-http://125.17.105.168/PLTV/88888888/224/3221226362/01.m3u8
-#EXTINF:0, group-title="Indian",Mangalmay (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD107L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",MANORANJAN MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226226/01.m3u8
-#EXTINF:0, group-title="Indian",MANORANJAN TV
-http://125.17.105.168/PLTV/88888888/224/3221226227/01.m3u8
-#EXTINF:0, group-title="Indian",MASTIII
-http://125.17.105.168/PLTV/88888888/224/3221226021/01.m3u8
-#EXTINF:0, group-title="Indian",Mastiii (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD254L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",MBC TV
-http://125.17.105.168/PLTV/88888888/224/3221226335/01.m3u8
-#EXTINF:0, group-title="Indian",MEDIAONE
-http://125.17.105.168/PLTV/88888888/224/3221226368/01.m3u8
-#EXTINF:0, group-title="Indian",MEGA TV
-http://125.17.105.168/PLTV/88888888/224/3221226365/01.m3u8
-#EXTINF:0, group-title="Indian",MH ONE SHRADDHA
-http://125.17.105.168/PLTV/88888888/224/3221226089/01.m3u8
-#EXTINF:0, group-title="Indian",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
-#EXTINF:0, group-title="Indian",MULTIPLEX
-http://125.17.105.168/PLTV/88888888/224/3221226209/01.m3u8
-#EXTINF:0, group-title="Indian",MUNSIF TV
-http://125.17.105.168/PLTV/88888888/224/3221226267/01.m3u8
-#EXTINF:0, group-title="Indian",Music India
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225863/01.m3u8
-#EXTINF:0, group-title="Indian",NAAPTOL GREEN
-http://125.17.105.168/PLTV/88888888/224/3221226265/01.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24X7
-http://125.17.105.168/PLTV/88888888/224/3221225771/01.m3u8
-#EXTINF:0, group-title="Indian",NDTV 24x7
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
-#EXTINF:0, group-title="Indian",NDTV GOOD TIMES
-http://125.17.105.168/PLTV/88888888/224/3221225774/01.m3u8
-#EXTINF:0, group-title="Indian",NDTV India
-http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
-#EXTINF:0, group-title="Indian",NDTV Profit
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",NDTV PROFIT PRIME
-http://125.17.105.168/PLTV/88888888/224/3221225781/01.m3u8
-#EXTINF:0, group-title="Indian",Neo Prime
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225789/01.m3u8
-#EXTINF:0, group-title="Indian",Neo Sports
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:0, group-title="Indian",New X
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
-#EXTINF:0, group-title="Indian",News 18
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",News 18-2
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
-#EXTINF:0, group-title="Indian",NEWS NATION
-http://125.17.105.168/PLTV/88888888/224/3221225732/01.m3u8
-#EXTINF:0, group-title="Indian",NEWS TIME
-http://125.17.105.168/PLTV/88888888/224/3221226287/01.m3u8
-#EXTINF:0, group-title="Indian",NEWS WORLD INDIA
-http://125.17.105.168/PLTV/88888888/224/3221226210/01.m3u8
-#EXTINF:0, group-title="Indian",NEWS WORLD ODISHA
-http://125.17.105.168/PLTV/88888888/224/3221226034/01.m3u8
-#EXTINF:0, group-title="Indian",News X HD
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",NEWS24
-http://125.17.105.168/PLTV/88888888/224/3221226138/01.m3u8
-#EXTINF:0, group-title="Indian",NEWSX
-http://125.17.105.168/PLTV/88888888/224/3221225796/01.m3u8
-#EXTINF:0, group-title="Indian",NTV
-http://125.17.105.168/PLTV/88888888/224/3221226141/01.m3u8
-#EXTINF:0, group-title="Indian",OK INDIA
-http://125.17.105.168/PLTV/88888888/224/3221226286/01.m3u8
-#EXTINF:0, group-title="Indian",Only Music HD
-http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
-#EXTINF:0, group-title="Indian",OSCAR MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226212/01.m3u8
-#EXTINF:0, group-title="Indian",OTV
-http://125.17.105.168/PLTV/88888888/224/3221226024/01.m3u8
-#EXTINF:0, group-title="Indian",OTV News
-http://otvdigitalhd.in:1935/unevent/otvsmil.smil/chunklist.m3u8
-#EXTINF:0, group-title="Indian",PARAS TV
-http://125.17.105.168/PLTV/88888888/224/3221226289/01.m3u8
-#EXTINF:0, group-title="Indian",PATRIKA TV RAJASTHAN
-http://125.17.105.168/PLTV/88888888/224/3221226389/01.m3u8
-#EXTINF:0, group-title="Indian",PEOPLE
-http://125.17.105.168/PLTV/88888888/224/3221226359/01.m3u8
-#EXTINF:0, group-title="Indian",Pogo-2 (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",RAMDHENU
-http://125.17.105.168/PLTV/88888888/224/3221226358/01.m3u8
-#EXTINF:0, group-title="Indian",RENGONI TV
-http://125.17.105.168/PLTV/88888888/224/3221226364/01.m3u8
-#EXTINF:0, group-title="Indian",REPUBLIC TV
-http://125.17.105.168/PLTV/88888888/224/3221226000/01.m3u8
-#EXTINF:0, group-title="Indian",RT Movies (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD258L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",SAB
-http://125.17.105.168/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:0, group-title="Indian",SAB HD
-http://125.17.105.168/PLTV/88888888/224/3221226078/01.m3u8
-#EXTINF:0, group-title="Indian",Sadhana News
-http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Sadhana Plus News
-http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",Sadhana TV
-http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
-#EXTINF:0, group-title="Indian",SADHNA
-http://125.17.105.168/PLTV/88888888/224/3221226328/01.m3u8
-#EXTINF:0, group-title="Indian",SAFARI TV
-http://125.17.105.168/PLTV/88888888/224/3221225854/01.m3u8
-#EXTINF:0, group-title="Indian",SAKSHI TV
-http://125.17.105.168/PLTV/88888888/224/3221226306/01.m3u8
-#EXTINF:0, group-title="Indian",SANGEET BHOJPURI
-http://125.17.105.168/PLTV/88888888/224/3221226064/01.m3u8
-#EXTINF:0, group-title="Indian",SANGEET MARATHI
-http://125.17.105.168/PLTV/88888888/224/3221226222/01.m3u8
-#EXTINF:0, group-title="Indian",Sanjeev Kapoor- Wonder Chef (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD266L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",SANSKAR
-http://125.17.105.168/PLTV/88888888/224/3221226070/01.m3u8
-#EXTINF:0, group-title="Indian",SARTHI
-http://125.17.105.168/PLTV/88888888/224/3221226284/01.m3u8
-#EXTINF:0, group-title="Indian",SET
-http://125.17.105.168/PLTV/88888888/224/3221225803/01.m3u8
-#EXTINF:0, group-title="Indian",SHOP CJ
-http://125.17.105.168/PLTV/88888888/224/3221226266/01.m3u8
-#EXTINF:0, group-title="Indian",SHUBH TV
-http://125.17.105.168/PLTV/88888888/224/3221226235/01.m3u8
-#EXTINF:0, group-title="Indian",SHUBHSANDESH TV
-http://125.17.105.168/PLTV/88888888/224/3221226228/01.m3u8
-#EXTINF:0, group-title="Indian",SKYSTAR MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226215/01.m3u8
-#EXTINF:0, group-title="Indian",SONY BBC EARTH
-http://125.17.105.168/PLTV/88888888/224/3221226068/01.m3u8
-#EXTINF:0, group-title="Indian",SONY BBC EARTH HD
-http://125.17.105.168/PLTV/88888888/224/3221226280/01.m3u8
-#EXTINF:0, group-title="Indian",SONY ESPN
-http://125.17.105.168/PLTV/88888888/224/3221225805/01.m3u8
-#EXTINF:0, group-title="Indian",SONY ESPN HD
-http://125.17.105.168/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:0, group-title="Indian",SONY MAX
-http://125.17.105.168/PLTV/88888888/224/3221225811/01.m3u8
-#EXTINF:0, group-title="Indian",SONY MAX 2
-http://125.17.105.168/PLTV/88888888/224/3221225812/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Max HD
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/02.m3u8
-#EXTINF:0, group-title="Indian",Sony Max2
-http://125.17.129.4/PLTV/88888888/224/3221225812/01.m3u8
-#EXTINF:0, group-title="Indian",SONY MIX
-http://125.17.105.168/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:0, group-title="Indian",SONY PAL
-http://125.17.105.168/PLTV/88888888/224/3221226200/01.m3u8
-#EXTINF:0, group-title="Indian",SONY ROX HD
-http://125.17.105.168/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:0, group-title="Indian",Sony SAB
-http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:0, group-title="Indian",Sony Six
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:0, group-title="Indian",SONY SIX HD
-http://125.17.105.168/PLTV/88888888/224/3221225780/01.m3u8
-#EXTINF:0, group-title="Indian",SONY TEN 1
-http://125.17.105.168/PLTV/88888888/224/3221225931/01.m3u8
-#EXTINF:0, group-title="Indian",SONY TEN 1 HD
-http://125.17.105.168/PLTV/88888888/224/3221225875/01.m3u8
-#EXTINF:0, group-title="Indian",SONY TEN 2
-http://125.17.105.168/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:0, group-title="Indian",SONY TEN 2 HD
-http://125.17.105.168/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:0, group-title="Indian",SONY TEN 3
-http://125.17.105.168/PLTV/88888888/224/3221225933/01.m3u8
-#EXTINF:0, group-title="Indian",SONY TEN 3 HD
-http://125.17.105.168/PLTV/88888888/224/3221226330/01.m3u8
-#EXTINF:0, group-title="Indian",Sony TV
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
-#EXTINF:0, group-title="Indian",Sony TV HD
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
-#EXTINF:0, group-title="Indian",Sony Yay
-http://125.17.129.3/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
-#EXTINF:0, group-title="Indian",Sristi 35mm (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD87L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Swasthik TV (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD341L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",Taaza TV (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",TARANG MUSIC
-http://125.17.105.168/PLTV/88888888/224/3221226023/01.m3u8
-#EXTINF:0, group-title="Indian",TARANG TV
-http://125.17.105.168/PLTV/88888888/224/3221226032/01.m3u8
-#EXTINF:0, group-title="Indian",Tez (Zenga)
-http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD79L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",THANTHI TV
-http://125.17.105.168/PLTV/88888888/224/3221226219/01.m3u8
-#EXTINF:0, group-title="Indian",Times Now
-http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
-#EXTINF:0, group-title="Indian",Times Now (Zenga)
-http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD96L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",TLC
-http://125.17.105.168/PLTV/88888888/224/3221225819/01.m3u8
-#EXTINF:0, group-title="Indian",TLC HD WORLD
-http://125.17.105.168/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:0, group-title="Indian",Toonami (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",TRAVEL XP
-http://125.17.105.168/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:0, group-title="Indian",TV 9 MARATHI
-http://125.17.105.168/PLTV/88888888/224/3221226370/01.m3u8
-#EXTINF:0, group-title="Indian",TV9 Gujarati
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226113/01.m3u8
-#EXTINF:0, group-title="Indian",Vaani (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD346L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="Indian",VISSA TV
-http://125.17.105.168/PLTV/88888888/224/3221226255/01.m3u8
-#EXTINF:0, group-title="Indian",VTV GUJARATI
-http://125.17.105.168/PLTV/88888888/224/3221226112/01.m3u8
-#EXTINF:0, group-title="Indian",WION
-http://125.17.105.168/PLTV/88888888/224/3221226363/01.m3u8
-#EXTINF:0, group-title="Indian",WOW CINEMA
-http://125.17.105.168/PLTV/88888888/224/3221226263/01.m3u8
-#EXTINF:0, group-title="Indian",Yoga TV -Swamiji
-http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0, group-title="Indian",ZEE ACTION
-http://125.17.105.168/PLTV/88888888/224/3221226331/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE BIHAR JHARKHAND
-http://125.17.105.168/PLTV/88888888/224/3221226241/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE BUSINESS
-http://125.17.105.168/PLTV/88888888/224/3221225930/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE CINEMA
-http://125.17.105.168/PLTV/88888888/224/3221225935/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE CINEMA HD
-http://125.17.105.168/PLTV/88888888/224/3221226083/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE CLASSIC
-http://125.17.105.168/PLTV/88888888/224/3221226067/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE HINDUSTAN
-http://125.17.105.168/PLTV/88888888/224/3221226074/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE KALINGA NEWS
-http://125.17.105.168/PLTV/88888888/224/3221225937/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE KANNADA
-http://125.17.105.168/PLTV/88888888/224/3221225883/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE MADHYA PRADESH CHHATTISGARH
-http://125.17.105.168/PLTV/88888888/224/3221225927/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE MARATHI
-http://125.17.105.168/PLTV/88888888/224/3221225881/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE MARATHI HD
-http://125.17.105.168/PLTV/88888888/224/3221226278/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE NEWS
-http://125.17.105.168/PLTV/88888888/224/3221225922/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE RAJASTHAN NEWS
-http://125.17.105.168/PLTV/88888888/224/3221225928/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE SALAAM
-http://125.17.105.168/PLTV/88888888/224/3221226355/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE TALKIES
-http://125.17.105.168/PLTV/88888888/224/3221225921/01.m3u8
-#EXTINF:0, group-title="Indian",ZEE TALKIES HD
-http://125.17.105.168/PLTV/88888888/224/3221226202/01.m3u8
-#EXTINF:0, group-title="Indian",Zee TV
-http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
-#EXTINF:0, group-title="Indian",Zee TV HD
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
-#EXTINF:0, group-title="Indian",Zee Yuva
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226096/01.m3u8
-#EXTINF:0, group-title="Indian",ZING
-http://125.17.105.168/PLTV/88888888/224/3221226080/01.m3u8
-#EXTINF:0, group-title="Indian",ZINGAAT
-http://125.17.105.168/PLTV/88888888/224/3221226371/01.m3u8
-#EXTINF:0, group-title="Indian",Zoom
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="Indian",Zoom (Zenga)
-http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD160L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="International",360 TV (Chona)
+#EXTINF:0, group-title="International",360 TV
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/chunklist_w2073057097_b364000.m3u8
 #EXTINF:0, group-title="International",Al Jazeera
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/01.m3u8
@@ -1754,7 +1279,7 @@ http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/322122587
 http://125.17.105.168/PLTV/88888888/224/3221226051/01.m3u8
 #EXTINF:0, group-title="International",BLOOMBERG
 http://125.17.105.168/PLTV/88888888/224/3221226082/01.m3u8
-#EXTINF:0, group-title="International",Bloomberg TV (Chona)
+#EXTINF:0, group-title="International",Bloomberg TV
 http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
 #EXTINF:0, group-title="International",Bloomberg US
 https:///mediauseast.akamaized.net/us/us1_live.m3u8
@@ -1762,7 +1287,7 @@ https:///mediauseast.akamaized.net/us/us1_live.m3u8
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 #EXTINF:0, group-title="International",Channel Win 
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
-#EXTINF:0, group-title="International",Chasseet Pache TV (Chona)
+#EXTINF:0, group-title="International",Chasseet Pache TV
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:0, group-title="International",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_1728_av-p.m3u8
@@ -1784,9 +1309,9 @@ http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 http://125.17.105.168/PLTV/88888888/224/3221226323/01.m3u8
 #EXTINF:0, group-title="International",France24 News
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
-#EXTINF:0, group-title="International",Gem Life TV (Chona)
+#EXTINF:0, group-title="International",Gem Life TV
 http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
-#EXTINF:0, group-title="International",Gem Travel TV (Chona)
+#EXTINF:0, group-title="International",Gem Travel TV
 http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
 #EXTINF:0, group-title="International",Grand Lille TV	rtsp://str81.creacast.com/grandlilletv/high
 #EXTINF:0, group-title="International",Headlines Today
@@ -1797,21 +1322,21 @@ http://125.17.105.168/PLTV/88888888/224/3221225808/01.m3u8
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD338L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
 #EXTINF:0, group-title="International",Indies Music HD
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0, group-title="International",Irib TV 3 (Chona)
+#EXTINF:0, group-title="International",Irib TV 3
 http://irib-live.arvancloud.com/tv3hd/tv3hd.m3u8
 #EXTINF:0, group-title="International",iTV (Zenga)
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD195L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="International",Kanal 24 TV (Chona)
+#EXTINF:0, group-title="International",Kanal 24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w246985525.m3u8
-#EXTINF:0, group-title="International",Kanal 3 TV (Chona)
+#EXTINF:0, group-title="International",Kanal 3 TV
 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/chunklist_w1696095007_b750000.m3u8
-#EXTINF:0, group-title="International",Kanal D Turk (Chona)
+#EXTINF:0, group-title="International",Kanal D Turk
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:0, group-title="International",Kurdistan TV (Chona)
+#EXTINF:0, group-title="International",Kurdistan TV
 http://84.244.187.12:1935/live/livestream/chunklist_w1501586204.m3u8
 #EXTINF:0, group-title="International",Kurdmax TV
 http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
-#EXTINF:0, group-title="International",La Chaine Normande TV (Chona)
+#EXTINF:0, group-title="International",La Chaine Normande TV
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:0, group-title="International",MBC Bollywood HD
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
@@ -1829,7 +1354,7 @@ http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8?secure_i
 http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/master.m3u8?secure_ios_token=dGd2SktlVGcwOVVNZFlHdnVGaWdITklOT25EYVBuOUgyQW4vQ0NjcFRTcW9kZ1VWTU9VVWNrcnZkR2VUCkRpY2I4QzFKcWJZNytTMG5ZbHFUS0E2NE
 #EXTINF:0, group-title="International",Nassim TV
 http://s3.telewebion.com:1935/devices/_definst_/nasim-500k.stream/chunklist_w2127445813.m3u8
-#EXTINF:0, group-title="International",New TV (Chona)
+#EXTINF:0, group-title="International",New TV
 http://kurd-live.com:1935/live/new/playlist.m3u8
 #EXTINF:0, group-title="International",News Asia (Zenga)
 http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
@@ -1838,11 +1363,11 @@ http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD214L720P/
 #EXTINF:0, group-title="International",Peace USA TV	rtmp://peace.fms.visionip.tv/live/b2b-peace_usa-live-25f-4x3-sdh_1
 #EXTINF:0, group-title="International",QH on TV (Zenga)
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD325L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="International",RA Documentary (Chona)
+#EXTINF:0, group-title="International",RA Documentary
 https:///secure-streams.akamaized.net/rt-doc/index800.m3u8
 #EXTINF:0, group-title="International",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8
-#EXTINF:0, group-title="International",Rega TV (Chona)
+#EXTINF:0, group-title="International",Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
 #EXTINF:0, group-title="International",Ronahi TV
 http://bein.website/ZonaLiveTV1/Ronahi.m3u8
@@ -1852,40 +1377,40 @@ http://125.17.105.168/PLTV/88888888/224/3221226334/01.m3u8
 http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
 #EXTINF:0, group-title="International",RT Documentary HD
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:0, group-title="International",Rudaw Live TV (Chona)
+#EXTINF:0, group-title="International",Rudaw Live TV
 https:///svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0, group-title="International",Science & Vie TV (Chona)
+#EXTINF:0, group-title="International",Science & Vie TV
 http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:0, group-title="International",Sky  TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0, group-title="International",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0, group-title="International",TRT 1 HD (Chona)
+#EXTINF:0, group-title="International",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0, group-title="International",TRT Arabic (Chona)
+#EXTINF:0, group-title="International",TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:0, group-title="International",TRT Avaz (Chona)
+#EXTINF:0, group-title="International",TRT Avaz
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:0, group-title="International",TRT Diyanet TV (Chona)
+#EXTINF:0, group-title="International",TRT Diyanet TV
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="International",TRT Haber TV (Chona)
+#EXTINF:0, group-title="International",TRT Haber TV
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="International",TRT Kurd TV (Chona)
+#EXTINF:0, group-title="International",TRT Kurd TV
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="International",TRT Okul TV (Chona)
+#EXTINF:0, group-title="International",TRT Okul TV
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="International",TRT Turk TV (Chona)
+#EXTINF:0, group-title="International",TRT Turk TV
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="International",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="International",TV5 MONDE ASIA
 http://125.17.105.168/PLTV/88888888/224/3221226322/01.m3u8
-#EXTINF:0, group-title="International",TV5 Monde Info (Chona)
+#EXTINF:0, group-title="International",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:0, group-title="International",TV5 Monde-Latin (Chona)
+#EXTINF:0, group-title="International",TV5 Monde-Latin
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:0, group-title="International",TV7 Bordeaux (Chona)	rtsp://62.210.204.108/livtv7vo/mystream700.sdp
-#EXTINF:0, group-title="International",Ushuaia TV (Chona)
+#EXTINF:0, group-title="International",TV7 Bordeaux	rtsp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:0, group-title="International",Ushuaia TV
 http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
 #EXTINF:0, group-title="Pakistani",24 Channel HD
 http://streamxcode.ddns.net:25461/live/psl/match/4350.ts|refferer=http://solidstreamz.com/&user-agent=ipl
@@ -1939,7 +1464,7 @@ http://streamxcode.ddns.net:25461/live/psl/match/4430.ts|refferer=http://solidst
 http://streamxcode.ddns.net:25461/live/psl/match/4338.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Business Plus
 http://streamxcode.ddns.net:25461/live/psl/match/4356.ts|refferer=http://solidstreamz.com/&user-agent=ipl
-#EXTINF:0, group-title="Pakistani",Canada One
+#EXTINF:0, group-title="Pakistani",Punjabi One
 http://streamxcode.ddns.net:25461/live/psl/match/4660.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Channel 5
 http://streamxcode.ddns.net:25461/live/psl/match/4348.ts|refferer=http://solidstreamz.com/&user-agent=ipl
@@ -2113,275 +1638,3 @@ http://streamxcode.ddns.net:25461/live/psl/match/4337.ts|refferer=http://solidst
 http://streamxcode.ddns.net:25461/live/psl/match/4379.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Pakistani",Zindagi TV
 http://streamxcode.ddns.net:25461/live/psl/match/4403.ts|refferer=http://solidstreamz.com/&user-agent=ipl
-
-
-#EXTINF:0, group-title="South Indian",10 TV TELUGU NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226351/01.m3u8
-#EXTINF:0, group-title="South Indian",7S MUSIC
-http://125.17.105.168/PLTV/88888888/224/3221226213/01.m3u8
-#EXTINF:0, group-title="South Indian",ABN TELUGU NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226140/01.m3u8
-#EXTINF:0, group-title="South Indian",ABP ANANDA
-http://125.17.105.168/PLTV/88888888/224/3221226052/01.m3u8
-#EXTINF:0, group-title="South Indian",ABP ASMITA
-http://125.17.105.168/PLTV/88888888/224/3221226264/01.m3u8
-#EXTINF:0, group-title="South Indian",ADITHYA TV
-http://125.17.105.168/PLTV/88888888/224/3221226132/01.m3u8
-#EXTINF:0, group-title="South Indian",ALANKAR
-http://125.17.105.168/PLTV/88888888/224/3221226042/01.m3u8
-#EXTINF:0, group-title="South Indian",AMRITA TV
-http://125.17.105.168/PLTV/88888888/224/3221226310/01.m3u8
-#EXTINF:0, group-title="South Indian",Anand Media HD
-http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",ANJAN TV
-http://125.17.105.168/PLTV/88888888/224/3221226115/01.m3u8
-#EXTINF:0, group-title="South Indian",APN NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226315/01.m3u8
-#EXTINF:0, group-title="South Indian",ARADANA TV
-http://125.17.105.168/PLTV/88888888/224/3221226229/01.m3u8
-#EXTINF:0, group-title="South Indian",ASEERVATHAM TV
-http://125.17.105.168/PLTV/88888888/224/3221226324/01.m3u8
-#EXTINF:0, group-title="South Indian",Asianet  ME
-http://cdn001.tvzone.co.in:1935/tvzone_edge001_asianetme/k739xw5/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Bharat Today TV
-http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",CAPTAIN TV
-http://125.17.105.168/PLTV/88888888/224/3221226312/01.m3u8
-#EXTINF:0, group-title="South Indian",CAUVERY NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226276/01.m3u8
-#EXTINF:0, group-title="South Indian",CHANNEL WIN
-http://125.17.105.168/PLTV/88888888/224/3221226057/01.m3u8
-#EXTINF:0, group-title="South Indian",CN NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226285/01.m3u8
-#EXTINF:0, group-title="South Indian",CTVN AKD PLUS
-http://125.17.105.168/PLTV/88888888/224/3221226250/01.m3u8
-#EXTINF:0, group-title="South Indian",CVR ENGLISH NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226253/01.m3u8
-#EXTINF:0, group-title="South Indian",CVR HEALTH
-http://125.17.105.168/PLTV/88888888/224/3221226248/01.m3u8
-#EXTINF:0, group-title="South Indian",CVR NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226247/01.m3u8
-#EXTINF:0, group-title="South Indian",Darshana TV ME
-http://w2-open.llnw.cinesoft.net/cinehome/smil:darshanacinehome.smil/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",DD Podigai
-http://live-fs.wmncdn.net/ddpodigailive1/live1.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Dheeran TV
-http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
-#EXTINF:0, group-title="South Indian",DISCOVERY TAMIL
-http://125.17.105.168/PLTV/88888888/224/3221226311/01.m3u8
-#EXTINF:0, group-title="South Indian",DY365
-http://125.17.105.168/PLTV/88888888/224/3221226198/01.m3u8
-#EXTINF:0, group-title="South Indian",Eet TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",FLOWERS TV
-http://125.17.105.168/PLTV/88888888/224/3221225838/01.m3u8
-#EXTINF:0, group-title="South Indian",Garshom News
-http://livestream.5centscdn.com/medianet/e0bb98eac1adf1bd43abea23800a9978.sdp/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Gemini Comedy
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226123/01.m3u8
-#EXTINF:0, group-title="South Indian",GEMINI MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226130/01.m3u8
-#EXTINF:0, group-title="South Indian",GEMINI MUSIC
-http://125.17.105.168/PLTV/88888888/224/3221226126/01.m3u8
-#EXTINF:0, group-title="South Indian",GEMINI NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226131/01.m3u8
-#EXTINF:0, group-title="South Indian",GEMINI TV
-http://125.17.105.168/PLTV/88888888/224/3221226129/01.m3u8
-#EXTINF:0, group-title="South Indian",GEMPORIA 
-http://125.17.105.168/PLTV/88888888/224/3221226337/01.m3u8
-#EXTINF:0, group-title="South Indian",GOD TV
-http://125.17.105.168/PLTV/88888888/224/3221226325/01.m3u8
-#EXTINF:0, group-title="South Indian",GOODNESS TV
-http://125.17.105.168/PLTV/88888888/224/3221226336/01.m3u8
-#EXTINF:0, group-title="South Indian",GYANA YOGI
-http://125.17.105.168/PLTV/88888888/224/3221226245/01.m3u8
-#EXTINF:0, group-title="South Indian",HARVEST TV
-http://125.17.105.168/PLTV/88888888/224/3221226233/01.m3u8
-#EXTINF:0, group-title="South Indian",IBC 24
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226102/01.m3u8
-#EXTINF:0, group-title="South Indian",ISAI ARUVI
-http://125.17.105.168/PLTV/88888888/224/3221226303/01.m3u8
-#EXTINF:0, group-title="South Indian",Janam TV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226111/01.m3u8
-#EXTINF:0, group-title="South Indian",Janan TV 
-http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
-#EXTINF:0, group-title="South Indian",Jaya Max
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226101/01.m3u8
-#EXTINF:0, group-title="South Indian",Jaya Movie
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226095/01.m3u8
-#EXTINF:0, group-title="South Indian",JAYA PLUS
-http://125.17.105.168/PLTV/88888888/224/3221226282/01.m3u8
-#EXTINF:0, group-title="South Indian",Jaya TV HD
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226092/01.m3u8
-#EXTINF:0, group-title="South Indian",KAATYAYANI TV
-http://125.17.105.168/PLTV/88888888/224/3221226270/01.m3u8
-#EXTINF:0, group-title="South Indian",Kairali
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226093/01.m3u8
-#EXTINF:0, group-title="South Indian",KAIRALI WE
-http://125.17.105.168/PLTV/88888888/224/3221226019/01.m3u8
-#EXTINF:0, group-title="South Indian",Kalaignar TV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226091/01.m3u8
-#EXTINF:0, group-title="South Indian",KALINGA TV
-http://125.17.105.168/PLTV/88888888/224/3221226016/01.m3u8
-#EXTINF:0, group-title="South Indian",KANAK NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226224/01.m3u8
-#EXTINF:0, group-title="South Indian",KAPPA TV
-http://125.17.105.168/PLTV/88888888/224/3221226319/01.m3u8
-#EXTINF:0, group-title="South Indian",Kaumudi TV
-http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Kaumudy
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226100/01.m3u8
-#EXTINF:0, group-title="South Indian",KTN
-http://103.24.96.74/ktn/ktn/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",KTV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226121/01.m3u8
-#EXTINF:0, group-title="South Indian",MATHRUBHUMI NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226314/01.m3u8
-#EXTINF:0, group-title="South Indian",Megnavision TV
-http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
-#EXTINF:0, group-title="South Indian",MK SIX
-http://125.17.105.168/PLTV/88888888/224/3221226239/01.m3u8
-#EXTINF:0, group-title="South Indian",MK TUNES
-http://125.17.105.168/PLTV/88888888/224/3221226214/01.m3u8
-#EXTINF:0, group-title="South Indian",MK TV
-http://125.17.105.168/PLTV/88888888/224/3221226196/01.m3u8
-#EXTINF:0, group-title="South Indian",MK TV
-http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/playlist.m3u8
-#EXTINF:0, group-title="South Indian",MURASU
-http://125.17.105.168/PLTV/88888888/224/3221226290/01.m3u8
-#EXTINF:0, group-title="South Indian",NAAPTOL KANNADA
-http://125.17.105.168/PLTV/88888888/224/3221226272/01.m3u8
-#EXTINF:0, group-title="South Indian",NAAPTOL TAMIL
-http://125.17.105.168/PLTV/88888888/224/3221226274/01.m3u8
-#EXTINF:0, group-title="South Indian",NAAPTOL TELUGU
-http://125.17.105.168/PLTV/88888888/224/3221226275/01.m3u8
-#EXTINF:0, group-title="South Indian",NAMBIKKAI TV
-http://125.17.105.168/PLTV/88888888/224/3221226262/01.m3u8
-#EXTINF:0, group-title="South Indian",NATIONAL VOICE
-http://125.17.105.168/PLTV/88888888/224/3221226236/01.m3u8
-#EXTINF:0, group-title="South Indian",NEWS 7 TAMIL
-http://125.17.105.168/PLTV/88888888/224/3221226308/01.m3u8
-#EXTINF:0, group-title="South Indian",News Live
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/01.m3u8
-#EXTINF:0, group-title="South Indian",NTV HD
-http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Onkar TV (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD174L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="South Indian",OTV (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD93L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="South Indian",Polimer Music
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/01.m3u8
-#EXTINF:0, group-title="South Indian",POLIMER NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226283/01.m3u8
-#EXTINF:0, group-title="South Indian",POWERVISION
-http://125.17.105.168/PLTV/88888888/224/3221226258/01.m3u8
-#EXTINF:0, group-title="South Indian",Prag News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/01.m3u8
-#EXTINF:0, group-title="South Indian",PRAJAA TV
-http://125.17.105.168/PLTV/88888888/224/3221226234/01.m3u8
-#EXTINF:0, group-title="South Indian",PRARTHANA BHAWAN
-http://125.17.105.168/PLTV/88888888/224/3221226223/01.m3u8
-#EXTINF:0, group-title="South Indian",PRARTHANA TV
-http://125.17.105.168/PLTV/88888888/224/3221226033/01.m3u8
-#EXTINF:0, group-title="South Indian",Prarthana TV (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD94L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1
-#EXTINF:0, group-title="South Indian",PRATIDIN TIME
-http://125.17.105.168/PLTV/88888888/224/3221226288/01.m3u8
-#EXTINF:0, group-title="South Indian",PUBLIC TV
-http://125.17.105.168/PLTV/88888888/224/3221226139/01.m3u8
-#EXTINF:0, group-title="South Indian",PUTHIYA THALAIMURAI
-http://125.17.105.168/PLTV/88888888/224/3221226304/01.m3u8
-#EXTINF:0, group-title="South Indian",PUTHU YUGAM
-http://125.17.105.168/PLTV/88888888/224/3221226313/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ DIGITAL PLUS
-http://125.17.105.168/PLTV/88888888/224/3221226316/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ MUSIX KANNADA
-http://125.17.105.168/PLTV/88888888/224/3221226317/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ MUSIX MALAYALAM
-http://125.17.105.168/PLTV/88888888/224/3221226257/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ MUSIX TAMIL
-http://125.17.105.168/PLTV/88888888/224/3221226238/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ MUSIX TELUGU
-http://125.17.105.168/PLTV/88888888/224/3221226256/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ NEWS KANNADA
-http://125.17.105.168/PLTV/88888888/224/3221226243/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ NEWS MALAYALAM
-http://125.17.105.168/PLTV/88888888/224/3221226259/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ NEWS TAMIL
-http://125.17.105.168/PLTV/88888888/224/3221226260/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ NEWS TELUGU
-http://125.17.105.168/PLTV/88888888/224/3221226254/01.m3u8
-#EXTINF:0, group-title="South Indian",RAJ TV
-http://125.17.105.168/PLTV/88888888/224/3221226220/01.m3u8
-#EXTINF:0, group-title="South Indian",SARV DHARAM SANGAM
-http://125.17.105.168/PLTV/88888888/224/3221226338/01.m3u8
-#EXTINF:0, group-title="South Indian",SATHIYAM TV
-http://125.17.105.168/PLTV/88888888/224/3221226340/01.m3u8
-#EXTINF:0, group-title="South Indian",SEITHIGAL 24X7
-http://125.17.105.168/PLTV/88888888/224/3221226318/01.m3u8
-#EXTINF:0, group-title="South Indian",SHIVA SHAKTHI SAI TV
-http://125.17.105.168/PLTV/88888888/224/3221226382/01.m3u8
-#EXTINF:0, group-title="South Indian",SIRIPPOLI
-http://125.17.105.168/PLTV/88888888/224/3221226221/01.m3u8
-#EXTINF:0, group-title="South Indian",SRI SANKARA
-http://125.17.105.168/PLTV/88888888/224/3221226320/01.m3u8
-#EXTINF:0, group-title="South Indian",SUBHAVAARTHA
-http://125.17.105.168/PLTV/88888888/224/3221226352/01.m3u8
-#EXTINF:0, group-title="South Indian",SUDARSHAN NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226380/01.m3u8
-#EXTINF:0, group-title="South Indian",SUN MUSIC
-http://125.17.105.168/PLTV/88888888/224/3221226137/01.m3u8
-#EXTINF:0, group-title="South Indian",SUN TV
-http://125.17.105.168/PLTV/88888888/224/3221226135/01.m3u8
-#EXTINF:0, group-title="South Indian",Super TV
-http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
-#EXTINF:0, group-title="South Indian",SURYA TV
-http://125.17.105.168/PLTV/88888888/224/3221226127/01.m3u8
-#EXTINF:0, group-title="South Indian",T NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226307/01.m3u8
-#EXTINF:0, group-title="South Indian",TAMILIAN TELEVISION
-http://125.17.105.168/PLTV/88888888/224/3221226342/01.m3u8
-#EXTINF:0, group-title="South Indian",TOTAL TV
-http://125.17.105.168/PLTV/88888888/224/3221226242/01.m3u8
-#EXTINF:0, group-title="South Indian",TV5 TELUGU
-http://125.17.105.168/PLTV/88888888/224/3221226350/01.m3u8
-#EXTINF:0, group-title="South Indian",TV9 Kannada
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8
-#EXTINF:0, group-title="South Indian",TV9 TELUGU NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226142/01.m3u8
-#EXTINF:0, group-title="South Indian",UDAYA COMEDY
-http://125.17.105.168/PLTV/88888888/224/3221226136/01.m3u8
-#EXTINF:0, group-title="South Indian",UDAYA MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226128/01.m3u8
-#EXTINF:0, group-title="South Indian",UDAYA MUSIC
-http://125.17.105.168/PLTV/88888888/224/3221226133/01.m3u8
-#EXTINF:0, group-title="South Indian",UDAYA TV
-http://125.17.105.168/PLTV/88888888/224/3221226134/01.m3u8
-#EXTINF:0, group-title="South Indian",Unitech TV
-http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:0, group-title="South Indian",V News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/01.m3u8
-#EXTINF:0, group-title="South Indian",V6 NEWS
-http://125.17.105.168/PLTV/88888888/224/3221226197/01.m3u8
-#EXTINF:0, group-title="South Indian",VAANAVIL TV
-http://125.17.105.168/PLTV/88888888/224/3221226244/01.m3u8
-#EXTINF:0, group-title="South Indian",VASANTH TV
-http://125.17.105.168/PLTV/88888888/224/3221226321/01.m3u8
-#EXTINF:0, group-title="South Indian",Vasantham TV
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:0, group-title="South Indian",Vendhar TV
-http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
-#EXTINF:0, group-title="South Indian",Yoga TV -Nityananda
-http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
-#EXTINF:0, group-title="South Indian",ZEE CINEMALU
-http://125.17.105.168/PLTV/88888888/224/3221226098/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Sarthak
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/01.m3u8
-#EXTINF:0, group-title="South Indian",ZEE TAMIL 
-http://125.17.105.168/PLTV/88888888/224/3221225929/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Telugu
-http://125.17.129.3/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
-#EXTINF:0, group-title="South Indian",Zee Telugu Cinema
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8
-#EXTINF:0, group-title="South Indian",Win TV
-http://wintv.live-s.cdn.bitgravity.com/cdn-live/_definst_/wintv/live/wintv.smil/playlist.m3u8
