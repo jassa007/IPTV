@@ -666,58 +666,58 @@ http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793							
 #EXTINF:0, group-title="Punjabi",Virsa Live
 http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8																								
-#EXTINF:0, group-title="Punjabi",TV 84 (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5156.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",9X Tashan (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5149.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Etc Punjabi (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5151.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Ankhila Punjab (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5119.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Britasia (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5146.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Channel Y (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5157.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Fateh TV (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5155.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Gaunda Punjab (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5147.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Jus 24X7 (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5131.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Jus One TV (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5130.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Jus Punjabi (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5129.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Mh1 News (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5137.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Mh1 Shraddha (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5165.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Mirror Punjab (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5132.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",OZ TV Channel (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/51648.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",PTC Chakde (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5128.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",PTC News UK (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5136.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",PTC News (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5135.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",PTC Punjabi UK (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5126.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",PTC Punjabi (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5125.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",RTV HD (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5122.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Sahib TV (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5178.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Sanjh TV (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5143.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Zee Punjabi UK (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5121.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Zee Punjabi (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5120.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
-#EXTINF:0, group-title="Punjabi",Zee PB HP HR (SS)
-http://streamxcode.ddns.net:25461/live/data2/ask132/5123.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
+#EXTINF:0, group-title="Punjabi",TV 84
+http://streamxcode.ddns.net:25461/live/psl/match/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",9X Tashan
+http://streamxcode.ddns.net:25461/live/psl/match/5149.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Etc Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5151.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Ankhila Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5119.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Britasia
+http://streamxcode.ddns.net:25461/live/psl/match/5146.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://streamxcode.ddns.net:25461/live/psl/match/5157.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Fateh TV
+http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5147.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Jus 24X7
+http://streamxcode.ddns.net:25461/live/psl/match/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Jus One TV
+http://streamxcode.ddns.net:25461/live/psl/match/5130.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Jus Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5129.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Mh1 News
+http://streamxcode.ddns.net:25461/live/psl/match/5137.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Mh1 Shraddha
+http://streamxcode.ddns.net:25461/live/psl/match/5165.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Mirror Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5132.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",OZ TV Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5648.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",PTC Chakde
+http://streamxcode.ddns.net:25461/live/psl/match/5128.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",PTC News UK
+http://streamxcode.ddns.net:25461/live/psl/match/5136.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",PTC News
+http://streamxcode.ddns.net:25461/live/psl/match/5135.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",PTC Punjabi UK
+http://streamxcode.ddns.net:25461/live/psl/match/5126.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5125.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",RTV HD
+http://streamxcode.ddns.net:25461/live/psl/match/5122.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Sahib TV
+http://streamxcode.ddns.net:25461/live/psl/match/5178.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Sanjh TV
+http://streamxcode.ddns.net:25461/live/psl/match/5143.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Zee Punjabi UK
+http://streamxcode.ddns.net:25461/live/psl/match/5121.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Zee Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5120.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+#EXTINF:0, group-title="Punjabi",Zee PB HP HR
+http://streamxcode.ddns.net:25461/live/psl/match/5123.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 
 #EXTINF:0, group-title="Tamil",Adithya TV
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Adithya_TV/Adithya_TV_800.m3u8
