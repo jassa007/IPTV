@@ -623,7 +623,7 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0, group-title="Punjabi	",Jhanjar Religious
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535555/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi	",Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8						
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8		
 #EXTINF:0, group-title="Punjabi",Kids Punjabi
 http://fastway.ddns.net:6421/fastway/live11/index.m3u8?token=fastwaytvstreams							
 #EXTINF:0, group-title="Punjabi",Life Punjabi
@@ -636,12 +636,12 @@ http://cdn.samtv.ca/mastitv/index.m3u8
 http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/01.m3u8							
 #EXTINF:0, group-title="Punjabi",NDA Channel
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8							
-#EXTINF:0, group-title="Punjabi",Only Music HD (Zenga)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/playlist.m3u8|referer=zengatvplayer.s3-website-ap-southeast-1							
+#EXTINF:0, group-title="Punjabi",Only Music HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Only_Music/Only_Music_800.m3u8						
 #EXTINF:0, group-title="Punjabi",PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8							
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/01.m3u8							
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pitaara/Pitaara_800.m3u8													
 #EXTINF:0, group-title="Punjabi",Punjabi TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8							
 #EXTINF:0, group-title="Punjabi",Prime Asia
@@ -649,7 +649,9 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8							
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
-http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8							
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sanjha TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sanjha_TV/Sanjha_TV_800.m3u8						
 #EXTINF:0, group-title="Punjabi",Sikh Channel
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams							
 #EXTINF:0, group-title="Punjabi",Shaan Punjabi
@@ -663,9 +665,7 @@ http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793							
 #EXTINF:0, group-title="Punjabi",Virsa Live
-http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8							
-#EXTINF:0, group-title="Punjabi",ZEE PUNJAB HARYANA HIMACHAL
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225923/01.m3u8																		
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8																								
 #EXTINF:0, group-title="Punjabi",TV 84 (SS)
 http://streamxcode.ddns.net:25461/live/data2/ask132/5156.ts|refferer=http://solidstreamz.com/&user-agent=ucho							
 #EXTINF:0, group-title="Punjabi",9X Tashan (SS)
