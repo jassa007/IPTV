@@ -665,8 +665,7 @@ http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793							
 #EXTINF:0, group-title="Punjabi",Virsa Live
-http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8																								
-#EXTINF:0, group-title="Punjabi",TV 84
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8																							#EXTINF:0, group-title="Punjabi",TV 84
 http://streamxcode.ddns.net:25461/live/psl/match/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 #EXTINF:0, group-title="Punjabi",9X Tashan
 http://streamxcode.ddns.net:25461/live/psl/match/5149.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
@@ -679,9 +678,7 @@ http://streamxcode.ddns.net:25461/live/psl/match/5146.ts|refferer=http://solidst
 #EXTINF:0, group-title="Punjabi",Channel Y
 http://streamxcode.ddns.net:25461/live/psl/match/5157.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 #EXTINF:0, group-title="Punjabi",Fateh TV
-http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
-#EXTINF:0, group-title="Punjabi",Gaunda Punjab
-http://streamxcode.ddns.net:25461/live/psl/match/5147.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
+http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl											
 #EXTINF:0, group-title="Punjabi",Jus 24X7
 http://streamxcode.ddns.net:25461/live/psl/match/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl						
 #EXTINF:0, group-title="Punjabi",Jus One TV
