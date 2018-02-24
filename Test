@@ -1,0 +1,33 @@
+ 
+#EXTM3U
+
+#EXTINF:0, group-title="English",Al Jazeera
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AL_Jazeera/AL_Jazeera_800.m3u8
+#EXTINF:0, group-title="English",Animal Planet (Eng)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_English/Animal_Planet_English_800.m3u8
+#EXTINF:0, group-title="English",Animal Planet HD World
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_HD/Animal_Planet_HD_800.m3u8
+#EXTINF:0, group-title="English",Arre
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Arre/Arre_800.m3u8
+#EXTINF:0, group-title="English",AXN HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
+#EXTINF:0, group-title="English",BBC World News
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BBC_World_News/BBC_World_News_800.m3u8
+#EXTINF:0, group-title="English",Brilliant Living TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
+#EXTINF:0, group-title="English",BTVi
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BTVi/BTVi_800.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8							
+#EXTINF:0, group-title="Punjabi",Aan News
+http://cdn.samtv.ca/anntv/index.m3u8							
+#EXTINF:0, group-title="Punjabi",Akaal
+http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8							
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8							
+#EXTINF:0, group-title="Punjabi",Aone Punjabi
+http://live.wmncdn.net/abr/797ce155156c55b75be98e9a764cefb7.m3u8							
+#EXTINF:0, group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8							
+#EXTINF:0, group-title="Punjabi",BnB
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8							
